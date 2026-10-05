@@ -1,0 +1,83 @@
+{
+  "image_id": "0494",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Sữa 97,22% (nước, sữa bột, chất béo sữa)",
+    "dầu thực vật",
+    "hỗn hợp vitamin và khoáng chất (C (Natri-L-ascorbat), E (DL-alpha-tocopheryl acetat), B5 (D-pantothenat), B3 (Nicotinamid), A (Retinyl acetat), B2 (Riboflavin), B6 (Pyridoxin hydroclorid), B1 (Thiamin mononitrat), B9 (Acid pteroymonoglutamic), K1 (Phytomenadion), D3 (Cholecalciferol), Biotin (D-Biotin), B12 (Cyanocobalamin), Magnesi oxyd, Sắt (III) pyrophosphat, Kẽm sulfat, Kali iodid)"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (471, 407, 401, 412, 452)",
+    "hương liệu (tổng hợp, giống tự nhiên, tự nhiên)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "133,8 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "6,6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "7 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "11,1 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "9,7 g"
+    },
+    {
+      "name": "Omega 3",
+      "value": "19,9 mg"
+    },
+    {
+      "name": "Omega 6",
+      "value": "411,4 mg"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "385,7 IU"
+    },
+    {
+      "name": "Vitamin D3",
+      "value": "71,5 IU"
+    },
+    {
+      "name": "Calci",
+      "value": "264,9 mg"
+    },
+    {
+      "name": "Natri",
+      "value": "70 mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "02/03/2026",
+  "expiry_date": "02/11/2026",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

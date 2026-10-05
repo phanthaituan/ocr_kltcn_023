@@ -1,0 +1,59 @@
+{
+  "image_id": "0111",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Gạo",
+    "nước",
+    "muối"
+  ],
+  "gold_additives_raw": [
+    "chất bảo quản E211"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng (Energy)",
+      "value": "100 - 160 kcal"
+    },
+    {
+      "name": "Chất đạm (Protein)",
+      "value": "2.3 - 2.9 g"
+    },
+    {
+      "name": "Chất bột đường (Carbohydrate)",
+      "value": "30.3 - 33.3 g"
+    },
+    {
+      "name": "Chất béo (Fat)",
+      "value": "< 0.6 g"
+    },
+    {
+      "name": "Natri (Sodium)",
+      "value": "256 - 306 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không dùng sản phẩm hư hỏng hoặc hết hạn sử dụng"
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì",
+  "expiry_date": "Xem trên bao bì",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

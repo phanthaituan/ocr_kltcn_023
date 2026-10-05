@@ -1,0 +1,57 @@
+{
+  "product_name": "Bánh gạo One One vị Phô mai ngô",
+  "ingredient": [
+    "Gạo Japonica 51%",
+    "dầu thực vật",
+    "đường",
+    "tinh bột khoai tây",
+    "bột gia vị phô mai ngô 6% (đường, bột kem, bột phô mai 15%, glucose, muối, hương tổng hợp, chất chống đông vón (551), chất điều vị (631, 627), dầu thực vật, chất tạo màu tự nhiên (100(ii), 160c(i)), chất tạo ngọt tổng hợp (951))",
+    "glucose",
+    "muối tinh"
+  ],
+  "additive": [
+    "hương tổng hợp",
+    "chất chống đông vón (551)",
+    "chất điều vị (631, 627)",
+    "chất tạo màu tự nhiên (100(ii), 160c(i))",
+    "chất tạo ngọt tổng hợp (951)",
+    "chất chống oxy hóa (319)",
+    "chất điều chỉnh độ acid (330)"
+  ],
+  "warning": [
+    "Sản phẩm có chứa: sữa",
+    "Sản phẩm có thể chứa: đậu nành",
+    "Gói hút ẩm đóng kèm trong túi: Không ăn được, để xa tầm tay trẻ em.",
+    "Không được mở, bỏ ngay vào thùng rác sau khi mở bao bì."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "241 Kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2.2 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "35.7 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "8.5 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "9.9 g"
+    },
+    {
+      "name": "Natri",
+      "value": "452 mg"
+    }
+  ],
+  "origin": "VIỆT NAM",
+  "net_weight": null,
+  "mfg_date": "In trên bao bì.",
+  "expiry_date": "In trên bao bì."
+}

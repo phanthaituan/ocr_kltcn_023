@@ -1,0 +1,57 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Gạo Japonica 55%",
+    "Dầu thực vật",
+    "Đường kính trắng",
+    "Xì dầu (Đậu nành, Lúa mì)",
+    "Mật ong 1.1%",
+    "Tinh bột biến tính"
+  ],
+  "additive": [
+    "Chất điều vị (621)"
+    ],
+  "warning": [
+  "Chất gây dị ứng có trong thành phần: Đậu nành, lúa mì.",
+  "Trong xưởng sản xuất sản phẩm này có sản xuất các sản phẩm có liên quan đến: sữa, tôm, cá.",
+  "Tiến bộ một của sản phẩm có thể xuất hiện chấm đen nhỏ, là hiện tượng tự nhiên trong quá trình chiên."
+],
+  "nutrition": [
+    {
+      "name": "Khẩu phần",
+      "value": "100g"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "577 kcal/100g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "38.5g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "17.5g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "53.0g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "10.3g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "4.5g"
+    },
+    {
+      "name": "Natri",
+      "value": "426mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

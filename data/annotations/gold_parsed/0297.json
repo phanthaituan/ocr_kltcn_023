@@ -1,0 +1,67 @@
+{
+  "image_id": "0297",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Cá Bóng 95%",
+    "(đường, muối) 5%"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng (Energy)",
+      "value": "311 kcal"
+    },
+    {
+      "name": "Chất đạm (Protein)",
+      "value": "39.5 g"
+    },
+    {
+      "name": "Carbohydrat (Carbohydrate)",
+      "value": "35.9 g"
+    },
+    {
+      "name": "Chất béo (Fat)",
+      "value": "1.02 g"
+    },
+    {
+      "name": "Natri (Sodium)",
+      "value": "2193 mg"
+    },
+    {
+      "name": "Đường tổng số (Total sugars)",
+      "value": "22.8 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm nếu dị ứng với các thành phần có trong sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [
+      "cá"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "cá"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam.",
+  "net_weight": "70 g",
+  "mfg_date": "Xem trên bao bì",
+  "expiry_date": "12 tháng kể từ ngày sản xuất.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

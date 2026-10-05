@@ -1,0 +1,81 @@
+{
+  "product_name": null,
+  "ingredient": [
+  "Sữa (94,42%) (nước, sữa bột, chất béo sữa)",
+  "đường (2,8%)",
+  "dầu thực vật",
+  "hỗn hợp vitamin và khoáng chất",
+  "Vitamin C (Natri-L-ascorbat)",
+  "Vitamin B5 (D-pantothenat calci)",
+  "Vitamin B3 (Nicotinamid)",
+  "Vitamin A (Retinyl acetat)",
+  "Vitamin B2 (Riboflavin)",
+  "Vitamin B6 (Pyridoxin hydrochlorid)",
+  "Vitamin B1 (Thiamin mononitrat)",
+  "Vitamin B9 (Acid pteroylmonoglutamic)",
+  "Vitamin K1 (Phytomenadion)",
+  "Vitamin D3 (Cholecalciferol)",
+  "Biotin (D-Biotin)",
+  "Vitamin E (DL-alpha-tocopheryl acetat)",
+  "Vitamin B12 (Cyanocobalamin)",
+  "Magnesi oxyd",
+  "Sắt (III) pyrophosphat",
+  "Kẽm sulfat",
+  "Kali iodid"
+],
+  "additive": [
+  "chất ổn định (471, 407, 401, 412, 452(i))",
+  "hương liệu (tổng hợp, giống tự nhiên, tự nhiên) dùng cho thực phẩm"
+],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "160,2 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "6,6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "7 g"
+    },
+    {
+      "name": "Carbonhydrat",
+      "value": "17,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "16,9 g"
+    },
+    {
+      "name": "Omega 3",
+      "value": "19,8 mg"
+    },
+    {
+      "name": "Omega 6",
+      "value": "400,4 mg"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "385,7 IU"
+    },
+    {
+      "name": "Vitamin D3",
+      "value": "71,5 IU"
+    },
+    {
+      "name": "Calci",
+      "value": "264,9 mg"
+    },
+    {
+      "name": "Natri",
+      "value": "83,6 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+   "mfg_date": "02/03/26",
+   "expiry_date": "02/11/26"
+}

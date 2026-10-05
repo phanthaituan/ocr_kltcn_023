@@ -1,0 +1,77 @@
+{
+  "product_name": "Sữa bò hữu cơ socola ít béo Koita",
+  "ingredient": [
+    "Sữa bò hữu cơ ít béo (90%)",
+    "đường nâu hữu cơ (6,8%)",
+    "ca cao hữu cơ (3%)",
+    "vitamin A",
+    "vitamin D3",
+    "1,55% chất béo sữa",
+    "tối thiểu 8,5% sữa khô tách béo"
+  ],
+  "additive": [
+    "hương liệu socola tự nhiên"
+  ],
+  "warning": [
+    "Có chứa sữa và các thành phần sản phẩm (có bao gồm lactose).",
+    "Không thích hợp cho trẻ sơ sinh trừ khi có chỉ định của bác sỹ."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "81 calories (4%)"
+    },
+    {
+      "name": "tổng chất béo",
+      "value": "2,1g (3%)"
+    },
+    {
+      "name": "chất béo bão hòa",
+      "value": "1,4g (7%)"
+    },
+    {
+      "name": "chất béo chuyển hóa",
+      "value": "< 0,1g"
+    },
+    {
+      "name": "cholesterol",
+      "value": "6,5mg (2%)"
+    },
+    {
+      "name": "natri",
+      "value": "40mg (2%)"
+    },
+    {
+      "name": "carbohydrate",
+      "value": "12g (5%)"
+    },
+    {
+      "name": "chất xơ",
+      "value": "0,8g (3%)"
+    },
+    {
+      "name": "tổng đường",
+      "value": "11g bao gồm 6,8g đường thêm vào (14%)"
+    },
+    {
+      "name": "chất đạm",
+      "value": "3,5g (7%)"
+    },
+    {
+      "name": "canxi",
+      "value": "102mg (10%)"
+    },
+    {
+      "name": "vitamin A",
+      "value": "60µg (8%)"
+    },
+    {
+      "name": "vitamin D3",
+      "value": "0,88µg (6%)"
+    }
+  ],
+  "origin": "Ý",
+  "net_weight": "200ml/hộp",
+  "mfg_date": "Xem mục “produced on” trên bao bì sản phẩm.",
+  "expiry_date": "Xem mục “best before” trên bao bì sản phẩm"
+}

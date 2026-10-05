@@ -1,0 +1,55 @@
+{
+  "product_name": "Cá Viên Ngon",
+  "ingredient": [
+    "Cá tra 85%",
+    "đường",
+    "gluten lúa mì",
+    "hành tím",
+    "muối",
+    "surimi hỗn hợp 1% (cá đồng, cá mối)",
+    "tỏi",
+    "bột gia vị thịt heo",
+    "D-xylose"
+  ],
+  "additive": [
+    "chất ổn định [1412, 450(iii)]",
+    "chất điều vị (621, 635)",
+    "chất bảo quản (200)"
+  ],
+  "warning": [
+    "Có chứa cá, lúa mì (gluten), trứng, đậu nành, sữa.",
+    "Được sản xuất chung dây chuyền sản xuất các sản phẩm có chứa giáp xác, động vật thân mềm.",
+    "Sau khi mở bao bì phải được lưu trữ trong ngăn mát tủ lạnh.",
+    "Thời gian tối đa không quá 24 giờ."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "190 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "11,9 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "6,8 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "2,15 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "12,4 g"
+    },
+    {
+      "name": "Natri",
+      "value": "700 mg"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam.",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì."
+}

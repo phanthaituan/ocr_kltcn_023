@@ -1,0 +1,86 @@
+{
+  "image_id": "0080",
+  "product_name": "LƯƠN SỐT TERIYAKI",
+  "gold_ingredients_raw": [
+    "Lươn (75 %)",
+    "nước",
+    "sirup ngô",
+    "đường",
+    "dầu đậu nành",
+    "nước tương lên men",
+    "Knorr hạt nêm thịt thăn, xương ống & tủy",
+    "giấm gạo",
+    "Nước xốt Hinode Mirin Sweet Cooking Sauce",
+    "Chiết xuất nấm men",
+    "maltodextrin",
+    "muối",
+    "đường glucose"
+  ],
+  "gold_additives_raw": [
+    "chất điều vị (INS 621, INS 627, INS 631, INS 635)",
+    "chất ổn định (INS 1422)",
+    "chất làm dày (INS 415)",
+    "hương liệu tổng hợp (hương teriyaki)",
+    "chất tạo màu (INS 150c) tổng hợp",
+    "chất tạo màu (gạo men đỏ) tự nhiên",
+    "chất bảo quản (INS 202)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "KHẨU PHẦN",
+      "value": "(100g)"
+    },
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "220"
+    },
+    {
+      "name": "CHẤT BÉO",
+      "value": "8.07g"
+    },
+    {
+      "name": "NATRI",
+      "value": "1155mg"
+    },
+    {
+      "name": "CARBOHYDRAT",
+      "value": "9.7g"
+    },
+    {
+      "name": "CHẤT ĐẠM",
+      "value": "27.1g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG",
+      "value": "8.69g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm khi có dấu hiệu hư hỏng hoặc hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "15/12/2025",
+  "expiry_date": "15/12/2026",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

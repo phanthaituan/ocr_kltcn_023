@@ -1,0 +1,55 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Tinh bột sắn",
+    "chả cua (4.18% : cá, thịt, gà, mỡ heo, bột cua (7%), đạm thịt, chiết xuất nấm men, monoq glutamat (621), đạm đậu nành, dầu thực vật (vitamin E), màu paprika tự nhiên, chất tạo màu tổng hợp (carmin (120)))",
+    "trứng",
+    "bắp",
+    "hành hương",
+    "ngò rí",
+    "chiết xuất hải sản",
+    "muối",
+    "đường",
+    "bột gia vị",
+    "tiêu",
+    "aminotide"
+  ],
+  "additive": [
+    "mononatri glutamat (621)",
+    "dầu thực vật (vitamin E)",
+    "chất tạo màu tổng hợp (carmin (120))",
+    "hương gà luộc",
+    "chất làm dày (gôm Arabic (414))"
+  ],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Calories",
+      "value": "350 kcal"
+    },
+    {
+      "name": "Total Fat",
+      "value": "5.5 g"
+    },
+    {
+      "name": "Total Carbohydrate",
+      "value": "55 g"
+    },
+    {
+      "name": "Protein",
+      "value": "17 g"
+    },
+    {
+      "name": "Calcium",
+      "value": "140 mg"
+    },
+    {
+      "name": "Iron",
+      "value": "1.8 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

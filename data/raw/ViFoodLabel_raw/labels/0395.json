@@ -1,0 +1,53 @@
+{
+  "product_name": "KẸO DẺO BOOM VỊ NHO",
+  "ingredient": [
+    "ĐƯỜNG",
+    "MẠCH NHA MALTTOSE",
+    "GELATIN",
+    "NƯỚC ÉP NHO CÔ ĐẶC (5,0%)",
+    "NƯỚC ÉP CÀ RỐT ĐEN CÔ ĐẶC"
+  ],
+  "additive": [
+    "CHẤT LÀM DÀY (1200, 1442, 440)",
+    "CHẤT ĐIỀU CHỈNH ĐỘ ACID (330, 334, 296)",
+    "HƯƠNG LIỆU TỔNG HỢP (NHO)",
+    "CHẤT LÀM BÓNG (903, 901)"
+  ],
+  "warning": [
+    "TRẺ EM CẦN CÓ SỰ GIÁM SÁT CỦA NGƯỜI LỚN KHI ĂN."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "90 kcal"
+    },
+    {
+      "name": "Tổng carbohydrate",
+      "value": "20 g"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "17 g"
+    },
+    {
+      "name": "Đường thêm vào",
+      "value": "17 g"
+    },
+    {
+      "name": "Tổng chất béo",
+      "value": "0 g"
+    },
+    {
+      "name": "Natri",
+      "value": "0 mg"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2 g"
+    }
+  ],
+  "origin": null,
+  "net_weight": "25 g",
+  "mfg_date": null,
+  "expiry_date": null
+}

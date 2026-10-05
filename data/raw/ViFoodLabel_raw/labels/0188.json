@@ -1,0 +1,47 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước dừa tươi (98%)",
+    "đường"
+  ],
+  "additive": [
+    "hương liệu tự nhiên",
+    "chất chống oxy hóa (300)",
+    "chất điều chỉnh độ acid (330)"
+  ],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "15,2 kcal"
+    },
+    {
+      "name": "CARBOHYDRAT",
+      "value": "3,8 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ",
+      "value": "3,6 g"
+    },
+    {
+      "name": "ĐƯỜNG BỔ SUNG THÊM",
+      "value": "1,6 g"
+    },
+    {
+      "name": "CHẤT ĐẠM",
+      "value": "<0,5 g"
+    },
+    {
+      "name": "CHẤT BÉO",
+      "value": "<0,5 g"
+    },
+    {
+      "name": "NATRI",
+      "value": "15,7 mg"
+    }
+  ],
+  "origin": "Sản phẩm của Công ty CP Sữa Việt Nam.\nSản xuất tại Việt Nam/ Made in Vietnam.",
+  "net_weight": null,
+  "mfg_date": "12 tháng trước HSD",
+  "expiry_date": "Xem trên hộp"
+}

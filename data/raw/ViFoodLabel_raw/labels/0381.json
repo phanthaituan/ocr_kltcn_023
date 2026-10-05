@@ -1,0 +1,72 @@
+{
+  "product_name": "DelPie Marshmallow Cream Pie",
+  "ingredient": [],
+  "additive": [],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Calories/Năng lượng",
+      "value": "80"
+    },
+    {
+      "name": "Total Fat/Tổng chất béo",
+      "value": "3.5g"
+    },
+    {
+      "name": "Saturated Fat/Chất béo bão hòa",
+      "value": "2.5g"
+    },
+    {
+      "name": "Trans fat/Chất béo chuyển hóa",
+      "value": "0g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "10mg"
+    },
+    {
+      "name": "Sodium/ Natri",
+      "value": "55mg"
+    },
+    {
+      "name": "Total Carbohydrate/ Tổng Carbohydrate",
+      "value": "11g"
+    },
+    {
+      "name": "Dietary Fiber/ Chất xơ",
+      "value": "0g"
+    },
+    {
+      "name": "Total Sugars/ Đường tổng",
+      "value": "7g"
+    },
+    {
+      "name": "Includes 4g Added Sugars/ Đường thêm vào",
+      "value": "4g"
+    },
+    {
+      "name": "Protein/ Chất đạm",
+      "value": "less than 1g"
+    },
+    {
+      "name": "Vitamin D",
+      "value": "0mcg"
+    },
+    {
+      "name": "Calcium/ Canxi",
+      "value": "10mg"
+    },
+    {
+      "name": "Iron/ Sắt",
+      "value": "0.1mg"
+    },
+    {
+      "name": "Potassium/ Kali",
+      "value": "10mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

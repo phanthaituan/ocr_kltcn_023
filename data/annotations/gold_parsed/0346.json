@@ -1,0 +1,93 @@
+{
+  "image_id": "0346",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Nước hầm xương (nước, xương cá hồi)",
+    "gạo tấm 10%",
+    "thịt tôm 6%",
+    "rau ngót 1%",
+    "trứng gà 1%",
+    "dầu thực vật",
+    "hành lá",
+    "gấc",
+    "muối",
+    "đường",
+    "Cancium carbonate",
+    "Vitamin B1 (Thiamine Mononitrate)",
+    "Vitamin B6 (Pyridoxine Hydrochloride)",
+    "Folic Acid (N-Pteroyl-L-glutamic Acid)",
+    "chất xơ hòa tan dạng FOS 0,2%",
+    "DHA (Docosahexaenoic Acid) 0,025%"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "Kcal/240g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "g/240g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "g/240g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "g/240g"
+    },
+    {
+      "name": "Natri",
+      "value": "mg/240g"
+    },
+    {
+      "name": "Canxi",
+      "value": "µg/240g"
+    },
+    {
+      "name": "Folic Acid",
+      "value": "µg/240g"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "µg/240g"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "µg/240g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không được trực tiếp sản phẩm còn nguyên bao bì vào lò vi sóng.",
+    "Không sử dụng sản phẩm nếu bao bì có dấu hiệu bị rách hoặc bị phồng.",
+    "Sản phẩm này phù hợp cho trẻ từ 7 tháng tuổi trở lên và người lớn."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "desiccant_or_misc": 1,
+      "expiry_usage": 1,
+      "child_supervision": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

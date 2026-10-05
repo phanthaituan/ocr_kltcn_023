@@ -1,0 +1,97 @@
+{
+  "image_id": "0416",
+  "product_name": "BÁNH KARO GẤU SỢI GÀ",
+  "gold_ingredients_raw": [
+    "Trứng gà tươi (24,3%)",
+    "Bột mì",
+    "Đường",
+    "Dầu thực vật",
+    "Chà bông gà (10,3%)",
+    "Shortening",
+    "Mạch nha",
+    "Muối",
+    "Cồn thực phẩm"
+  ],
+  "gold_additives_raw": [
+    "Chất làm ẩm (420(ii), 422)",
+    "Chất nhũ hoá (471, 1520, 322(i), 475, 477, 472e, 415, 491, 470(i))",
+    "Chất tạo xốp (500(ii), 450(i))",
+    "Chất điều chỉnh độ acid (330, 341(ii), 341(i), 524)",
+    "Chất bảo quản (202, 282)",
+    "Chất tạo màu tổng hợp (160a(i))",
+    "Chất ổn định (509)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "438 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "9,31 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "44,54 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "26,9 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "24,6 g"
+    },
+    {
+      "name": "Natri",
+      "value": "543 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Bên trong có khí Nitơ để bảo quản.",
+    "Không sử dụng sản phẩm đã hết hạn.",
+    "Thành phần sản phẩm có chứa: Lúa mì, trứng, cá, đậu nành. Sản phẩm có thể chứa sữa, mè, hạnh nhân, động vật giáp xác."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "hạt_cây",
+      "hạt_vừng",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ]
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "hạt_cây",
+      "hạt_vừng",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "storage_instruction": 1,
+      "expiry_usage": 1,
+      "named_allergy": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": "100 g (5 gói x 20 g)",
+  "mfg_date": "45 ngày trước hạn sử dụng.",
+  "expiry_date": "Xem trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

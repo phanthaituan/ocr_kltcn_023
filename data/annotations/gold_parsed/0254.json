@@ -1,0 +1,103 @@
+{
+  "image_id": "0254",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Nước",
+    "quả ổi [27%]",
+    "đường mía",
+    "chanh [3%]",
+    "sơ ri [2%]",
+    "Từ 97g trái cây tươi trong 100ml nectar."
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "100"
+    },
+    {
+      "name": "Chất béo toàn phần",
+      "value": "0g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "0g"
+    },
+    {
+      "name": "Chất béo trans",
+      "value": "0g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0mg"
+    },
+    {
+      "name": "Na-tri",
+      "value": "0mg"
+    },
+    {
+      "name": "Carbohydrate toàn phần",
+      "value": "25g"
+    },
+    {
+      "name": "Chất xơ",
+      "value": "0g"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "24g"
+    },
+    {
+      "name": "Đường thêm vào",
+      "value": "12g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0g"
+    },
+    {
+      "name": "Vitamin D",
+      "value": "0mcg"
+    },
+    {
+      "name": "Sắt",
+      "value": "0.00mg"
+    },
+    {
+      "name": "Vitamin C",
+      "value": "70%"
+    },
+    {
+      "name": "Can-xi",
+      "value": "5.10mg"
+    },
+    {
+      "name": "Ka-li",
+      "value": "100mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

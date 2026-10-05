@@ -1,0 +1,68 @@
+{
+  "image_id": "0028",
+  "product_name": "SÔ CÔ LA CÀ PHÊ",
+  "gold_ingredients_raw": [
+    "Đường",
+    "dầu thực vật từ trái ca cao",
+    "bột ca cao",
+    "cà phê"
+  ],
+  "gold_additives_raw": [
+    "chất nhũ hóa (E322)",
+    "hương liệu tự nhiên"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "560 kcal"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "52 g"
+    },
+    {
+      "name": "Béo tổng",
+      "value": "37,1 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "4,51 g"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "43,7 g"
+    },
+    {
+      "name": "Natri",
+      "value": "4,96 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không dùng sản phẩm khi đã hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Vietnam",
+  "net_weight": null,
+  "mfg_date": "18/05/2026",
+  "expiry_date": "18/05/2027",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

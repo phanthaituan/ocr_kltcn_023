@@ -1,0 +1,40 @@
+{
+  "product_name": null,
+  "ingredient": [],
+  "additive": [],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "212 Kcal"
+    },
+    {
+      "name": "Tổng chất béo",
+      "value": "17.5 g 31%"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0 mg"
+    },
+    {
+      "name": "Natri",
+      "value": "96 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "6 g"
+    },
+    {
+      "name": "Tổng đường",
+      "value": "3.7 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "7.5 g 15%"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

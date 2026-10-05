@@ -1,0 +1,68 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước",
+    "Nước ép trái cây nguyên chất (30 g/L)",
+    "Đường kính luyện",
+    "Đường fructose",
+    "Thạch dừa (5%) (thạch dừa, đường, chất điều chỉnh độ acid (INS 330))",
+    "Bột sữa (20 g/L)",
+    "Chất béo thực vật",
+    "Vitamin và khoáng chất (A, B1, B6, kẽm lactat)",
+    "Beta glucan"
+  ],
+  "additive": [
+    "Chất điều chỉnh độ acid (INS 330)",
+    "Chất ổn định (INS 466, INS 418)",
+    "Chất điều chỉnh độ acid (INS 330, INS 270)",
+    "Hương liệu tổng hợp (hương cốm)",
+    "Phẩm màu tự nhiên (INS 160b(ii))",
+    "Chất tạo ngọt tự nhiên (steviol glycoside từ stevia)"
+  ],
+  "warning": [
+    "Sản phẩm có chứa sữa, thạch dừa.",
+    "Miếng thạch dừa nhỏ, cẩn thận tránh gây hóc, đặc biệt ở trẻ em."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "113 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,2 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0,5 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "25,8 g"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "170 IU"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "255 µg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "306 µg"
+    },
+    {
+      "name": "Kẽm",
+      "value": "561 µg"
+    },
+    {
+      "name": "Beta glucan",
+      "value": "6 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên hộp.",
+  "expiry_date": "Xem trên hộp."
+}

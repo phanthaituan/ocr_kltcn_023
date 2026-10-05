@@ -1,0 +1,107 @@
+{
+  "image_id": "0197",
+  "product_name": "BÁNH QUY YẾN MẠCH SÔCÔLA",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "yến mạch (19,8%)",
+    "hạt sôcôla (14,6%) (đường, bột cacao, cacao khối, bơ cacao)",
+    "đường",
+    "chất béo thực vật (dầu cọ)",
+    "mạch nha",
+    "bột cacao (2,7%)",
+    "muối",
+    "hạt phỉ"
+  ],
+  "gold_additives_raw": [
+    "chất nhũ hóa (322(i), 476)",
+    "chất ổn định (492)",
+    "hương liệu tổng hợp",
+    "chất tạo xốp (500(ii), 503(ii), 450(i))",
+    "chất nhũ hóa (322(i))",
+    "chất bổ sung (calci carbonat)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Energy/Năng lượng",
+      "value": "508 kJ (121 kcal)"
+    },
+    {
+      "name": "Protein/Chất đạm",
+      "value": "2.1 g"
+    },
+    {
+      "name": "Total fat/Chất béo",
+      "value": "4.4 g"
+    },
+    {
+      "name": "Saturated fat/Chất béo bão hòa",
+      "value": "2.3 g"
+    },
+    {
+      "name": "Trans fat/Chất béo trans",
+      "value": "0.0 g"
+    },
+    {
+      "name": "Cholesterol/Cholesterol",
+      "value": "0 mg"
+    },
+    {
+      "name": "Carbohydrate/Carbohydrat",
+      "value": "18 g"
+    },
+    {
+      "name": "Total sugars/Đường tổng số",
+      "value": "6.9 g"
+    },
+    {
+      "name": "Dietary fibre/Chất xơ",
+      "value": "1.3 g"
+    },
+    {
+      "name": "Sodium/Natri",
+      "value": "65 mg"
+    },
+    {
+      "name": "Calcium/Canxi",
+      "value": "106 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm chứa bột mì, đậu nành, các loại hạt.",
+    "Có thể có chứa sữa và đậu phộng vì được sản xuất tại nhà máy có sử dụng nguyên liệu sữa và đậu phộng.",
+    "Đối tượng sử dụng: 2 tuổi trở lên."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2,
+      "child_supervision": 1
+    }
+  },
+  "origin": "Malaysia",
+  "net_weight": "156 g (6 gói x 26 g)",
+  "mfg_date": "xem “PROD” trên bao bì",
+  "expiry_date": "xem “EXP” trên bao bì",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

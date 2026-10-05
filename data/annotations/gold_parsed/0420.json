@@ -1,0 +1,71 @@
+{
+  "image_id": "0420",
+  "product_name": "Khô Bò 3 Trong 1",
+  "gold_ingredients_raw": [
+    "95% Thịt bò nhập khẩu từ Úc",
+    "5% gia vị (đường, muối, ớt, tỏi, sả, cà ri, ngũ vị hương)"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "370 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "33.4 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "53.4 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "41.4 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "2.51 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "1.22 g"
+    },
+    {
+      "name": "Natri",
+      "value": "1308 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng cho người dị ứng hoặc mẫn cảm với các thành phần trên.",
+    "Không sử dụng sản phẩm khi đã hết hạn sử dụng.",
+    "Trong sản phẩm có gói hút ẩm không ăn được."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1,
+      "expiry_usage": 1,
+      "desiccant_or_misc": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "200 g",
+  "mfg_date": "9 tháng trước hạn sử dụng (HSD)",
+  "expiry_date": "02/11/26",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

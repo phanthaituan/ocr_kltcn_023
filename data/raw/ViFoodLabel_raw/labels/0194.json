@@ -1,0 +1,244 @@
+{
+  "product_name": null,
+  "ingredient": [],
+  "additive": [],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "90,9 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3,50 g"
+    },
+    {
+      "name": "Lysin",
+      "value": "245 mg"
+    },
+    {
+      "name": "Leucin",
+      "value": "306 mg"
+    },
+    {
+      "name": "Isoleucin",
+      "value": "173 mg"
+    },
+    {
+      "name": "Valin",
+      "value": "197 mg"
+    },
+    {
+      "name": "Arginin",
+      "value": "120 mg"
+    },
+    {
+      "name": "Histidin",
+      "value": "92,5 mg"
+    },
+    {
+      "name": "Phenylalanin",
+      "value": "163 mg"
+    },
+    {
+      "name": "Tyrosin",
+      "value": "127 mg"
+    },
+    {
+      "name": "Threonin",
+      "value": "150 mg"
+    },
+    {
+      "name": "Methionin",
+      "value": "94,0 mg"
+    },
+    {
+      "name": "Tryptophan",
+      "value": "47,0 mg"
+    },
+    {
+      "name": "Cystin",
+      "value": "32,9 mg"
+    },
+    {
+      "name": "Axit glutamic",
+      "value": "629 mg"
+    },
+    {
+      "name": "Axit aspartic",
+      "value": "254 mg"
+    },
+    {
+      "name": "Glycin",
+      "value": "64,5 mg"
+    },
+    {
+      "name": "Alanin",
+      "value": "112 mg"
+    },
+    {
+      "name": "Prolin",
+      "value": "329 mg"
+    },
+    {
+      "name": "Serin",
+      "value": "184 mg"
+    },
+    {
+      "name": "Chất béo",
+      "value": "3,58 g"
+    },
+    {
+      "name": "LA (Axit linoleic)",
+      "value": "205 mg"
+    },
+    {
+      "name": "ALA (Axit alpha-linolenic)",
+      "value": "16,3 mg"
+    },
+    {
+      "name": "Omega 3",
+      "value": "29,9 mg"
+    },
+    {
+      "name": "DHA",
+      "value": "3,28 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "11,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "9,91 g"
+    },
+    {
+      "name": "Chất xơ hòa tan (FOS/Inulin)",
+      "value": "0,67 g"
+    },
+    {
+      "name": "HMO (2'-FL)",
+      "value": "35 mg"
+    },
+    {
+      "name": "Cholin",
+      "value": "48 mg"
+    },
+    {
+      "name": "Taurin",
+      "value": "7,0 mg"
+    },
+    {
+      "name": "Nucleotid",
+      "value": "1,27 mg"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "535 IU"
+    },
+    {
+      "name": "Vitamin D3",
+      "value": "16,9 IU"
+    },
+    {
+      "name": "Vitamin E",
+      "value": "3,32 IU"
+    },
+    {
+      "name": "Vitamin K1",
+      "value": "3,45 µg"
+    },
+    {
+      "name": "Vitamin K2",
+      "value": "3,96 µg"
+    },
+    {
+      "name": "Vitamin C",
+      "value": "26,1 mg"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "182 µg"
+    },
+    {
+      "name": "Vitamin B2",
+      "value": "389 µg"
+    },
+    {
+      "name": "Niacin",
+      "value": "1739 µg"
+    },
+    {
+      "name": "Axit pantothenic",
+      "value": "603 µg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "147 µg"
+    },
+    {
+      "name": "Axit folic",
+      "value": "48,5 µg"
+    },
+    {
+      "name": "Vitamin B12",
+      "value": "0,49 µg"
+    },
+    {
+      "name": "Biotin",
+      "value": "4,1 µg"
+    },
+    {
+      "name": "Natri",
+      "value": "42,7 mg"
+    },
+    {
+      "name": "Kali",
+      "value": "157 mg"
+    },
+    {
+      "name": "Clo",
+      "value": "109 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "160 mg"
+    },
+    {
+      "name": "Phốt pho",
+      "value": "99,1 mg"
+    },
+    {
+      "name": "Magiê",
+      "value": "20,1 mg"
+    },
+    {
+      "name": "Kẽm",
+      "value": "2,25 mg"
+    },
+    {
+      "name": "Mangan",
+      "value": "98,2 µg"
+    },
+    {
+      "name": "Đồng",
+      "value": "18,2 µg"
+    },
+    {
+      "name": "I-ốt",
+      "value": "19,4 µg"
+    },
+    {
+      "name": "Selen",
+      "value": "4,73 µg"
+    },
+    {
+      "name": "Crôm",
+      "value": "3,99 µg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

@@ -1,0 +1,75 @@
+{
+  "product_name": "Mì ly ăn liền",
+  "ingredient": [
+    "Bột mì",
+    "dầu thực vật tinh luyện",
+    "muối",
+    "đường",
+    "bột tôm (19 g / 1000 g)",
+    "ớt",
+    "dịch đạm tôm",
+    "bắp sấy",
+    "hành lá sấy",
+    "nước sấy",
+    "bột bèo thực vật",
+    "bột nghệ"
+  ],
+  "additive": [
+    "chất làm dày (INS 1420, INS 451(i))",
+    "chất điều vị (INS 621, INS 627, INS 631)",
+    "chất tạo xốp (INS 452(i), INS 500(i), INS 500(ii))",
+    "chất ổn định (INS 466, INS 405, INS 501(i))",
+    "chất nhũ hóa (INS 322(i), INS 471, INS 475)",
+    "phẩm màu tự nhiên (INS 160b(i), INS 101(iii))",
+    "chất chống oxy hóa (INS 320, INS 321)",
+    "chất điều chỉnh độ acid (INS 330)",
+    "chất điều vị (INS 621, INS 627, INS 631, INS 364(ii))",
+    "hương liệu tổng hợp (hương tiêu)",
+    "chất điều chỉnh độ acid (INS 330, INS 296, INS 260)",
+    "hương liệu tổng hợp (hương chanh)",
+    "hương liệu tổng hợp (hương rau)",
+    "hương liệu tổng hợp (hương hành)",
+    "chất chống đông vón (INS 551)",
+    "chất tạo ngọt tổng hợp (INS 951)",
+    "chất chống oxy hóa (INS 321)"
+  ],
+  "warning": [
+    "Sản phẩm chứa các nguyên liệu có nguồn gốc từ lúa mì, đậu nành, thủy sản, sữa.",
+    "Không dùng sản phẩm hết hạn sử dụng.",
+    "Không sử dụng đối với người có khả năng mẫn cảm hoặc dị ứng với các thành phần trong sản phẩm."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "411,0 Kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "11,5 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "59,3 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "1,5 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "13,2 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "7,3 g"
+    },
+    {
+      "name": "Natri",
+      "value": "2800 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "65 g",
+  "mfg_date": "Xem trên bao bì",
+  "expiry_date": "7 tháng kể từ ngày sản xuất"
+}

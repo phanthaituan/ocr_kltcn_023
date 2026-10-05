@@ -1,0 +1,83 @@
+{
+  "image_id": "0570",
+  "product_name": "TRÀ SỮA PHÔ MAI",
+  "gold_ingredients_raw": [
+    "Trà Sữa Phô mai: Đường",
+    "bột kem béo thực vật (Đường glucose, dầu thực vật/dầu cọ hydro hóa, đạm sữa, bột sữa, chất ổn định (340(ii), 452(i)), chất nhũ hóa (471, 472e), chất chống đông vón (551), hương liệu vani giống tự nhiên)",
+    "bột sữa nguyên kem (5%)",
+    "chiết xuất trà đen (3%)",
+    "bột phô mai (1%)",
+    "muối",
+    "Trân châu pha lê hương Phô mai: Nước",
+    "đường",
+    "fructose"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (340(ii), 452(i))",
+    "chất nhũ hóa (471, 472e)",
+    "chất chống đông vón (551)",
+    "hương liệu vani giống tự nhiên",
+    "hương liệu phô mai giống tự nhiên",
+    "chất ổn định (407, 425, 410, 418)",
+    "chất điều chỉnh độ acid (327)",
+    "hương liệu phô mai tổng hợp (1%)",
+    "phẩm màu tổng hợp (160a(i))",
+    "chất bảo quản (202, 211)",
+    "chất tạo ngọt tổng hợp (950)",
+    "chất chống oxy hóa (301)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "117 kcal (1 gói trà sữa 25 g); 25 kcal (1 gói trân châu 30 g)"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0,73 g (1 gói trà sữa 25 g); 0,04 g (1 gói trân châu 30 g)"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "18,62 g (1 gói trà sữa 25 g); 5,82 g (1 gói trân châu 30 g)"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "14,93 g (1 gói trà sữa 25 g); 5,81 g (1 gói trân châu 30 g)"
+    },
+    {
+      "name": "Chất béo",
+      "value": "4,35 g (1 gói trà sữa 25 g); 0,21 g (1 gói trân châu 30 g)"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "3,56 g (1 gói trà sữa 25 g); - g (1 gói trân châu 30 g)"
+    },
+    {
+      "name": "Natri",
+      "value": "41,75 mg (1 gói trà sữa 25 g); 12,30 mg (1 gói trân châu 30 g)"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

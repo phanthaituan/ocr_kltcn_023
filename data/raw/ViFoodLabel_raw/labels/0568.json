@@ -1,0 +1,82 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Hoàn toàn từ sữa bò tươi (100%)."
+  ],
+  "additive": [],
+  "warning": [
+    "Có chứa sữa.",
+    "Không sử dụng cho người mẫn cảm với thành phần của sản phẩm.",
+    "Sử dụng cho trẻ từ 1 tuổi trở lên."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "68 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3.5 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "4,0 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "4,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "4,6 g"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "110 IU"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "18 µg"
+    },
+    {
+      "name": "Vitamin B2",
+      "value": "150 µg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "30 µg"
+    },
+    {
+      "name": "Biotin",
+      "value": "4,5 µg"
+    },
+    {
+      "name": "Natri",
+      "value": "40 mg"
+    },
+    {
+      "name": "Calci",
+      "value": "110 mg"
+    },
+    {
+      "name": "Phospho",
+      "value": "95 mg"
+    },
+    {
+      "name": "Magnesi",
+      "value": "8,0 mg"
+    },
+    {
+      "name": "Kẽm",
+      "value": "320 µg"
+    },
+    {
+      "name": "Iod",
+      "value": "10 µg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": "Xem trên hộp.",
+  "expiry_date": "Xem trên hộp."
+}

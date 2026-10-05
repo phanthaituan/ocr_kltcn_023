@@ -1,0 +1,70 @@
+{
+  "product_name": "Bánh quy bơ Danisa",
+  "ingredient": [
+    "Bột Lúa Mì",
+    "Đường",
+    "Bơ (Từ Sữa) (17,16%)",
+    "Dầu Thực Vật (Dầu Dừa - chứa Chất Chống Oxy Hóa (INS307b))",
+    "Sirô Glucose",
+    "Trứng",
+    "Dừa Sấy",
+    "Nho Khô Không Hạt",
+    "Bột Sữa Tách Béo",
+    "Muối"
+  ],
+  "additive": [
+    "Chất Chống Oxy Hóa (INS307b)",
+    "Chất Tạo Xốp (INS503(ii))",
+    "Hương Liệu Nhân Tạo (Vani)"
+  ],
+  "warning": [
+    "Sản phẩm có chứa Lúa Mì, Trứng và Sữa.",
+    "Không khuyến khích sử dụng cho người bị tiểu đường và dị ứng với thành phần sản phẩm."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng Lượng",
+      "value": "507 kcal"
+    },
+    {
+      "name": "Chất Béo",
+      "value": "24 g"
+    },
+    {
+      "name": "Chất Béo Bão Hòa",
+      "value": "20 g"
+    },
+    {
+      "name": "Chất Béo Dạng Trans",
+      "value": "0 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "30 mg"
+    },
+    {
+      "name": "Chất Đạm",
+      "value": "6 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "66 g"
+    },
+    {
+      "name": "Chất Xơ",
+      "value": "0 g"
+    },
+    {
+      "name": "Đường Tổng Số",
+      "value": "21 g"
+    },
+    {
+      "name": "Natri",
+      "value": "200 mg"
+    }
+  ],
+  "origin": "Indonesia",
+  "net_weight": "72 g",
+  "mfg_date": null,
+  "expiry_date": null
+}

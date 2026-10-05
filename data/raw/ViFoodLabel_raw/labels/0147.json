@@ -1,0 +1,45 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Đường",
+    "dextrose",
+    "bột chanh (1,2%)",
+    "chiết xuất trà đen (0,9%)",
+    "vitamin C (acid L-ascorbic) (0,3%)",
+    "muối i-ốt",
+    "bột mật ong (0,07%)"
+  ],
+  "additive": [
+    "chất điều chỉnh độ acid (INS 330, INS 331(iii), INS 296)",
+    "hương liệu tổng hợp (hương chanh, hương trà)",
+    "màu tổng hợp (caramen nhóm IV - INS 150d)",
+    "chất tạo ngọt tổng hợp (INS 950, INS 955)"
+  ],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng lượng (Kcal)",
+      "value": "54"
+    },
+    {
+      "name": "Carbohydrate (g)",
+      "value": "14"
+    },
+    {
+      "name": "Đường (g)",
+      "value": "12"
+    },
+    {
+      "name": "Vitamin C (mg)",
+      "value": "40"
+    },
+    {
+      "name": "Natri (mg)",
+      "value": "38"
+    }
+  ],
+  "origin": "Sản phẩm của Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

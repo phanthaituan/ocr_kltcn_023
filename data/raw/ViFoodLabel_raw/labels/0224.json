@@ -1,0 +1,72 @@
+{
+  "product_name": "Thức uống sữa trái cây Vinamilk Hero mới ngon tuyệt!",
+  "ingredient": [
+    "Nước",
+    "đường",
+    "xirô glucoza",
+    "sữa bột (20 g/l)",
+    "nước trái cây ép cô đặc (9,6 g/l)",
+    "calci lactat",
+    "chất béo sữa",
+    "vitamin (D3, A, B12, B6)"
+  ],
+  "additive": [
+    "chất ổn định (440, 466)",
+    "chất điều chỉnh độ acid (270, 330)",
+    "hương kẹo nho tổng hợp dùng cho thực phẩm"
+  ],
+  "warning": [
+    "Có chứa sữa.",
+    "Không dùng cho trẻ dưới 2 tuổi."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "127 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,1 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0,47 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "29,5 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "25,9 g"
+    },
+    {
+      "name": "Calci",
+      "value": "108 mg"
+    },
+    {
+      "name": "Natri",
+      "value": "39,6 mg"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "360 IU"
+    },
+    {
+      "name": "Vitamin D3",
+      "value": "108 IU"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "252 µg"
+    },
+    {
+      "name": "Vitamin B12",
+      "value": "0,39 µg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

@@ -1,0 +1,52 @@
+{
+  "product_name": "Pizza Manna",
+  "ingredient": [
+    "Bột mì 59.3%",
+    "nước 26.7%",
+    "dầu thực vật",
+    "trứng gà",
+    "đường",
+    "muối",
+    "men khô (Saccharomyces cerevisiae)"
+  ],
+  "additive": [
+    "bơ thực vật - BOS"
+  ],
+  "warning": [
+    "Dùng ngay khi chế biến, không đông lạnh sau khi rã đông"
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "306 Kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "9.9 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "54.6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "4.9 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "5.4 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "3.2 g"
+    },
+    {
+      "name": "Natri",
+      "value": "244 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "280 g",
+  "mfg_date": null,
+  "expiry_date": "12 tháng đối với sản phẩm được bảo quản ở nhiệt độ ≤ -18°C"
+}

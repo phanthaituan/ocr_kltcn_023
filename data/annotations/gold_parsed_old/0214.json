@@ -1,0 +1,64 @@
+{
+  "image_id": "0214",
+  "product_name": "CÁ MÚ TẨM SA TẾ",
+  "gold_ingredients_raw": [
+    "83,34% Cá mú",
+    "sốt sa tế: (xả xay, ớt xay, tỏi xay) 6,17% ",
+    "(dầu nành, nước tương bột) 8,12% ",
+    "(muối, đường, chất điều vị (621), hạt nêm) 2,37%"
+  ],
+  "gold_additives_raw": [
+    "chất điều vị (621)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "121 Kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "17.7 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "1.29 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "0.75 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "5.02 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "0.83 g"
+    },
+    {
+      "name": "Natri",
+      "value": "447 mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": null,
+  "net_weight": "350 g",
+  "mfg_date": null,
+  "expiry_date": "HẠN SỬ DỤNG: 18 tháng kể từ ngày sản xuất khi bảo quản ở nhiệt độ ≤ -18ºC hoặc trong ngăn đông tủ lạnh.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

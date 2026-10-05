@@ -1,0 +1,73 @@
+{
+  "image_id": "0219",
+  "product_name": "CẨM THÀNH",
+  "gold_ingredients_raw": [
+    "Hạt điều 99,27%",
+    "muối 0,73%"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "530 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "18,5 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "38,9 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "- g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "33,4 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "- g"
+    },
+    {
+      "name": "Natri",
+      "value": "71,9 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm hết hạn hoặc có dấu hiệu hư hỏng.",
+    "Người dị ứng với các thành phần của sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [
+      "hạt_cây"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "hạt_cây"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "expiry_usage": 1,
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "SẢN XUẤT TẠI VIỆT NAM",
+  "net_weight": null,
+  "mfg_date": "10/12/2025",
+  "expiry_date": "10/12/2026",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "image_id": "0114",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Thịt gà",
+    "nước đá",
+    "đạm đậu nành",
+    "tinh bột bắp",
+    "dầu thực vật",
+    "gia vị (đường, muối)",
+    "bột lòng trắng trứng",
+    "bột whey",
+    "chất xơ từ lúa mì",
+    "nước ướp thịt",
+    "bột gia vị heo plus 0.2%"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (1420, 420(i))",
+    "chất nhũ hóa (451(i), 450(i), 407)",
+    "chất điều chỉnh độ acid (262(i), 331(iii))",
+    "chất điều vị (621)",
+    "chất chống oxy hóa (316)",
+    "hương dầu hành tự nhiên",
+    "hương heo tổng hợp",
+    "hương dầu bò tự nhiên",
+    "chất giữ màu (250)",
+    "phẩm màu erythrosin tổng hợp (127)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng (kcal)",
+      "value": "184"
+    },
+    {
+      "name": "Protein (g)",
+      "value": "9.87"
+    },
+    {
+      "name": "Carbohydrate (g)",
+      "value": "14.5"
+    },
+    {
+      "name": "Đường tổng số (g)",
+      "value": "1.91"
+    },
+    {
+      "name": "Lipid (g)",
+      "value": "9.61"
+    },
+    {
+      "name": "Chất béo bão hòa (g)",
+      "value": "3.36"
+    },
+    {
+      "name": "Natri (mg)",
+      "value": "476"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm sau ngày hết hạn, có hiện tượng hư hỏng hoặc khi dị ứng với bất kì thành phần nào của sản phẩm.",
+    "Sản phẩm có chứa: Nguyên liệu có nguồn gốc từ đậu nành, trứng, lúa mì, sữa.",
+    "Khi vỏ ngoài cây xúc xích bị rách hoặc thủng thì tuyệt đối không được sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "ngô",
+      "nhuyễn_thể",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "nhuyễn_thể",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [
+      "gluten",
+      "ngô",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1,
+      "named_allergy": 1,
+      "unclassified": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "Khối lượng tịnh trước là 175 g (5 cây x 35 g) nay là 192 g (6 cây x 32 g).",
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

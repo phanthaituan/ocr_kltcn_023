@@ -1,0 +1,39 @@
+{
+  "image_id": "0531",
+  "product_name": "PANCAKE MIX",
+  "gold_ingredients_raw": [
+    "Wheat Flour 60%",
+    "Sugar 25%",
+    "Milk Powder 10%",
+    "Salt 2%"
+  ],
+  "gold_additives_raw": [
+    "Food Additive 3% (Raising Agent (INS 500(ii), INS 450(i)), Stabilizing Agent (INS 415(i)), Artificial Vanilla Extract)"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Do not eat raw batter."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "unclassified": 1
+    }
+  },
+  "origin": null,
+  "net_weight": "14.15 OZ (400 g)",
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

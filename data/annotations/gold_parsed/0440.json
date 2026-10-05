@@ -1,0 +1,124 @@
+{
+  "image_id": "0440",
+  "product_name": "BÁNH CUỘN XÚC XÍCH PHÔ MAI",
+  "gold_ingredients_raw": [
+    "Nước",
+    "Bột chiên [bột mì, đường, chất làm dày (1440, 415), chất tạo xốp (575, 500(ii), 450(i), 341(i)), muối, bột sữa gầy, chất nhũ hóa (477, 471, 322(i)), hương liệu thực phẩm tổng hợp (vani), phẩm màu tự nhiên (101(i))]",
+    "Xúc xích 22,9% (cá tra, mỡ heo, nước, thịt gà, chất ổn định (1412), nước đường bắp, nguyên liệu thực phẩm [chất ổn định (450(iii)), muối, chiết xuất gia vị các loại (bạch đậu khấu, ớt, đinh hương, paprika, hương thảo) trên chất nền dextrose], chất làm dày (412), chất chống oxy hóa (316), chất điều vị (621), dầu hạt cải, hương liệu tự nhiên, gluten lúa mì, bột sữa gầy, đường, nguyên liệu thực phẩm [đạm đậu nành, tinh bột khoai tây], bột giấm, muối, đạm đậu nành, chất xơ từ lúa mì, chất làm ẩm (450(i), 450(ii), 452(i), 452(ii)), chiết xuất nấm men, hương liệu thịt giống tự nhiên, hương liệu khói tự nhiên, chất chống oxy hóa (316), phẩm màu tự nhiên (120(i)))",
+    "Phô mai 11,9% [sữa bò tươi, muối, chủng men Streptococcus thermophilus, enzyme chymosin, chất ổn định (calci clorid)]",
+    "Bột chiên xù khô trắng [bột mì, shortening, đường, men (Saccharomyces cerevisiae), muối, tinh bột bắp, chất xử lý bột (170(i), 516, 300, 1100(i))]",
+    "Dầu sử dụng để chiên sản phẩm"
+  ],
+  "gold_additives_raw": [
+    "Chất làm dày (1440, 415)",
+    "Chất tạo xốp (575, 500(ii), 450(i), 341(i))",
+    "Chất nhũ hóa (477, 471, 322(i))",
+    "Hương liệu thực phẩm tổng hợp (vani)",
+    "Phẩm màu tự nhiên (101(i))",
+    "Chất ổn định (1412)",
+    "Chất ổn định (450(iii))",
+    "Chất làm dày (412)",
+    "Chất chống oxy hóa (316)",
+    "Chất điều vị (621)",
+    "Hương liệu tự nhiên",
+    "Chất làm ẩm (450(i), 450(ii), 452(i), 452(ii))",
+    "Hương liệu thịt giống tự nhiên",
+    "Hương liệu khói tự nhiên",
+    "Phẩm màu tự nhiên (120(i))",
+    "Chất ổn định (calci clorid)",
+    "Chất xử lý bột (170(i), 516, 300, 1100(i))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "303 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "9,07 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "30,9 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "9,76 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "15,4 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "6,71 g"
+    },
+    {
+      "name": "Natri",
+      "value": "467 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Có chứa lúa mì (gluten), sữa, cá, đậu nành.",
+    "Được sản xuất chung dây chuyền sản xuất các sản phẩm có chứa trứng, giáp xác, động vật thân mềm.",
+    "Nên chế biến ngay sau khi mở bao bì, không tái đông sản phẩm.",
+    "Không sử dụng cho người dị ứng hoặc mẫn cảm với các thành phần trong sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [
+      "cá",
+      "gluten",
+      "ngô",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": [
+      "giáp_xác",
+      "trứng"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "cá",
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [
+      "giáp_xác",
+      "trứng"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [
+      "cá",
+      "gluten",
+      "ngô",
+      "sữa",
+      "đậu_nành"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "named_allergy": 2,
+      "storage_instruction": 1,
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

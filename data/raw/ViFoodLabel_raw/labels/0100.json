@@ -1,0 +1,57 @@
+{
+  "product_name": "SÔ CÔ LA VIÊN NHÂN SỮA NO BRAND",
+  "ingredient": [
+    "Đường",
+    "dầu hạt cọ hydro hóa",
+    "sữa bột tách béo 13,3%",
+    "bột whey 7%",
+    "bột ca cao 6,2%",
+    "chiết xuất mạch nha lúa mì"
+  ],
+  "additive": [
+    "chất làm dày (INS 414)",
+    "chất tạo màu nhân tạo: Phẩm màu (INS 171, INS 129, INS 133, INS 110, INS 102)",
+    "chất làm bóng (INS 904, INS 903)",
+    "chất nhũ hóa (INS 322(i))",
+    "hương liệu tổng hợp (hương vani)",
+    "chất nhũ hóa (INS 322(i)) từ đậu nành"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm đã hết hạn sử dụng.",
+    "Sản phẩm này được sản xuất trên thiết bị sản xuất giống với các sản phẩm sử dụng trứng, tam giác mạch, đậu phộng, cá thu, cua, tôm, cà chua, thịt gà, mực, động vật có vỏ (bao gồm hàu, bào ngư, vẹm)"
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "305 kcal"
+    },
+    {
+      "name": "Natri",
+      "value": "90 mg"
+    },
+    {
+      "name": "carbohydrat",
+      "value": "38 g"
+    },
+    {
+      "name": "đường tổng số",
+      "value": "31 g"
+    },
+    {
+      "name": "chất béo",
+      "value": "15 g"
+    },
+    {
+      "name": "chất béo bão hòa",
+      "value": "14 g"
+    },
+    {
+      "name": "chất đạm",
+      "value": "4 g"
+    }
+  ],
+  "origin": "Malaysia",
+  "net_weight": "60 g / gói",
+  "mfg_date": "12 tháng trước hạn sử dụng",
+  "expiry_date": "Xem trên bao bì sản phẩm. (ngày.tháng.năm)"
+}

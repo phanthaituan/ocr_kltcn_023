@@ -1,0 +1,88 @@
+{
+  "image_id": "0413",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Vẩy khoai tây (48%)",
+    "Dầu thực vật (cọ)",
+    "Bột gia vị phô mai",
+    "Tinh bột khoai tây",
+    "Tinh bột bắp",
+    "Đường",
+    "Muối"
+  ],
+  "gold_additives_raw": [
+    "Chất làm dày (1412)",
+    "Chất nhũ hóa (471)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "502 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "5,5 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "58,5 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "5,6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "27,3 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "13,3 g"
+    },
+    {
+      "name": "Natri",
+      "value": "419 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa sữa.",
+    "Sản phẩm có thể chứa đậu nành, mè, lúa mì, cá, giáp xác."
+  ],
+  "allergen_final": {
+    "contains": [
+      "sữa"
+    ],
+    "may_contain": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "hạt_vừng",
+      "đậu_nành"
+    ]
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "hạt_vừng",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": "Malaysia",
+  "net_weight": null,
+  "mfg_date": "Xem dưới đáy hộp.",
+  "expiry_date": "Xem dưới đáy hộp.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

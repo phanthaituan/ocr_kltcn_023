@@ -1,0 +1,92 @@
+{
+  "image_id": "0408",
+  "product_name": "BÁNH QUY NHÂN KEM NO BRAND",
+  "gold_ingredients_raw": [
+    "Bánh quy 72% (bột mì, đường, dầu cọ, si rô đường nghịch đảo, bột ca cao, chất tạo màu tự nhiên phẩm màu (INS 150a), tinh bột ngô (có thể chứa ngô biến đổi gen), chất tạo xốp (INS 503(i)), chất ổn định (INS 500(ii)), muối tinh, bột whey, chất nhũ hóa (INS 481(i), INS 472a), chất điều chỉnh độ acid (INS 450(iii)), chất chống oxy hóa (INS 322(i) từ đậu nành))",
+    "Nhân kem 28% (đường, dầu cọ, tinh bột ngô (có thể chứa ngô biến đổi gen), sữa bột tách béo, chất chống oxy hóa (INS 322(i)), hương liệu tổng hợp (hương vani), muối tinh, bột vani)"
+  ],
+  "gold_additives_raw": [
+    "Chất tạo màu tự nhiên phẩm màu (INS 150a)",
+    "Chất tạo xốp (INS 503(i))",
+    "Chất ổn định (INS 500(ii))",
+    "Chất nhũ hóa (INS 481(i), INS 472a)",
+    "Chất điều chỉnh độ acid (INS 450(iii))",
+    "Chất chống oxy hóa (INS 322(i) từ đậu nành)",
+    "Chất chống oxy hóa (INS 322(i))",
+    "Hương liệu tổng hợp (hương vani)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "155 kcal"
+    },
+    {
+      "name": "Natri",
+      "value": "110 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "21 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "11 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "7 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "3 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Chứa lúa mì, sữa, đậu nành.",
+    "Không sử dụng sản phẩm đã hết hạn sử dụng.",
+    "Sản phẩm này được sản xuất theo dây chuyền với các sản phẩm có sử dụng nguyên liệu từ axit lưu huỳnh."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "expiry_usage": 1,
+      "unclassified": 1
+    }
+  },
+  "origin": "Ấn Độ",
+  "net_weight": "744 g/gói",
+  "mfg_date": "Xem “PKD.” trên bao bì sản phẩm (ngày-tháng-năm).",
+  "expiry_date": "Xem “EXP.” trên bao bì sản phẩm (ngày-tháng-năm).",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

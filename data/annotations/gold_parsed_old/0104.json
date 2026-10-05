@@ -1,0 +1,98 @@
+{
+  "image_id": "0104",
+  "product_name": "Tipo Bánh Bông Lan Cuộn Kem Sữa Chua Việt Quất",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "Trứng gà",
+    "Dầu thực vật (Dầu cọ (có chứa chất chống oxy hóa (320, 321)), Dầu hướng dương)",
+    "Đường",
+    "Mạch nha maltose",
+    "Nước",
+    "Đường dextrose",
+    "Mạch nha glucose",
+    "Sữa đặc có đường",
+    "Bột Whey",
+    "Sữa bột béo",
+    "Bột sữa chua (0,3%)",
+    "Muối",
+    "Tinh bột ngô",
+    "Chiết xuất trái dành dành",
+    "Maltodextrin"
+  ],
+  "gold_additives_raw": [
+    "chất chống oxy hóa (320, 321)",
+    "Chất làm ẩm (420(i), 422, 1520)",
+    "Chất nhũ hóa(477,471,472e,322(i),475,491)",
+    "Chât điều chỉnh độ acid (330, 270)",
+    "Hương liệu tổng hợp (việt quất (có chứa việt quất nghiền (0,04%)), Dâu)",
+    "Chất tạo xốp(500(ii),341(i),(450(i)))",
+    "Chất bảo quản (281)",
+    "Chất làm dày (415)",
+    "chất chống oxy hóa (300, 301)",
+    "Chất tạo màu tự nhiên (120)",
+    "Chất tạo màu tổng hợp (160a(i))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Lượng dinh dưỡng được tính trên (Serving Size)",
+      "value": "100 g"
+    },
+    {
+      "name": "Tổng calo (Calories)",
+      "value": "406"
+    },
+    {
+      "name": "Calo từ chất béo (Calories from Fat)",
+      "value": "147"
+    },
+    {
+      "name": "Tổng chất béo (Total Fat)",
+      "value": "16,4 g"
+    },
+    {
+      "name": "Chất béo bão hòa (Saturated Fat)",
+      "value": "8,5 g"
+    },
+    {
+      "name": "Natri (Sodium)",
+      "value": "242 mg"
+    },
+    {
+      "name": "Tổng Carbohydrate (Total Carbohydrate)",
+      "value": "59,2 g"
+    },
+    {
+      "name": "Đường (Sugars)",
+      "value": "28,3 g"
+    },
+    {
+      "name": "Chất đạm (Protein)",
+      "value": "5,3 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Thông tin cảnh báo: Không sử dụng sản phẩm khi hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "xem trên bao bì",
+  "expiry_date": "xem trên bao bì",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

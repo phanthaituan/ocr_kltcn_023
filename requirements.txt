@@ -1,0 +1,43 @@
+# Nháp theo TechnicalSpec mục 4 - cập nhật khi thêm/bớt thư viện.
+# Cài theo nhóm khi cần, không bắt buộc cài hết ngay.
+
+# --- Config / tiện ích ---
+python-dotenv
+pyyaml
+pandas
+tqdm
+
+# --- OCR ---
+paddleocr
+vietocr
+easyocr
+pytesseract
+opencv-python
+imagehash
+deskew
+
+# --- LLM / API ---
+anthropic
+openai
+google-generativeai
+pydantic
+
+# --- Entity Linking ---
+sentence-transformers   # multilingual-e5 / LaBSE / BGE-M3
+faiss-gpu               # máy local RTX 3060; đổi sang faiss-cpu nếu không có CUDA
+owlready2
+rdflib
+openfoodfacts
+
+# --- Classification / NLP ---
+scikit-learn
+scikit-multilearn
+spacy
+flashtext
+symspellpy
+seqeval
+underthesea
+
+# --- Eval & tracking ---
+jiwer
+mlflow

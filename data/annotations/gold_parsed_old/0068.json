@@ -1,0 +1,89 @@
+{
+  "image_id": "0068",
+  "product_name": "JUMBO WHITE COFFEE",
+  "gold_ingredients_raw": [
+    "Wheat Flour",
+    "Sugar",
+    "Vegetable Fat",
+    "Maltodextrin",
+    "Whey Powder",
+    "Corn Starch",
+    "Coffee Powder (0.25%)",
+    "Salt",
+    "Cocoa Powder"
+  ],
+  "gold_additives_raw": [
+    "Antioxidant: Tocopherol (E307c)",
+    "Emulsifier Soya Lecithin (E322)",
+    "Colouring (Caramel IV (INS 150d), Caramel I (INS 150a))",
+    "Synthetic Flavour (White Coffee, Vanilla)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Total Energy",
+      "value": "70 kcal"
+    },
+    {
+      "name": "Total Fat",
+      "value": "3 g"
+    },
+    {
+      "name": "Saturated Fat",
+      "value": "1.5 g"
+    },
+    {
+      "name": "Protein",
+      "value": "0 g"
+    },
+    {
+      "name": "Total Carbohydrate",
+      "value": "10 g"
+    },
+    {
+      "name": "Sugar",
+      "value": "5 g"
+    },
+    {
+      "name": "Salt",
+      "value": "20 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "contains wheat, soy, and milk.",
+    "Manufactured on equipments that also process products that contain egg and peanuts."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": "Indonesia",
+  "net_weight": null,
+  "mfg_date": "06/12/2025",
+  "expiry_date": "06/12/2026",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

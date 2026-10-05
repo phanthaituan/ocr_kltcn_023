@@ -1,0 +1,102 @@
+{
+  "image_id": "0296",
+  "product_name": "Xốt hoàn chỉnh lẩu gà",
+  "gold_ingredients_raw": [
+    "Nước",
+    "đường",
+    "muối",
+    "bột thịt gà 5,9% [muối, chất điều vị (621, 631, 627), tinh bột ngô, đường, dầu cọ tương đậu nành, hương liệu tổng hợp (hương thịt gà), thịt gà, phẩm màu tổng hợp (150d), bột nghệ]",
+    "nước mắm",
+    "nước tương",
+    "hành tây",
+    "bột chiết xuất từ nước luộc gà 1,9%",
+    "tỏi",
+    "bột ngò",
+    "bột nấm hương 0,5%",
+    "bột tiêu đen",
+    "bột ớt",
+    "tastenrich master L5 (đường thực vật maltodextrin)"
+  ],
+  "gold_additives_raw": [
+    "chất điều vị (621, 631, 627)",
+    "hương liệu tổng hợp (hương thịt gà)",
+    "phẩm màu tổng hợp (150d)",
+    "chất làm dày (1422)",
+    "chất bảo quản (202)",
+    "chất tạo ngọt tổng hợp (950)",
+    "chất điều vị (621)",
+    "hương liệu gà nhân tạo",
+    "phẩm màu tổng hợp (160a(i))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "106 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2,42 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "22,7 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "19,6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0,51 g"
+    },
+    {
+      "name": "Natri",
+      "value": "6600 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Có chứa cá, đậu nành, lúa mì(gluten).",
+    "Được sản xuất chung dây chuyền sản xuất các sản phảm có thể chứa sữa, trứng, giáp xác, động vật thân mềm, đậu phộng, hạt cây.",
+    "Không dùng sản phẩm khi có dấu hiệu hư hỏng hoặc sản phẩm hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "cá",
+      "gluten",
+      "đậu_nành"
+    ],
+    "may_contain": [
+      "giáp_xác",
+      "sữa",
+      "trứng",
+      "đậu_phộng"
+    ]
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

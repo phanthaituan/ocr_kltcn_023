@@ -1,0 +1,133 @@
+{
+  "image_id": "0211",
+  "product_name": "Cao Lợi Hưng Bánh Pía Kim Sa Lá Dứa",
+  "gold_ingredients_raw": [
+    "Đậu xanh (18%)",
+    "bột mì",
+    "đường",
+    "dầu thực vật",
+    "sữa đặc",
+    "mạch nha",
+    "lòng đỏ trứng vịt muối (6%)",
+    "bơ thực vật",
+    "sữa tươi",
+    "bột sữa",
+    "bột bắp",
+    "gelatin",
+    "muối",
+    "lá dứa tươi (0.03%)"
+  ],
+  "gold_additives_raw": [
+    "chất bảo quản (202)",
+    "hương tổng hợp (lá dứa, vani, trứng muối)",
+    "màu tổng hợp (124, 110, 133)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Khẩu phần",
+      "value": "100g"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "381 kcal"
+    },
+    {
+      "name": "Tổng số chất béo",
+      "value": "14.7g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "6.33g"
+    },
+    {
+      "name": "Chất béo chuyển hóa",
+      "value": "0g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "7.39mg"
+    },
+    {
+      "name": "Natri",
+      "value": "53.2mg"
+    },
+    {
+      "name": "Tổng Carbohydrate",
+      "value": "54.4g"
+    },
+    {
+      "name": "Chất xơ",
+      "value": "3.41g"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "32.1g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "7.63g"
+    },
+    {
+      "name": "Vitamin D",
+      "value": "0µg"
+    },
+    {
+      "name": "Canxi",
+      "value": "1.51mg"
+    },
+    {
+      "name": "Sắt",
+      "value": "1.57mg"
+    },
+    {
+      "name": "Kali",
+      "value": "195mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Cảnh báo chất gây dị ứng: Có chứa: Bột mì, trứng và sữa.",
+    "Bên trong bao bì có gói hút ẩm không ăn được.",
+    "Bánh có thể bị hư hỏng hoặc bị mốc trước thời hạn sử dụng do bao bì bị tổn thương trong quá trình vận chuyển hoặc do tác động của môi trường tự nhiên. Khi gặp trường hợp trên, Quý Khách vui lòng mang sản phẩm đến cửa hàng gần nhất của chúng tôi để được đổi lại.",
+    "Không sử dụng sản phẩm khi đã quá hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "trứng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "sữa",
+      "trứng"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "trứng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "desiccant_or_misc": 1,
+      "expiry_usage": 2,
+      "unclassified": 1
+    }
+  },
+  "origin": "XUẤT XỨ TẠI VIỆT NAM",
+  "net_weight": "240 g (6 cái x 40 g)",
+  "mfg_date": "Ngày sản xuất \"NSX\" và Hạn sử dụng \"HSD\": Xem trên bao bì.",
+  "expiry_date": "Ngày sản xuất \"NSX\" và Hạn sử dụng \"HSD\": Xem trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

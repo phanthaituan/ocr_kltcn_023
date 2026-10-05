@@ -1,0 +1,98 @@
+{
+  "image_id": "0368",
+  "product_name": "BÁNH NƯỚNG GIÒN C'EST BON BAGUETTE VỊ BƠ TỎI ĐÚT LÒ",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "Đường",
+    "Shortening thực vật và động vật",
+    "dầu thực vật",
+    "Bơ lạt 2,5%",
+    "trứng",
+    "muối i-ốt",
+    "mạch nha glucose",
+    "gluten lúa mì",
+    "tỏi phi 0,7%",
+    "bột chiết xuất nấm men",
+    "Gelatin",
+    "vảy rau mùi tây"
+  ],
+  "gold_additives_raw": [
+    "chất tạo xốp (503(ii), 500(ii), 341(i))",
+    "hương liệu (giống tự nhiên tổng hợp)",
+    "chất xử lý bột (223, 1100(i))",
+    "hương liệu giống tự nhiên (hương bánh mì)",
+    "chất điều chỉnh độ acid (296)",
+    "chất tạo màu tổng hợp (160a(i))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "156 Kcal"
+    },
+    {
+      "name": "NATRI",
+      "value": "258 mg"
+    },
+    {
+      "name": "CHẤT BÉO",
+      "value": "4,3 g"
+    },
+    {
+      "name": "CHẤT BÉO BÃO HÒA",
+      "value": "2,0 g"
+    },
+    {
+      "name": "CARBOHYDRATE",
+      "value": "26,3 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ",
+      "value": "8,4 g"
+    },
+    {
+      "name": "CHẤT ĐẠM",
+      "value": "2,9 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "SẢN PHẨM CÓ CHỨA CÁC THÀNH PHẦN DỊ ỨNG SAU: LÚA MÌ, SỮA, ĐẬU NÀNH, TRỨNG, SULFIT VÀ CÓ THỂ CHỨA TÔM, CÁ."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sulfite",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ]
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sulfite",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "VIỆT NAM",
+  "net_weight": "180 g (5 gói x 36 g)",
+  "mfg_date": "ĐƯỢC IN TRÊN BAO BÌ (NGÀY/THÁNG/NĂM)",
+  "expiry_date": "8 THÁNG KỂ TỪ NGÀY SẢN XUẤT",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "product_name": "Tea Break",
+  "ingredient": [
+    "Nước",
+    "đường",
+    "sữa bột nguyên kem (17 g/l)",
+    "lá trà đen (7,4 g/l)",
+    "muối"
+  ],
+  "additive": [
+    "hương liệu (hương trà giống tự nhiên, hương sữa tổng hợp)",
+    "chất nhũ hóa (471, 481(i))",
+    "chất điều chỉnh độ acid (500(ii))",
+    "chất chống oxy hóa (300)",
+    "chất tạo ngọt tổng hợp (950, 955)"
+  ],
+  "warning": [
+    "Sản phẩm có chứa sữa."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "34 kcal"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "7 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0,4 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0,5 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "6,3 g"
+    },
+    {
+      "name": "Natri",
+      "value": "31 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "xem trên nắp chai.",
+  "expiry_date": "xem trên nắp chai."
+}

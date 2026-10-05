@@ -1,0 +1,72 @@
+{
+  "image_id": "0584",
+  "product_name": "NƯỚC UỐNG ĐIỆN GIẢI REVIVE THỂ THAO",
+  "gold_ingredients_raw": [
+    "Nước",
+    "đường",
+    "muối iod",
+    "Vitamin B3",
+    "Vitamin B6"
+  ],
+  "gold_additives_raw": [
+    "chất điều chỉnh độ axít (330, 331(iii), 340(i), 327)",
+    "chất điều vị (518)",
+    "chất chống oxy hóa (385)",
+    "hương liệu bưởi tổng hợp"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "54 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "0 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "13,5 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "12,4 g"
+    },
+    {
+      "name": "Vitamin B3",
+      "value": "≥ 2,4 mg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "≥ 0,4 mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": "Việt Nam",
+  "net_weight": "450 ml",
+  "mfg_date": "trước HSD 6 tháng",
+  "expiry_date": "Xem ở nắp hoặc thân chai.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

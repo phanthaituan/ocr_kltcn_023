@@ -1,0 +1,70 @@
+{
+  "image_id": "0543",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Sô-cô-la compound đen (70%) bao gồm (đường, chất béo thực vật (dầu cọ hoặc nhân cọ đã hydro hóa), bột ca cao, chất nhũ hóa (INS 492, INS 322(i)), hương liệu tổng hợp (vani, sô cô la), có thể chứa một lượng rất nhỏ thành phần sữa)",
+    "hạt hạnh nhân (15%)",
+    "bơ ca cao"
+  ],
+  "gold_additives_raw": [
+    "chất nhũ hóa (INS 492, INS 322(i))",
+    "hương liệu tổng hợp (vani, sô cô la)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "551 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "7,9 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "44,1 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "43,9 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "38,1 g"
+    },
+    {
+      "name": "Natri",
+      "value": "24,7 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm nếu dị ứng với thành phần có trong sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [
+      "hạt_cây",
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "hạt_cây",
+      "sữa"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "12/05/26",
+  "expiry_date": "12/05/27",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

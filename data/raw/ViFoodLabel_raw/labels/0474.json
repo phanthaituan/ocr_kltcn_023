@@ -1,0 +1,49 @@
+{
+  "product_name": "GIÒ LỤA",
+  "ingredient": [
+    "Thịt heo (84%)",
+    "nước",
+    "nước mắm",
+    "đường",
+    "bột giấm",
+    "muối"
+  ],
+  "additive": [
+    "chất làm dày (1412, 407, 425, 508)",
+    "chất ổn định (450(iii), 451(i), 450(i), 331(iii))",
+    "chất điều vị (621)"
+  ],
+  "warning": [
+    "Không sử dụng khi sản phẩm có dấu hiệu hư hỏng, mất chân không, hết hạn sử dụng hoặc khi bị dị ứng với các thành phần của sản phẩm."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "259,8 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "15,3 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "1,5 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "0,6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "21,4 g"
+    },
+    {
+      "name": "Natri",
+      "value": "620 mg"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam.",
+  "net_weight": "250 g",
+  "mfg_date": "45 ngày trước hạn sử dụng.",
+  "expiry_date": "Xem trên bao bì."
+}

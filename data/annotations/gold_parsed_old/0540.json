@@ -1,0 +1,41 @@
+{
+  "image_id": "0540",
+  "product_name": "THỰC PHẨM BỔ SUNG SỮA DINH DƯỠNG PHA SẴN METACARE COLOSTRUM",
+  "gold_ingredients_raw": [
+    "Sữa pha sẵn (Nước, Sữa, Chất béo sữa, Sữa non Colostrum (1500 mg/l)) (92,6%)",
+    "Sucrose",
+    "Chất béo thực vật",
+    "Chất xơ hòa tan (FOS multi)",
+    "Các khoáng chất (Dinatri phosphat, Magiê oxit, Kẽm sulfat, Kali iodid, Natri selenit)",
+    "Các vitamin (Vitamin K2 (MK7), Nicotinamid, DL-alpha-tocopheryl acetat, Phylloquinon, Cholecalciferol, Canxi-D-pantothenat, Riboflavin, Pyridoxin hydroclorid, Thiamin mononitrat, Retinyl acetat, Axit folic)",
+    "DHA, HMO (2'-FL)",
+    "Postbiotic (Lợi khuẩn Lactococcus lactis Plasma)"
+  ],
+  "gold_additives_raw": [
+    "Chất ổn định (471, 407, 412)",
+    "Hương liệu tổng hợp dùng trong thực phẩm (Bơ, Sữa, Vani)",
+    "Chất chống oxi hóa (Hỗn hợp tocopherol)"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": false
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Đường",
+    "bột kem thực vật",
+    "bột cà phê hòa tan (100% từ hạt cà phê) (14%)",
+    "bột kem sữa",
+    "maltodextrin",
+    "muối biển tự nhiên (1.5%)"
+  ],
+  "additive": [
+    "chất điều chỉnh độ axit INS 500(ii)",
+    "hương cà phê tổng hợp dùng trong thực phẩm"
+  ],
+  "warning": [
+    "Hạn chế sử dụng đối với trẻ em dưới 13 tuổi, phụ nữ có thai.",
+    "Không dùng cho người bị dị ứng với các thành phần của sản phẩm.",
+    "Không sử dụng sản phẩm đã hết hạn."
+  ],
+  "nutrition": [
+    {
+      "name": "Calories",
+      "value": "80"
+    },
+    {
+      "name": "Total Fat",
+      "value": "3g"
+    },
+    {
+      "name": "Saturated Fat",
+      "value": "2.5g"
+    },
+    {
+      "name": "Trans Fat",
+      "value": "0g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0mg"
+    },
+    {
+      "name": "Sodium",
+      "value": "160mg"
+    },
+    {
+      "name": "Total Carbohydrate",
+      "value": "13g"
+    },
+    {
+      "name": "Dietary Fiber",
+      "value": "less than 1g"
+    },
+    {
+      "name": "Total Sugars",
+      "value": "9g"
+    },
+    {
+      "name": "Includes -g Added sugars",
+      "value": "-%"
+    },
+    {
+      "name": "Protein",
+      "value": "less than 1g"
+    },
+    {
+      "name": "Vitamin D",
+      "value": "0mcg"
+    },
+    {
+      "name": "Calcium",
+      "value": "0mg"
+    },
+    {
+      "name": "Iron",
+      "value": "0mg"
+    },
+    {
+      "name": "Potassium",
+      "value": "230mg"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": "28.02.2026",
+  "expiry_date": "28.02.2028"
+}

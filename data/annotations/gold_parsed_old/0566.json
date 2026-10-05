@@ -1,0 +1,62 @@
+{
+  "image_id": "0566",
+  "product_name": "TH true TEA",
+  "gold_ingredients_raw": [
+    "Nước",
+    "trà xanh (6 g/l)",
+    "lương phấn thảo"
+  ],
+  "gold_additives_raw": [
+    "chất chống oxi hóa (300)",
+    "hương liệu tự nhiên",
+    "chất điều chỉnh độ acid (500(ii))",
+    "chất tạo ngọt tự nhiên (960d)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "1,2 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0,1 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "0,2 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "0 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0 g"
+    },
+    {
+      "name": "Natri",
+      "value": "3 mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

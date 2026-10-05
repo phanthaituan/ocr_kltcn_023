@@ -1,0 +1,67 @@
+{
+  "product_name": "Xốt Spaghetti Rose Thịt Cua",
+  "ingredient": [
+    "Nước",
+    "cà chua cắt hạt lựu (21%)",
+    "cà chua cô đặc (9%)",
+    "kem sữa béo",
+    "hành tây",
+    "cà rốt",
+    "bột kem không sữa",
+    "đường",
+    "bột sữa",
+    "thịt cua (2%)",
+    "bột phô mai",
+    "dầu nành",
+    "chiết xuất gà",
+    "muối i-ốt",
+    "bột tỏi",
+    "bột nguyên trứng",
+    "gia vị bò",
+    "chiết xuất nấm men",
+    "bột chiết xuất hến",
+    "húng quế",
+    "chiết xuất ớt",
+    "nguyệt quế"
+  ],
+  "additive": [
+    "các chất làm dày (1422, 415)",
+    "các chất điều vị (621, 627, 631)",
+    "hương liệu cua tổng hợp",
+    "các chất bảo quản (211, 202)"
+  ],
+  "warning": [
+    "Không dùng cho người bị dị ứng với các thành phần của sản phẩm.",
+    "Không dùng sản phẩm khi đã hết hạn sử dụng hoặc gói phồng to bất thường."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "≥ 109 kcal"
+    },
+    {
+      "name": "carbohydrate",
+      "value": "≥ 10,4 g"
+    },
+    {
+      "name": "chất béo",
+      "value": "≥ 6,2 g"
+    },
+    {
+      "name": "chất đạm",
+      "value": "≥ 2,8 g"
+    },
+    {
+      "name": "natri",
+      "value": "≥ 665 mg"
+    },
+    {
+      "name": "đường tổng",
+      "value": "≥ 6,2 g"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "19/01/26",
+  "expiry_date": "19/01/27"
+}

@@ -1,0 +1,36 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Sữa hoàn toàn từ sữa bò tươi (100%)"
+  ],
+  "additive": [],
+  "warning": [
+    "Sản phẩm có chứa sữa / Contains milk."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng / Energy",
+      "value": "60,1 kcal"
+    },
+    {
+      "name": "Chất béo / Fat",
+      "value": "3,3 g"
+    },
+    {
+      "name": "Chất đạm / Protein",
+      "value": "3 g"
+    },
+    {
+      "name": "Hydrat cacbon / Carbohydrate",
+      "value": "4,6 g"
+    },
+    {
+      "name": "Calci / Calcium",
+      "value": "104 mg"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam / Made in Vietnam.",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

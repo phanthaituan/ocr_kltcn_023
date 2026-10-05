@@ -1,0 +1,93 @@
+{
+  "image_id": "0451",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Vắt sợi: Bột mì, dầu cọ, tinh bột khoai mì, tinh bột khoai tây (10 g/kg), muối, chất điều vị (621, 631, 627), bột trứng (0,5 g/kg), chất ổn định (1210, 451(i), 405), chất điều chỉnh độ acid (330, 260), chất tạo xốp (500(ii), 452(i)), chất tạo màu (màu tổng hợp (101(iii)), màu tự nhiên (164)), chất chống oxy hóa (320, 307b)",
+    "Gói xốt: Nước, dầu cọ, muối, chất điều vị (621, 631, 627, 364(ii)), hành, đường, cốt nước tương, hỗn hợp bột (bột hành, bột tiêu, bột thảo quả), tỏi, hương liệu tổng hợp dùng cho thực phẩm (hương bò, hương mùi tàu), gừng, bột sữa dừa, chất tạo màu (màu tổng hợp (150d), màu tự nhiên (160c(iii))), chiết xuất nấm men, chất bảo quản (202, 211), chất tạo ngọt tổng hợp (950), chất làm dày (415), chất chống oxy hóa (319)",
+    "Gói rau: Giả thịt (từ protein lúa mì), rau sấy (hành lá, cà rốt)"
+  ],
+  "gold_additives_raw": [
+    "Chất điều vị (621, 631, 627)",
+    "Chất ổn định (1210, 451(i), 405)",
+    "Chất điều chỉnh độ acid (330, 260)",
+    "Chất tạo xốp (500(ii), 452(i))",
+    "Chất tạo màu (màu tổng hợp (101(iii)), màu tự nhiên (164))",
+    "Chất chống oxy hóa (320, 307b)",
+    "Chất điều vị (621, 631, 627, 364(ii))",
+    "Hương liệu tổng hợp dùng cho thực phẩm (hương bò, hương mùi tàu)",
+    "Chất tạo màu (màu tổng hợp (150d), màu tự nhiên (160c(iii)))",
+    "Chất bảo quản (202, 211)",
+    "Chất tạo ngọt tổng hợp (950)",
+    "Chất làm dày (415)",
+    "Chất chống oxy hóa (319)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "289,92 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "10,94 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "6,13 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "40,94 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "5,97 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "1,5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "1376 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa: trứng, sữa, gluten lúa mì, đậu nành, cá.",
+    "Không sử dụng sản phẩm quá hạn hoặc bao bì không còn nguyên vẹn."
+  ],
+  "allergen_final": {
+    "contains": [
+      "cá",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "cá",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

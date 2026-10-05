@@ -1,0 +1,75 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Wheat Flour",
+    "Sugar",
+    "Vegetable Oil (contains Antioxidant TBHQ (E319))",
+    "Whey Powder",
+    "Maltodextrin",
+    "Cheese Powder (1%) (contains Milk Powder, Cheese Solids)",
+    "Salt"
+  ],
+  "additive": [
+    "Antioxidant TBHQ (E319)",
+    "Synthetic Milk Flavour (contains Milk Solids)",
+    "Emulsifier Soy Lecithin (E322)",
+    "Synthetic Strawberry Flavour",
+    "Sodium Bicarbonate (E500ii)",
+    "Acidity Regulator Lactid Acid (E270)",
+    "Natural Colour Carmine (E120)"
+  ],
+  "warning": [
+    "Allergen Information. For allergens, see ingredients in bold. May also contain Egg, Hazelnut and Peanut.",
+    "DO NOT ACCEPT IF PACKAGING IS DAMAGED."
+  ],
+  "nutrition": [
+    {
+      "name": "Khẩu phần",
+      "value": "15 g"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "50"
+    },
+    {
+      "name": "Tổng chất béo",
+      "value": "3 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "1.5 g"
+    },
+    {
+      "name": "Chất béo chuyển hóa",
+      "value": "0 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0 mg"
+    },
+    {
+      "name": "Natri",
+      "value": "35 mg"
+    },
+    {
+      "name": "Tổng Carbohydrat",
+      "value": "11 g"
+    },
+    {
+      "name": "Tổng đường",
+      "value": "4 g"
+    },
+    {
+      "name": "Bao gồm đường thêm",
+      "value": "4 g"
+    },
+    {
+      "name": "Chất đạm ít hơn",
+      "value": "1 g"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

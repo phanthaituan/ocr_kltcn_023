@@ -1,0 +1,50 @@
+{
+  "product_name": "Ông Thọ",
+  "ingredient": [
+    "Đường (48%)",
+    "sữa (44,1%) (nước, sữa bột, chất béo sữa, whey bột, sữa tươi)",
+    "dầu thực vật (7,7%)",
+    "lactose"
+  ],
+  "additive": [
+    "chất nhũ hóa (322(i))",
+    "lecithin đậu nành"
+  ],
+  "warning": [
+    "Không dùng cho người dị ứng với các thành phần của sản phẩm."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "338 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "5,0 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "10,3 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "56,4 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "56,4 g"
+    },
+    {
+      "name": "Natri",
+      "value": "47 mg"
+    },
+    {
+      "name": "Calci",
+      "value": "180 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": "12 tháng trước HSD",
+  "expiry_date": "Xem trên hộp"
+}

@@ -1,0 +1,66 @@
+{
+  "image_id": "0174",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Nước",
+    "đường",
+    "trà xanh (1,87 g/l)",
+    "ổi puree (1 g/l)",
+    "trà đen (0,9 g/l)",
+    "muối"
+  ],
+  "gold_additives_raw": [
+    "chất điều chỉnh độ acid (330, 331(iii))",
+    "hương liệu tự nhiên"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "34,4 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "8,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "8,6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0 g"
+    },
+    {
+      "name": "Natri",
+      "value": "10 mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

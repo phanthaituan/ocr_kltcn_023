@@ -1,0 +1,59 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Thịt (thịt heo (319,6 g/kg), thịt gà)",
+    "nước",
+    "phô mai (109,5 g/kg)",
+    "đường",
+    "muối",
+    "thịt heo xông khói (4,3 g/kg)",
+    "bột whey hương phô mai",
+    "đạm whey",
+    "xốt gà cay",
+    "tiêu",
+    "bột tỏi",
+    "chiết xuất nấm men",
+    "bột cần tây (0,7 g/kg)"
+  ],
+  "additive": [
+    "chất ổn định (1414, 451(i), 450(iii), 450(i), 452(ii))",
+    "chất điều vị (621)",
+    "chất chống oxy hóa (316)",
+    "hương liệu phô mai tổng hợp",
+    "phẩm màu tổng hợp (127)"
+  ],
+  "warning": [
+    "Sản phẩm chứa nguyên liệu có nguồn gốc từ đậu nành, cần tây, sữa, lúa mì.",
+    "Không sử dụng sản phẩm khi bao bì bị rách, hở, phồng, mốc hoặc hết hạn sử dụng."
+  ],
+  "nutrition": [
+    {
+      "name": "Chất đạm",
+      "value": "13 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "14 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "1,3 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "551,7 mg"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "198 kcal"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": "540 g (12 cây x 45 g)",
+  "mfg_date": "xem trên bao bì",
+  "expiry_date": "xem trên bao bì"
+}

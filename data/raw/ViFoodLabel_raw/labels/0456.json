@@ -1,0 +1,64 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước",
+    "Đường",
+    "Siro đường bắp",
+    "Bột sữa (21 g/l)",
+    "Nước ép táo cô đặc (5,2 g/l)",
+    "Chất béo thực vật",
+    "L-Arginine (100 mg/l)",
+    "Vitamin D3",
+    "Vitamin K2 MK-7"
+  ],
+  "additive": [
+    "Chất ổn định (466, 418, 327, 471)",
+    "Chất điều chỉnh độ acid (270, 330)",
+    "Hương liệu tổng hợp dùng cho thực phẩm (hương táo)"
+  ],
+  "warning": [
+    "Không dùng cho trẻ dưới 1 tuổi."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "118 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,26 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0,76 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "26,46 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "21,1 g"
+    },
+    {
+      "name": "Vitamin K2",
+      "value": "3,78 µg"
+    },
+    {
+      "name": "Vitamin D3",
+      "value": "144,4 IU"
+    },
+    {
+      "name": "Natri",
+      "value": "75 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "108 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì."
+}

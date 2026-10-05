@@ -1,0 +1,86 @@
+{
+  "image_id": "0560",
+  "product_name": "HEO CAO BỒI Snack dinh dưỡng",
+  "gold_ingredients_raw": [
+    "Viên thịt: Thịt (thịt heo, thịt gà) 510,6 g/kg, nước, chất ổn định (1414, 451(i)), đường, nước mắm, lạp xưởng, muối, tiêu, chất điều vị (621, 635), bột tỏi, dầu olein cọ tinh luyện, chất chống oxy hóa (316, 320, 321), chất giữ màu (250).",
+    "Xốt: Nước, thịt heo (47,3 g/kg), hành tây, nước mắm, chất ổn định (1414, 415), đường, chất điều vị (621, 635), dầu hành, dầu tỏi, hành lát phi, bột hành tây, tiêu, tỏi lát phi, hành tím, muối, chiết xuất nấm men, nước màu, nấm hương, hương liệu giống tự nhiên, phẩm màu tự nhiên (150a), bột lòng trắng trứng, bột lòng đỏ trứng, chất chống oxy hóa (321, 320)."
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (1414, 451(i))",
+    "chất điều vị (621, 635)",
+    "chất chống oxy hóa (316, 320, 321)",
+    "chất giữ màu (250)",
+    "chất ổn định (1414, 415)",
+    "hương liệu giống tự nhiên",
+    "phẩm màu tự nhiên (150a)",
+    "chất chống oxy hóa (321, 320)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng (kcal)",
+      "value": "152,8"
+    },
+    {
+      "name": "Chất đạm (g)",
+      "value": "9,7"
+    },
+    {
+      "name": "Carbohydrat (g)",
+      "value": "8,4"
+    },
+    {
+      "name": "Đường tổng số (g)",
+      "value": "3,3"
+    },
+    {
+      "name": "Chất béo (g)",
+      "value": "8,9"
+    },
+    {
+      "name": "Chất béo bão hòa (g)",
+      "value": "3,1"
+    },
+    {
+      "name": "Natri (mg)",
+      "value": "599"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không bỏ trực tiếp túi sản phẩm vào lò vi sóng.",
+    "Lưu ý cẩn thận khi tiếp xúc với sản phẩm sau khi hâm nóng vì nhiệt độ cao có thể gây bỏng.",
+    "Sản phẩm chứa các nguyên liệu có nguồn gốc từ đậu nành, trứng, thủy sản.",
+    "Không sử dụng sản phẩm khi bao bì bị rách, hở, phồng, mốc, ... hoặc hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "nhuyễn_thể",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "nhuyễn_thể",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "desiccant_or_misc": 1,
+      "unclassified": 1,
+      "named_allergy": 2
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": "xem trên bao bì",
+  "expiry_date": "xem trên bao bì",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

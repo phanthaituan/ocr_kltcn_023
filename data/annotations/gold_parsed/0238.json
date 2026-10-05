@@ -1,0 +1,65 @@
+{
+  "image_id": "0238",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Nước",
+    "tương hột (làm từ đậu nành) (22,5%)",
+    "đường",
+    "muối",
+    "tỏi",
+    "xơ lúa mì"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (1422,415)",
+    "chất điều vị (621,631,627,955)",
+    "chất điều chỉnh độ acid (330,331)",
+    "chất bảo quản (202)",
+    "màu tổng hợp (150c)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "(84 - 126) kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "(0,8 - 1,2) g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "(19,3 - 29,0) g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "(0,4 - 0,6) g"
+    },
+    {
+      "name": "Natri",
+      "value": "(1079,2 - 1618,8) mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

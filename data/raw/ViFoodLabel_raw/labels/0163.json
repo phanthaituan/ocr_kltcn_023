@@ -1,0 +1,64 @@
+{
+  "product_name": "Bánh Socola Pie LOTTE CHOCOLAT vị Trà xanh Matcha",
+  "ingredient": [
+    "Bột mì",
+    "hỗn hợp sô cô la 24% (đường, chất béo thực vật, bột ca cao, đường dextrose",
+    "mạch nha",
+    "đường",
+    "cồn thực phẩm",
+    "đường dextrose",
+    "sữa gầy",
+    "gelatin",
+    "bột matcha 0,4%",
+    "bột trứng",
+    "muối",
+    "protein sữa"
+  ],
+  "additive": [
+    "chất nhũ hóa (322(i), 492, 476)",
+    "chất nhũ hóa (471)",
+    "chất chống oxy hóa (307b)",
+    "chất làm ẩm (422)",
+    "chất ổn định (1401, 1440)",
+    "chất tạo xốp (500(ii), 503(ii))",
+    "hương liệu tổng hợp (hương matcha, hương vanilla)",
+    "chất tạo màu tổng hợp (110, 102, 133)"
+  ],
+  "warning": [
+    "Sản phẩm có chứa gluten, trứng, sữa, đậu nành và được sản xuất trên cùng dây chuyền với sản phẩm có chứa đậu phộng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "128 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,24 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "18,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "9,42 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "5,38 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "3,31 g"
+    },
+    {
+      "name": "Natri",
+      "value": "54,9 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "169,8 g (6 gói x 28,3 g)",
+  "mfg_date": null,
+  "expiry_date": null
+}

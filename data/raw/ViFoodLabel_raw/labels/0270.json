@@ -1,0 +1,50 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Tôm (50%)",
+    "nước",
+    "đường",
+    "muối",
+    "ớt",
+    "riềng",
+    "tỏi"
+  ],
+  "additive": [
+    "chất điều vị (INS 621)",
+    "chất bảo quản (INS 200, INS 211)",
+    "chất chống oxy hóa (INS 223)"
+  ],
+  "warning": [
+    "Thông tin cảnh báo: Không dùng sản phẩm hết hạn sử dụng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng (Energy)",
+      "value": "131 Kcal"
+    },
+    {
+      "name": "Chất đạm (Protein)",
+      "value": "7,53 g"
+    },
+    {
+      "name": "Carbohydrat (Carbohydrate)",
+      "value": "23,4 g"
+    },
+    {
+      "name": "Đường tổng số (Total Sugar)",
+      "value": "23,2 g"
+    },
+    {
+      "name": "Chất béo (Total Fat)",
+      "value": "0,77 g"
+    },
+    {
+      "name": "Natri (Sodium)",
+      "value": "2540 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

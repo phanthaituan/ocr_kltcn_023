@@ -1,0 +1,58 @@
+{
+  "product_name": "JUMBO WHITE COFFEE",
+  "ingredient": [
+    "Wheat Flour",
+    "Sugar",
+    "Vegetable Fat",
+    "Maltodextrin",
+    "Whey Powder",
+    "Corn Starch",
+    "Coffee Powder (0.25%)",
+    "Salt",
+    "Cocoa Powder"
+  ],
+  "additive": [
+    "Antioxidant: Tocopherol (E307c)",
+    "Emulsifier Soya Lecithin (E322)",
+    "Colouring (Caramel IV (INS 150d), Caramel I (INS 150a))",
+    "Synthetic Flavour (White Coffee, Vanilla)"
+  ],
+  "warning": [
+    "contains wheat, soy, and milk.",
+    "Manufactured on equipments that also process products that contain egg and peanuts."
+  ],
+  "nutrition": [
+    {
+      "name": "Total Energy",
+      "value": "70 kcal"
+    },
+    {
+      "name": "Total Fat",
+      "value": "3 g"
+    },
+    {
+      "name": "Saturated Fat",
+      "value": "1.5 g"
+    },
+    {
+      "name": "Protein",
+      "value": "0 g"
+    },
+    {
+      "name": "Total Carbohydrate",
+      "value": "10 g"
+    },
+    {
+      "name": "Sugar",
+      "value": "5 g"
+    },
+    {
+      "name": "Salt",
+      "value": "20 mg"
+    }
+  ],
+  "origin": "Indonesia",
+  "net_weight": null,
+  "mfg_date": "06/12/2025",
+  "expiry_date": "06/12/2026"
+}

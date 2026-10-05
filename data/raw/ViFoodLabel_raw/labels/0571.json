@@ -1,0 +1,42 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Hạt điều (99,9 %)",
+    "dầu thực vật"
+  ],
+  "additive": [],
+  "warning": [
+    "Không dùng sản phẩm hết hạn sử dụng.",
+    "Không sử dụng đối với người có khả năng mẫn cảm hoặc dị ứng với các thành phần trong sản phẩm."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "616 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "46 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "31 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "20 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "10 g"
+    },
+    {
+      "name": "Natri",
+      "value": "20 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "12 tháng trước hạn sử dụng (HSD)",
+  "expiry_date": "xem trên bao bì sản phẩm."
+}

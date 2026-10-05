@@ -1,0 +1,55 @@
+{
+  "product_name": "Bánh Rong biển Kẹp Hạt",
+  "ingredient": [
+    "27% Hạt điều",
+    "21% Bí xanh",
+    "16% Gạo lứt nổ",
+    "8% Nước",
+    "6% Hạt óc chó",
+    "5.6% Đường cát",
+    "5% Mật ong",
+    "4.3% Mè trắng",
+    "3% Lá rong biển",
+    "Nước tương",
+    "Mạch nha",
+    "Dầu mè",
+    "Muối ăn"
+  ],
+  "additive": [
+    "Chất bảo quản INS 282",
+    "Chất điều chỉnh độ acid INS 330"
+  ],
+  "warning": [
+    "Không dùng sản phẩm khi hết hạn, không ăn túi hút ẩm, hút oxy (nếu có) trong sản phẩm."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng / Energy",
+      "value": "529"
+    },
+    {
+      "name": "Chất đạm / Protein",
+      "value": "18 g"
+    },
+    {
+      "name": "Carbohydrat / Carbohydrate",
+      "value": "41 g"
+    },
+    {
+      "name": "Đường tổng / Sugars",
+      "value": "18 g"
+    },
+    {
+      "name": "Chất béo / Total Fat",
+      "value": "32 g"
+    },
+    {
+      "name": "Natri / Sodium",
+      "value": "216 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "100 g",
+  "mfg_date": "08/12/2025",
+  "expiry_date": "08/09/2026"
+}

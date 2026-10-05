@@ -1,0 +1,57 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước",
+    "Dầu đậu nành",
+    "Nước tương",
+    "Giấm",
+    "Mè (3.65%)",
+    "Muối thực phẩm",
+    "Đường",
+    "Siro fructose bắp",
+    "Dầu mè (0.6%)",
+    "Lòng đỏ trứng gà",
+    "Chiết xuất hạt mù tạt"
+  ],
+  "additive": [
+    "Chất điều vị (621, 635)",
+    "Chất làm dày (415)",
+    "Hương liệu mè giống tự nhiên",
+    "Chất tạo ngọt nhân tạo (955)",
+    "Chất chống oxy hóa (385)"
+  ],
+  "warning": [
+    "Sản phẩm này sử dụng nguyên liệu chứa các thành phần có thể gây dị ứng: Đậu nành, Lúa mì, Mè, Trứng.",
+    "Trứng sử dụng trong thành phần của sản phẩm là trứng đã được thanh trùng (đã qua xử lý nhiệt)."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "164 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2.1g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "4.4g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "4.4g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "15.1g"
+    },
+    {
+      "name": "Natri (Na)",
+      "value": "1765mg"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam\nDưới sự giám sát của Tập đoàn Kewpie, Tokyo, Nhật Bản",
+  "net_weight": "180 ml",
+  "mfg_date": null,
+  "expiry_date": null
+}

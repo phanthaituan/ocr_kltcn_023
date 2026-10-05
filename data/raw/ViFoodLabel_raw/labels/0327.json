@@ -1,0 +1,36 @@
+{
+  "product_name": null,
+  "ingredient": [],
+  "additive": [],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "476 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "5,6 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "66,9 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "36,6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "20,6 g"
+    },
+    {
+      "name": "Natri",
+      "value": "483 mg"
+    }
+  ],
+  "origin": "Indonesia",
+  "net_weight": "11 gói x 26,25 g",
+  "mfg_date": null,
+  "expiry_date": null
+}

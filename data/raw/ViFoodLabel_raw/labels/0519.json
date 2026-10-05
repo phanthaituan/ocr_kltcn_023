@@ -1,0 +1,93 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước",
+    "đường",
+    "xiro fructoza",
+    "thạch dừa (50 g/l)",
+    "sữa bột (20 g/l)",
+    "nước ép táo hoàn nguyên (10 g/l)",
+    "canxi lactat",
+    "chất béo thực vật",
+    "vitamin (K2, B1, B3, B5, B6, A, D3)",
+    "taurin",
+    "kẽm sulphat"
+  ],
+  "additive": [
+    "chất ổn định (466, 418(ii))",
+    "chất điều chỉnh độ acid (270, 330)",
+    "hương liệu giống tự nhiên (hương cam và hương ngọt)",
+    "chất tạo màu tự nhiên (160b(iii))"
+  ],
+  "warning": [
+    "Có chứa sữa.",
+    "Không dùng cho người mẫn cảm với thành phần sản phẩm.",
+    "Đối tượng sử dụng: Sử dụng cho trẻ từ 3 tuổi trở lên."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "69,5 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0,70 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0,30 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "16 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "13,5 g"
+    },
+    {
+      "name": "Taurin",
+      "value": "2,0 mg"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "130 µg"
+    },
+    {
+      "name": "Vitamin B5",
+      "value": "630 µg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "165 µg"
+    },
+    {
+      "name": "Canxi",
+      "value": "85 mg"
+    },
+    {
+      "name": "Vitamin D3",
+      "value": "70 IU"
+    },
+    {
+      "name": "Vitamin K2",
+      "value": "6,0 µg"
+    },
+    {
+      "name": "Kẽm",
+      "value": "0,80 mg"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "250 IU"
+    },
+    {
+      "name": "Natri",
+      "value": "37 mg"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam.",
+  "net_weight": null,
+  "mfg_date": "Xem trên hộp.",
+  "expiry_date": "Xem trên hộp."
+}

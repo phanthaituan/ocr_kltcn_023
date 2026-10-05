@@ -1,0 +1,57 @@
+{
+  "product_name": "Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản",
+  "ingredient": [
+    "Dầu thực vật 52 % (dầu đậu nành, dầu hạt cải)",
+    "nước",
+    "đường",
+    "trứng gà tươi 4 %",
+    "muối",
+    "bột trứng",
+    "giấm",
+    "bột kem không sữa",
+    "bột mù tạt"
+  ],
+  "additive": [
+    "chất ổn định (Hydroxypropyl distarch phosphat, Gôm xanthan)",
+    "chất điều vị Mononatri L-glutamat",
+    "chất điều chỉnh độ acid (Acid acetic băng, Acid citric)",
+    "chất bảo quản (Kali sorbat, Dinatri ethylendiamintetraacetat (EDTA))",
+    "chất chống oxy hóa Butyl hydroxytoluen (BHT)",
+    "chất tạo ngọt tổng hợp Sucralose (Trichlorogalacto sucrose)",
+    "hương sữa tổng hợp",
+    "phẩm màu Beta-caroten tổng hợp"
+  ],
+  "warning": [
+    "Sản phẩm không dành cho người nhạy cảm với trứng, sữa và sulfit."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "568*"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "≥ 1"
+    },
+    {
+      "name": "Chất béo",
+      "value": "56*"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "16*"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "≤ 18"
+    },
+    {
+      "name": "Natri",
+      "value": "≤ 1271"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

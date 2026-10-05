@@ -1,0 +1,49 @@
+{
+  "product_name": "Salted Egg Yolk Sauce",
+  "ingredient": [
+    "Nước Đường",
+    "Lòng Đỏ Trứng Muối 14%",
+    "Dầu Thực Vật",
+    "Nước Mắm Dầu Màu Điều",
+    "Bơ Thực Vật",
+    "Muối"
+  ],
+  "additive": [
+    "Chất Ổn Định (1422)",
+    "Chất Điều Vị (621)"
+  ],
+  "warning": [
+    "Sản phẩm có thành phần chứa Trứng, Nước Mắm, Đậu Nành.",
+    "Không sử dụng sản phẩm hết hạn sử dụng, có dấu hiệu hư hỏng hoặc dị ứng với bất kỳ thành phần của sản phẩm."
+  ],
+  "nutrition": [
+    {
+      "name": "Giá trị năng lượng (Energy)",
+      "value": "343 kcal"
+    },
+    {
+      "name": "Chất đạm (Protein)",
+      "value": "5,37 g"
+    },
+    {
+      "name": "Carbohydrat (Carbohydrate)",
+      "value": "20,5 g"
+    },
+    {
+      "name": "Đường tổng số (Total Sugars)",
+      "value": "19,1 g"
+    },
+    {
+      "name": "Chất béo (Fat)",
+      "value": "26,4 g"
+    },
+    {
+      "name": "Natri (Sodium)",
+      "value": "867 mg"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": "100 g",
+  "mfg_date": "xem trên bao bì",
+  "expiry_date": "12 tháng kể từ ngày sản xuất"
+}

@@ -1,0 +1,62 @@
+{
+  "product_name": "BÁNH CUSTAS KEM TRỨNG",
+  "ingredient": [
+    "Trứng (22,3%)",
+    "Bột mì",
+    "Đường",
+    "Dầu thực vật",
+    "Mạch nha Maltose",
+    "Mạch nha Isomalto oligo",
+    "Bột sữa nguyên kem",
+    "Cồn thực phẩm",
+    "Bột lòng đỏ trứng (1%)",
+    "Maltodextrin",
+    "Muối",
+    "Muối i-ốt"
+  ],
+  "additive": [
+    "Chất làm ẩm (420(ii), 1520, 422)",
+    "Chất nhũ hóa (477, 471, 322(i), 475, 491, 470(i))",
+    "Chất ổn định (170(i), 415)",
+    "Chất tạo xốp (575, 500(ii))",
+    "Hương liệu tổng hợp (vani, sữa trứng)",
+    "Chất tạo màu tổng hợp (160a(i))"
+  ],
+  "warning": [
+    "Sản phẩm không dùng cho người dị ứng với các thành phần sau: trứng, lúa mì, sữa, đậu nành và có thể chứa cá."
+  ],
+  "nutrition": [
+    {
+      "name": "Khẩu phần 1 gói",
+      "value": "23,5 g"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "102 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "5,7 g"
+    },
+    {
+      "name": "Natri",
+      "value": "36 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "11,3 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "6,1 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,4 g"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "282 g (12 GÓI X 23,5 g)",
+  "mfg_date": null,
+  "expiry_date": null
+}

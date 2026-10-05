@@ -1,0 +1,81 @@
+{
+  "image_id": "0258",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Bột kem thực vật (52 %) (siro glucose, dầu nhân cọ, chất khô từ sữa (7,5%) (whey protein, natri caseinat), chất ổn định (340(ii), 451(i)), chất nhũ hóa (471, 481(i)), chất chống đông vón (551), chất tạo màu tổng hợp Beta-caroten 160a(i))",
+    "đường",
+    "cà phê hòa tan (13 %)",
+    "đường dextrose",
+    "bột cà phê rang xay (0,35 %)",
+    "muối ăn"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (340(ii), 451(i))",
+    "chất nhũ hóa (471, 481(i))",
+    "chất chống đông vón (551)",
+    "chất tạo màu tổng hợp Beta-caroten 160a(i)",
+    "chất tạo màu tự nhiên Caramen nhóm I (150a)",
+    "hương liệu tổng hợp",
+    "chất điều chỉnh độ acid 500(ii)",
+    "chất tạo ngọt tổng hợp Acesulfam kali (950)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "133 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,19 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "20,2 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "20,0 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "5,05 g"
+    },
+    {
+      "name": "Natri",
+      "value": "106 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa sữa.",
+    "Không dùng cho người dị ứng với các thành phần của sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "sữa"
+    ],
+    "inferred_from_ingredient_additive": [
+      "sữa"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

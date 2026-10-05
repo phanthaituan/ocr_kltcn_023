@@ -1,0 +1,51 @@
+{
+  "product_name": "PÖNNIE",
+  "ingredient": [
+    "Thịt thăn heo 200 g",
+    "dầu cọ",
+    "nước mắm 11,4 g",
+    "đường",
+    "chất xơ từ lúa mì",
+    "hành tím",
+    "tiêu"
+  ],
+  "additive": [
+    "chất điều vị (621)",
+    "hương liệu giống tự nhiên",
+    "chất chống oxy hóa (316)",
+    "D-xylose"
+  ],
+  "warning": [
+    "Sản phẩm chứa các nguyên liệu có nguồn gốc từ lúa mì và thủy sản."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng (kcal)",
+      "value": "449"
+    },
+    {
+      "name": "Chất đạm (g)",
+      "value": "46"
+    },
+    {
+      "name": "Carbohydrat (g)",
+      "value": "10"
+    },
+    {
+      "name": "Đường tổng số (g)",
+      "value": "8,6"
+    },
+    {
+      "name": "Chất béo (g)",
+      "value": "25"
+    },
+    {
+      "name": "Natri (mg)",
+      "value": "1364,7"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "xem trên bao bì",
+  "expiry_date": "06 tháng kể từ ngày sản xuất"
+}

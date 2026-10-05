@@ -1,0 +1,85 @@
+{
+  "image_id": "0446",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Bánh gạo: Gạo (85%), muối, nước",
+    "Gói sốt: Đường, đường ngô (HFCS), tương ớt Gochujang, tỏi, cà chua cô đặc, chất điều vị (INS 621, INS 631, INS 627), muối, cồn thực phẩm, ớt, chất làm dày (INS 1422, INS 415), vừng, chất tạo màu tự nhiên (INS 160c(ii)), chiết xuất hải sản (mực, tôm, cá), chiết xuất hành, chất điều chỉnh độ acid (INS 330), bột vi khuẩn lactic lên men, maltodextrin, chiết xuất Yucca"
+  ],
+  "gold_additives_raw": [
+    "Chất điều vị (INS 621, INS 631, INS 627)",
+    "Chất làm dày (INS 1422, INS 415)",
+    "Chất tạo màu tự nhiên (INS 160c(ii))",
+    "Chất điều chỉnh độ acid (INS 330)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "175,4 ~ 263,1 kcal"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "40 ~ 60 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2,8 ~ 4,2 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "≤ 1 g"
+    },
+    {
+      "name": "Natri",
+      "value": "< 720 mg"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "1 ~ 17 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng cho người dị ứng với bất kỳ thành phần nào của sản phẩm.",
+    "Sản phẩm có chứa gói hút oxy. Không ăn gói này."
+  ],
+  "allergen_final": {
+    "contains": [
+      "cá",
+      "giáp_xác",
+      "hạt_vừng",
+      "hải_sản",
+      "ngô",
+      "nhuyễn_thể"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "cá",
+      "giáp_xác",
+      "hạt_vừng",
+      "hải_sản",
+      "ngô",
+      "nhuyễn_thể"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1,
+      "desiccant_or_misc": 1,
+      "unclassified": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": "12 tháng kể từ ngày sản xuất.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

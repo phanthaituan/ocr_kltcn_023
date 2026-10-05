@@ -1,0 +1,55 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước",
+    "nước ép ổi (25%)",
+    "đường",
+    "vitamin C"
+  ],
+  "additive": [
+    "chất ổn định (440)",
+    "chất điều chỉnh độ acid (330)",
+    "hương liệu giống tự nhiên dùng cho thực phẩm"
+  ],
+  "warning": [
+    "Dùng cho người trên 3 tuổi."
+  ],
+  "nutrition": [
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "52 kcal"
+    },
+    {
+      "name": "CARBOHYDRAT",
+      "value": "13 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ",
+      "value": "12,6 g"
+    },
+    {
+      "name": "ĐƯỜNG BỔ SUNG THÊM",
+      "value": "10,2 g"
+    },
+    {
+      "name": "CHẤT ĐẠM",
+      "value": "<0,5 g"
+    },
+    {
+      "name": "CHẤT BÉO",
+      "value": "<0,5 g"
+    },
+    {
+      "name": "NATRI",
+      "value": "0,4 mg"
+    },
+    {
+      "name": "VITAMIN C",
+      "value": "10 mg"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam.",
+  "net_weight": null,
+  "mfg_date": "06 tháng trước HSD.",
+  "expiry_date": "HSD: Xem trên hộp."
+}

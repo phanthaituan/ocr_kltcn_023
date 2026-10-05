@@ -1,0 +1,84 @@
+{
+  "image_id": "0190",
+  "product_name": "BÁNH CHOCOPIE GIÒN NO BRAND",
+  "gold_ingredients_raw": [
+    "Đường",
+    "bột mì",
+    "dầu cọ hydro hóa",
+    "bột ca cao 8,94%",
+    "tinh bột [tinh bột ngô (có thể bao gồm ngô biến đổi gen), tinh bột sắn]",
+    "muối tinh chế",
+    "bột cà phê",
+    "sữa bột nguyên kem",
+    "ca cao khối 0,03%",
+    "Có chứa lúa mì, đậu nành, sữa"
+  ],
+  "gold_additives_raw": [
+    "chất tạo xốp (INS 503(ii), INS 500(ii), INS 450(i))",
+    "chất nhũ hóa (INS 322(i)) từ đậu nành",
+    "phẩm màu (INS 150d)",
+    "hương liệu tổng hợp",
+    "chất xử lý bột (INS 1101(i))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "1040 kcal"
+    },
+    {
+      "name": "Natri",
+      "value": "480 mg"
+    },
+    {
+      "name": "carbohydrat",
+      "value": "131 g"
+    },
+    {
+      "name": "đường tổng số",
+      "value": "70 g"
+    },
+    {
+      "name": "chất béo",
+      "value": "52 g"
+    },
+    {
+      "name": "chất béo bão hòa",
+      "value": "41 g"
+    },
+    {
+      "name": "chất đạm",
+      "value": "12 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm đã hết hạn sử dụng.",
+    "Sản phẩm này được sản xuất trên thiết bị sản xuất cùng với các sản phẩm sử dụng đậu phộng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "đậu_phộng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1,
+      "named_allergy": 1
+    }
+  },
+  "origin": "Malaysia",
+  "net_weight": "200 g (10 cái) / gói",
+  "mfg_date": "12 tháng trước hạn sử dụng",
+  "expiry_date": "Xem trên bao bì sản phẩm (ngày,tháng, năm)",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "product_name": "Trà Đào Hạt Chia",
+  "ingredient": [
+    "Nước",
+    "đường mía",
+    "nước ép táo (1,86%)",
+    "hạt chia (0,22%)",
+    "nước ép đào (0,16%)",
+    "bột trà từ trà đen (0,1%)"
+  ],
+  "additive": [
+    "chất điều chỉnh độ acid (330, 331(i))",
+    "hương liệu tự nhiên",
+    "chất chống oxy hóa (300)",
+    "chất tạo ngọt tổng hợp (955, 950)"
+  ],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "20,1 Kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "4,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "4,2 g"
+    },
+    {
+      "name": "Natri",
+      "value": "< 34 mg"
+    },
+    {
+      "name": "Polyphenol",
+      "value": ">=16 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": "Xem trên bao bì sản phẩm"
+}

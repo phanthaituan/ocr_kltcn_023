@@ -1,0 +1,43 @@
+{
+  "product_name": "SỮA ĐẬU NÀNH ĐEN NO BRAND",
+  "ingredient": [
+    "Sữa đậu nành nguyên chất 80% (hàm lượng đậu nành 7%)",
+    "nước tinh khiết",
+    "đường fructose",
+    "hỗn hợp Calci carbonat (Calci carbonat, polysaccharide đậu nành)",
+    "sữa gạo lứt",
+    "chiết xuất đậu đen 0,5% (Hàm lượng đậu 2%)",
+    "muối tinh",
+    "chất nhũ hóa",
+    "bột vừng",
+    "chất ổn định"
+  ],
+  "additive": [
+    "chất nhũ hóa: INS 471",
+    "chất ổn định: INS 407",
+    "hương liệu tổng hợp (hương vani, hương tacao)",
+    "hỗn hợp vitamin D3 (đường sucrose, chất làm dày: INS 414, tinh bột ngô, dầu dừa MCT, vitamin D3 (Cholecalciferol), chất chống oxy hóa: INS 307b, chất chống đông vón: INS 551)",
+    "chất làm dày: INS 414",
+    "chất chống oxy hóa: INS 307b",
+    "chất chống đông vón: INS 551"
+  ],
+  "warning": [
+    "Không dùng sản phẩm khi đã hết hạn sử dụng.",
+    "Sản phẩm này được sản xuất theo dây chuyền với các sản phẩm có sử dụng từ sữa, trứng, đậu phộng, lúa mạch, quả đào, cà chua, quả óc chó, kiều mạch, adt lưu huỳnh, hạt thông.",
+    "Không sử dụng nếu sản phẩm bị biến dạng hoặc hư hỏng."
+  ],
+  "nutrition": [
+    {
+      "name": "Calci",
+      "value": "230mg"
+    },
+    {
+      "name": "vitamin D3 (Cholecalciferol)",
+      "value": "1,4µg"
+    }
+  ],
+  "origin": "Hàn Quốc",
+  "net_weight": "190 ml / hộp",
+  "mfg_date": "07 tháng trước hạn sử dụng",
+  "expiry_date": "Xem trên bao bì sản phẩm (năm.tháng.ngày 까지)"
+}

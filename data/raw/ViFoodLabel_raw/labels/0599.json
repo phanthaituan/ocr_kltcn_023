@@ -1,0 +1,48 @@
+{
+  "product_name": "BÁNH TRÁNG XIKE kodochi",
+  "ingredient": [
+    "Bánh tráng(87%)",
+    "dầu thực vật(10%)",
+    "muối",
+    "đường",
+    "tỏi",
+    "ớt",
+    "bột điều đỏ"
+  ],
+  "additive": [],
+  "warning": [
+    "Không sử dụng sản phẩm khi có dấu hiệu hư hỏng.",
+    "Không sử dụng cho người dị ứng với các thành phần của sản phẩm.",
+    "Không sử dụng sản phẩm hết hạn sử dụng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "273.6 Kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0.749 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "67.12 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "13.92 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0.157 g"
+    },
+    {
+      "name": "Natri",
+      "value": "826.4 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "24/08/2025",
+  "expiry_date": "24/02/2026"
+}

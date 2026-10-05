@@ -1,0 +1,72 @@
+{
+  "image_id": "0195",
+  "product_name": "KẸO TRÀ SỮA POPIT - VỊ NGUYÊN BẢN / MILK TEA POPIT CANDY - ORIGINAL TASTE",
+  "gold_ingredients_raw": [
+    "Mạch nha (IMO)",
+    "đường",
+    "chất béo thực vật (cọ)",
+    "sữa gầy",
+    "dextrose",
+    "bột sữa whey",
+    "đường lactose",
+    "sữa béo (1,6 %)",
+    "bột ca cao",
+    "chiết xuất trà đen (0,2 %)"
+  ],
+  "gold_additives_raw": [
+    "tinh bột biến tính alpha",
+    "chất tạo gel (407)",
+    "chất ổn định (508)",
+    "phẩm màu tổng hợp (150c)",
+    "chất nhũ hóa (322(i), 476)",
+    "hương liệu tổng hợp (sữa, vanillin)",
+    "hương liệu tự nhiên và giống tự nhiên (trà đen)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng(Energy)",
+      "value": "338 kcal"
+    },
+    {
+      "name": "Chất đạm(Protein)",
+      "value": "2,56 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "47,7 g"
+    },
+    {
+      "name": "Đường tổng số(Total Sugars)",
+      "value": "34,4 g"
+    },
+    {
+      "name": "Chất béo(Fat)",
+      "value": "15,0 g"
+    },
+    {
+      "name": "Natri(Sodium)",
+      "value": "52,9 mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": "Made in Vietnam.",
+  "net_weight": null,
+  "mfg_date": "180326",
+  "expiry_date": "180127 L1",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

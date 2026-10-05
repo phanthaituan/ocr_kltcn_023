@@ -1,0 +1,70 @@
+{
+  "product_name": "nutri boost",
+  "ingredient": [
+    "Nước",
+    "sữa hoàn nguyên (19%) (nước, sữa bột nguyên kem, sữa bột tách béo)",
+    "nước ép táo hoàn nguyên (10%)",
+    "đường",
+    "calcium lactate pentahydrate",
+    "zinc gluconate",
+    "hỗn hợp vitamin (B3, E)"
+  ],
+  "additive": [
+    "chất ổn định (466)",
+    "chất điều chỉnh độ acid (338, 331(iii))",
+    "hương liệu tổng hợp (hương bánh quy kem)",
+    "chất tạo ngọt tổng hợp (950, 955)"
+  ],
+  "warning": [
+    "Sản phẩm có chứa sữa.",
+    "Không dùng cho người có dị ứng với thành phần này của sản phẩm.",
+    "Dành cho người từ 4 tuổi trở lên.",
+    "Không sử dụng sản phẩm quá hạn."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "135,4 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,56 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "1,36 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "29 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "25 g"
+    },
+    {
+      "name": "Natri",
+      "value": "≤ 211 mg"
+    },
+    {
+      "name": "Vitamin B3",
+      "value": "≥ 2,27 mg"
+    },
+    {
+      "name": "Vitamin E",
+      "value": "≥ 2,1 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "≥ 119 mg"
+    },
+    {
+      "name": "Kẽm",
+      "value": "≥ 1,2 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "297 ml",
+  "mfg_date": null,
+  "expiry_date": "Xem trên bao bì sản phẩm."
+}

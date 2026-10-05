@@ -1,0 +1,46 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Đường",
+    "chất xơ 3,4 % (chất xơ hòa tan Inulin 3,3 %)",
+    "bột trà đen 1,2 %",
+    "bột đào 1 %",
+    "Vitamin C (Acid L-ascorbic) 0,2 %"
+  ],
+  "additive": [
+    "chất điều chỉnh độ acid (Acid citric, Acid malic (DL-))",
+    "maltodextrin",
+    "hương tổng hợp (đào, sả)",
+    "hương tự nhiên (trái cây, cam)",
+    "chất tạo ngọt tự nhiên Steviol glycosid từ Stevia rebaudiana Bertoni 0,025 %"
+  ],
+  "warning": [
+    "Sản phẩm không dành cho người nhạy cảm với Sữa, Gluten, Sulfit, Đậu nành."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "31 ~ 44 kcal"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "<11 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "<11 g"
+    },
+    {
+      "name": "Natri",
+      "value": "≤ 1 mg"
+    },
+    {
+      "name": "Vitamin C",
+      "value": "≥ 11 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": "NSX 07.12.25 B",
+  "expiry_date": "HSD 07.12.26 T"
+}

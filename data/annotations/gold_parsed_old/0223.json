@@ -1,0 +1,63 @@
+{
+  "image_id": "0223",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Tép 95 %",
+    "(đường, muối, ớt) 4.48 %"
+  ],
+  "gold_additives_raw": [
+    "chất điều vị (INS 621) 0.5 %",
+    "màu tổng hợp (INS 124) 0.02 %"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "317 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "49.7 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "24.2 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "20.7 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "2.5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "3538 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm nếu dị ứng với các thành phần có trong sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": "07/02/2026",
+  "expiry_date": "07/02/2027",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "product_name": "Cháo tươi cá hồi & phô mai",
+  "ingredient": [
+    "Nước",
+    "gạo (7%)",
+    "cá hồi (6,66%)",
+    "gạo ST25 (1,5%)",
+    "bột phô mai (1,5%)",
+    "đường",
+    "muối",
+    "tỏi",
+    "bột nước tương",
+    "bột nguyên trứng"
+  ],
+  "additive": [
+    "chất làm dày (1442, 1422)"
+  ],
+  "warning": [
+    "Không dùng cho người bị dị ứng với các thành phần của sản phẩm.",
+    "Không sử dụng sản phẩm khi đã hết hạn sử dụng hoặc gói phồng to bất thường."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "61 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "1,12 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "9,76 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2,64 g"
+    },
+    {
+      "name": "Natri",
+      "value": "223 mg"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "1,14 g"
+    }
+  ],
+  "origin": "null",
+  "net_weight": null,
+  "mfg_date": "In trên bao bì (ngày, tháng, năm)",
+  "expiry_date": "18 tháng"
+}

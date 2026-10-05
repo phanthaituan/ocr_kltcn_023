@@ -1,0 +1,61 @@
+{
+  "product_name": "Hạt Điều Rang Củi",
+  "ingredient": [
+    "Hạt Điều Việt Nam (99.7%)",
+    "Muối biển (0.3%)"
+  ],
+  "additive": [],
+  "warning": [
+    "Không dùng khi sản phẩm hết hạn."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "615Kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "20.1g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "28.3g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "46.8g"
+    },
+    {
+      "name": "Trans Fat",
+      "value": "0g"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "0.28mg"
+    },
+    {
+      "name": "Sắt",
+      "value": "6.99mg"
+    },
+    {
+      "name": "Magie",
+      "value": "221mg"
+    },
+    {
+      "name": "Kẽm",
+      "value": "3.95mg"
+    },
+    {
+      "name": "Đồng",
+      "value": "1.86mg"
+    },
+    {
+      "name": "Natri",
+      "value": "297mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": "Xem trên bao bì."
+}

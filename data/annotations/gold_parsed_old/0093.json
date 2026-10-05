@@ -1,0 +1,45 @@
+{
+  "image_id": "0093",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Bột kem (54 %) (siro glucose, dầu nhân cọ, chất khô từ sữa (5,5% hàm lượng caseinate (2-3 %), đường, bột trà (5 %), bột cacao, muối ăn"
+  ],
+  "gold_additives_raw": [
+    "hương liệu tổng hợp",
+    "chất tạo ngọt Acesulfam kali tổng hợp (950)"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa sữa (contains milk).",
+    "Không dùng cho người dị ứng với các thành phần của sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "sữa"
+    ],
+    "inferred_from_ingredient_additive": [
+      "sữa"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "22 g",
+  "mfg_date": "24 tháng trước HSD",
+  "expiry_date": "Xem trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

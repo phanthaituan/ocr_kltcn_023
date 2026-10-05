@@ -1,0 +1,85 @@
+{
+  "image_id": "0348",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Sữa (sữa tươi, nước, bột sữa, chất béo thực vật) (78%)",
+    "cà chua (12%)",
+    "đường",
+    "gelatine",
+    "men Streptococcus thermophilus và Lactobacillus bulgaricus"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (1422, 471)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Calories (kcal)",
+      "value": "491"
+    },
+    {
+      "name": "Calories (kcal)",
+      "value": "79"
+    },
+    {
+      "name": "Chất đạm (Protein)",
+      "value": "8.81g"
+    },
+    {
+      "name": "Chất đạm (Protein)",
+      "value": "1.41g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "64.1g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "10.3g"
+    },
+    {
+      "name": "Đường tổng số (Total sugars)",
+      "value": "41.4g"
+    },
+    {
+      "name": "Đường tổng số (Total sugars)",
+      "value": "6.62g"
+    },
+    {
+      "name": "Chất béo (Fat)",
+      "value": "22.2g"
+    },
+    {
+      "name": "Chất béo (Fat)",
+      "value": "3.55g"
+    },
+    {
+      "name": "Natri (Sodium)",
+      "value": "189mg"
+    },
+    {
+      "name": "Natri (Sodium)",
+      "value": "30.2mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "NSX: 07/06/2",
+  "expiry_date": "HSD: 07/07/2",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

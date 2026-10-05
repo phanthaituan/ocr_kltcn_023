@@ -1,0 +1,66 @@
+{
+  "image_id": "0011",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Bột đậu xanh (35%)",
+    "đường (đường kính trắng, đường gluco)",
+    "dầu thực vật"
+  ],
+  "gold_additives_raw": [
+    "hương liệu khoai môn tổng hợp",
+    "hương liệu vani tổng hợp",
+    "phẩm màu tổng hợp Allura red AC (INS 129)",
+    "phẩm màu tổng hợp Brilliant blue FCF (INS 133)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "484,6 Kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "11,61 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "60,68 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "20,91 g"
+    },
+    {
+      "name": "Natri",
+      "value": "4,05 mg"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "27,98 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm khi hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "100 g",
+  "mfg_date": "9 tháng trước HSD",
+  "expiry_date": "xem trên bao bì",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

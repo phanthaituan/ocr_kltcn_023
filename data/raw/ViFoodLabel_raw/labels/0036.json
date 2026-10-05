@@ -1,0 +1,41 @@
+{
+  "product_name": "PREMIUM EGG NOODLE",
+  "ingredient": [
+    "Bột mì (95%)",
+    "muối",
+    "trứng gà tươi (3,5%)"
+  ],
+  "additive": [
+    "Chất điều chỉnh độ axit: (INS 451(i), INS 500(i), INS 501(i))",
+    "Chất làm dày: (INS 405)",
+    "Chất điều vị: (INS 621, INS 627, INS 631)",
+    "Chất chống đông vón: (INS 551)",
+    "Màu tự nhiên: (INS 164, INS 160b(ii))"
+  ],
+  "warning": [
+    "Không sử dụng cho người dị ứng với các thành phần của sản phẩm",
+    "Sản phẩm có chứa gluten, trứng"
+  ],
+  "nutrition": [
+    {
+      "name": "Hàm lượng béo (g)",
+      "value": "0.8 - 1.2"
+    },
+    {
+      "name": "Hàm lượng carbohydrate (g)",
+      "value": "58.8 - 88.2"
+    },
+    {
+      "name": "Hàm lượng protein (g)",
+      "value": "8.9 - 13.3"
+    },
+    {
+      "name": "Năng lượng (kcal)",
+      "value": "278 - 416"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

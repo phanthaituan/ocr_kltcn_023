@@ -1,0 +1,73 @@
+{
+  "image_id": "0439",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "19% trứng (gà)",
+    "Chất béo thực vật (shortening, dầu olein tinh luyện)",
+    "Đường",
+    "Mạch nha",
+    "Sữa tách béo",
+    "Tinh bột bắp",
+    "Nước",
+    "Muối"
+  ],
+  "gold_additives_raw": [
+    "Chất giữ ẩm (422, 420(i))",
+    "Chất nhũ hóa (475)",
+    "Chất tạo xốp (500(iii))",
+    "Vanilla",
+    "Chất làm dày (415)",
+    "Chất điều chỉnh độ acid (330, 270)",
+    "Chất bảo quản (202)",
+    "Hương liệu (cốm, sữa, chanh, bơ) tổng hợp",
+    "Phẩm màu tổng hợp (160a(i), 133)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "461 kcal"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "48 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "28 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "22 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "5.4 g"
+    },
+    {
+      "name": "Natri",
+      "value": "223 mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

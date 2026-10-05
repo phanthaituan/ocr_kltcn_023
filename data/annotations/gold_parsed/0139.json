@@ -1,0 +1,77 @@
+{
+  "image_id": "0139",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Nước",
+    "nước ép ổi (25%)",
+    "đường",
+    "vitamin C"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (440)",
+    "chất điều chỉnh độ acid (330)",
+    "hương liệu giống tự nhiên dùng cho thực phẩm"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "52 kcal"
+    },
+    {
+      "name": "CARBOHYDRAT",
+      "value": "13 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ",
+      "value": "12,6 g"
+    },
+    {
+      "name": "ĐƯỜNG BỔ SUNG THÊM",
+      "value": "10,2 g"
+    },
+    {
+      "name": "CHẤT ĐẠM",
+      "value": "<0,5 g"
+    },
+    {
+      "name": "CHẤT BÉO",
+      "value": "<0,5 g"
+    },
+    {
+      "name": "NATRI",
+      "value": "0,4 mg"
+    },
+    {
+      "name": "VITAMIN C",
+      "value": "10 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Dùng cho người từ 3 tuổi."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "child_supervision": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "06 tháng trước HSD.",
+  "expiry_date": "Xem trên hộp.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

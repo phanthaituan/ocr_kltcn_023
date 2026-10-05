@@ -1,0 +1,87 @@
+{
+  "image_id": "0045",
+  "product_name": "SNACK BÁNH TRÁNG NƯỚNG PHỦ TÔM NƯỚNG",
+  "gold_ingredients_raw": [
+    "Tinh bột sắn (70%)",
+    "nước cốt dừa (15%)",
+    "mè trắng (7%)",
+    "tôm khô (5%)",
+    "ớt",
+    "tỏi",
+    "muối phơi sấy tự nhiên",
+    "tiêu đen",
+    "đường",
+    "dầu điều",
+    "hành tím",
+    "nước mắm"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "412 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "4,69 g"
+    },
+    {
+      "name": "Carbohydrat không bao gồm xơ",
+      "value": "79,5 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "8,35 g"
+    },
+    {
+      "name": "Natri",
+      "value": "739 mg"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "12,1 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa dừa, mè và tôm.",
+    "Không sử dụng sản phẩm khi thấy hiện tượng ẩm, mốc, hết hạn sử dụng hoặc bao bì không nguyên vẹn."
+  ],
+  "allergen_final": {
+    "contains": [
+      "dừa",
+      "giáp_xác",
+      "hạt_vừng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "dừa",
+      "giáp_xác",
+      "hạt_vừng"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "dừa",
+      "giáp_xác",
+      "hạt_vừng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "12 01 2026",
+  "expiry_date": "12 10 2026",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

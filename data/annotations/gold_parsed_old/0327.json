@@ -1,0 +1,53 @@
+{
+  "image_id": "0327",
+  "product_name": null,
+  "gold_ingredients_raw": [],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "476 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "5,6 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "66,9 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "36,6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "20,6 g"
+    },
+    {
+      "name": "Natri",
+      "value": "483 mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": "Indonesia",
+  "net_weight": "11 gói x 26,25 g",
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": false,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

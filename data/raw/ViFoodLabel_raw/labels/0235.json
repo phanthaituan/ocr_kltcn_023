@@ -1,0 +1,76 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước dừa (94%)",
+    "Đường",
+    "Nước ép tắc (2%)"
+  ],
+  "additive": [],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng Lượng",
+      "value": "100"
+    },
+    {
+      "name": "Béo Tổng",
+      "value": "0g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "0g"
+    },
+    {
+      "name": "Chất béo dạng trans",
+      "value": "0g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0mg"
+    },
+    {
+      "name": "Sodium",
+      "value": "130mg"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "26g"
+    },
+    {
+      "name": "Chất xơ",
+      "value": "0g"
+    },
+    {
+      "name": "Đường",
+      "value": "26g"
+    },
+    {
+      "name": "Bao gồm đường bổ sung",
+      "value": "14g"
+    },
+    {
+      "name": "Protein",
+      "value": "0g"
+    },
+    {
+      "name": "Vitamin D",
+      "value": "0mcg"
+    },
+    {
+      "name": "Calcium",
+      "value": "40mg"
+    },
+    {
+      "name": "Iron",
+      "value": "0mg"
+    },
+    {
+      "name": "Potassium",
+      "value": "580mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

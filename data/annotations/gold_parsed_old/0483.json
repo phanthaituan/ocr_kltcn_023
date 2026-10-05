@@ -1,0 +1,68 @@
+{
+  "image_id": "0483",
+  "product_name": "KẸO DẺO BOOM VỊ ĐÀO",
+  "gold_ingredients_raw": [
+    "ĐƯỜNG",
+    "MẠCH NHA MALTOSE",
+    "GELATIN",
+    "NƯỚC ÉP ĐÀO CÔ ĐẶC (5,0%)",
+    "NƯỚC ÉP CÀ RỐT ĐEN CÔ ĐẶC"
+  ],
+  "gold_additives_raw": [
+    "CHẤT LÀM DÀY (1200, 1442, 440)",
+    "CHẤT ĐIỀU CHỈNH ĐỘ ACID (330, 334, 296)",
+    "HƯƠNG LIỆU TỔNG HỢP VÀ GIỐNG TỰ NHIÊN (ĐÀO)",
+    "CHẤT LÀM BÓNG (903, 901)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "328 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "7,3 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "74,5 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "59,3 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0 g"
+    },
+    {
+      "name": "Natri",
+      "value": "6 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "TRẺ EM CẦN CÓ SỰ GIÁM SÁT CỦA NGƯỜI LỚN KHI ĂN."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "child_supervision": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

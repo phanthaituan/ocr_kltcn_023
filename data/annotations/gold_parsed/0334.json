@@ -1,0 +1,123 @@
+{
+  "image_id": "0334",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Wheat Flour",
+    "Sugar",
+    "Vegetable Oil (contains Antioxidant TBHQ)",
+    "Whey Powder",
+    "Cocoa Powder (3,68%)",
+    "Maltodextrin",
+    "Corn Starch",
+    "Salt",
+    "Vitamin (A(contains Antioxidant Tocopherol), B1, B2)"
+  ],
+  "gold_additives_raw": [
+    "Antioxidant TBHQ",
+    "Synthetic Flavour (contains Natural Colour Caramel IV Sulphite Ammonia Process)",
+    "Natural Colour Caramel IV Sulphite Ammonia Process",
+    "Emulsifier Soy Lecithin",
+    "Raising Agent",
+    "Antioxidant Tocopherol"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Khẩu phần",
+      "value": "10g"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "50"
+    },
+    {
+      "name": "Tổng chất béo",
+      "value": "1.5g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "1g"
+    },
+    {
+      "name": "Chất béo chuyển hóa",
+      "value": "0g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0mg"
+    },
+    {
+      "name": "Natri",
+      "value": "20mg"
+    },
+    {
+      "name": "Tổng Carbohydrat",
+      "value": "7g"
+    },
+    {
+      "name": "Tổng đường",
+      "value": "3g"
+    },
+    {
+      "name": "Bao gồm đường thêm",
+      "value": "3g"
+    },
+    {
+      "name": "Chất đạm ít hơn",
+      "value": "0g"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "170mcg"
+    },
+    {
+      "name": "Vitamin B2",
+      "value": "0.19mg"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "0.19mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Allergen Information. For allergens, see ingredients in bold. May also contain : Egg, Hazelnut, and Peanut.",
+    "DO NOT ACCEPT IF PACKAGING IS DAMAGED."
+  ],
+  "allergen_final": {
+    "contains": [
+      "hạt_cây",
+      "trứng",
+      "đậu_phộng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "hạt_cây",
+      "trứng",
+      "đậu_phộng"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "hạt_cây",
+      "trứng",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "unclassified": 3,
+      "named_allergy": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": "MFG 18/01/2026 SMD",
+  "expiry_date": "EXP 18/01/2027",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

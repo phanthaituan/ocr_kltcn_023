@@ -1,0 +1,91 @@
+{
+  "image_id": "0345",
+  "product_name": "BÁNH ỐNG VỊ TRÀ XANH NO BRAND",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "đường",
+    "dầu thực vật [dầu cọ, chất chống oxy hóa (INS 307C, INS 307b)]",
+    "bột sữa",
+    "bột whey",
+    "đường maltodextrin",
+    "tinh bột ngô (có thể bao gồm ngô biến đổi gen)",
+    "đường glucose",
+    "bột trà xanh 1%",
+    "bột đậu nành",
+    "chất xơ lúa mì",
+    "muối tinh chế"
+  ],
+  "gold_additives_raw": [
+    "chất chống oxy hóa (INS 307C, INS 307b)",
+    "INS 492",
+    "INS 473",
+    "hương liệu nhân tạo",
+    "chất nhũ hóa (INS 477)",
+    "chất tạo màu nhân tạo 3 loại: phẩm màu (INS 150a, INS 102, INS 133)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "555 kcal"
+    },
+    {
+      "name": "Natri",
+      "value": "190 mg"
+    },
+    {
+      "name": "carbohydrat",
+      "value": "83 g"
+    },
+    {
+      "name": "đường tổng số",
+      "value": "40 g"
+    },
+    {
+      "name": "chất béo",
+      "value": "23 g"
+    },
+    {
+      "name": "chất béo bão hòa",
+      "value": "13 g"
+    },
+    {
+      "name": "chất đạm",
+      "value": "4 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "CÓ CHỨA LÚA MÌ, SỮA, ĐẬU NÀNH",
+    "Không sử dụng sản phẩm đã hết hạn sử dụng"
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Indonesia",
+  "net_weight": "115 g / hộp",
+  "mfg_date": "12 tháng trước hạn sử dụng",
+  "expiry_date": "xem trên bao bì (EXP: năm/tháng/ngày)",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

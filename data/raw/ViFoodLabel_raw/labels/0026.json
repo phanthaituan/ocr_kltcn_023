@@ -1,0 +1,53 @@
+{
+  "product_name": "CHÂN GÀ RÚT XƯƠNG Vị Sốt Thái",
+  "ingredient": [
+    "Chân gà rút xương (75%)",
+    "nước",
+    "muối",
+    "ớt",
+    "đường",
+    "gia vị thảo mộc (hồi, trần bì, sả, nghệ)"
+  ],
+  "additive": [
+    "chất điều vị (INS621, INS635)",
+    "chất điều chỉnh độ acid (INS260)",
+    "chất bảo quản (INS234)"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm quá hạn hoặc sản phẩm có dấu hiệu hư hỏng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "128 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "15 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "2,23 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "2,15 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "6,54 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "- g"
+    },
+    {
+      "name": "Natri",
+      "value": "655,1 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "60 g",
+  "mfg_date": "In trên bao bì sản phẩm",
+  "expiry_date": "6 tháng kể từ ngày sản xuất."
+}

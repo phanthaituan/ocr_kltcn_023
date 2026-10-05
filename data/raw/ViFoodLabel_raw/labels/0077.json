@@ -1,0 +1,56 @@
+{
+  "product_name": null,
+  "ingredient": [],
+  "additive": [],
+  "warning": [
+    "Không dành cho người nhạy cảm với Sữa.",
+    "Không dùng cho trẻ dưới 1 tuổi.",
+    "Không sử dụng sản phẩm khi hết hạn hoặc bao bì bị hư, phồng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "137 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "5,07 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "6,64 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "14,3 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "14,3 g"
+    },
+    {
+      "name": "Vitamin B2",
+      "value": "213 µg"
+    },
+    {
+      "name": "Axit pantothenic",
+      "value": "376 µg"
+    },
+    {
+      "name": "Natri",
+      "value": "56,3 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "180 mg"
+    },
+    {
+      "name": "Phốt pho",
+      "value": "123 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

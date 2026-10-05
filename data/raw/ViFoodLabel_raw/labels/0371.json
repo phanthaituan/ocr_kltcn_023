@@ -1,0 +1,55 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Dầu cọ rong biển 27,9%",
+    "mè",
+    "đường",
+    "đường làm bánh (đường tinh luyện, bột bắp)",
+    "dầu mè",
+    "maltodextrin",
+    "muối"
+  ],
+  "additive": [
+    "hương liệu nước tương giống tự nhiên",
+    "chất điều vị (621)",
+    "hương liệu tự nhiên"
+  ],
+  "warning": [
+    "Có chứa đậu nành, lúa mì (gluten).",
+    "Được sản xuất chung dây chuyền sản xuất các sản phẩm có chứa sữa, cá, giáp xác"
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "57 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "117 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "2,02 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "2 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "4,47 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "1,59 g"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

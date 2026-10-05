@@ -1,0 +1,89 @@
+{
+  "image_id": "0101",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Gạo Japonica 55%",
+    "Dầu thực vật",
+    "Đường kính trắng",
+    "Xì dầu (Đậu nành, Lúa mì)",
+    "Mật ong 1.1%",
+    "Tinh bột biến tính"
+  ],
+  "gold_additives_raw": [
+    "Chất điều vị (621)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Khẩu phần",
+      "value": "100g"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "577 kcal/100g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "38.5g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "17.5g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "53.0g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "10.3g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "4.5g"
+    },
+    {
+      "name": "Natri",
+      "value": "426mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Chất gây dị ứng có trong thành phần: Đậu nành, lúa mì.",
+    "Trong xưởng sản xuất sản phẩm này có sản xuất các sản phẩm có liên quan đến: sữa, tôm, cá.",
+    "Tiến bộ một của sản phẩm có thể xuất hiện chấm đen nhỏ, là hiện tượng tự nhiên trong quá trình chiên."
+  ],
+  "allergen_final": {
+    "contains": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2,
+      "unclassified": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

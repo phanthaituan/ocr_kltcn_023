@@ -1,0 +1,79 @@
+{
+  "image_id": "0263",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Nước ép cam đào (77%) (nước, nước ép đào cô đặc, nước ép cam cô đặc)",
+    "nước ép táo từ nước táo cô đặc (12,7%)",
+    "nước",
+    "collagen thủy phân",
+    "vitamin C"
+  ],
+  "gold_additives_raw": [
+    "hương liệu giống tự nhiên và tự nhiên dùng cho thực phẩm"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "31,6 kcal"
+    },
+    {
+      "name": "CARBOHYDRAT",
+      "value": "7,9 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ",
+      "value": "7,7 g"
+    },
+    {
+      "name": "ĐƯỜNG BỔ SUNG THÊM",
+      "value": "0 g"
+    },
+    {
+      "name": "CHẤT ĐẠM",
+      "value": "< 1 g"
+    },
+    {
+      "name": "CHẤT BÉO",
+      "value": "< 0,5 g"
+    },
+    {
+      "name": "NATRI",
+      "value": "2,6 mg"
+    },
+    {
+      "name": "VITAMIN C",
+      "value": "18 mg"
+    },
+    {
+      "name": "COLLAGEN",
+      "value": "182 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Dùng cho người từ 15 tuổi trở lên muốn bổ sung collagen.",
+    "Sau khi mở, đậy kín và bảo quản lạnh (6°C - 8°C), dùng hết trong ngày."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "child_supervision": 1,
+      "storage_instruction": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": "06 tháng trước HSD",
+  "expiry_date": "Xem trên hộp",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

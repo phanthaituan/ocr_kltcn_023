@@ -1,0 +1,51 @@
+{
+  "image_id": "0143",
+  "product_name": "TRÀ KOMBUCHA PROTEIN BIOK VỊ MẬN",
+  "gold_ingredients_raw": [
+    "Bột Whey protein 20% (từ Mỹ)",
+    "Bột mận 8% [50% mận (từ Hàn Quốc)]",
+    "Bột kombucha 6% [kombucha trà đen (dịch chiết trà đen (từ Sri Lanka), chất xơ hòa tan Fructooligosaccharides, probiotic (từ Canada), men)]",
+    "Bột hương liệu mận tổng hợp",
+    "Bột chiết xuất trà đen Uva [chiết xuất trà đen cô đặc (chất rắn 15%) (từ Sri Lanka)]"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định lecithin INS 322(i)",
+    "chất ổn định Dextrin INS 1400",
+    "Acid citric INS 330",
+    "Natri bicarbonate INS 500(ii)",
+    "chất điều vị Erythritol INS 968",
+    "chất tạo ngọt Sucralose INS 955"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Những người có cơ địa đặc biệt, dị ứng, phụ nữ mang thai, cho con bú, hoặc đang điều trị bệnh nên kiểm tra thành phần trước khi sử dụng"
+  ],
+  "allergen_final": {
+    "contains": [
+      "nhuyễn_thể",
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "nhuyễn_thể",
+      "sữa"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "Hàn Quốc",
+  "net_weight": "75 g (5 g x 15 gói)/hộp",
+  "mfg_date": "24 tháng trước hạn sử dụng",
+  "expiry_date": "24 tháng kể từ ngày sản xuất. Hạn sử dụng xem trên bao bì sản phẩm theo định dạng năm.tháng.ngày",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

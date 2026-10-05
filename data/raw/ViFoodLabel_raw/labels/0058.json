@@ -1,0 +1,45 @@
+{
+  "product_name": "Xoài Sấy Dẻo Muối Ớt",
+  "ingredient": [
+    "Xoài 95%",
+    "đường 3.9%",
+    "muối 0.5%",
+    "ớt 0.5%"
+  ],
+  "additive": [
+    "chất bảo quản (INS 220) 0.1%"
+  ],
+  "warning": [
+    "Không dùng sản phẩm hết hạn sử dụng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "330"
+    },
+    {
+      "name": "Béo tổng",
+      "value": "0g"
+    },
+    {
+      "name": "Natri",
+      "value": "60mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "81g"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "35g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1g"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "100g",
+  "mfg_date": "15/12/2025",
+  "expiry_date": "14/12/2026"
+}

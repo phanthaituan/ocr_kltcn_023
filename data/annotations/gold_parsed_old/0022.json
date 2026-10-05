@@ -1,0 +1,80 @@
+{
+  "image_id": "0022",
+  "product_name": "Tipo Bánh Cookies Matcha",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "Đường",
+    "Bơ",
+    "Shortening",
+    "Trứng gà",
+    "Maltodextrin",
+    "Bột trà xanh matcha (0,49%)",
+    "Muối",
+    "Chiết xuất trái dành dành"
+  ],
+  "gold_additives_raw": [
+    "Chất tạo xốp (450(i), 500(ii), 341(i))",
+    "Chất nhũ hóa (322(i))",
+    "Hương liệu tổng hợp (Vani, Trà)",
+    "Chất tạo màu tổng hợp (133)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Tổng calo",
+      "value": "517"
+    },
+    {
+      "name": "Calo từ chất béo",
+      "value": "240"
+    },
+    {
+      "name": "Tổng chất béo",
+      "value": "27 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "15 g"
+    },
+    {
+      "name": "Natri",
+      "value": "287 mg"
+    },
+    {
+      "name": "Tổng Carbohydrate",
+      "value": "62 g"
+    },
+    {
+      "name": "Đường",
+      "value": "22 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "7,6 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm khi hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "xem trên bao bì.",
+  "expiry_date": "xem trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

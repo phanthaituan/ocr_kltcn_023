@@ -1,0 +1,90 @@
+{
+  "image_id": "0017",
+  "product_name": "Oishi Snack Bắp Vị Sữa",
+  "gold_ingredients_raw": [
+    "Bắp (30%)",
+    "Dầu ăn (với Chất chống oxy hóa: (320, 321))",
+    "Bột mì",
+    "Đường",
+    "Sữa bột (8%)",
+    "Bột gạo",
+    "Muối i-ốt",
+    "Bột kem không sữa",
+    "Chất xơ lúa mì"
+  ],
+  "gold_additives_raw": [
+    "Chất chống oxy hóa: (320, 321)",
+    "Chất ổn định (471, 170(i))",
+    "Hương sữa giống tự nhiên"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "165 Kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "10 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "4,5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "120 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "16 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "5 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa Lúa Mì, Sữa.",
+    "Được sản xuất trên cùng thiết bị và/hoặc trên dây chuyền chế biến các sản phẩm có thành phần gây dị ứng như: Đậu Nành, Hải Sản, Trứng, Yến Mạch và Đậu Phộng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "hải_sản",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "hải_sản",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": "Hạn sử dụng 6 tháng kể từ ngày sản xuất",
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

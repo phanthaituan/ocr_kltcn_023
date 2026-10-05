@@ -1,0 +1,36 @@
+{
+  "product_name": null,
+  "ingredient": [],
+  "additive": [],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Carbohydrat",
+      "value": "11,6"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "538,9 Kcal/ 100 g"
+    },
+    {
+      "name": "Protein",
+      "value": "21,5"
+    },
+    {
+      "name": "Lipid",
+      "value": "45,1"
+    },
+    {
+      "name": "Canxi",
+      "value": "665,7 mg/ 100 g"
+    },
+    {
+      "name": "Xơ thô",
+      "value": "10,0"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

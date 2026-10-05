@@ -1,0 +1,91 @@
+{
+  "image_id": "0587",
+  "product_name": "Xốt Spaghetti Rose",
+  "gold_ingredients_raw": [
+    "Cà chua cắt hạt lựu (26%)",
+    "nước",
+    "cà chua cô đặc (16%)",
+    "hành tây",
+    "đường",
+    "dầu nành",
+    "bột kem không sữa",
+    "bột kem sữa",
+    "nước mắm",
+    "muối i-ốt",
+    "tỏi",
+    "bột sữa",
+    "đạm whey",
+    "ớt chuông",
+    "chiết xuất ớt",
+    "húng quế",
+    "nguyệt quế",
+    "kinh giới"
+  ],
+  "gold_additives_raw": [
+    "chất làm dày (1422)",
+    "chất điều vị (621, 627, 631)",
+    "chất bảo quản (211, 202)",
+    "hương kem sữa tổng hợp"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "≥ 99 kcal"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "≥ 15,5 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "≥ 2,6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "≥2,9 g"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "≥ 13,4 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không dùng cho người bị dị ứng với các thành phần của sản phẩm (sữa, đậu nành).",
+    "Không dùng sản phẩm khi đã hết hạn sử dụng hoặc gói phồng bất thường."
+  ],
+  "allergen_final": {
+    "contains": [
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "sữa",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "110 g",
+  "mfg_date": "02.12.2025 09:09",
+  "expiry_date": "02.12.2026",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

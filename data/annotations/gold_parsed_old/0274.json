@@ -1,0 +1,62 @@
+{
+  "image_id": "0274",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Nước",
+    "Sữa bột gầy (7,5%)",
+    "Đường",
+    "Maltodextrin",
+    "Dầu thực vật",
+    "Chất béo sữa",
+    "Chất xơ hòa tan (FOS/Inulin)",
+    "L-Lysine HCl",
+    "Bột béo MCT (528 mg/L)",
+    "Hỗn hợp Vitamin và Khoáng chất (Vitamin A, D3, E, B1, B2, B6, Niacin, Canxi – D – Pantothenat, Axit Folic, Biotin, Magie Oxid, Sắt (II) Pyrophotphat, Kẽm Oxid, Đồng Sulphat Monohydrat, Kali Iodid, Mangan Sulphat, Natri Selenit)",
+    "Bột béo DHA (116 mg/L)",
+    "Sữa non ColosIgG 24h (105 mg/L)",
+    "2'-Fucosyllactose (2'-FL HMO)",
+    "Vitamin K2 MK-7"
+  ],
+  "gold_additives_raw": [
+    "Chất ổn định (460(i), 466, 407, 339(ii))",
+    "Chất nhũ hóa (471)",
+    "Hương liệu tổng hợp dùng cho thực phẩm",
+    "Chất chống oxy hóa (307b)"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Có chứa sữa, đậu nành, dầu cá.",
+    "Không dùng cho trẻ dưới 1 tuổi."
+  ],
+  "allergen_final": {
+    "contains": [
+      "cá",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "cá",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "child_supervision": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam.",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "product_name": "Há Cảo Mini",
+  "ingredient": [
+    "Da bánh 55%[nước, tinh bột khoai tây, tinh bột lúa mì, dầu cọ, trehalose, muối]",
+    "thịt (thịt heo, thịt gà)",
+    "củ sắn",
+    "đạm đậu nành",
+    "cá tra",
+    "tinh bột bắp",
+    "cà rốt",
+    "đường",
+    "bột hương thịt",
+    "hành tím",
+    "muối",
+    "dầu mè",
+    "tỏi",
+    "dextrose monohydrate",
+    "gluten lúa mì",
+    "tiêu",
+    "nước mắm"
+  ],
+  "additive": [
+    "chất làm dày (1414, 1420)",
+    "chất điều vị (621, 631, 627)",
+    "chất làm dày (1414)",
+    "chất làm ẩm (452i, 451i)",
+    "hương liệu hải sản tự nhiên và giống tự nhiên"
+  ],
+  "warning": [
+    "Có chứa lúa mì (gluten), đậu nành, cá.",
+    "Được sản xuất chung dây chuyền sản xuất các sản phẩm có chứa trứng, sữa, giáp xác, động vật thân mềm.",
+    "Nên chế biến ngay sau khi mở bao bì, không tái đông sản phẩm.",
+    "Không sử dụng cho người dị ứng hoặc mẫn cảm với các thành phần của sản phẩm."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "213 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "5,27 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "27,1 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "3,6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "8,59 g"
+    },
+    {
+      "name": "Natri",
+      "value": "423 mg"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam.",
+  "net_weight": "1,5 kg",
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì."
+}

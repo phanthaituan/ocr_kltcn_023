@@ -1,0 +1,45 @@
+{
+  "product_name": "Sữa chua KHÔNG ĐƯỜNG",
+  "ingredient": [
+    "Sữa (99%) (sữa tươi chuẩn hóa, nước, sữa bột, chất béo sữa, whey bột)",
+    "gelatin thực phẩm",
+    "lactaza",
+    "men Streptococcus thermophilus và Lactobacillus bulgaricus"
+  ],
+  "additive": [
+    "chất ổn định (1422, 471)"
+  ],
+  "warning": [
+    "Có chứa sữa."
+  ],
+  "nutrition": [
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "59,8 kcal"
+    },
+    {
+      "name": "CHẤT ĐẠM",
+      "value": "3,7 g"
+    },
+    {
+      "name": "CHẤT BÉO",
+      "value": "3,0 g"
+    },
+    {
+      "name": "CARBOHYDRAT",
+      "value": "4,5 g"
+    },
+    {
+      "name": "CALCI",
+      "value": "110 mg"
+    },
+    {
+      "name": "NATRI",
+      "value": "49 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": "400 g (4 hộp x 100 g)",
+  "mfg_date": null,
+  "expiry_date": null
+}

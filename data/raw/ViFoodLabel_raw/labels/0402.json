@@ -1,0 +1,58 @@
+{
+  "product_name": "Tàu Hủ Cá Phô Mai",
+  "ingredient": [
+    "Thịt cá tra (50%)",
+    "sữa đậu nành (27 %)",
+    "phô mai (7%)",
+    "dầu đậu nành",
+    "đạm đậu nành",
+    "đường",
+    "muối",
+    "dextrose"
+  ],
+  "additive": [
+    "chất làm dày [407, 460(ii), 1412]",
+    "chất điều vị (621, 635)",
+    "chất nhũ hóa [450(i), 450(iii), 450(v), 451(i), 452(i), 452(ii)]",
+    "chất điều chỉnh độ acid [262(i), 263, 300, 330]",
+    "chất chống oxy hóa (316)"
+  ],
+  "warning": [
+    "Không dùng sản phẩm khi đã hết hạn sử dụng hoặc có dấu hiệu hư hỏng.",
+    "Không dùng cho người mẫn cảm với các thành phần trên."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "273 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "9.16 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "6.75 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "3.71 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "22.8 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "10.7 g"
+    },
+    {
+      "name": "Natri",
+      "value": "534 mg"
+    }
+  ],
+  "origin": "Việt Nam.",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "12 tháng kể từ ngày sản xuất khi bảo quản sản phẩm ở nhiệt độ ≤ -18°C hoặc trong ngăn đông tủ lạnh."
+}

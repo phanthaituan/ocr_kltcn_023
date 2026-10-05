@@ -1,0 +1,106 @@
+{
+  "image_id": "0583",
+  "product_name": "KẸO NỔ STRIKING HƯƠNG DƯA HẤU",
+  "gold_ingredients_raw": [
+    "Đường (50%)",
+    "Xi rô ngô (20%)",
+    "Lactose (dẫn xuất từ sữa) (18%)"
+  ],
+  "gold_additives_raw": [
+    "Chất điều chỉnh độ acid: acid malic (DL-) (INS 296)",
+    "Hương liệu dưa hấu nhân tạo",
+    "Phẩm màu tổng hợp: Allura red AC (INS 129)",
+    "Chất tạo khí Carbonic: Carbon dioxide (INS 290)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Calories",
+      "value": "6"
+    },
+    {
+      "name": "Total Fat",
+      "value": "0g"
+    },
+    {
+      "name": "Saturated Fat",
+      "value": "0g"
+    },
+    {
+      "name": "Trans Fat",
+      "value": "0g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0mg"
+    },
+    {
+      "name": "Sodium",
+      "value": "0mg"
+    },
+    {
+      "name": "Total Carbohydrate",
+      "value": "1g"
+    },
+    {
+      "name": "Dietary Fiber",
+      "value": "0g"
+    },
+    {
+      "name": "Total Sugars",
+      "value": "1g"
+    },
+    {
+      "name": "Includes 1g Added Sugars",
+      "value": "2%"
+    },
+    {
+      "name": "Protein",
+      "value": "0g"
+    },
+    {
+      "name": "Vitamin D",
+      "value": "0mcg"
+    },
+    {
+      "name": "Calcium",
+      "value": "0mg"
+    },
+    {
+      "name": "Iron",
+      "value": "0mg"
+    },
+    {
+      "name": "Potassium",
+      "value": "0mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa chế phẩm từ sữa."
+  ],
+  "allergen_final": {
+    "contains": [
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "sữa"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "Trung Quốc",
+  "net_weight": "30 g e",
+  "mfg_date": "NSX: 14-08-2025",
+  "expiry_date": "HSD: 13-08-2027",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

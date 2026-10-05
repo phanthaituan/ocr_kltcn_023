@@ -1,0 +1,85 @@
+{
+  "image_id": "0598",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Đường",
+    "bột mì",
+    "dầu thực vật không hydro hóa (dầu cọ, olein cọ)",
+    "bột cacao (7%)",
+    "maltodextrin",
+    "nước đường nghịch fructose",
+    "tinh bột bắp",
+    "dextroza",
+    "muối"
+  ],
+  "gold_additives_raw": [
+    "chất nhũ hóa (322(i))",
+    "phẩm màu tổng hợp (150c)",
+    "hương liệu (hương sôcôla giống tự nhiên, hương vani tổng hợp)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "477 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "5,9 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "70,0 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "46,8 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "19,3 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "8,9 g"
+    },
+    {
+      "name": "Natri",
+      "value": "195 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Thông tin dị ứng: Sản phẩm có chứa lúa mì, đậu nành.",
+    "Sản phẩm có thể chứa sữa."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "đậu_nành"
+    ],
+    "may_contain": [
+      "sữa"
+    ]
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "22/01/24",
+  "expiry_date": "22/01/27",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

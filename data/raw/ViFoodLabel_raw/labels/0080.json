@@ -1,0 +1,64 @@
+{
+  "product_name": "LƯƠN SỐT TERIYAKI",
+  "ingredient": [
+    "Lươn (75 %)",
+    "nước",
+    "sirup ngô",
+    "đường",
+    "dầu đậu nành",
+    "nước tương lên men",
+    "Knorr hạt nêm thịt thăn, xương ống & tủy",
+    "giấm gạo",
+    "Nước xốt Hinode Mirin Sweet Cooking Sauce",
+    "Chiết xuất nấm men",
+    "maltodextrin",
+    "muối",
+    "đường glucose"
+  ],
+  "additive": [
+    "chất điều vị (INS 621, INS 627, INS 631, INS 635)",
+    "chất ổn định (INS 1422)",
+    "chất làm dày (INS 415)",
+    "hương liệu tổng hợp (hương teriyaki)",
+    "chất tạo màu (INS 150c) tổng hợp",
+    "chất tạo màu (gạo men đỏ) tự nhiên",
+    "chất bảo quản (INS 202)"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm khi có dấu hiệu hư hỏng hoặc hết hạn sử dụng."
+  ],
+  "nutrition": [
+    {
+      "name": "KHẨU PHẦN",
+      "value": "(100g)"
+    },
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "220"
+    },
+    {
+      "name": "CHẤT BÉO",
+      "value": "8.07g"
+    },
+    {
+      "name": "NATRI",
+      "value": "1155mg"
+    },
+    {
+      "name": "CARBOHYDRAT",
+      "value": "9.7g"
+    },
+    {
+      "name": "CHẤT ĐẠM",
+      "value": "27.1g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG",
+      "value": "8.69g"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "15/12/2025",
+  "expiry_date": "15/12/2026"
+}

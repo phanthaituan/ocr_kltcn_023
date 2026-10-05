@@ -1,0 +1,94 @@
+{
+  "image_id": "0425",
+  "product_name": "Đùi Heo Honey",
+  "gold_ingredients_raw": [
+    "Thịt (thịt gà, thịt heo 5%)",
+    "Nước đá",
+    "Mỡ heo",
+    "Tinh bột bắp",
+    "Đạm đậu nành",
+    "Đường",
+    "Bột whey",
+    "Muối hồng Himalaya (0.6%)",
+    "Chất xơ từ lúa mì",
+    "Bột lòng trắng trứng",
+    "Nước ướp thịt"
+  ],
+  "gold_additives_raw": [
+    "Chất ổn định (1420, 420(i), 1200)",
+    "Chất nhũ hóa (451(i), 450(i), 407)",
+    "Chất bảo quản (262(i), 250)",
+    "Chất điều vị (621)",
+    "Hương dầu (hành, tỏi) tự nhiên",
+    "Chất chống oxy hóa (316)",
+    "Hương thịt tổng hợp",
+    "Phẩm màu tổng hợp (erythrosin (127))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "174 kcal"
+    },
+    {
+      "name": "Protein",
+      "value": "11.4 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "10.4 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "0.70 g"
+    },
+    {
+      "name": "Lipid",
+      "value": "9.67 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "3.59 g"
+    },
+    {
+      "name": "Natri",
+      "value": "428 mg"
+    },
+    {
+      "name": "Xơ tổng số",
+      "value": "0.48 g"
+    },
+    {
+      "name": "Canxi",
+      "value": "25.1 mg"
+    },
+    {
+      "name": "Kali",
+      "value": "170 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Khi vỏ ngoài cây xúc xích bị thủng hoặc rách thì tuyệt đối không được sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "unclassified": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

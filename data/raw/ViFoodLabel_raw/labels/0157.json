@@ -1,0 +1,48 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước dừa tươi (93%)",
+    "đường",
+    "nước tắc (1,6%)"
+  ],
+  "additive": [
+    "hương liệu tự nhiên",
+    "chất điều chỉnh độ acid (332(ii), 330)",
+    "chất chống oxy hóa (300)"
+  ],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "36 kcal"
+    },
+    {
+      "name": "CARBOHYDRAT",
+      "value": "9 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ",
+      "value": "6,6 g"
+    },
+    {
+      "name": "ĐƯỜNG BỔ SUNG THÊM",
+      "value": "5,5 g"
+    },
+    {
+      "name": "CHẤT ĐẠM",
+      "value": "<0,5 g"
+    },
+    {
+      "name": "CHẤT BÉO",
+      "value": "<0,5 g"
+    },
+    {
+      "name": "NATRI",
+      "value": "15 mg"
+    }
+  ],
+  "origin": "Sản phẩm của Công ty CP Sữa Việt Nam.\\n10 Tân Trào, Phường Tân Phú, Quận 7,\\nTP. Hồ Chí Minh.",
+  "net_weight": null,
+  "mfg_date": "12 tháng trước HSD.",
+  "expiry_date": "Xem trên hộp."
+}

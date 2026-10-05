@@ -1,0 +1,40 @@
+{
+  "product_name": "Bánh ăn dặm Bắp Ngọt",
+  "ingredient": [],
+  "additive": [],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng lượng (kcal)",
+      "value": "380"
+    },
+    {
+      "name": "Chất đạm (g)",
+      "value": "8.24"
+    },
+    {
+      "name": "Chất béo (g)",
+      "value": "1.14"
+    },
+    {
+      "name": "Chất xơ (g)",
+      "value": "0.99"
+    },
+    {
+      "name": "Carbohydrate (g)",
+      "value": "84.2"
+    },
+    {
+      "name": "Natri (mg)",
+      "value": "1.91"
+    },
+    {
+      "name": "Calci (mg)",
+      "value": "50.3"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

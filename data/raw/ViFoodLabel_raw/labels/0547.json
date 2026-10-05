@@ -1,0 +1,88 @@
+{
+  "product_name": "Aha Richeese",
+  "ingredient": [
+    "Sugar",
+    "Corn (30%)",
+    "Vegetable Fat",
+    "Whey Powder",
+    "Vegetable Oil (contains Antioxidant TBHQ (E319))",
+    "Cheese Powder (contains Milk Solids, Cheese Solids, Flavour Enhancer (Monosodium Glutamate (E621) and Disodium 5'-Ribonucleotide (E635)), Synthetic Colour (Ponceau 4R (E124) and Sunset Yellow FCF (E110)))",
+    "Maltodextrin",
+    "Wheat Flour",
+    "Salt",
+    "Milk Powder",
+    "Natural Colour: Paprika Oleoresin",
+    "Vitamin (A, B1, B2)"
+  ],
+  "additive": [
+    "Antioxidant TBHQ (E319)",
+    "Flavour Enhancer (Monosodium Glutamate (E621) and Disodium 5'-Ribonucleotide (E635))",
+    "Synthetic Colour (Ponceau 4R (E124) and Sunset Yellow FCF (E110))",
+    "Emulsifier Soy Lecithin (E322)",
+    "Raising Agent Sodium Bicarbonate (E500(ii))",
+    "Flavour Enhancer Monosodium Glutamate (E621)",
+    "Synthetic Colour Sunset Yellow FCF (E110)"
+  ],
+  "warning": [
+    "For allergens, see ingredients in bold.",
+    "May also contain Egg, Hazelnut and Peanut."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "45"
+    },
+    {
+      "name": "Tổng chất béo",
+      "value": "2 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "1.5 g"
+    },
+    {
+      "name": "Chất béo chuyển hóa",
+      "value": "0 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0 mg"
+    },
+    {
+      "name": "Natri",
+      "value": "35 mg"
+    },
+    {
+      "name": "Tổng Carbohydrat",
+      "value": "6 g"
+    },
+    {
+      "name": "Tổng đường",
+      "value": "4 g"
+    },
+    {
+      "name": "Bao gồm 3 g đường thêm",
+      "value": "6%"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0 g"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "110 mcg 15%"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "0.23 mg 20%"
+    },
+    {
+      "name": "Vitamin B2",
+      "value": "0.19 mg 15%"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": "MFG 15/03/2026 MJL",
+  "expiry_date": "EXP 15/03/2027"
+}

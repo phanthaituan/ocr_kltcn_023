@@ -1,0 +1,53 @@
+{
+  "product_name": "DA HEO MẮM HÀNH",
+  "ingredient": [
+    "Da heo (83%)",
+    "nước mắm (7%)",
+    "đường (3,5%)",
+    "dầu thực vật (2%)",
+    "hạt nêm (2%)",
+    "hành lá (1%)",
+    "ớt (1%)",
+    "dầu điều (0,5%)"
+  ],
+  "additive": [],
+  "warning": [
+    "Không sử dụng sản phẩm khi có dấu hiệu hư hỏng.",
+    "Không sử dụng cho người dị ứng với các thành phần của sản phẩm.",
+    "Không sử dụng sản phẩm hết hạn sử dụng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "482.4 Kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "32.4 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "9.52 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "8.48 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "34.76 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "11.12 g"
+    },
+    {
+      "name": "Natri",
+      "value": "696 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "27/11/2025",
+  "expiry_date": "27/05/2026"
+}

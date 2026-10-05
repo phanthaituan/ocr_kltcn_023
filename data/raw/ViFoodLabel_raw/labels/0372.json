@@ -1,0 +1,82 @@
+{
+  "product_name": "Chopped Ham",
+  "ingredient": [
+    "Ham (Cured with: Water, Salt, Sodium Phosphates, Sugar, Spices, Sodium Erythorbate, Sodium Nitrite)"
+  ],
+  "additive": [
+    "Sodium Phosphates",
+    "Sodium Erythorbate",
+    "Sodium Nitrite"
+  ],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Serving Size",
+      "value": "56g"
+    },
+    {
+      "name": "Calories",
+      "value": "140"
+    },
+    {
+      "name": "Calories from Fat",
+      "value": "110"
+    },
+    {
+      "name": "Total Fat",
+      "value": "12g"
+    },
+    {
+      "name": "Saturated Fat",
+      "value": "4.5g"
+    },
+    {
+      "name": "Trans Fat",
+      "value": "0g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "55mg"
+    },
+    {
+      "name": "Sodium",
+      "value": "560mg"
+    },
+    {
+      "name": "Total Carbohydrate",
+      "value": "0g"
+    },
+    {
+      "name": "Dietary Fiber",
+      "value": "0g"
+    },
+    {
+      "name": "Sugars",
+      "value": "less than 1g"
+    },
+    {
+      "name": "Protein",
+      "value": "8g"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "0%"
+    },
+    {
+      "name": "Vitamin C",
+      "value": "0%"
+    },
+    {
+      "name": "Calcium",
+      "value": "0%"
+    },
+    {
+      "name": "Iron",
+      "value": "0%"
+    }
+  ],
+  "origin": "The Netherlands",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

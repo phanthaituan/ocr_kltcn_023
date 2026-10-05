@@ -1,0 +1,52 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Sữa hoàn toàn từ sữa bò tươi (77%)",
+    "Cream từ sữa tươi (12%)",
+    "Đường mía",
+    "Sữa",
+    "Tinh bột",
+    "Gelatin",
+    "Men Streptococcus thermophilus và Lactobacillus bulgaricus"
+  ],
+  "additive": [
+    "Chất ổn định (471)"
+  ],
+  "warning": [
+    "Sản phẩm có chứa sữa."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "122,2 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "4 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "10,8 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "9,7 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "7 g"
+    },
+    {
+      "name": "Natri",
+      "value": "46 mg"
+    },
+    {
+      "name": "Calci",
+      "value": "108 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì."
+}

@@ -1,0 +1,60 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Bột mì",
+    "Đường",
+    "Bơ thực vật",
+    "Muối",
+    "Men",
+    "Tinh bột khoai tây (0.8%)",
+    "Trứng",
+    "Gluten từ lúa mì",
+    "Bột sữa béo"
+  ],
+  "additive": [
+    "Chất nhũ hóa (471, 1400)",
+    "Hương liệu tổng hợp (Sữa)",
+    "Chất bảo quản (282, 211)",
+    "Chất xử lý bột (1100(i), 1100(iii))",
+    "Chất chống oxy hóa (300)"
+  ],
+  "warning": [
+    "Sản phẩm có thể chứa hạnh nhân, mè, cá, dừa, động vật giáp xác.",
+    "Không sử dụng sản phẩm đã hết hạn.",
+    "Thành phần sản phẩm có chứa: Bột mì, trứng, sữa, đậu nành."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "306 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "10.4 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "57.0 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "30.4 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "3.54 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "1.57g"
+    },
+    {
+      "name": "Natri",
+      "value": "416 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "275 g",
+  "mfg_date": "20 ngày trước hạn sử dụng",
+  "expiry_date": "Xem “EXP” trên bao bì"
+}

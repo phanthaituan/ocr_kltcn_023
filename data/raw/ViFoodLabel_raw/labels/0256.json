@@ -1,0 +1,64 @@
+{
+  "product_name": "Oishi Snack Tôm Cay Nóng",
+  "ingredient": [
+    "Bột Mì",
+    "Xốt Tôm Cay (Gia Vị Tôm Cay, Dầu Ăn (với Chất Chống Ôxy Hóa (320, 321)), Mạch Nha, Muối I-ốt, Chất Điều Vị (621), Chất Điều Chỉnh Độ Acid (330))",
+    "Tinh Bột Sắn",
+    "Đường",
+    "Tinh Bột Bắp",
+    "Tôm (6%)",
+    "Ớt Mảnh",
+    "Chất Xơ"
+  ],
+  "additive": [
+    "Chất Chống Ôxy Hóa (320, 321)",
+    "Chất Điều Vị (621)",
+    "Chất Điều Chỉnh Độ Acid (330)",
+    "Chất Nhũ Hóa (322(i), 471)",
+    "Chất Tạo Xốp (500(ii))",
+    "Màu Thực Phẩm Tự Nhiên (160c(i), 164)",
+    "Màu Thực Phẩm Tổng Hợp (129)"
+  ],
+  "warning": [
+    "Thông tin dị ứng: Sản phẩm có chứa Lúa Mì, Hải Sản và Đậu Nành.",
+    "Được sản xuất trên cùng thiết bị và/hoặc trên dây chuyền chế biến các sản phẩm có thành phần gây dị ứng như: Trứng, Yến Mạch, Sữa và Đậu Phộng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "130 Kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "3 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "1.5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "265 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "22 g"
+    },
+    {
+      "name": "Chất xơ ít hơn",
+      "value": "5 mg"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "4 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3 g"
+    }
+  ],
+  "origin": null,
+  "net_weight": "65 g",
+  "mfg_date": "250326B4JLD",
+  "expiry_date": "Hạn sử dụng 6 tháng kể từ ngày sản xuất."
+}

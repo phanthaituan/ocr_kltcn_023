@@ -1,0 +1,55 @@
+{
+  "product_name": "LẠP XƯỞNG TÔM",
+  "ingredient": [
+    "Thịt tôm (50 %)",
+    "chả cá",
+    "nạc heo",
+    "nạc gà",
+    "mỡ heo",
+    "ruột collagen",
+    "đường",
+    "muối",
+    "rượu Mai Quế Lộ",
+    "phẩm màu tổng hợp (129)"
+  ],
+  "additive": [
+    "chất điều vị (621, 627, 631)",
+    "chất điều chỉnh độ acid (262i)",
+    "chất chống oxy hóa (320, 321)",
+    "hương tôm tự nhiên"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm có dấu hiệu hư hỏng, bất thường.",
+    "Không sử dụng cho người dị ứng hoặc mẫn cảm với những thành phần có trong sản phẩm."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "540 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "41,2 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "22,1 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "20,3 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "19,7 g"
+    },
+    {
+      "name": "Natri",
+      "value": "1502 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

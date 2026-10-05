@@ -1,0 +1,103 @@
+{
+  "image_id": "0432",
+  "product_name": "BÁNH TRÁNG KHÔNG NHÚNG NƯỚC",
+  "gold_ingredients_raw": [
+    "Tinh bột khoai mì 80%",
+    "Bột gạo 10%",
+    "Nước 7%",
+    "Bột năng 2%",
+    "Muối i-ốt 1%"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "50 kcal"
+    },
+    {
+      "name": "Tổng chất béo",
+      "value": "0 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "0 g"
+    },
+    {
+      "name": "Chất béo chuyển hóa",
+      "value": "0 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0 mg"
+    },
+    {
+      "name": "Natri",
+      "value": "35 mg"
+    },
+    {
+      "name": "Tổng Carbohydrat",
+      "value": "13 g"
+    },
+    {
+      "name": "Chất xơ",
+      "value": "0 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "0 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0 g"
+    },
+    {
+      "name": "Muối",
+      "value": "0.056 g"
+    },
+    {
+      "name": "Vitamin D",
+      "value": "0 mcg"
+    },
+    {
+      "name": "Calci",
+      "value": "0 mg"
+    },
+    {
+      "name": "Sắt",
+      "value": "0.4 mg"
+    },
+    {
+      "name": "Kali",
+      "value": "0 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm khi có hiện tượng hỏng, mốc hoặc hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "nhuyễn_thể"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "nhuyễn_thể"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "105 g",
+  "mfg_date": "22/05/2026-01",
+  "expiry_date": "22/05/2027",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

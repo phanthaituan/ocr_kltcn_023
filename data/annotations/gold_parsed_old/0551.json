@@ -1,0 +1,57 @@
+{
+  "image_id": "0551",
+  "product_name": "BÁNH GẠO SỮA VỊ MATCHA",
+  "gold_ingredients_raw": [
+    "Bột gạo 56%",
+    "dầu cọ",
+    "bột bắp",
+    "bột mì",
+    "tinh bột bắp",
+    "gia vị matcha 4,9%",
+    "sữa bột nguyên chất 2,1%",
+    "whey bột",
+    "đường",
+    "glucose khan",
+    "muối"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định [170(i)]"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Có chứa lúa mì (gluten), sữa.",
+    "Được sản xuất chung dây chuyền sản xuất các sản phẩm có chứa trứng.",
+    "Không sử dụng sản phẩm khi đã hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "trứng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "trứng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Trung Quốc.",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì",
+  "expiry_date": "Xem trên bao bì",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

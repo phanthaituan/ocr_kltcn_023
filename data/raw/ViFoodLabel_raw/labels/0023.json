@@ -1,0 +1,47 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "gói rau: Rau sấy (hành lá, đậu bắp, cà rốt)",
+    "giả thịt (từ đậu nành)",
+    "hỗn hợp protein sấy vị tôm (140 g/kg)."
+  ],
+  "additive": [],
+  "warning": [
+    "Sản phẩm có chứa: trứng, gluten lúa mì, đậu nành, cá, tôm, cua.",
+    "Không sử dụng sản phẩm quá hạn hoặc bao bì không còn nguyên vẹn."
+  ],
+  "nutrition": [
+    {
+      "name": "Giá trị năng lượng",
+      "value": "375,7 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "13,51 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "7,44 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "55,29 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "7,09 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "3,86 g"
+    },
+    {
+      "name": "Natri",
+      "value": "2167 mg"
+    }
+  ],
+  "origin": "VIỆT NAM",
+  "net_weight": "85 g",
+  "mfg_date": null,
+  "expiry_date": null
+}

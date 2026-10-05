@@ -1,0 +1,51 @@
+{
+  "product_name": "Hạt Nêm Vị Thịt Heo, Xương Ống Và Tủy",
+  "ingredient": [
+    "Muối ăn",
+    "đường",
+    "tinh bột khoai mì",
+    "hỗn hợp từ nguyên liệu tự nhiên 5,325 % (thịt heo (1 %), cà rốt, hành, tỏi, xương ống và tủy (0,036 %))",
+    "dầu gạo lứt tinh luyện (1 %)",
+    "hương liệu tổng hợp: hương thịt, đạm thực vật thủy phân, tiêu, phẩm màu tự nhiên: màu nghệ và (INS 160a(iii))"
+  ],
+  "additive": [
+    "chất điều vị (INS 621, INS 631, INS 627)",
+    "chất ổn định (INS 1422)",
+    "hương liệu tổng hợp: hương thịt",
+    "phẩm màu tự nhiên: màu nghệ và (INS 160a(iii))"
+  ],
+  "warning": [
+    "Không dùng sản phẩm hết hạn sử dụng, sản phẩm có mùi lạ hoặc có dấu hiệu hư hỏng hoặc nguời dị ứng với các thành phần của sản phẩm.",
+    "Sản phẩm có chứa nguyên liệu nguồn gốc từ đậu nành"
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "157 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "16,3 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "21,7 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "12,6 g"
+    },
+    {
+      "name": "Natri",
+      "value": "22210 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì sản phẩm",
+  "expiry_date": "15 tháng kể từ NSX"
+}

@@ -1,0 +1,38 @@
+{
+  "product_name": null,
+  "ingredient": [],
+  "additive": [],
+  "warning": [
+    "KHÔNG SỬ DỤNG SẢN PHẨM KHI ĐÃ HẾT HẠN HOẶC CÓ DẤU HIỆU MỐC HAY HƯ HỎNG."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "130 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "6 g"
+    },
+    {
+      "name": "Natri",
+      "value": "40 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "17 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "11 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1 g"
+    }
+  ],
+  "origin": null,
+  "net_weight": "336 g (12 GÓI x 28 g)",
+  "mfg_date": null,
+  "expiry_date": null
+}

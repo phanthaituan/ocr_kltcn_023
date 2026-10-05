@@ -1,0 +1,162 @@
+{
+  "image_id": "0366",
+  "product_name": "Whole Grain",
+  "gold_ingredients_raw": [
+    "Ngũ cốc(68,4%)",
+    "lúa mì nguyên cám (34%)",
+    "bột lúa mì (32%)",
+    "bột ngô",
+    "đường",
+    "chiết xuất mạch nha lúa mạch",
+    "bột béo",
+    "tinh bột sắn",
+    "bột ca cao giảm béo",
+    "các khoáng chất (calci carbonat, sắt nguyên tố (khử hydro))",
+    "dầu cọ",
+    "muối i-ốt (natri clorid, kali iodat)"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (tri natri phosphat, INS339(iii))",
+    "hương liệu tự nhiên",
+    "chất chống oxy hóa (hỗn hợp tocopherol cô đặc (đậu nành))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Serving Size / Saiz Hidangan / Trên khẩu phần",
+      "value": "25g"
+    },
+    {
+      "name": "Serving Per Pack / Jumlah Hidangan",
+      "value": "1"
+    },
+    {
+      "name": "Energy / Nilai Tenaga / Năng lượng",
+      "value": "1573 kJ 372 kcal"
+    },
+    {
+      "name": "Protein / Chất đạm",
+      "value": "8.0 g"
+    },
+    {
+      "name": "Carbohydrates/ Karbohidrat / Carbohydrat",
+      "value": "76.5 g"
+    },
+    {
+      "name": "Total Sugars / Jumlah Gula / Đường tổng số",
+      "value": "26.5 g"
+    },
+    {
+      "name": "Fat / Lemak / Chất béo",
+      "value": "2.5 g"
+    },
+    {
+      "name": "Saturated Fatty Acids / Asid Lemak Tepu",
+      "value": "1.0 g"
+    },
+    {
+      "name": "Monounsaturated Fatty Acids / Asid Lemak Monotaktepu",
+      "value": "0.5 g"
+    },
+    {
+      "name": "Polyunsaturated Fatty Acids / Asid Lemak Politaktepu",
+      "value": "0.5 g"
+    },
+    {
+      "name": "Trans Fatty Acids / Asid Trans Lemak",
+      "value": "0.0 g"
+    },
+    {
+      "name": "Cholesterol / Kolesterol",
+      "value": "0.0 mg"
+    },
+    {
+      "name": "Dietary Fibre / Serat Makanan",
+      "value": "5.5 g"
+    },
+    {
+      "name": "Sodium / Natrium / Natri",
+      "value": "180 mg"
+    },
+    {
+      "name": "Vitamin B2 (Riboflavin)",
+      "value": "1.2 mg"
+    },
+    {
+      "name": "Vitamin B3 (Niacin)",
+      "value": "15.0 mg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "1.5 mg"
+    },
+    {
+      "name": "Folic Acid/Folic Acid (Vitamin B9)",
+      "value": "150 μg"
+    },
+    {
+      "name": "Folate / Folat",
+      "value": "250 μg DFE"
+    },
+    {
+      "name": "Vitamin B5 (Pantothenic Acid) / Asid Pantotenik",
+      "value": "4.5 mg"
+    },
+    {
+      "name": "Calcium / Kalsium / Calci",
+      "value": "500 mg"
+    },
+    {
+      "name": "Iron / Zat Besi / Sắt",
+      "value": "11.0 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Mất ổn định nhiệt khi không bảo quản lạnh có thể gây ngộ độc.",
+    "Sản phẩm có chứa gluten, đậu nành và có thể chứa sữa và các hạt phỉ.",
+    "Không dùng cho người dị ứng với các thành phần của sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "ngô",
+      "nhuyễn_thể",
+      "đậu_nành"
+    ],
+    "may_contain": [
+      "gluten",
+      "hạt_cây",
+      "sữa",
+      "đậu_nành"
+    ]
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "hạt_cây",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [
+      "gluten",
+      "ngô",
+      "nhuyễn_thể",
+      "đậu_nành"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "storage_instruction": 1,
+      "named_allergy": 1,
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "(Vietnam)",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

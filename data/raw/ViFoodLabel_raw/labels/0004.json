@@ -1,0 +1,68 @@
+{
+  "product_name": null,
+  "ingredient": [],
+  "additive": [],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Calories",
+      "value": "33"
+    },
+    {
+      "name": "Total Fat",
+      "value": "2.6g"
+    },
+    {
+      "name": "Sat. Fat",
+      "value": "0g"
+    },
+    {
+      "name": "Trans Fat",
+      "value": "0g"
+    },
+    {
+      "name": "Cholest.",
+      "value": "0mg"
+    },
+    {
+      "name": "Sodium",
+      "value": "110mg"
+    },
+    {
+      "name": "Total Carb",
+      "value": "1.5g"
+    },
+    {
+      "name": "Fiber",
+      "value": "0g"
+    },
+    {
+      "name": "Total Sugars",
+      "value": "1g"
+    },
+    {
+      "name": "Protein",
+      "value": "0.8g"
+    },
+    {
+      "name": "Vit. D",
+      "value": "0mcg"
+    },
+    {
+      "name": "Calcium",
+      "value": "3mg"
+    },
+    {
+      "name": "Iron",
+      "value": "0mg"
+    },
+    {
+      "name": "Potas.",
+      "value": "30mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

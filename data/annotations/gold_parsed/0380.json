@@ -1,0 +1,93 @@
+{
+  "image_id": "0380",
+  "product_name": "XỐT SALAD CHANH DÂY HƯƠNG SỮA CHUA",
+  "gold_ingredients_raw": [
+    "Dầu đậu nành",
+    "nước",
+    "giấm",
+    "đường",
+    "nước cốt chanh dây (4%)",
+    "lòng đỏ trứng gà",
+    "bột kem tươi",
+    "muối i-ốt",
+    "dầu gia vị (dầu đậu nành, dầu mù tạt, dầu ớt, hương liệu tự nhiên (bơ))",
+    "lá mùi tây"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (1422, 471, 415)",
+    "chất điều vị (621)",
+    "chất điều chỉnh độ axit (330)",
+    "hương liệu tổng hợp (chanh dây, sữa chua, sữa kem)",
+    "chất bảo quản (202)",
+    "chất tạo ngọt tổng hợp (951)",
+    "phẩm màu tổng hợp (160a(i))",
+    "chất chống oxi hóa (385)",
+    "hương liệu tự nhiên (bơ)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "481 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "49,6 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "7,76 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0,84 g"
+    },
+    {
+      "name": "Natri",
+      "value": "603 mg"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "7 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không dùng cho người dị ứng với các thành phần của sản phẩm.",
+    "Không dùng sản phẩm khi đã hết hạn sử dụng hoặc có dấu hiệu ôi dầu."
+  ],
+  "allergen_final": {
+    "contains": [
+      "mù_tạt",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "mù_tạt",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "CÔNG TY TNHH OTOKI VIỆT NAM\nLô G-3-CN, Đường NA1, KCN Mỹ Phước 2, Phường Bến Cát, Thành Phố Hồ Chí Minh, Việt Nam.",
+  "net_weight": null,
+  "mfg_date": "08 tháng trước HSD",
+  "expiry_date": "Xem trên bao bì (ngày.tháng.năm)",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

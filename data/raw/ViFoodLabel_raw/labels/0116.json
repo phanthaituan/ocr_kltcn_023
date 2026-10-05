@@ -1,0 +1,50 @@
+{
+  "product_name": "TRÂN CHÂU TƯƠI CARAMEL OPPABUBBLE",
+  "ingredient": [
+    "Tinh bột sắn",
+    "nước"
+  ],
+  "additive": [
+    "màu caramel tổng hợp (INS 150d)",
+    "chất bảo quản: Kali sorbat (INS 202)",
+    "Natri benzoate (INS 211)",
+    "chất tạo ngọt tổng hợp: Acesulfam kali (INS 950)",
+    "Aspartam (INS 951)",
+    "hương đường đen tổng hợp"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm khi hết hạn sử dụng hoặc có dấu hiệu hư hỏng",
+    "Sản phẩm này có thể gây hóc, vui lòng nhai kỹ khi ăn",
+    "Không sử dụng cho trẻ nhỏ và người già không có khả năng nhai"
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "233 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0.34 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "57.82 g"
+    },
+    {
+      "name": "Đường Tổng",
+      "value": "0 g"
+    },
+    {
+      "name": "Béo tổng",
+      "value": "0 g"
+    },
+    {
+      "name": "Natri",
+      "value": "117 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date":  "Xem trên bao bì theo định dạng ngày/tháng/năm",
+  "expiry_date": "Xem trên bao bì theo định dạng ngày/tháng/năm"
+}

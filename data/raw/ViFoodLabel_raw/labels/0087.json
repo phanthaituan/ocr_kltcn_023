@@ -1,0 +1,44 @@
+{
+  "product_name": "Sữa yến mạch Koita",
+  "ingredient": [
+    "Nước",
+    "yến mạch (11%)",
+    "dầu hướng dương",
+    "muối biển"
+  ],
+  "additive": [],
+  "warning": [
+    "Có chứa yến mạch (gluten).",
+    "Không thích hợp cho trẻ sơ sinh trừ khi có sự tư vấn y tế."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "0,049 kcal (2%)"
+    },
+    {
+      "name": "Chất béo",
+      "value": "1,4g (2%) trong đó chất béo bão hòa 0,3g (2%)"
+    },
+    {
+      "name": "natri",
+      "value": "32mg (1%)"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "8,4g (3%) trong đó chất xơ <0,5g (<2%)"
+    },
+    {
+      "name": "đường tổng số",
+      "value": "3,2g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0,7g (1%)"
+    }
+  ],
+  "origin": "Ý",
+  "net_weight": "1L/hộp",
+  "mfg_date": "Xem “PROD” trên bao bì sản phẩm",
+  "expiry_date": "Xem “EXP” trên bao bì sản phẩm"
+}

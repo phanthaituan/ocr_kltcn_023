@@ -1,0 +1,65 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Sữa (92,1%) (nước, sữa bột, sữa tươi chuẩn hóa, chất béo sữa)",
+    "đường",
+    "dầu thực vật",
+    "bột cacao (0,4%)",
+    "vitamin (A, D3)"
+  ],
+  "additive": [
+    "chất ổn định (471, 407, 412)",
+    "chất xơ hòa tan (inulin)",
+    "hương liệu tổng hợp dùng cho thực phẩm"
+  ],
+  "warning": [
+    "Có chứa sữa.",
+    "Không dùng cho trẻ dưới 1 tuổi."
+  ],
+  "nutrition": [
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "82,4 kcal"
+    },
+    {
+      "name": "CHẤT ĐẠM",
+      "value": "2,9 g"
+    },
+    {
+      "name": "CHẤT BÉO",
+      "value": "3,1 g"
+    },
+    {
+      "name": "CARBOHYDRAT",
+      "value": "10,7 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ",
+      "value": "10,6 g"
+    },
+    {
+      "name": "CHẤT XƠ HÒA TAN",
+      "value": "140 mg"
+    },
+    {
+      "name": "NATRI",
+      "value": "40 mg"
+    },
+    {
+      "name": "CALCI",
+      "value": "100 mg"
+    },
+    {
+      "name": "VITAMIN A",
+      "value": "150 IU"
+    },
+    {
+      "name": "VITAMIN D3",
+      "value": "30 IU"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": "06 tháng trước HSD.",
+  "expiry_date": "Xem trên bịch"
+}

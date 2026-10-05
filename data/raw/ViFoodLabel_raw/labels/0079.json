@@ -1,0 +1,46 @@
+{
+  "product_name": "Pizza Phô Mai",
+  "ingredient": [
+    "Đế bánh (65 %) (bột mì, nước, dầu hạt cải, muối, men (Saccharomyces cerevisiae))",
+    "phô mai (35 %) (sữa bò, muối, enzyme đông sữa, khuẩn sữa, phẩm màu tổng hợp (INS 160a(i)))"
+  ],
+  "additive": [
+    "enzyme đông sữa",
+    "phẩm màu tổng hợp (INS 160a(i))"
+  ],
+  "warning": [
+    "Sản phẩm không phù hợp với những người bị dị ứng với các thành phần trên.",
+    "Không dùng sản phẩm hết hạn sử dụng.",
+    "Không sử dụng sản phẩm có màu và mùi lạ bất thường."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "273 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "10.5 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "30.3 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "14.3 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "1.6 g"
+    },
+    {
+      "name": "Natri",
+      "value": "545 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "02.02.2026",
+  "expiry_date": "02.08.2027"
+}

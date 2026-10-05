@@ -1,0 +1,41 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "NƯỚC RO",
+    "hạt chia ngâm nở (500 mg/185 ml)",
+    "yến tươi tự nhiên ngâm nở (30%)",
+    "đường phèn"
+  ],
+  "additive": [
+    "chất làm dày INS(401, 418, 407, 466, 415)",
+    "chất ổn định (INS 331 (iii))",
+    "hương liệu tổng hợp dùng cho thực phẩm"
+  ],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "33 kcal/100 ml"
+    },
+    {
+      "name": "Carb",
+      "value": "8.19 g/100 ml"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "117 mg/100 ml"
+    },
+    {
+      "name": "Natri (Na)",
+      "value": "13.2 mg/100 ml"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "6.57 g/100 ml"
+    }
+  ],
+  "origin": "Xã Đức Hòa Đông, Huyện Đức Hòa, Tỉnh Long An, Việt Nam",
+  "net_weight": null,
+  "mfg_date": "In trên cổ chai.",
+  "expiry_date": "In trên cổ chai."
+}

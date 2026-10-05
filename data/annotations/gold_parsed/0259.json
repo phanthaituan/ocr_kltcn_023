@@ -1,0 +1,82 @@
+{
+  "image_id": "0259",
+  "product_name": "BÁNH CHOCOPIE VỊ DƯA HẤU",
+  "gold_ingredients_raw": [
+    "HỖN HỢP SÔ-CÔ-LA TRẮNG (26%)",
+    "BỘT MÌ",
+    "MẠCH NHA GLUCOSE",
+    "ĐƯỜNG",
+    "SHORTENING THỰC VẬT (CÓ CHỨA CHẤT NHŨ HÓA (471))",
+    "ĐƯỜNG DEXTROSE",
+    "HỖN HỢP SÔ-CÔ-LA ĐEN",
+    "TRỨNG",
+    "NƯỚC DƯA HẤU (1,5%)",
+    "SỮA BỘT NGUYÊN KEM",
+    "GELATIN",
+    "CỒN THỰC PHẨM",
+    "MUỐI",
+    "CHẤT BÉO THỰC VẬT (CÓ CHỨA CHẤT NHŨ HÓA (492, 322(i)))",
+    "SỮA BỘT GẦY",
+    "MUỐI I-ỐT",
+    "PROTEIN SỮA",
+    "BỘT CACAO",
+    "MỨT CHANH",
+    "HỖN HỢP BỘT CACAO VÀ BƠ CACAO"
+  ],
+  "gold_additives_raw": [
+    "CHẤT NHŨ HÓA (471)",
+    "CHẤT NHŨ HÓA (492, 322(i))",
+    "CHẤT TẠO XỐP (500(ii), 503(ii))",
+    "CHẤT ĐIỀU CHỈNH ĐỘ ACID (341(i))",
+    "CHẤT ỔN ĐỊNH (415, 1442)",
+    "HƯƠNG LIỆU GIỐNG TỰ NHIÊN (DƯA HẤU, DƯA GANG)",
+    "HƯƠNG LIỆU TỔNG HỢP (SỮA, VANI, HƯƠNG LÀM MÁT)",
+    "CHẤT TẠO MÀU TỰ NHIÊN (141(i), 153)",
+    "CHẤT TẠO MÀU TỔNG HỢP (129, 160a(i))",
+    "CHẤT NHŨ HÓA (322(i), 476)"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "SẢN PHẨM KHÔNG DÙNG CHO NGƯỜI DỊ ỨNG VỚI CÁC THÀNH PHẦN SAU: TRỨNG, LÚA MÌ, SỮA, ĐẬU NÀNH."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "VIỆT NAM",
+  "net_weight": null,
+  "mfg_date": "ĐƯỢC IN TRÊN BAO BÌ (NGÀY/ THÁNG/ NĂM).",
+  "expiry_date": "12 THÁNG KỂ TỪ NGÀY SẢN XUẤT.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

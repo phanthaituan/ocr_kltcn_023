@@ -1,0 +1,56 @@
+{
+  "product_name": "KẸO GỪNG XOÀI GINGERBON MANGO",
+  "ingredient": [
+    "Đường",
+    "tinh bột sắn",
+    "gừng (7,47%)",
+    "dầu dừa được hydro hóa",
+    "chiết xuất từ xoài (0,07%)"
+  ],
+  "additive": [
+    "hương liệu xoài tổng hợp"
+  ],
+  "warning": [
+    "Sản phẩm có chứa dầu dừa.",
+    "Chỉ sử dụng khi bao bì còn nguyên vẹn.",
+    "Thận trọng khi sử dụng sản phẩm cho trẻ dưới 3 tuổi do có thể bị hóc những mảnh kẹo nhỏ."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "15 kcal"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "4 g"
+    },
+    {
+      "name": "Lemak Total / Total Fat",
+      "value": "0 g"
+    },
+    {
+      "name": "Lemak Jenuh / Saturated Fat",
+      "value": "0 g"
+    },
+    {
+      "name": "Protein / Protein",
+      "value": "0 g"
+    },
+    {
+      "name": "Karbohidrat Total / Total Carbohydrate",
+      "value": "4 g"
+    },
+    {
+      "name": "Gula Total / Total Sugar",
+      "value": "3 g"
+    },
+    {
+      "name": "Garam (Natrium) / Salt (Sodium)",
+      "value": "0 mg"
+    }
+  ],
+  "origin": "Indonesia",
+  "net_weight": "125 g",
+  "mfg_date": null,
+  "expiry_date": null
+}

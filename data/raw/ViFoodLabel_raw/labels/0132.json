@@ -1,0 +1,65 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Sữa từ 100% sữa tươi (97,3%)",
+    "đường (2,4%)",
+    "vitamin (A, D3)",
+    "khoáng chất (natn selenit/ sodium selenite)"
+  ],
+  "additive": [
+    "chất ổn định (471, 460(i), 407, 466)"
+  ],
+  "warning": [
+    "Không dùng cho trẻ dưới 1 tuổi."
+  ],
+  "nutrition": [
+    {
+      "name": "NĂNG LƯỢNG/ENERGY",
+      "value": "67,7 kcal"
+    },
+    {
+      "name": "CHẤT ĐẠM/PROTEIN",
+      "value": "3,0 g"
+    },
+    {
+      "name": "CHẤT BÉO/TOTAL FAT",
+      "value": "3,3 g"
+    },
+    {
+      "name": "CARBOHYDRAT/CARBOHYDRATE",
+      "value": "6,5 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ/TOTAL SUGARS",
+      "value": "6,3 g"
+    },
+    {
+      "name": "CALCI/CALCIUM",
+      "value": "110 mg"
+    },
+    {
+      "name": "PHOSPHO/PHOSPHORUS",
+      "value": "80 mg"
+    },
+    {
+      "name": "SELEN/SELENIUM",
+      "value": "7,5 µg"
+    },
+    {
+      "name": "NATRI/SODIUM",
+      "value": "40 mg"
+    },
+    {
+      "name": "VITAMIN A",
+      "value": "200 IU"
+    },
+    {
+      "name": "VITAMIN D3",
+      "value": "60 IU"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "NSX: 08 tháng trước HSD.",
+  "expiry_date": "HSD: Xem trên hộp."
+}

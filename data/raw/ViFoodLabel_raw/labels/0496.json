@@ -1,0 +1,39 @@
+{
+  "product_name": "Bột Sương Sáo Đen Hạt Chia",
+  "ingredient": [
+    "Bột sương sáo đen (50%) (Cây sương sáo khô 80%, chất ổn định INS 1414)",
+    "bột kem không sữa - non dairy creamer (Glucose syrup, chất béo thực vật, chất ổn định (INS 414), đạm sữa, chất nhũ hóa (INS 322i), chất chống đông vón (INS 551))",
+    "Hạt chia (10%)"
+  ],
+  "additive": [
+    "chất ổn định INS 1414",
+    "chất ổn định (INS 414)",
+    "chất nhũ hóa (INS 322i)",
+    "chất chống đông vón (INS 551)"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm đã hết hạn."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "232 - 430 kcal/100 g"
+    },
+    {
+      "name": "Protein (N*6,25)",
+      "value": "0,68 - 1,26 g/100 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "57,3 - 106 g/100 g"
+    },
+    {
+      "name": "Natri (Na)",
+      "value": "1935 - 3593 mg/100 g"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "In trên bao bì",
+  "expiry_date": "18 tháng kể từ ngày sản xuất"
+}

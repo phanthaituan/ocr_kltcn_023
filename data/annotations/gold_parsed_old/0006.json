@@ -1,0 +1,76 @@
+{
+  "image_id": "0006",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Hạt dưa (99%)",
+    "muối ăn (1%)"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Calo",
+      "value": "582"
+    },
+    {
+      "name": "Béo tổng",
+      "value": "41,2 g"
+    },
+    {
+      "name": "Glucid",
+      "value": "14,8 g"
+    },
+    {
+      "name": "Protein",
+      "value": "38 g"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "0,15 mg"
+    },
+    {
+      "name": "Vitamin B2",
+      "value": "10,3 mg"
+    },
+    {
+      "name": "Vitamin PP",
+      "value": "0,58 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "40,7 mg"
+    },
+    {
+      "name": "Sắt",
+      "value": "6,6 mg"
+    },
+    {
+      "name": "Phospho",
+      "value": "817 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Gia Lai.",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

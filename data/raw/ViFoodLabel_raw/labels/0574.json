@@ -1,0 +1,49 @@
+{
+  "product_name": "Lương Khô RUỐC THỊT",
+  "ingredient": [
+    "Bột mì",
+    "đường kính trắng",
+    "dầu oliu",
+    "ruốc thịt (0.5%)",
+    "muối ăn"
+  ],
+  "additive": [
+    "chất tạo xốp (INS 503(ii), INS 500(ii))",
+    "hương liệu tổng hợp (Hương Sữa)"
+  ],
+  "warning": [
+    "Sản phẩm có chứa sữa, lúa mì. Được sản xuất trên dây chuyền các loại bánh/nguyên liệu có chứa đậu phộng, hạt mè.",
+    "Không sử dụng sản phẩm khi quá hạn sử dụng.",
+    "Khi cho trẻ nhỏ ăn cần có sự giám sát của người lớn."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "425 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "21.9 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "60.7 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "27.9 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "10.5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "263 mg"
+    }
+  ],
+  "origin": "VIỆT NAM",
+  "net_weight": "230G",
+  "mfg_date": "NSX: 23/12/2025",
+  "expiry_date": "HSD: 22/12/2026"
+}

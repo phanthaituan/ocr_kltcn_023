@@ -1,0 +1,73 @@
+{
+  "image_id": "0273",
+  "product_name": "Swiss roll Strawberry Flavour",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "19% trứng (gà)",
+    "chất béo thực vật (shortening, dầu olein tinh luyện)",
+    "đường",
+    "mạch nha",
+    "sữa tách béo",
+    "tinh bột bắp",
+    "nước",
+    "vanilla",
+    "muối"
+  ],
+  "gold_additives_raw": [
+    "chất giữ ẩm (422, 420(i))",
+    "chất nhũ hóa (475)",
+    "chất tạo xốp (500(ii))",
+    "chất làm dày (415)",
+    "chất điều chỉnh độ acid (330, 270)",
+    "chất bảo quản (202)",
+    "hương liệu (dâu, chanh, bơ) tổng hợp",
+    "phẩm màu tổng hợp (160a(i), 129)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "461 kcal"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "47 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "28 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "22 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "5.6 g"
+    },
+    {
+      "name": "Natri",
+      "value": "229 mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

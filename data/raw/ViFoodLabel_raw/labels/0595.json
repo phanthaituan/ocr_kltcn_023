@@ -1,0 +1,46 @@
+{
+  "product_name": "Yến Mạch Trái Cây Và Hạt Dinh Dưỡng",
+  "ingredient": [
+    "Yến mạch (33%)",
+    "ngũ cốc sấy giòn (yến mạch, gạo, đường, bắp, mạch nha, dầu thực vật, tinh bột bắp, bột dừa, muối, chất chống đông vón (INS 170(i)))",
+    "trái cây sấy (nho khô, dâu, táo, đu đủ) (10%)",
+    "hạt bí xanh"
+  ],
+  "additive": [
+    "chất chống đông vón (INS 170(i))"
+  ],
+  "warning": [
+    "Không sử dụng đối với người có khả năng mẫn cảm hoặc dị ứng với các thành phần trong sản phẩm.",
+    "Không dùng sản phẩm có màu sắc, mùi vị bất thường, sản phẩm hết hạn sử dụng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "397 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "8,1 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "69,9 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "9,4 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "30,4 g"
+    },
+    {
+      "name": "Natri",
+      "value": "20 mg"
+    }
+  ],
+  "origin": "Xuất xứ: Việt Nam",
+  "net_weight": null,
+  "mfg_date": "12/05/2026",
+  "expiry_date": "11/05/2027"
+}

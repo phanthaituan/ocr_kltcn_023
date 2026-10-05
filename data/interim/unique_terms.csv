@@ -1,0 +1,3095 @@
+term_type,cleaned_term,frequency
+ingredient,đường,358
+ingredient,muối,201
+ingredient,nước,150
+ingredient,bột mì,122
+ingredient,dầu thực vật,78
+ingredient,maltodextrin,60
+ingredient,muối i-ốt,57
+ingredient,mạch nha,54
+ingredient,trứng,38
+ingredient,gelatin,38
+ingredient,tỏi,37
+ingredient,dầu cọ,34
+ingredient,bột cacao,32
+ingredient,cồn thực phẩm,32
+ingredient,tinh bột bắp,28
+ingredient,bột whey,27
+ingredient,nước mắm,26
+ingredient,đường dextrose,22
+ingredient,chất béo thực vật,22
+ingredient,tiêu,22
+ingredient,chiết xuất nấm men,21
+ingredient,ớt,20
+ingredient,hành tây,19
+ingredient,sữa bột nguyên kem,15
+ingredient,muối ăn,15
+ingredient,bột tỏi,15
+ingredient,mạch nha glucose,14
+ingredient,mạch nha maltose,14
+ingredient,đường tinh luyện,14
+ingredient,shortening,14
+ingredient,bột ca cao,14
+ingredient,đạm đậu nành,14
+ingredient,protein sữa,13
+ingredient,bột phô mai,13
+ingredient,sugar,13
+ingredient,bột sữa nguyên kem,13
+ingredient,bột lòng trắng trứng,13
+ingredient,tinh bột khoai tây,12
+ingredient,bột sữa,12
+ingredient,mạch nha isomalto oligo,12
+ingredient,trứng gà,11
+ingredient,dextrose,11
+ingredient,bột sữa gầy,11
+ingredient,dầu thực vật (dầu cọ),11
+ingredient,men,11
+ingredient,tinh bột ngô,10
+ingredient,bột kem không sữa,10
+ingredient,hành tím,10
+ingredient,wheat flour,10
+ingredient,salt,10
+ingredient,sữa tươi,10
+ingredient,gạo,10
+ingredient,cà chua,9
+ingredient,tinh bột sắn,9
+ingredient,tinh bột khoai mì,9
+ingredient,chất xơ từ lúa mì,9
+ingredient,bột hành tây,9
+ingredient,sữa hoàn toàn từ sữa bò tươi,9
+ingredient,bột lòng đỏ trứng,9
+ingredient,bột bắp,9
+ingredient,gừng,9
+ingredient,thịt heo,9
+ingredient,vitamin c,8
+ingredient,cà chua cô đặc,8
+ingredient,bơ,8
+ingredient,sữa bột,8
+ingredient,bột kem sữa,8
+ingredient,"vitamin (a, d3)",8
+ingredient,bột trứng,8
+ingredient,cà rốt,8
+ingredient,shortening thực vật (có chứa chất nhũ hóa (471)),7
+ingredient,hỗn hợp bột cacao và bơ cacao,7
+ingredient,dầu thực vật (cọ),7
+ingredient,whey bột,7
+ingredient,đậu phộng,7
+ingredient,dầu đậu nành,7
+ingredient,whey powder,7
+ingredient,dầu nành,7
+ingredient,bột sữa dừa,7
+ingredient,dầu mè,7
+ingredient,chất béo sữa,7
+ingredient,bột sữa béo,7
+ingredient,bột ớt,7
+ingredient,"chất béo thực vật (có chứa chất nhũ hóa (492, 322(i)))",6
+ingredient,hạt chia,6
+ingredient,bột nước tương,6
+ingredient,tôm,6
+ingredient,lactoza,6
+ingredient,lactose,6
+ingredient,sữa bột gầy,6
+ingredient,bột gia vị,6
+ingredient,giấm,6
+ingredient,"muối iod (nacl, kio3)",6
+ingredient,men streptococcus thermophilus và lactobacillus bulgaricus,6
+ingredient,thịt gà,6
+ingredient,sucrose,6
+ingredient,nước tương,6
+ingredient,sữa,6
+ingredient,bơ thực vật,6
+ingredient,sữa gầy,6
+ingredient,dextroza,6
+ingredient,bột cà phê,5
+ingredient,nước ép cà rốt đen cô đặc,5
+ingredient,đường trắng,5
+ingredient,muối tinh,5
+ingredient,đường lactose,5
+ingredient,"sữa (nước, sữa bột, sữa tươi chuẩn hóa)",5
+ingredient,trứng gà tươi,5
+ingredient,dầu dừa,5
+ingredient,cơm dừa sấy,5
+ingredient,corn starch,5
+ingredient,bột kem thực vật,5
+ingredient,calci carbonat,5
+ingredient,muối tinh chế,5
+ingredient,nước tinh khiết,5
+ingredient,bột nguyên trứng,5
+ingredient,mè,5
+ingredient,gluten lúa mì,5
+ingredient,đạm thực vật thủy phân,5
+ingredient,hành,5
+ingredient,yến mạch,5
+ingredient,mỡ heo,5
+ingredient,sữa bột (20 g/l),5
+ingredient,đường fructose,5
+ingredient,đường mía,5
+ingredient,xiro fructoza,5
+ingredient,xi rô glucose,4
+ingredient,đường kính trắng,4
+ingredient,"dầu ăn (với chất chống oxy hóa (320, 321))",4
+ingredient,bắp,4
+ingredient,bột gạo,4
+ingredient,nước ép táo,4
+ingredient,bột quế,4
+ingredient,shortening từ động vật và thực vật,4
+ingredient,chà bông gà,4
+ingredient,hạt hạnh nhân,4
+ingredient,hạt điều,4
+ingredient,hạt nêm,4
+ingredient,rong biển,4
+ingredient,lòng đỏ trứng gà,4
+ingredient,vegetable fat,4
+ingredient,sữa bột tách béo,4
+ingredient,đường glucose,4
+ingredient,vitamin d3,4
+ingredient,thạch dừa,4
+ingredient,khoáng chất (calci carbonat),4
+ingredient,nước đá,4
+ingredient,dầu hướng dương,4
+ingredient,bột gia vị phô mai,4
+ingredient,sữa từ 100% sữa tươi,4
+ingredient,tiêu đen,4
+ingredient,taurin,4
+ingredient,chiết xuất trà đen,4
+ingredient,vegetable oil (contains antioxidant tbhq (e319)),4
+ingredient,gạo st25,4
+ingredient,chất béo thực vật (dầu cọ),4
+ingredient,nạc heo,4
+ingredient,sữa bột nguyên chất,4
+ingredient,nước cốt dừa,4
+ingredient,calci lactat,4
+ingredient,gluten từ lúa mì,4
+ingredient,nước ép trái cây nguyên chất (30 g/l),4
+ingredient,bột sữa (20 g/l),4
+ingredient,beta glucan,4
+ingredient,"shortening thực vật (chứa chất nhũ hóa (471), chất chống oxy hóa (307b))",4
+ingredient,rượu mai quế lộ,4
+ingredient,nước dừa,4
+ingredient,đạm chiết xuất từ heo,4
+ingredient,bột nếp,4
+ingredient,collagen thủy phân,3
+ingredient,nước ép táo cô đặc,3
+ingredient,sữa đặc,3
+ingredient,dầu oliu,3
+ingredient,chất xơ lúa mì,3
+ingredient,hạt mè trắng,3
+ingredient,hỗn hợp bột ngũ cốc,3
+ingredient,nước dừa tươi,3
+ingredient,đậu xanh,3
+ingredient,tinh bột,3
+ingredient,l-lysine hcl,3
+ingredient,glucose syrup,3
+ingredient,fructose,3
+ingredient,si rô glucose,3
+ingredient,đậu hà lan,3
+ingredient,men khô,3
+ingredient,creamer đặc có đường,3
+ingredient,vitamin a,3
+ingredient,dầu thực vật tinh luyện,3
+ingredient,sữa bột béo,3
+ingredient,đường hfcs,3
+ingredient,"vitamin (b6, b12, acid folic)",3
+ingredient,kem sữa đánh tiệt trùng,3
+ingredient,inulin,3
+ingredient,"chiết xuất mạch nha (lúa mì, lúa mạch, lúa mạch đen, yến mạch)",3
+ingredient,vảy khoai tây,3
+ingredient,sữa bò tươi nguyên chất,3
+ingredient,sữa non (colostrum) (100 mg/l),3
+ingredient,muối tinh luyện,3
+ingredient,mật ong,3
+ingredient,xi rô fructoza,3
+ingredient,đậu nành,3
+ingredient,chiết xuất ớt,3
+ingredient,"các vitamin (b3, d, b6, b2)",3
+ingredient,bột gia vị thịt heo,3
+ingredient,phô mai,3
+ingredient,hành lá,3
+ingredient,bột nghệ,3
+ingredient,hạt phỉ,3
+ingredient,d-xylose,3
+ingredient,bột trà,3
+ingredient,vitamin k2 mk-7,3
+ingredient,xirô glucoza,3
+ingredient,sữa hoàn toàn từ sữa bò tươi tách béo,3
+ingredient,"đường (sucrose, fructose)",3
+ingredient,"vitamin(b1, b3, b5, b6, a, d3)",3
+ingredient,vắt sợi: bột mì,3
+ingredient,"vitamin và khoáng chất (a, b6, c, kẽm lactat)",3
+ingredient,vitamin b12,3
+ingredient,đường cát trắng,3
+ingredient,nhân đậu đỏ,3
+ingredient,tinh bột gạo nếp,3
+ingredient,hành lá sấy,3
+ingredient,milk powder,3
+ingredient,ớt chuông,3
+ingredient,bột ngô,3
+ingredient,vitamin b6,3
+ingredient,bột đậu nành,3
+ingredient,khoai tây,3
+ingredient,"đường làm bánh (đường tinh luyện, bột bắp)",3
+ingredient,chất bổ sung (calci carbonat),3
+ingredient,xi rô ngô,3
+ingredient,bơ đậu phộng,3
+ingredient,vỏ bọc collagen,3
+ingredient,rượu nếp,3
+ingredient,dầu cọ olein tinh luyện,3
+ingredient,chiết xuất tự nhiên từ đại hồi,3
+ingredient,chiết xuất cà rốt tím,2
+ingredient,củ hành,2
+ingredient,đường trehalose,2
+ingredient,đường ngô (hfcs),2
+ingredient,vừng,2
+ingredient,bột vi khuẩn lactic lên men,2
+ingredient,chiết xuất yucca,2
+ingredient,chất béo sữa khan,2
+ingredient,bột sữa tách béo,2
+ingredient,dầu thực vật (chứa chất chống oxy hóa tbhq (ins 319)),2
+ingredient,bột cà chua,2
+ingredient,bột trà xanh matcha,2
+ingredient,chiết xuất trái dành dành,2
+ingredient,gạo japonica 51%,2
+ingredient,glucose,2
+ingredient,nước ép nho cô đặc,2
+ingredient,chân gà rút xương,2
+ingredient,gạo 58.8%,2
+ingredient,cà phê,2
+ingredient,mạch nha imo,2
+ingredient,bột muối ớt (có chứa chất điều vị (621)),2
+ingredient,nước cốt xoài,2
+ingredient,lương phấn thảo,2
+ingredient,đường mạch nha,2
+ingredient,sữa bò tươi,2
+ingredient,"gia vị muối (có chứa chất điều vị (621), chất ổn định (341(iii)))",2
+ingredient,bột phô mai (có chứa chất ổn định (339(ii))),2
+ingredient,nước tắc,2
+ingredient,dầu cá giàu dha,2
+ingredient,2’-fucosyllactose (2’-fl hmo),2
+ingredient,kem sữa tươi,2
+ingredient,water,2
+ingredient,yến sào 7.5%,2
+ingredient,bột sắn 27%,2
+ingredient,bột mì [chứa phẩm màu nhân tạo (ins 110)] 27%,2
+ingredient,đường 17%,2
+ingredient,gia vị tương ớt sriracha [chứa chất điều vị (ins 621; ins 635); hương liệu giống tự nhiên] 16%,2
+ingredient,dầu thực vật 10%,2
+ingredient,bột mực khô 1%,2
+ingredient,muối tinh chế i-ốt 1%,2
+ingredient,tinh bột sắn biến tính [chất làm dày (ins 1404)] 1%,2
+ingredient,bột kem tươi,2
+ingredient,xi-rô ngô,2
+ingredient,bột chanh,2
+ingredient,lá mùi tây,2
+ingredient,maltitol,2
+ingredient,cocoa powder,2
+ingredient,bơ (sữa),2
+ingredient,dầu thực vật không hydro hóa (dầu cọ - chứa chất chống oxi hóa tbhq (319)),2
+ingredient,bột lúa mì,2
+ingredient,sirô glucose,2
+ingredient,đường nâu,2
+ingredient,đạm whey,2
+ingredient,siro glucose,2
+ingredient,chất điều chỉnh độ acid (330),2
+ingredient,sữa đặc có đường,2
+ingredient,dầu gạo lứt,2
+ingredient,bột lòng đỏ trứng*,2
+ingredient,vitamin b2 (riboflavin),2
+ingredient,vitamin b6 (pyridoxin hydrochlorid),2
+ingredient,vitamin b1 (thiamin mononitrat),2
+ingredient,vitamin b12 (cyanocobalamin),2
+ingredient,sắt (iii) pyrophosphat,2
+ingredient,chất xơ hòa tan (inulin),2
+ingredient,axit folic,2
+ingredient,"thạch dừa (thạch dừa, đường, chất điều chỉnh độ acid (ins 330))",2
+ingredient,nước ướp thịt,2
+ingredient,chiết xuất mạch nha lúa mạch,2
+ingredient,tinh bột gạo,2
+ingredient,đường lactose (sữa),2
+ingredient,shortening (dầu cọ hydro hóa hoàn toàn),2
+ingredient,bột mì nguyên cám,2
+ingredient,béo thực vật,2
+ingredient,dha,2
+ingredient,nước ép ổi,2
+ingredient,chiết xuất hạt mù tạt,2
+ingredient,mỡ trừu (dầu cọ),2
+ingredient,cà chua cắt hạt lựu,2
+ingredient,chiết xuất gà,2
+ingredient,húng quế,2
+ingredient,nguyệt quế,2
+ingredient,bơ cacao,2
+ingredient,cà chua dạng sệt,2
+ingredient,lá kinh giới - oregano,2
+ingredient,"bột matcha 0,4%",2
+ingredient,cá hồi,2
+ingredient,thịt bò,2
+ingredient,nước bão hòa co2,2
+ingredient,đường thực vật lên men,2
+ingredient,"gói trân châu: nước, đường, fructose",2
+ingredient,bột sữa whey,2
+ingredient,sữa béo,2
+ingredient,bột năng,2
+ingredient,bột bí đao,2
+ingredient,shortening thực vật,2
+ingredient,đường maltodextrin,2
+ingredient,tinh bột ngô (có thể bao gồm ngô biến đổi gen),2
+ingredient,dầu dừa tinh luyện,2
+ingredient,"dầu ăn tinh luyện (dầu olein, dầu đậu nành, dầu hạt cải tinh luyện)",2
+ingredient,bột canh,2
+ingredient,đường cát,2
+ingredient,"nước trái cây ép cô đặc (9,6 g/l)",2
+ingredient,"vitamin (d3, a, b12, b6)",2
+ingredient,"chất xơ yến mạch (, (có chứa gluten (yến mạch)))",2
+ingredient,"lợi khuẩn lactobacillus paracasei (th_l.casei, th.paracasei)",2
+ingredient,chất xơ hòa tan,2
+ingredient,tinh bột khoai tây (10 g/kg),2
+ingredient,"bột trứng (0,5 g/kg)",2
+ingredient,"nước táo ép cô đặc (7,4 g/l)",2
+ingredient,"vitamin (b6, a, d3, b12)",2
+ingredient,gói xốt: nước,2
+ingredient,riềng,2
+ingredient,gói rau: giả thịt (từ đậu nành),2
+ingredient,cà rốt sấy,2
+ingredient,bắp sấy,2
+ingredient,"bột kem thực vật (siro glucose, dầu nhân cọ, chất khô từ sữa (whey protein, natri caseinat), chất ổn định (340(ii), 451(i)), chất nhũ hóa (471, 481(i)), chất chống đông vón (551), chất tạo màu tổng hợp beta-caroten 160a(i))",2
+ingredient,cà phê hòa tan,2
+ingredient,bột cà phê rang xay,2
+ingredient,dầu bơ khan,2
+ingredient,hỗn hợp sô cô la,2
+ingredient,hạt bí xanh,2
+ingredient,"dầu thực vật hydro hóa hoàn toàn (dầu nhân cọ, dầu cọ, dầu hạt cải) (đậu nành)",2
+ingredient,19% trứng (gà),2
+ingredient,"chất béo thực vật (shortening, dầu olein tinh luyện)",2
+ingredient,sữa tách béo,2
+ingredient,vitamin d,2
+ingredient,đường kính,2
+ingredient,đậu cọ,2
+ingredient,shortening thực vật (chứa chất nhũ hóa (471)),2
+ingredient,sô cô la sữa nguyên chất,2
+ingredient,hỗn hợp bơ cacao và bột cacao,2
+ingredient,yeast,2
+ingredient,thịt tôm,2
+ingredient,corn,2
+ingredient,"cheese powder (contains milk solids, cheese solids, flavour enhancer (monosodium glutamate (e621) and disodium 5'-ribonucleotide (e635)), synthetic colour (ponceau 4r (e124) and sunset yellow fcf (e110)))",2
+ingredient,natural colour: paprika oleoresin,2
+ingredient,"vitamin (a, b1, b2)",2
+ingredient,bột tiêu đen,2
+ingredient,"đế bánh (bột mì, nước, shortening, muối, men saccharomyces cerevisiae)",2
+ingredient,xúc xích,2
+ingredient,lá húng quế,2
+ingredient,"siro dâu 23,4% (dâu 10,5%, đường, siro ngô, chất ổn định (ins 1442, ins 440), chất điều chỉnh độ acid (ins 330, ins 341(ii), ins 331(iii)), hương liệu nhân tạo, phẩm màu tự nhiên (ins 162i))",2
+ingredient,siro ngô,2
+ingredient,bột khoai mì,2
+ingredient,bột khoai tây,2
+ingredient,"nước tương [nước, muối, đậu nành, bột mì, đường, chất điều vị (621, 631, 627), chất bảo quản (211)]",2
+ingredient,bột chiết xuất gà,2
+ingredient,oleoresin capsicum,2
+ingredient,trái chanh dây,2
+ingredient,nước ép táo hoàn nguyên,2
+ingredient,kẽm sulphat,2
+ingredient,"phô mai 11,9% [sữa bò tươi, muối, chủng men streptococcus thermophilus, enzyme chymosin, chất ổn định (calci clorid)]",2
+ingredient,"nước ép cam (nước, nước ép cam cô đặc )",2
+ingredient,nước cốt chanh 126 g/kg,2
+ingredient,muối 100 g/kg,2
+ingredient,ớt xiêm xanh 68 g/kg,2
+ingredient,lá chanh 800 mg/kg,2
+ingredient,đường bắp,2
+ingredient,shortening thực vật và động vật,2
+ingredient,"bơ lạt 2,5%",2
+ingredient,"tỏi phi 0,7%",2
+ingredient,bột chiết xuất nấm men,2
+ingredient,vảy rau mùi tây,2
+ingredient,đường oligossaccharide,2
+ingredient,kem sữa,2
+ingredient,bột tiêu,2
+ingredient,sữa dừa,2
+ingredient,lactose (dẫn xuất từ sữa),2
+ingredient,"dầu thực vật không hydro hóa (dầu cọ, olein cọ)",2
+ingredient,postbiotic (lợi khuẩn lactococcus lactis plasma),2
+ingredient,bột gạo 56%,2
+ingredient,"gia vị matcha 4,9%",2
+ingredient,"sữa bột nguyên chất 2,1%",2
+ingredient,glucose khan,2
+ingredient,"hỗn hợp sô cô la 3,7%",2
+ingredient,bột cacao (chứa chất điều chỉnh độ axit (501(i))),2
+ingredient,ruốc thịt,2
+ingredient,,2
+ingredient,dầu olein tinh luyện,2
+ingredient,vitamin b3,2
+ingredient,cốt nước tương,2
+ingredient,"sữa (nước, sữa bột, chất béo sữa, whey bột, sữa tươi)",2
+ingredient,nước ép đào cô đặc,2
+ingredient,"sữa 57% (nước, sữa bột)",2
+ingredient,"protomalt® 2,4% (chiết xuất lúa mạch)",2
+ingredient,"các khoáng chất (magnesi carbonat, dicalci phosphat, dinatri phosphat, sắt pyrophosphat)",2
+ingredient,"bánh gạo bắp 42,7% (bắp, gạo, dầu cọ)",2
+ingredient,"rong biển 17,8%",2
+ingredient,"hỗn hợp calci lactat và calci gluconat 0,01%",2
+ingredient,"cải thảo muối 74,47% (cải thảo, nước, muối)",2
+ingredient,củ cải trắng,2
+ingredient,hẹ,2
+ingredient,hành baro,2
+ingredient,nguyên liệu thực phẩm betabate-100,2
+ingredient,vi khuẩn lên men,2
+ingredient,"bột kombucha 5% [kombucha trà đen (dịch chiết trà đen (từ sri lanka), chất ổn định dextrin ins 1400, chất xơ hòa tan fructooligosaccharides, probiotic (từ canada), men), chất ổn định dextrin ins 1400]",2
+ingredient,"bột chiết xuất trà đen uva [chiết xuất trà đen cô đặc (chất rắn 15%) (từ sri lanka), chất ổn định dextrin ins 1400]",2
+ingredient,sữa bò tươi (144 g/l),2
+ingredient,nước ép cam cô đặc (6 g/l),2
+ingredient,chất béo thực vật (chứa chất chống oxy hóa: dl-alpha tocopherol),1
+ingredient,"nước ép lựu táo (nước, nước ép táo cô đặc, nước ép lựu cô đặc)",1
+ingredient,muối-iốt,1
+ingredient,"muối iốt (nacl, kio3)",1
+ingredient,tương ớt gochujang,1
+ingredient,"chiết xuất hải sản (mực, tôm, cá)",1
+ingredient,chiết xuất hành,1
+ingredient,bột mì (lúa mì),1
+ingredient,"choco chip 15% (đường trắng, dầu thực vật, nguyên liệu cacao: bột cacao)",1
+ingredient,"shortening (mỡ bò, dầu cọ)",1
+ingredient,bột đậu xanh,1
+ingredient,"đường (đường kính trắng, đường gluco)",1
+ingredient,"dầu thực vật (dầu hạt cọ hydro hóa, dầu cọ đã phân đoạn và hydro hóa, dầu đậu nành đã phân đoạn và hydro hóa hoặc dầu hạt cải đã phân đoạn và hydro hóa, dầu hướng dương)",1
+ingredient,hương sữa chua tự nhiên,1
+ingredient,chất béo bơ,1
+ingredient,chứa sữa và dẫn xuất của đậu nành,1
+ingredient,có thể chứa lúa mì (gluten) và đậu phộng,1
+ingredient,thịt,1
+ingredient,"bột phô mai (chứa sữa bột, chất rắn phô mai)",1
+ingredient,gia vị cà chua,1
+ingredient,khoai tây miếng,1
+ingredient,"dầu ăn (với chất chống oxy hóa: (320, 321))",1
+ingredient,"chất béo thực vật 23% (dầu hạt cọ hydro hóa hoàn toàn, dầu cọ, dầu hạt cọ, dầu hạt cải hydro hóa hoàn toàn)",1
+ingredient,đường 21%,1
+ingredient,bột mì 18%,1
+ingredient,lactose 14%,1
+ingredient,tinh bột bắp 6%,1
+ingredient,"bơ thực vật (shortening) 5% (dầu cọ tinh luyện, dầu cọ đặc tinh luyện, dầu hạt cọ tinh luyện)",1
+ingredient,bột whey khử khoáng 3%,1
+ingredient,"sữa bột tách béo 1,8%",1
+ingredient,trứng 1%,1
+ingredient,"đường nghịch đảo 1% (sucrose, glucose, fructose)",1
+ingredient,"sữa bột nguyên kem 0,3%",1
+ingredient,"vỏ bột (bột mì, nước, tinh bột khoai mì, men (saccharomyces cerevisiae), muối, dầu đậu nành tinh luyện, đường)",1
+ingredient,mayonnaise,1
+ingredient,mực,1
+ingredient,trái dâu tây 15%,1
+ingredient,"bột gia vị phô mai ngô 6% (đường, bột kem, bột phô mai 15%, glucose, muối, hương tổng hợp, chất chống đông vón (551), chất điều vị (631, 627), dầu thực vật, chất tạo màu tự nhiên (100(ii), 160c(i)), chất tạo ngọt tổng hợp (951))",1
+ingredient,maltose,1
+ingredient,"gia vị thảo mộc (hồi, trần bì, sả, nghệ)",1
+ingredient,dầu thực vật từ trái ca cao,1
+ingredient,bột kem dừa (có chứa đạm sữa),1
+ingredient,"gia vị phô mai (có chứa đường, sản phẩm từ sữa, bột phô mai , muối, bột dừa, chất điều vị: mononatri l-glutamat, đạm đậu nành thủy phân, chất chống đông vón: dioxyd silic vô định hình, chất tạo màu tự nhiên: paprika oleoresin, curcumin, hương liệu bơ tổng hợp)",1
+ingredient,bột sầu riêng,1
+ingredient,me cô đặc,1
+ingredient,bột hương thảo,1
+ingredient,trà ô long (4 g/l),1
+ingredient,tinh bột sắn 53%,1
+ingredient,"bột tôm 3,3%",1
+ingredient,"gạo japonica 47,2%",1
+ingredient,"bột gia vị sườn nướng tảng 5,6% (đường, muối, chất điều vị (621, 627, 631), đạm đậu nành thủy phân, hương liệu (giống tự nhiên), maltodextrin, bột nước tương, chất chống đông vón (551), bột sữa, chất điều chỉnh độ acid (330), chất tạo màu tự nhiên (160c(i)), chất tạo ngọt tổng hợp (951), chất chống oxy hóa (307c))",1
+ingredient,"bột gia vị muối (muối, chất điều vị (621))",1
+ingredient,bột mì 35.8%,1
+ingredient,dầu thực vật 16.5%,1
+ingredient,cám lúa mì 14.6%,1
+ingredient,trứng 4.7%,1
+ingredient,tinh bột 4.1%,1
+ingredient,bột lúa mạch 3%,1
+ingredient,ngũ cốc 1.3%,1
+ingredient,gạo lức đen 0.45%,1
+ingredient,gạo nếp ngô 0.35%,1
+ingredient,gạo lứt giòn 0.2%,1
+ingredient,gạo lức yến mạch 0.2%,1
+ingredient,gạo lứt khoai lang tím giòn 0.2%,1
+ingredient,lợi khuẩn lactobacillus (số lượng > 2.2 tỷ/100g) 0.001%,1
+ingredient,muối (muối biển) 0.55%,1
+ingredient,nước dâu ép từ nước dâu cô đặc,1
+ingredient,"vitamin (b3, b6, b12)",1
+ingredient,"chất béo thực vật (có chứa chất điều chỉnh độ acid (260), chất tạo màu tự nhiên (160a(ii)))",1
+ingredient,nhân đậu phộng,1
+ingredient,"gia vị tổng hợp (bột tỏi, muối, đường, gia vị, hương vị men autolyzate, chiết xuất men, tinh bột, chất ổn định dextrin (ins 1400), bột hành, hương liệu thực phẩm tổng hợp, bột đậu, hẹ, gia vị, gia vị hợp chất protein thực vật thủy phân axit (chất lỏng tạo hương vị protein thực vật thủy phân axit, muối, phẩm màu caramel tổng hợp, chất ổn định dextrin (ins 1400)), chất chống đông silicon dioxide (ins 551), chất điều chỉnh độ acid acid citric (ins 330), chất điều vị 5'-flavoured disodium nucleotide (ins 635), chất tạo ngọt aspartam tổng hợp (ins 951), l-alanine, phẩm màu curcumin tổng hợp (ins 100(i)), chất ổn định dextrin (ins 1400), hương vị gà, muối, đường, hương liệu thực phẩm tổng hợp, chất tạo ngọt calci cyclamate tổng hợp (ins 952(ii)), chất tạo ngọt acesulfam kali tổng hợp (ins 950), chất ổn định natri carbonat (ins 500(ii)), chất điều chỉnh độ acid amoni bicarbonate (ins 503(ii)), chất điều vị 5'-flavoured disodium nucleotide (ins 635), chất chống oxy hóa tertbutylhydroquinon (tbhq) (ins 319))",1
+ingredient,chất xơ hoà tan (fos/inulin),1
+ingredient,chất béo chuỗi trung bình (mct),1
+ingredient,"hỗn hợp vitamin và khoáng chất (vitamin a, d3, e, b1, b2, b6, niacin, canxi - d - pantothenat, axit folic, biotin, magie oxid, sắt (iii) pyrophosphat, kẽm oxid, đồng sulphat monohydrat, kali iodid, mangan sulphat, natri selenit)",1
+ingredient,"nui nơ: 24,2%",1
+ingredient,hành tây: 5%,1
+ingredient,"cá hồi: 3,5%",1
+ingredient,cà rốt: 3%,1
+ingredient,khoai tây: 3%,1
+ingredient,"cà chua cô đặc: 2,5%",1
+ingredient,bắp: 2%,1
+ingredient,bột lạt,1
+ingredient,lá kinh giới,1
+ingredient,sirô glucoza,1
+ingredient,concentrated mango juice,1
+ingredient,concentrated apple juice,1
+ingredient,trehalose,1
+ingredient,palm oil,1
+ingredient,"chả cua (4.18% : cá, thịt, gà, mỡ heo, bột cua , đạm thịt, chiết xuất nấm men, monoq glutamat (621), đạm đậu nành, dầu thực vật (vitamin e), màu paprika tự nhiên, chất tạo màu tổng hợp (carmin (120)))",1
+ingredient,hành hương,1
+ingredient,ngò rí,1
+ingredient,chiết xuất hải sản,1
+ingredient,aminotide,1
+ingredient,"hỗn hợp từ nguyên liệu tự nhiên 5,325 % (thịt heo , cà rốt, hành, tỏi, xương ống và tủy )",1
+ingredient,dầu gạo lứt tinh luyện,1
+ingredient,"hương thịt, đạm thực vật thủy phân, tiêu, phẩm màu tự nhiên: màu nghệ và (ins 160a(iii))",1
+ingredient,"sản phẩm chứa sô cô la sữa (30% ca cao rắn, 21% sữa đặc (3,8% chất béo sữa)), 24% đậu phộng",1
+ingredient,"sô cô la sữa 47% [đường, ca cao khối, sữa bột tách kem, lactose, bơ ca cao, chất béo thực vật (cọ, hạt mỡ, hướng dương), chất béo sữa, chất nhũ hóa (ins 322(i)), muối, hương liệu tự nhiên (hương bơ)]",1
+ingredient,trái anh đào tươi,1
+ingredient,xoài 95%,1
+ingredient,đường 3.9%,1
+ingredient,muối 0.5%,1
+ingredient,ớt 0.5%,1
+ingredient,bột sợi gia vị rong biển,1
+ingredient,"chiết xuất hàu (hào) nguyên chất 0,6 g* - oyster extract",1
+ingredient,quả việt quất,1
+ingredient,hoa atiso đỏ (hoa hibiscus),1
+ingredient,trà tinh chiết,1
+ingredient,thịt thăn heo 200 g,1
+ingredient,"nước mắm 11,4 g",1
+ingredient,bột mì 30 %,1
+ingredient,bắp ngọt nguyên hạt 10 %,1
+ingredient,sốt mayonnaise,1
+ingredient,phô mai sợi mozzarella 10 %,1
+ingredient,bột phô mai 5 %,1
+ingredient,"phụ gia làm bánh 2 % (tinh bột, chất nhũ hóa (ins 472e), đường, chất chống oxy hóa (ins 300), chất xử lý bột (ins 1100))",1
+ingredient,"nước tinh khiết 64,37%",1
+ingredient,thạch dừa 11%,1
+ingredient,nước ép táo 10%,1
+ingredient,"đường glucose trái cây 7,08%",1
+ingredient,nước ép dưa lưới 5%,1
+ingredient,"đường trắng 1,39%",1
+ingredient,"bột konjac 0,08%",1
+ingredient,"nước ép táo lựu (nước, nước ép táo cô đặc , nước ép lựu cô đặc )",1
+ingredient,cốt gôm,1
+ingredient,xylitol 39%,1
+ingredient,coffee powder,1
+ingredient,sữa nguyên kem,1
+ingredient,ca cao khối,1
+ingredient,"sữa (sữa tươi, nước, sữa bột, chất béo sữa)",1
+ingredient,chất xơ hòa tan oligofructose (fos),1
+ingredient,bột béo mct,1
+ingredient,đạm whey giàu alpha-lactalbumin,1
+ingredient,bột sữa non (colostrum) (1 g/l),1
+ingredient,"các khoáng chất (tricalci phosphat, natri citrat, magnesi citrat, sắt pyrophosphat, kẽm gluconat, mangan sulfat, đồng gluconat, kali iodid, natri selenit)",1
+ingredient,"các vitamin (natri ascorbat, vitamin e, niacin, calci d-pantothenat, vitamin b6, vitamin b1, vitamin a, vitamin b2, acid folic, vitamin k1, vitamin k2, biotin, vitamin d3, vitamin b12)",1
+ingredient,oligosaccharid (2'-fucosyllactose (2'-fl)),1
+ingredient,cholin clorid,1
+ingredient,taurine,1
+ingredient,hỗn hợp nucleotid,1
+ingredient,sirô fructose,1
+ingredient,enzym lactase,1
+ingredient,bơ (từ sữa),1
+ingredient,dầu thực vật (dầu dừa - chứa chất chống oxy hóa (ins307b)),1
+ingredient,dừa sấy,1
+ingredient,nho khô không hạt,1
+ingredient,"đế bánh (bột mì, nước, dầu hạt cải, muối, men (saccharomyces cerevisiae))",1
+ingredient,"phô mai (sữa bò, muối, enzyme đông sữa, khuẩn sữa, phẩm màu tổng hợp (ins 160a(i)))",1
+ingredient,lươn,1
+ingredient,sirup ngô,1
+ingredient,nước tương lên men,1
+ingredient,"knorr hạt nêm thịt thăn, xương ống & tủy",1
+ingredient,giấm gạo,1
+ingredient,nước xốt hinode mirin sweet cooking sauce,1
+ingredient,sữa bò hữu cơ ít béo,1
+ingredient,đường nâu hữu cơ,1
+ingredient,ca cao hữu cơ,1
+ingredient,"1,55% chất béo sữa",1
+ingredient,"tối thiểu 8,5% sữa khô tách béo",1
+ingredient,xirô glucose,1
+ingredient,xirô đường đen,1
+ingredient,"hỗn hợp vitamin và khoáng chất (vitamin a, d3, b1, b3, b5, b6, kẽm oxy, tricali citrat, natri polyphosphat)",1
+ingredient,yến sào 18% (yến khô 450 mg / 100 ml),1
+ingredient,đường isomalt,1
+ingredient,"sữa (nước, sữa bột, sữa tươi chuẩn hóa, chất béo sữa)",1
+ingredient,tinh bột khoai lang tím,1
+ingredient,bột khoai môn tím,1
+ingredient,bột khoai lang tím,1
+ingredient,"bột kem (siro glucose, dầu nhân cọ, chất khô từ sữa (5,5% hàm lượng caseinate (2-3 %), đường, bột trà , bột cacao, muối ăn",1
+ingredient,"thịt (thịt heo (319,6 g/kg), thịt gà)",1
+ingredient,"phô mai (109,5 g/kg)",1
+ingredient,"thịt heo xông khói (4,3 g/kg)",1
+ingredient,bột whey hương phô mai,1
+ingredient,xốt gà cay,1
+ingredient,"bột cần tây (0,7 g/kg)",1
+ingredient,chất xơ yến mạch (có chứa gluten (yến mạch)),1
+ingredient,gia vị gà sả tắc,1
+ingredient,"vắt mì: bột mì, dầu cọ, tinh bột khoai mì, muối, nước mắm, bột lòng đỏ trứng, chiết xuất trái dành dành, bột cari",1
+ingredient,"súp: dầu cọ, đường, muối, tỏi, ớt, đạm đậu nành, thơm, ngò gai, ngò om,bôt tôm, hành lá sấy, hành tím, hỗn hợp protein sấy vụn, cà chua bột, dưa chua (cải bẹ, hành tím, muối, đường, cà chua dạng sệt, ngò gai sấy, ớt sấy, nước cốt xương thịt (nước, xương heo, muối, thịt heo), bột tỏi, nước mắm, tôm khô, hành tây, chiết xuất nấm men, gạo, khổ mực, mắm ruốc, bột tiêu, hương liệu (hương tôm càng nướng tổng hợp), ruốc khô, bột chiết xuất sườn heo, me, nguyên liệu vitamin e acetate (dl-alpha-tocopheryl acetate), dầu hạt cải dầu, d-xylose, chiết xuất tự nhiên từ quả ớt",1
+ingredient,bỏng ngô,1
+ingredient,xiro mạch nha,1
+ingredient,dầu hạt cọ hydro hóa,1
+ingredient,"sữa bột tách béo 13,3%",1
+ingredient,bột whey 7%,1
+ingredient,"bột ca cao 6,2%",1
+ingredient,chiết xuất mạch nha lúa mì,1
+ingredient,gạo japonica 55%,1
+ingredient,"xì dầu (đậu nành, lúa mì)",1
+ingredient,mật ong 1.1%,1
+ingredient,tinh bột biến tính,1
+ingredient,"hỗn hợp tỏi ớt lên men 10,7% [nước, ớt 14,6%, tỏi, đường, chất điều chỉnh độ acid (330)]",1
+ingredient,"hỗn hợp tempe bột mì (tempe bột mì, nước, muối 7%)",1
+ingredient,"gia vị ớt 6% (bột ớt, nước, muối 13%, hành tây, tỏi)",1
+ingredient,"chất làm dày (1422, 415)",1
+ingredient,muối 2%,1
+ingredient,"ớt 0,8%",1
+ingredient,(621),1
+ingredient,(202),1
+ingredient,tổng hợp (950),1
+ingredient,"chiết xuất tự nhiên của ớt 0,02%",1
+ingredient,"vắt mì: bột mì , dầu thực vật, tinh bột khoai mì, muối, đường, chất điều vị (621, 631, 627), chất làm dày (405, 412, 466), chất ổn định (451(i), 500(ii), 501(i)), chất chống oxy hóa (321), phẩm màu tự nhiên (100(i))",1
+ingredient,"gói nước cốt tôm & thịt: nước, muối, chất điều vị (621, 627, 631, 364(ii), 640), bột tôm (80 g/kg), dầu thực vật, đường, chất điều chỉnh độ acid (330), bột kem thực vật, bột ớt , hương liệu giống tự nhiên (hương hải sản, hương rau, hương chanh), chiết xuất nấm men, chất ổn định (1442, 415), hỗn hợp hầm (4,0 g/kg), bột cà chua, phẩm màu tự nhiên (160c(i)), phẩm màu tổng hợp (150d), chất tạo ngọt tổng hợp (951), chất bảo quản (211, 202)",1
+ingredient,"gói rau: cà rốt sấy, bắp hạt sấy, đạm đậu nành, hành lá sấy",1
+ingredient,"dầu thực vật (dầu cọ (có chứa chất chống oxy hóa (320, 321)), dầu hướng dương)",1
+ingredient,bột sữa chua,1
+ingredient,nước ép cam cô đặc (1 g/l),1
+ingredient,"sô-cô-la compound trắng 86,49% (đường, béo thực vật, bột sữa, chất nhũ hoá (ins 492, ins 322(i)), hương liệu tổng hợp (vani))",1
+ingredient,"bánh quy sôcôla kem vani cream-o 13,51% (bột mì, đường, chất béo thực vật, đường glucoza, bột sữa, bột cacao , cacao khối , mạch nha, muối iốt, bột lòng đỏ trứng, chất tạo xốp (ins 500(ii), ins 503(ii)), tinh bột bắp, chất nhũ hoá (ins 322(i)), hương liệu tổng hợp (vani), phẩm màu tổng hợp (ins 150d))",1
+ingredient,"gạo sữa: bột gạo , sữa bột , maltodextrin, dầu thực vật, đường, chất xơ hòa tan inulin, đạm whey, dha từ dầu cá, lysin, các khoáng chất (calci carbonat, sắt pyrophosphat, kẽm sulfat, kali iodid), các vitamin (natri ascorbat, niacin, e, calci d-pantothenat, b1, b6, a, acid folic, k1, biotin, d3), bifidobacterium (bb-12™) (probiotics), hương liệu (hương vani) tổng hợp dùng cho thực phẩm, lutein",1
+ingredient,"gạo trái cây: bột gạo , sữa bột, dầu thực vật, đường, bột trái cây (bột chuối dạng mảnh, bột chuối, bột dâu dạng mảnh, bột táo) , maltodextrin, chất xơ hòa tan inulin, đạm whey, dha từ dầu cá, lysin, các khoáng chất (calci carbonat, sắt pyrophosphat, kẽm sulfat, kali iodid), các vitamin (natri ascorbat, niacin, e, calci d-pantothenat, b1, b6, a, acid folic, k1, biotin, d3), bifidobacterium (bb-12™) (probiotics), hương liệu (hương vani) tổng hợp dùng cho thực phẩm, lutein",1
+ingredient,"yến mạch sữa: bột yến mạch , sữa bột , maltodextrin, đường, dầu thực vật, đạm whey, các khoáng chất (calci carbonat, sắt pyrophosphat, kẽm sulfat, kali iodid), dha từ dầu cá, lysin, các vitamin (natri ascorbat, niacin, e, calci d-pantothenat, b1, b6, b2, a, acid folic, k1, biotin, d3, b12), bifidobacterium (bb-12™) (probiotics), chất nhũ hóa (lecithin), hương liệu (hương vani) tổng hợp dùng cho thực phẩm, chất chống oxy hóa (hỗn hợp tocopherol concentrate, ascorbyl palmitate), lutein",1
+ingredient,"sữa (nước, sữa bột, chất béo sữa)",1
+ingredient,hỗn hợp vitamin và khoáng chất,1
+ingredient,vitamin c (natri-l-ascorbat),1
+ingredient,vitamin b5 (d-pantothenat calci),1
+ingredient,vitamin b3 (nicotinamid),1
+ingredient,vitamin a (retinyl acetat),1
+ingredient,vitamin b9 (acid pteroylmonoglutamic),1
+ingredient,vitamin k1 (phytomenadion),1
+ingredient,vitamin d3 (cholecalciferol),1
+ingredient,biotin (d-biotin),1
+ingredient,vitamin e (dl-alpha-tocopheryl acetat),1
+ingredient,magnesi oxyd,1
+ingredient,kẽm sulfat,1
+ingredient,kali iodid,1
+ingredient,isomalt,1
+ingredient,gấc tươi,1
+ingredient,"sữa lên men tự nhiên (nước, sữa bò tươi, sữa bột, chất béo sữa, men streptococcus và lactobacillus)",1
+ingredient,xiro fructose,1
+ingredient,chiết xuất từ trái dành dành,1
+ingredient,"vitamin (b1, b3, b6)",1
+ingredient,"gia vị (đường, muối)",1
+ingredient,bột gia vị heo plus 0.2%,1
+ingredient,nước ro,1
+ingredient,hạt chia ngâm nở (500 mg/185 ml),1
+ingredient,yến tươi tự nhiên ngâm nở,1
+ingredient,đường phèn,1
+ingredient,đậu phộng 25.9%,1
+ingredient,"socola hỗn hợp [đường, dầu cọ thực vật, bột cacao, sữa bột hỗn hợp, socola sữa]",1
+ingredient,"sản phẩm đậu nành chế biến [đậu nành tách béo, bột năng, chất chống oxy hóa (ins 322(i)) từ đậu nành, chất điều chỉnh độ axit (ins 341(iii))]",1
+ingredient,đường oligosaccharide,1
+ingredient,hạnh nhân 1.5%,1
+ingredient,"nhân đậu đỏ 4,2%",1
+ingredient,"sô - cô - la sữa nguyên chất 2,1%",1
+ingredient,bột xử lý bột,1
+ingredient,"dầu thực vật hydro hóa hoàn toàn (dầu hạt cọ, dầu cọ, dầu hạt cải) (đậu nành)",1
+ingredient,khoáng chất (calci),1
+ingredient,bột sữa hokkaido,1
+ingredient,"muối iod (nacl, ki03)",1
+ingredient,glucose syrup (from corn),1
+ingredient,concentrated peach juice,1
+ingredient,coconut oil,1
+ingredient,agar,1
+ingredient,côn thực phẩm,1
+ingredient,bội sửa giấy,1
+ingredient,hỗn hợp bôt cacao và bơ cacao,1
+ingredient,"khoai tây 61,5%",1
+ingredient,"gói gia vị biển nori 7% (maltodextrin, đường, chất điều vị 621, 635)",1
+ingredient,"tảo biển 0,7%",1
+ingredient,"sữa từ sữa bột (nước, bột sữa)",1
+ingredient,nước ép trái cây,1
+ingredient,thạch dừa nata de coco,1
+ingredient,"vitamin (b3, b1, b6)",1
+ingredient,"bột gia vị thịt nướng (đường, gia vị (hành tây, tỏi, ớt, tiêu đen), muối, hương vị thịt nướng (hương vị tổng hợp), bột ngọt (ins 621), maltodextrin, bột nước tương, acid citric (ins 330), hương vị thịt hun khói (hương vị giống tự nhiên))",1
+ingredient,khoáng chất (natn selenit/ sodium selenite),1
+ingredient,bánh tráng phơi sương,1
+ingredient,"nondairy creamer (glucose syrup, refined palm kernel oil and/or refined coconut oil, caseinate, stabilizers (e340ii, e452i), emulsifier (e471), anti-caking agent (e551), colour (e160a))",1
+ingredient,maltodextrine,1
+ingredient,coconut cream powder used in food industry (contains skimmed milk powder),1
+ingredient,instant coffee powder (100 % from green coffee beans),1
+ingredient,"sữa (nước, sữa bột, chất béo sữa, sữa non colos 24h (46 mg/l), hỗn hợp canxi và khoáng từ sữa)",1
+ingredient,"hỗn hợp khoáng và vitamin (kali iodid, magie oxit, kẽm sulfat, đồng sulfat, mangan sulfat, natri selenit, crôm clorid, natri molybdat, retinyl acetat, cholecalciferol, dl-alpha-tocopheryl acetat, vitamin k1, vitamin k2, natri-l-ascorbat, thiamin mononitrat, riboflavin, nicotinamid, canxi-d-pantothenat, pyridoxin hydroclorid, axit folic, cyanocobalamin, d-biotin)",1
+ingredient,hmo (2'-fl),1
+ingredient,nucleotit,1
+ingredient,postbiotic (lợi khuẩn lactococcus lactis),1
+ingredient,"sữa đậu nành nguyên chất 66% (chất rắn đậu nành 7% trở lên, đậu nành)",1
+ingredient,"bột 9 loại ngũ cốc đen 0,8% (lúa mạch đen 30%, gạo đen 29,5%, gạo nếp cẩm 29,2%, đậu đen hạt nhỏ 10%, đậu đen xanh lòng 0,5%, đậu đen hạt to 0,5%, đậu adzuki 0,1%, mạch đắng 0,1%, hạt mè đen 0,1%)",1
+ingredient,bột đậu đen nhuyễn 0.37% (bột đậu đen 25% (đậu đen)),1
+ingredient,thịt heo 225 g (*),1
+ingredient,tỏi tươi 9 g (*),1
+ingredient,tỏi khô 7 g (*),1
+ingredient,ớt 2 g (*),1
+ingredient,"gừng, sả",1
+ingredient,dầu điều,1
+ingredient,ngũ vị hương 1 g(*),1
+ingredient,chiết xuất ớt paprika oleoresin (ins160c),1
+ingredient,xi rô bắp cao fructose,1
+ingredient,"nước tương (nước, đậu nành khử béo, lúa mì, muối)",1
+ingredient,dầu hào,1
+ingredient,gia vị ớt đỏ,1
+ingredient,bột gia vị ngũ vị hương 2%,1
+ingredient,nước lê cô đặc,1
+ingredient,muối thực phẩm,1
+ingredient,siro fructose bắp,1
+ingredient,bột whey protein 20% (từ mỹ),1
+ingredient,bột mận 8% [50% mận (từ hàn quốc)],1
+ingredient,"bột kombucha 6% [kombucha trà đen (dịch chiết trà đen (từ sri lanka), chất xơ hòa tan fructooligosaccharides, probiotic (từ canada), men)]",1
+ingredient,bột hương liệu mận tổng hợp,1
+ingredient,bột chiết xuất trà đen uva [chiết xuất trà đen cô đặc (chất rắn 15%) (từ sri lanka)],1
+ingredient,"sô cô la trắng (gồm: chất béo thực vật (dầu nhân cọ đã hydro hóa), đường, bột sữa , bột ca cao , phô mai mascarpone , cà phê)",1
+ingredient,bánh: bột mì,1
+ingredient,axit sunfuro,1
+ingredient,kẹo: đường,1
+ingredient,"nước, sữa hoàn toàn từ sữa bò tươi",1
+ingredient,nước ép dâu cô đặc (4 g/l),1
+ingredient,vitamin c (acid l-ascorbic),1
+ingredient,bột mật ong,1
+ingredient,nước đường,1
+ingredient,lòng đỏ trứng muối 14%,1
+ingredient,nước mắm dầu màu điều,1
+ingredient,"dầu thực vật 52 % (dầu đậu nành, dầu hạt cải)",1
+ingredient,trứng gà tươi 4 %,1
+ingredient,bột mù tạt,1
+ingredient,kem sữa béo,1
+ingredient,thịt cua,1
+ingredient,gia vị bò,1
+ingredient,bột chiết xuất hến,1
+ingredient,chất tạo mùi tổng hợp,1
+ingredient,chất đinh,1
+ingredient,35% bột sữa,1
+ingredient,5% bột sữa chua,1
+ingredient,eggs (minimum addition ≥30%),1
+ingredient,egg yolk- flavored salad dressing (minimum addition ≥15%),1
+ingredient,white granulated sugar,1
+ingredient,edible vegetable oil,1
+ingredient,"edible salt (additional, if distinct from above)",1
+ingredient,bột cacao 4%,1
+ingredient,cheese powder (contains flavour enhancer (monosodium l-glutamate (e621) and disodium 5'-ribonucleotides (e635)),1
+ingredient,synthetic milk flavour (contains milk solids),1
+ingredient,"vitamin (a, b1, b2, b6, b12)",1
+ingredient,"đế pizza 53.4% (bột mì 59.3%, nước, trứng gà, đường, bơ thực vật - bos, dầu thực vật, muối, men khô (saccharomyces cerevisiae))",1
+ingredient,phô mai - pizza topping 22.9%,1
+ingredient,phô mai kem 7.3%,1
+ingredient,sữa tươi không đường,1
+ingredient,đường muối,1
+ingredient,"sữa - milk 36% (nước, sữa bột, bột whey từ sữa, chất béo sữa)",1
+ingredient,"protomalt® 3,3% (chiết xuất từ mầm lúa mạch - extract from malted barley)",1
+ingredient,"đường 3,3%",1
+ingredient,"các khoáng chất (dicalci phosphat, magnesi carbonat, sắt pyrophosphat)",1
+ingredient,chiết xuất ngũ cốc và lúa mạch 26%,1
+ingredient,"bột sữa nguyên kem 6,5%",1
+ingredient,bột ca cao 5%,1
+ingredient,"vitamin và khoáng chất (calcium carbonat, dicalci phosphat, magnesi carbonat, vitamin c (acid l-ascorbic), sắt (iii) pyrophosphat, kẽm sulfat, vitamin e (dl-alpha-tocopheryl acetat), vitamin b3 (niacin), mangan sulfat, vitamin a (retinyl acetat), vitamin b5 (acid pantothenic), vitamin b6 (pyridoxin hydroclorid), vitamin b1 (thiamin mononitrat), vitamin b2 (riboflavin), vitamin d (cholecalciferol), acid folic, vitamin b12 (cyanocobalamin))",1
+ingredient,hương liệu sô cô la và sữa đặc giống tự nhiên và muối,1
+ingredient,ngũ cốc có chứa gluten và các sản phẩm từ sữa,1
+ingredient,"thịt (thịt gà, thịt heo)",1
+ingredient,"phô mai vị bắp (130,4 g/kg)",1
+ingredient,bột chiên xù,1
+ingredient,bột gia vị maiswurst,1
+ingredient,"bột cần tây (0,2 g/kg)",1
+ingredient,phẩm màu tổng hợp,1
+ingredient,cao thịt gà,1
+ingredient,"gia vị thảo mộc, hồi",1
+ingredient,"hỗn hợp sô cô la 24% (đường, chất béo thực vật, bột ca cao, đường dextrose",1
+ingredient,"da bánh 55%[nước, tinh bột khoai tây, tinh bột lúa mì, dầu cọ, trehalose, muối]",1
+ingredient,"thịt (thịt heo, thịt gà)",1
+ingredient,củ sắn,1
+ingredient,cá tra,1
+ingredient,bột hương thịt,1
+ingredient,dextrose monohydrate,1
+ingredient,thịt cá,1
+ingredient,trứng cá,1
+ingredient,xốt mayonnaise,1
+ingredient,đạm gluten của lúa mì,1
+ingredient,bột giam,1
+ingredient,thịt tôm 6%,1
+ingredient,nước gạo,1
+ingredient,sữa tươi tách béo qua siêu vi lọc,1
+ingredient,"trà xanh (1,87 g/l)",1
+ingredient,ổi puree (1 g/l),1
+ingredient,"trà đen (0,9 g/l)",1
+ingredient,sữa lên men tự nhiên,1
+ingredient,men streptococcus và lactobacillus,1
+ingredient,chất xơ hòa tan (1),1
+ingredient,"lactobacillus plantarum l-137 (2) (23,4 mg/l)",1
+ingredient,cà chua dạng sệt 15.8 g/kg,1
+ingredient,vắt mì: bột mì,1
+ingredient,trứng tươi,1
+ingredient,"chất xơ 3,4 % (chất xơ hòa tan inulin 3,3 %)",1
+ingredient,"bột trà đen 1,2 %",1
+ingredient,bột đào 1 %,1
+ingredient,"vitamin c (acid l-ascorbic) 0,2 %",1
+ingredient,"nước ép nho (nước, nước ép nho cô đặc )",1
+ingredient,nước ép táo 18%,1
+ingredient,nước ép đào 14%,1
+ingredient,kombucha,1
+ingredient,nước ép cam 1%,1
+ingredient,bột chiết xuất dâu,1
+ingredient,chiết xuất gạo men đỏ,1
+ingredient,"chả bông gà (ruốc thịt gà) (thịt ức gà tươi, đường, nước mắm, nước tương)",1
+ingredient,mạch nha isomalto oligosaccharide,1
+ingredient,canxi carbonat,1
+ingredient,sắt (ii) pyrophosphat,1
+ingredient,"gói trà sữa: bột kem [siro glucose, dầu nhân cọ, chất khô từ sữa (5,5-7%), natri caseinate (2-3%)], đường, bột trà , muối ăn",1
+ingredient,dầu cọ hydro hóa,1
+ingredient,"bột ca cao 8,94%",1
+ingredient,"tinh bột [tinh bột ngô (có thể bao gồm ngô biến đổi gen), tinh bột sắn]",1
+ingredient,"ca cao khối 0,03%",1
+ingredient,"có chứa lúa mì, đậu nành, sữa",1
+ingredient,"bột bánh bao 75% (bột mì, đường, dầu nành tinh luyện, muối ăn, sữa, men), trứng vịt muối , bơ , đường, bột custard",1
+ingredient,"bột gia vị phô mai ngô 6% (đường, bột kem, bột phô mai 15%, glucose, muối, dầu thực vật, muối tinh",1
+ingredient,"đế pizza 45.2% (bột mì 59.3%, nước, trứng gà, đường, bơ thực vật - bos, dầu thực vật, muối, men khô (saccharomyces cerevisiae))",1
+ingredient,trứng gà 11.6%,1
+ingredient,phô mai - pizza topping 10.6%,1
+ingredient,pate gan heo 5%,1
+ingredient,xúc xích 5%,1
+ingredient,bắp cải tím,1
+ingredient,bông cải xanh,1
+ingredient,phô mai kem,1
+ingredient,giấm gạo lên men,1
+ingredient,mạch nha (imo),1
+ingredient,chất béo thực vật (cọ),1
+ingredient,xốt sô cô la,1
+ingredient,"nguyên liệu thực phẩm (bột bánh 04, bq liquid)",1
+ingredient,"hạt sôcôla (đường, bột cacao, cacao khối, bơ cacao)",1
+ingredient,xốt tokbokki 120 g: nước,1
+ingredient,"tương ớt gochujang [xi rô bắp, bột mì, nước, gia vị ớt cay 15,5%, bột đậu nành tách béo, muối, lúa mì, bột gạo, cồn thực phẩm, hạt malt, đường mạch nha, đường, bột ớt, tỏi, hành tây, tastenrich master 15 (đường thực vật lên men, maltodextrin), muối, nước tương, tiêu]",1
+ingredient,bánh mì tokbokki 100 g: bột mì,1
+ingredient,dầu lúa mạch s,1
+ingredient,"chả cá dày 100 g: cá tra 42,3%",1
+ingredient,"chả cá biển hỗn hợp 21,1% [thịt cá (cá mối, cá đồng, cá hố, cá đù, cá trích)",1
+ingredient,dầu hạt bông,1
+ingredient,"surimi hỗn hợp (cá đồng, cá mối)",1
+ingredient,"nguyên liệu thực phẩm (đạm đậu nành, tinh bột khoai tây, gluten lúa mì",1
+ingredient,"chả cá o’muk 50 g: thịt cá xay 50% (cá đồi, cá mối, cá dìa, cá ngát, cá rún, cá đồng)",1
+ingredient,"hỗn hợp gia vị (nước, d-xylose, hạt nêm, muối)",1
+ingredient,chiết xuất hibiscus,1
+ingredient,bột cốt dâu tằm,1
+ingredient,chiết xuất trà xanh,1
+ingredient,"gia vị tôm nướng 4,4% (chất điều vị (621, 951, 631, 627, 364(ii)), hương liệu tự nhiên, chất chống đông vón (551), chất điều chỉnh độ acid (330), chất tạo màu tự nhiên (150c), chất chống oxy hóa (307b, 307c))",1
+ingredient,"calci carbonat 0,7%",1
+ingredient,"hương liệu rau củ (hương liệu (tự nhiên, giống tự nhiên, tổng hợp), chất điều vị (621, 631, 627, 620), chất ổn định (414), chất điều chỉnh độ acid (330, 341(iii)), chất tạo xốp (500(ii)), hương liệu (tự nhiên, giống tự nhiên) (tôm), chất chống oxy hóa (307b))",1
+ingredient,"dầu thực vật [dầu cọ, chất nhũ hóa (ins 471), chất chống oxy hóa (ins 307b)]",1
+ingredient,"hỗn hợp dầu tây 0,0475% (dầu tây 100%)",1
+ingredient,khoai tây 60%,1
+ingredient,"bột gia vị tảo biển 5,5% (đường, muối, chất điều vị (621, 951, 627, 631), bột bò sữa, maltodextrin, bột whey, hương liệu (tự nhiên, giống tự nhiên), tảo biển 2,5%, chất điều chỉnh độ acid (262(i), 330), mạch nha glucose, chất chống đông vón (551, 341(iii)), chất ổn định (1450), chất tạo màu tự nhiên (160c(i)), chất tạo màu tổng hợp (150c))",1
+ingredient,nước cốt dừa xim,1
+ingredient,xơ thực vật,1
+ingredient,dầu nhân cọ đã hydro hóa,1
+ingredient,protein sữa đã thủy phân,1
+ingredient,dầu thực vật (dầu nành),1
+ingredient,lòng đỏ trứng vịt muối,1
+ingredient,lá dứa tươi,1
+ingredient,chất xơ hòa tan (fos/ inulin),1
+ingredient,bột béo mct (1047 mg/l),1
+ingredient,canxi photphat,1
+ingredient,"hỗn hợp vitamin và khoáng chất (vitamin a, d3, e, b1, b2, b6, niacin, canxi - d - pantothenat, axit folic, biotin, magie oxid, sắt (iii) pyrophotphat, kẽm oxid, đồng sulphat monohydrat, kali iodid, mangan sulphat, natri selenit)",1
+ingredient,chất béo giàu dha (165 mg/l),1
+ingredient,sữa non colosigg 24h (157 mg/l),1
+ingredient,"lactococcus lactis strain plasma (10,4 mg/l)",1
+ingredient,thịt ức gà,1
+ingredient,lá chanh,1
+ingredient,"83,34% cá mú",1
+ingredient,"sốt sa tế: (xả xay, ớt xay, tỏi xay) 6,17%",1
+ingredient,"(dầu nành, nước tương bột) 8,12%",1
+ingredient,"(muối, đường, chất điều vị (621), hạt nêm) 2,37%",1
+ingredient,"xốt mayonnaise cay [dầu thực vật (cọ), đường, bơ tươi, bột lòng trắng trứng, muối, bột ớt, bột cốt dừa, dịch nước cốt chanh, chất điều chỉnh độ acid (330, 338), chất điều vị (621), hạt nêm, chất bảo quản (202), hạt điều màu]",1
+ingredient,chà bông gà / ruốc gà,1
+ingredient,nước đường mạch ngô,1
+ingredient,gluten,1
+ingredient,sữa chiết từ đậu nành nguyên hạt,1
+ingredient,mè đen nghiền (16 g/l),1
+ingredient,"vitamin (e, b3, a, d3, biotin)",1
+ingredient,cá tra 85%,1
+ingredient,"surimi hỗn hợp 1% (cá đồng, cá mối)",1
+ingredient,tép 95 %,1
+ingredient,"(đường, muối, ớt) 4.48 %",1
+ingredient,"khoai tây 59,5%",1
+ingredient,"bột gia vị phô mai 6,3% (đường, muối, maltodextrin, chất điều vị (621, 951, 631, 627), bột whey, bột sữa, hương liệu (tự nhiên, giống tự nhiên), bột tôm, bột phô mai 2,4% (cheddar, mozzarella), chất chống đông vón (551), chất điều chỉnh độ acid (330, 270), chất tạo màu tự nhiên (160c(i)))",1
+ingredient,yến mạch 23%,1
+ingredient,bột mì 21%,1
+ingredient,hạt sô cô la 12%,1
+ingredient,bột cocoa,1
+ingredient,nạc bò,1
+ingredient,đạm sữa,1
+ingredient,sữa bò tươi(144 g/l),1
+ingredient,xirô fructoza,1
+ingredient,"nước ép dâu cô đặc (2,8 g/l)",1
+ingredient,tương hột (làm từ đậu nành),1
+ingredient,xơ lúa mì,1
+ingredient,cà chua dạng sệt 158 g/kg,1
+ingredient,gói xốt: hành,1
+ingredient,"hỗn hợp bột (bột tỏi, bột hành, bột ớt, bột tiêu)",1
+ingredient,bột tôm (16 g/kg),1
+ingredient,gói tương ớt: giấm,1
+ingredient,bột ớt (44 g/kg),1
+ingredient,"gói rau: rau sấy (hành lá, đậu bắp, cà rốt)",1
+ingredient,giả thịt (từ đậu nành),1
+ingredient,hỗn hợp protein sấy vị tôm (140 g/kg),1
+ingredient,chất béo thực vật (có chứa chất điều chỉnh độ acid (260)),1
+ingredient,sữa bột nguyên kem (17 g/l),1
+ingredient,"lá trà đen (7,4 g/l)",1
+ingredient,"bột ca cao 1,64162%",1
+ingredient,"bột kem béo thực vật (syro glucoza, chất béo thực vật đã được hydro hóa, chất ổn định [340(ii)], chất nhũ hóa (472e), chất chống đông vón (551))",1
+ingredient,"bột sữa gầy 45cp (dầu dừa, đường, đạm whey, khoáng chất)",1
+ingredient,"sữa tạo bọt (syro glucose, dầu thực vật (dầu dừa đã được hydro hóa hoàn toàn), bột sữa, chất ổn định [340(ii)], chất nhũ hóa [481(i)], chất chống đông vón (551))",1
+ingredient,"nước dâu ép cô đặc (5,3 g/l)",1
+ingredient,nước cốt dâu,1
+ingredient,bơ thẻ thực vật,1
+ingredient,bơ thơm,1
+ingredient,dấm,1
+ingredient,"vắt sợi: gạo (634,82 g/kg)",1
+ingredient,"tinh bột khoai tây (158,7 g/kg)",1
+ingredient,bột tôm (12 g/kg),1
+ingredient,lá mùi tàu,1
+ingredient,"hỗn hợp bột (bột ớt, bột tỏi, bột tiêu)",1
+ingredient,gói tương ớt: nước,1
+ingredient,bột ớt (30 g/kg),1
+ingredient,"rau sấy (hành lá, cà rốt, đậu bắp)",1
+ingredient,"xốt tôm cay (gia vị tôm cay, dầu ăn (với chất chống ôxy hóa (320, 321)), mạch nha, muối i-ốt, chất điều vị (621), chất điều chỉnh độ acid (330))",1
+ingredient,ớt mảnh,1
+ingredient,chất xơ,1
+ingredient,"vắt mì: bột mì 607,12 g/kg",1
+ingredient,bột cà ry,1
+ingredient,các gia vị: dầu cọ,1
+ingredient,protein đậu nành,1
+ingredient,cải bẹ xanh sấy,1
+ingredient,"các gia vị (tỏi, tiêu, ớt, gừng, baro)",1
+ingredient,bột chiết xuất củ cải,1
+ingredient,"bột nấm 0,02 g/kg",1
+ingredient,hỗn hợp sô-cô-la trắng,1
+ingredient,hỗn hợp sô-cô-la đen,1
+ingredient,nước dưa hấu,1
+ingredient,mứt chanh,1
+ingredient,"hỗn hợp dầu thực vật (dầu ngô, dầu ô liu)",1
+ingredient,rong biển hàn quốc,1
+ingredient,chà bông cá hồi,1
+ingredient,chiết xuất tôm,1
+ingredient,muối hồng,1
+ingredient,"viên thịt: thịt (thịt heo, thịt gà) 510,6 g/kg",1
+ingredient,lạp xưởng,1
+ingredient,dầu olein cọ tinh luyện,1
+ingredient,xốt: nước,1
+ingredient,"thịt heo (47,3 g/kg)",1
+ingredient,dầu hành,1
+ingredient,dầu tỏi,1
+ingredient,hành lát phi,1
+ingredient,tỏi lát phi,1
+ingredient,nước màu,1
+ingredient,nấm hương,1
+ingredient,"nước ép cam đào (nước, nước ép đào cô đặc, nước ép cam cô đặc)",1
+ingredient,nước ép táo từ nước táo cô đặc,1
+ingredient,"sô cô la sữa chua (bột sữa, bơ cacao, đường, chất béo thực vật, bột sữa chua , chất nhũ hóa (lecithin đậu nành (ins 322i), ins 476), chất làm bóng (ins 414, ins 904))",1
+ingredient,hạt mắc ca,1
+ingredient,có thể chứa một lượng rất nhỏ thành phần các loại hạt khác,1
+ingredient,gạo japonica,1
+ingredient,"dầu ăn (với chất chống oxy hóa 320, 321)",1
+ingredient,mật mía,1
+ingredient,bột mì 59.3%,1
+ingredient,nước 26.7%,1
+ingredient,men khô (saccharomyces cerevisiae),1
+ingredient,cơm gạo lứt,1
+ingredient,hạnh nhân cắt lát,1
+ingredient,"đậu mè, rong biển",1
+ingredient,chiết xuất đậu nành lên men,1
+ingredient,muối biển,1
+ingredient,bột ca cao 8%,1
+ingredient,sữa bột gầy 3%,1
+ingredient,bột mì nguyên cám 2%,1
+ingredient,ca cao nguyên chất 1%,1
+ingredient,"vitamin và khoáng chất (sắt, vitamin b3, vitamin b1, vitamin b2, acid folic)",1
+ingredient,chứa kem hương vị sôcôla 53%,1
+ingredient,vanilla,1
+ingredient,chất xơ hòa tan (fos/inulin),1
+ingredient,bột béo mct (528 mg/l),1
+ingredient,"hỗn hợp vitamin và khoáng chất (vitamin a, d3, e, b1, b2, b6, niacin, canxi – d – pantothenat, axit folic, biotin, magie oxid, sắt (ii) pyrophotphat, kẽm oxid, đồng sulphat monohydrat, kali iodid, mangan sulphat, natri selenit)",1
+ingredient,bột béo dha (116 mg/l),1
+ingredient,sữa non colosigg 24h (105 mg/l),1
+ingredient,2'-fucosyllactose (2'-fl hmo),1
+ingredient,"sữa yến mạch 96.7% (nước, yến mạch)",1
+ingredient,dầu hạt cải,1
+ingredient,khoáng chất calci carbonat,1
+ingredient,"hỗn hợp vitamin (e, b3, b1, b6, b12)",1
+ingredient,"bột sữa (sữa bột nguyên kem, chất chống sữa)",1
+ingredient,gia vị phô mai,1
+ingredient,"các thành phần từ sữa (váng sữa, sữa tách béo, kem, dầu bơ)",1
+ingredient,bột phô mai 0.54%,1
+ingredient,bột dừa,1
+ingredient,sắc tố nghệ,1
+ingredient,"gia vị (bột bơ, chất xử lý bột ins1400, bột kem, tinh bột ngô)",1
+ingredient,đạm đậu nành thủy phân,1
+ingredient,"sữa 41% (nước, sữa bò tươi, bột sữa, chất béo sữa)",1
+ingredient,chiết xuất từ lá mạch môn (7 g/l),1
+ingredient,"vitamin và khoáng chất (k2-mk7, a, d3, b1, b3, b6, tricalci phosphat)",1
+ingredient,choline,1
+ingredient,"sản phẩm chứa sô cô la sữa (30% ca cao rắn, 21% sữa đặc (3,8% chất béo sữa), 24% đậu phộng)",1
+ingredient,"sô cô la sữa 47% (đường, ca cao khối, sữa bột tách kem, lactose, bơ ca cao, chất béo thực vật (cọ, hạt mỡ, hương dương), chất béo sữa, chất nhũ hóa (ins 322(i)), muối, hương liệu tự nhiên (hương bơ))",1
+ingredient,"thịt 15 % (thịt bò, thịt heo)",1
+ingredient,cà chua xay nhuyễn,1
+ingredient,dịch cao nấm men,1
+ingredient,hỗn hợp gia vị,1
+ingredient,tỏi xay nhuyễn,1
+ingredient,chiết xuất thịt bò,1
+ingredient,ớt chuông xanh,1
+ingredient,"chocochip 19% [đường trắng, dầu cọ, bột ca cao, ca cao hạt, sữa bột nguyên chất, chất nhũ hóa ins 322(i), hương liệu vani tổng hợp]",1
+ingredient,"dầu thực vật [dầu cọ, chất chống oxy hóa ins 320]",1
+ingredient,"bột nở [chất điều chỉnh độ axit ins 503(ii), chất tạo xốp ins 500(ii)]",1
+ingredient,protein sữa cô đặc,1
+ingredient,dầu bơ cải,1
+ingredient,"2 loại chất điều chỉnh độ axit (trisodium citrate (ins 332(i)), natri bicarbonate (ins 500(ii)))",1
+ingredient,muối tinh khiết,1
+ingredient,canxi phosphat dibasic,1
+ingredient,kẽm oxit,1
+ingredient,natri l-ascorbate,1
+ingredient,kali clorua,1
+ingredient,dầu epa/dha,1
+ingredient,"2'-fucosyflactose (hmo, 11mg)",1
+ingredient,"chiết xuất tảo chlorella (cgf, 11mg)",1
+ingredient,nicotinamide,1
+ingredient,canxi pantothenate,1
+ingredient,triglyceride chuỗi trung bình dạng dầu (mct),1
+ingredient,vitamin b5 hydrochloride,1
+ingredient,thiamine hydrochloride,1
+ingredient,di-alpha-tocopherol,1
+ingredient,vitamin a este,1
+ingredient,biotin,1
+ingredient,dầu dừa được hydro hóa,1
+ingredient,chiết xuất từ xoài,1
+ingredient,"dầu thực vật (như sau): ((dầu cọ không hydro hoá), (dầu hạt cải hydro hoá toàn phần))",1
+ingredient,chiết xuất mạch nha,1
+ingredient,bột mạch nha,1
+ingredient,bột miso,1
+ingredient,"chất điều hoà bột (như sau): ((tinh bột ngô), (amoni clorid (chất xử lý bột)), (calci carbonat (chất xử lý bột)))",1
+ingredient,nho khô,1
+ingredient,đậu tằm,1
+ingredient,bột gạo nếp,1
+ingredient,gia vị nấm men,1
+ingredient,gia vị trứng cua,1
+ingredient,bột nêm,1
+ingredient,nước dùng gà cô đặc,1
+ingredient,gia vị bột gà,1
+ingredient,bột gà,1
+ingredient,protein thực vật thủy phân,1
+ingredient,gia vị vị than nướng,1
+ingredient,gia vị protein thực vật thủy phân axit,1
+ingredient,gia vị,1
+ingredient,phẩm màu,1
+ingredient,phẩm màu nhân tạo,1
+ingredient,gia vị được chế biến bằng công nghệ chiếu xạ,1
+ingredient,muối iot,1
+ingredient,"gia vị nấu cơm: dầu thực vật, đường, muối, nước, đạm thực vật thủy phân, bột thịt gà , gia vị hỗn hợp , bột gà rì , chiết xuất nấm men, hương liệu tổng hợp (hương gà), chiết xuất thanh hương trà, chiết xuất quả dành dành",1
+ingredient,"gia vị tẩm ướp: chất làm dày (ins 1422, ins 1412, ins 1420), bột mì, bột gạo, muối, hành tây, tỏi, chiết xuất nấm men, tiêu đen, bột tạo xốp (ins 500(ii)), bột gia vị cà ri , bột nguyên trứng, gia vị hỗn hợp",1
+ingredient,"xốt chấm: nước, đường, nước mắm, dầu thực vật, ớt, tỏi, muối, giấm, bột điều màu, chiết xuất thanh hương trà, chiết xuất hào",1
+ingredient,dịch chiết xuất từ gà,1
+ingredient,bột kem,1
+ingredient,muối ớt,1
+ingredient,bắp cải sấy,1
+ingredient,trứng sấy,1
+ingredient,"gia vị (tỏi, gừng, tiêu, hành, ớt)",1
+ingredient,"bột chiết xuất thịt (heo, gà)",1
+ingredient,đạm thực vật thủy phân (đậu nành),1
+ingredient,"bột tôm (2,57 g/kg)",1
+ingredient,"bột mực (1,95 g/kg)",1
+ingredient,"bột hải sản (0,12 g/kg)",1
+ingredient,bột gia vị hương vị hải sản,1
+ingredient,gừng sợi đỏ,1
+ingredient,vegetable oil,1
+ingredient,whole milk powder,1
+ingredient,non – dairy creamer,1
+ingredient,vegetable butter,1
+ingredient,yeast extract,1
+ingredient,potato starch,1
+ingredient,dried spring onion,1
+ingredient,vegetable fat powder,1
+ingredient,chả cá,1
+ingredient,nạc gà,1
+ingredient,ruột collagen,1
+ingredient,phẩm màu tổng hợp (129),1
+ingredient,"bột thịt gà 5,9% [muối, chất điều vị (621, 631, 627), tinh bột ngô, đường, dầu cọ tương đậu nành, hương liệu tổng hợp (hương thịt gà), thịt gà, phẩm màu tổng hợp (150d), bột nghệ]",1
+ingredient,"bột chiết xuất từ nước luộc gà 1,9%",1
+ingredient,bột ngò,1
+ingredient,"bột nấm hương 0,5%",1
+ingredient,tastenrich master l5 (đường thực vật maltodextrin),1
+ingredient,"nước hầm xương (nước, xương heo)",1
+ingredient,"gạo (japonica, nếp cái hoa vàng)",1
+ingredient,thịt sườn heo,1
+ingredient,tổ yến,1
+ingredient,27% hạt điều,1
+ingredient,21% bí xanh,1
+ingredient,16% gạo lứt nổ,1
+ingredient,8% nước,1
+ingredient,6% hạt óc chó,1
+ingredient,5.6% đường cát,1
+ingredient,5% mật ong,1
+ingredient,4.3% mè trắng,1
+ingredient,3% lá rong biển,1
+ingredient,"đậu nành nguyên chất 82% (hàm lượng rắn của đậu nành 7%, đậu nành)",1
+ingredient,đậu ngọc bích,1
+ingredient,"bột hộp canxdicarbonat (chất chống đóng vón ins170(i), polysaccharide đậu nành)",1
+ingredient,"công thức hỗn hợp vitamin d3 (saccarose, chất nhũ hóa ins414, tinh bột bắp, vitamin d3, vitamin e, chất chống đông vón ins551)",1
+ingredient,"dầu thực vật (dầu nành, dầu hạt nho, dầu cọ)",1
+ingredient,phô mai (100 g/kg),1
+ingredient,thịt bò (80 g/kg),1
+ingredient,bột quả đào,1
+ingredient,sữa bột nguyên kem 9% (đậu nành),1
+ingredient,"shortening (dầu cọ hydro hóa hoàn toàn, chất nhũ hóa (este của propylene glycol với acid béo), chất chống oxy hóa (tocopherol concentrat (dạng hỗn hợp)))",1
+ingredient,chất xơ inulin,1
+ingredient,"bột quả mâm xôi 0,2%",1
+ingredient,chứa kem hương vị hoa hồng 47%,1
+ingredient,"bánh quy 9,5% (bột lúa mì, tinh bột ngô, chất xơ lúa mì, dầu cọ, đường, bột nở (chất điều chỉnh độ acid (ins 450(i), ins 341(i)), tinh bột ngô, chất tạo xốp (ins 500(ii)))",1
+ingredient,"hỗn hợp công thức(nước, chất làm ẩm (ins 420(i)), chất nhũ hóa (ins 471, ins 1520 (đậu nành), ins 473, ins 491, ins 477)), chất làm rắn chắc (ins 526), phẩm màu tự nhiên (ins 160a(iv)))",1
+ingredient,"bột sữa chế biến (bột sữa tách béo, bột whey permeate khử khoáng (sữa))",1
+ingredient,bột whey (sữa),1
+ingredient,bột kem pha cà phê (có chứa sữa - contain milk),1
+ingredient,cà phê hòa tan robusta và arabica,1
+ingredient,"bột tăng cường dinh dưỡng 59,85% (bột mì, sắt khử 0.00005%, kẽm oxit 0.00003%, axit folic 0.0000025%, vitamin b1 0.0000025%, vitamin b2 0.0000004%)",1
+ingredient,dừa khô 3.11%,1
+ingredient,mè 2.89%,1
+ingredient,nước (water),1
+ingredient,nước ép vải từ bột nước ép vải cô đặc (lychee juice from concentrate lychee juice powder) 15%,1
+ingredient,xi rô fructose (fructose syrup),1
+ingredient,đường (sugar),1
+ingredient,"l-carnitine 0,410%",1
+ingredient,"vitamin c [acid l- ascorbic (l- ascorbic acid)] 0,010%",1
+ingredient,gạo lứt,1
+ingredient,hạt sen,1
+ingredient,bột sữa đã tách bơ (buttermilk),1
+ingredient,"vitamin (b3, a, e, b1, b6, b2, d3, beta carotene, b12)",1
+ingredient,khoáng chất (kẽm sunphat) và bột dầu cá,1
+ingredient,"hỗn hợp cacao dạng rắn 19,86% (chiết xuất lúa mạch 8,31%, đường, bột cacao 1,94%, bột sữa, si rô glucose, dầu cọ, si rô fructose, bột whey, muối)",1
+ingredient,"dầu hướng dương, đường",1
+ingredient,bơ hạt phỉ,1
+ingredient,"bột cacao 2,34%",1
+ingredient,chất xơ đậu hà lan,1
+ingredient,bột yến mạch,1
+ingredient,"gia vị bò nướng cay 3% (glucose, muối, maltodextrin, chất điều vị (621, 627, 631, 950, 951), ớt bột, đường, bột thịt, cà chua cô đặc, chiết xuất nấm men, bột tỏi, bột tiêu đen, chất điều chỉnh độ acid (330, 364(ii))",1
+ingredient,(bò),1
+ingredient,bột hồi,1
+ingredient,bột đinh hương,1
+ingredient,kim quất,1
+ingredient,mơ rừng,1
+ingredient,cà chua tươi,1
+ingredient,thịt heo băm,1
+ingredient,bột nêm thịt bò,1
+ingredient,lá basil,1
+ingredient,lá oregano,1
+ingredient,nước mía,1
+ingredient,nước màu dừa,1
+ingredient,xì rô glucose,1
+ingredient,"mứt trái cây 6,45% (dâu tây 30%, đường, xì rô glucose, quả mâm xôi 11,15%)",1
+ingredient,"bột ca cao 2,69%",1
+ingredient,ethanol,1
+ingredient,gelatin (heo),1
+ingredient,tinh bột ngô (có thể chứa ngô biến đổi gen),1
+ingredient,"cacao khối 0,13%",1
+ingredient,có chứa lúa mì,1
+ingredient,đậu nành và thịt heo,1
+ingredient,da heo,1
+ingredient,ớt xiêm xanh,1
+ingredient,sữa bột gầy 10 %,1
+ingredient,bột trà 6 % (trà xanh thái nguyên 3 %),1
+ingredient,"cheese powder (contains milk powder, cheese solids)",1
+ingredient,chất xơ thực phẩm (inulin),1
+ingredient,"vitamin(a, d3)",1
+ingredient,vegetable oil (contains antioxidant tbhq),1
+ingredient,"vitamin (a(contains antioxidant tocopherol), b1, b2)",1
+ingredient,"chả bông gà (ruốc thịt gà) (thịt ức gà tươi, đường, chất điều vị (621), nước mắm, nước tương)",1
+ingredient,mạch nha isomalto,1
+ingredient,dầu thực vật (chứa tbhq chất chống oxy hóa (ins 319)),1
+ingredient,"bột phô mai 4,650% (chứa chất điều vị (mononatri l-glutamat (ins 621) và dinatri 5'-ribonucleotid (ins 635)), phẩm màu tổng hợp (ponceau 4r (cochineal red a) (ins 124) và sunset yellow fcf (ins 110)), chất chống oxy hóa d-alpha-tocopherol (ins 307a))",1
+ingredient,"vitamin a (682,41 µg/100g)",1
+ingredient,"vitamin b1 (1,49 mg/100g)",1
+ingredient,"vitamin b2 (1,71 mg/100g)",1
+ingredient,"bột kem thực vật (sữa, đậu nành, sữa tách béo)",1
+ingredient,trà xanh 6%,1
+ingredient,dextrin,1
+ingredient,"bột chiên [bột mì, đường, chất làm dày (1440, 415), chất tạo xốp (575, 500ii, 450i, 341), muối, bột sữa gầy, chất nhũ hóa (477, 471, 322i), hương liệu thực phẩm tổng hợp (vani), phẩm màu tự nhiên (101i)]",1
+ingredient,"xúc xích 22,9% [cá tra, mỡ heo, nước, thịt gà, chất ổn định (1412), nước đường bắp, nguyên liệu thực phẩm [chất ổn định (450iii), muối, chiết xuất gia vị các loại (bạch đậu khấu, ớt, đinh hương, paprika, húng tây) (trên chất nền dextrose), chất làm dày (412), dầu hạt cải, gluten lúa mì, bột sữa gầy, đường, nguyên liệu thực phẩm (đạm đậu nành, tinh bột khoai tây), bột giấm, muối, đạm đậu nành, chất xơ từ lúa mì, chất làm ẩm (450i, 450ii, 452ii, 452i), chiết xuất nấm men, hương liệu thịt gà tự nhiên, hương liệu khói tự nhiên, chất chống oxy hóa (316), phẩm màu tự nhiên (120)]",1
+ingredient,"bột chiên xù không trắng [bột mì, shortening, đường, men (saccharomyces cerevisiae), muối, tinh bột bắp, chất xử lý bột (170i, 516, 300, 1100i)]",1
+ingredient,dầu cọ dùng để chiên sản phẩm,1
+ingredient,bột bắp ngọt,1
+ingredient,vitamin a (beta-caroten),1
+ingredient,calci từ tảo biển aquamin f,1
+ingredient,"dầu thực vật [dầu cọ, chất chống oxy hóa (ins 307c, ins 307b)]",1
+ingredient,bột trà xanh 1%,1
+ingredient,chiết xuất hồng sâm (red panax ginseng extract),1
+ingredient,vitamin c (acid l - ascorbic),1
+ingredient,"vitamin b3 (niacin, nicotinamid)",1
+ingredient,vitamin e (dl - alpha - tocopheryl acetat),1
+ingredient,kẽm (kẽm oxyd),1
+ingredient,"vitamin b5 (acid pantothenic, d-pantothenat calci)",1
+ingredient,vitamin d (cholecalciferol),1
+ingredient,chất độn (cellulose vi tinh thể),1
+ingredient,bột hỗn hợp lactose,1
+ingredient,"sữa (sữa tươi, nước, bột sữa, chất béo thực vật)",1
+ingredient,gelatine,1
+ingredient,đạm thực vật (khô đậu nành 111 g/ lít),1
+ingredient,"hỗn hợp sò la 24% (đường, chất béo thực vật, bột ca cao, đường dextrose, chất nhũ hóa 322(i), 492, 476)",1
+ingredient,shortening thực vật (chứa chất nhũ hóa 471),1
+ingredient,khoai môn,1
+ingredient,sầu riêng,1
+ingredient,mứt bí,1
+ingredient,lòng đỏ trứng muối,1
+ingredient,"sữa (sữa tươi chuẩn hóa, nước, sữa bột, chất béo sữa, whey bột)",1
+ingredient,gelatin thực phẩm,1
+ingredient,lactaza,1
+ingredient,bánh : bột mì,1
+ingredient,lớp phủ : đường,1
+ingredient,chất béo thực vật không hydro hóa,1
+ingredient,nhân : glucose syrup,1
+ingredient,ớt 117 g/kg,1
+ingredient,chiết xuất 560 mg/kg,1
+ingredient,bột wasabi,1
+ingredient,sữa bò tươi (14 g/l),1
+ingredient,"nước ép nho cô đặc (8,5 g/l)",1
+ingredient,"men kombucha 31,73% (nước tinh khiết, đường, trà đen, cao lương, nuôi cấy cộng sinh của vi khuẩn và nấm men scoby)",1
+ingredient,"nước chanh 1,65% (thành phần pha trộn: 100% chanh)",1
+ingredient,bột tôm (19 g / 1000 g),1
+ingredient,dịch đạm tôm,1
+ingredient,nước sấy,1
+ingredient,bột bèo thực vật,1
+ingredient,trứng nguyên quả,1
+ingredient,nam việt quất,1
+ingredient,sả,1
+ingredient,hỗn hợp gia vị dạng sệt chứa chiết xuất bò 2%,1
+ingredient,"bột gia vị ngũ vị hương 0,4%",1
+ingredient,gia vị gạch cua,1
+ingredient,gia vị sốt cay,1
+ingredient,bột hành,1
+ingredient,"khoáng chất (natri selenit, sodium selenite)",1
+ingredient,dầu cọ (có chất chống oxy hóa (319)),1
+ingredient,"hỗn hợp gia vị(bột gia vị hải sản,chiết xuất nấm men,chất làm dày(440),tinh bột khoai tây,muối,chất làm dày(466))",1
+ingredient,"nước tương (nước,đậu nành,lúa mì,muối)",1
+ingredient,gia vị cá ngừ bonito,1
+ingredient,rượu nấu ăn,1
+ingredient,ngũ cốc,1
+ingredient,lúa mì nguyên cám,1
+ingredient,bột béo,1
+ingredient,bột ca cao giảm béo,1
+ingredient,"các khoáng chất (calci carbonat, sắt nguyên tố (khử hydro))",1
+ingredient,"muối i-ốt (natri clorid, kali iodat)",1
+ingredient,bột cốt dừa,1
+ingredient,bột rau câu,1
+ingredient,hạnh nhân 23%,1
+ingredient,"sữa việt quất khô (việt quất, đường, nước ép việt quất cô đặc, dầu hướng dương)",1
+ingredient,hạt điều rang 10%,1
+ingredient,ngô cốc bắp 10%,1
+ingredient,bắp 9%,1
+ingredient,"đậu phộng rang 9,1%",1
+ingredient,mật gạo,1
+ingredient,nhỏ khô,1
+ingredient,tảo cô đặc,1
+ingredient,bơ đã chế biến,1
+ingredient,"dầu cọ rong biển 27,9%",1
+ingredient,"ham (cured with: water, salt, sodium phosphates, sugar, spices, sodium erythorbate, sodium nitrite)",1
+ingredient,"nước ép kiwi táo (nước, nước ép táo cô đặc, nước ép kiwi cô đặc)",1
+ingredient,"gia vị tẩm ướp:ớt, xuyên tiêu , muối, bột mì, mè trắng, bột gạo, tinh bột bắp, hành tây, tỏi, tiêu đen, chiết xuất nấm men, gia vị hỗn hợp , bột gia vị cà ri , bột nguyên trứng",1
+ingredient,"xốt chấm: nước, đường, nước ép quýt, ớt, tỏi, muối,chiết xuất nấm men, nước mắm",1
+ingredient,"tinh bột khoai tây 17,3 g/kg",1
+ingredient,bột lòng đỏ trứng 860 mg/kg,1
+ingredient,bột cà ri,1
+ingredient,thơm,1
+ingredient,"bột tôm 7,2 g/kg",1
+ingredient,ngò gai,1
+ingredient,ngò om,1
+ingredient,bắp hạt sấy,1
+ingredient,ớt sấy,1
+ingredient,mắm ruốc,1
+ingredient,mực khô 580 mg/kg,1
+ingredient,ruốc khô 190 mg/kg,1
+ingredient,bột chiết xuất sườn heo,1
+ingredient,me,1
+ingredient,rong biển 50%,1
+ingredient,"hỗn hợp dầu tinh 44% [dầu cọ, chất chống oxy hóa (ins 321), dầu cám gạo]",1
+ingredient,nước cốt chanh dây,1
+ingredient,"dầu gia vị (dầu đậu nành, dầu mù tạt, dầu ớt, hương liệu tự nhiên (bơ))",1
+ingredient,"tinh bột (sắn, bắp)",1
+ingredient,bơ (chất béo sữa),1
+ingredient,rau sấy khô,1
+ingredient,shortening nấm 5%,1
+ingredient,phô mai 3 %,1
+ingredient,bơ lạt,1
+ingredient,caseinat,1
+ingredient,acid phytic,1
+ingredient,chiết xuất thịt heo,1
+ingredient,"tinh cốt cá cơm 95% (cá cơm, muối)",1
+ingredient,"gói trà sữa: bột kem [siro glucose, dầu nhân cọ, chất khô từ sữa (5,5-7%), natri caseinate (2-3%)], đường, bột trà",1
+ingredient,đường sucrose và dextrose,1
+ingredient,"vitamin b3, b6, b12",1
+ingredient,dầu cọ tinh luyện,1
+ingredient,"gói gia vị: dầu xào (dầu olein, củ hành, muối i-ốt, đường, gia vị (bột ớt, bột tỏi, bột tiêu), rau sấy khô (bắp cải, cà rốt, hành lá), bột gia vị hương thịt , bột gia vị te20: [đạm thực vật thủy phân])",1
+ingredient,mạch nha malttose,1
+ingredient,"sữa hoàn nguyên (nước, sữa bột nguyên kem, sữa bột tách béo)",1
+ingredient,calcium lactate pentahydrate,1
+ingredient,zinc gluconate,1
+ingredient,"hỗn hợp vitamin (b3, e)",1
+ingredient,nước đường high fructose,1
+ingredient,"sữa (nước, sữa bột, chất béo sữa, sữa non (colostrum) (100 mg/l))",1
+ingredient,"hỗn hợp khoáng và vitamin (tricanxi phosphat, dinatri phosphat, kali clorid, natri clorid, kali iodid, magiê oxit, natri selenit, mangan sulfat, kẽm oxit, đồng sulfat, retinyl acetat, natri-l-ascorbat, dl-alpha tocopheryl acetat, phylloquinon, thiamin hydroclorid, riboflavin, niacinamid, canxi-d-pantothenat, pyridoxin hydroclorid, d-biotin, axit folic, cyanocobalamin, cholecalciferol)",1
+ingredient,thịt cá tra,1
+ingredient,sữa đậu nành,1
+ingredient,"hạt sôcôla (đường, chất béo thực vật (dầu cọ), bột cacao, cacao khối, chất nhũ hóa (322(i), 476), bơ cacao, chất ổn định (492), hương liệu tổng hợp)",1
+ingredient,"thịt (thịt heo (263 g/kg), thịt gà)",1
+ingredient,đạm thịt heo,1
+ingredient,nước cốt bò,1
+ingredient,"bột cần tây (0,9 g/kg)",1
+ingredient,"bánh quy 72% (bột mì, đường, dầu cọ, si rô đường nghịch đảo, bột ca cao, chất tạo màu tự nhiên phẩm màu (ins 150a), tinh bột ngô (có thể chứa ngô biến đổi gen), chất tạo xốp (ins 503(i)), chất ổn định (ins 500(ii)), muối tinh, bột whey, chất nhũ hóa (ins 481(i), ins 472a), chất điều chỉnh độ acid (ins 450(iii)), chất chống oxy hóa (ins 322(i) từ đậu nành))",1
+ingredient,"nhân kem 28% (đường, dầu cọ, tinh bột ngô (có thể chứa ngô biến đổi gen), sữa bột tách béo, chất chống oxy hóa (ins 322(i)), hương liệu tổng hợp (hương vani), muối tinh, bột vani)",1
+ingredient,nước ép táo từ cô đặc,1
+ingredient,các loại trái cây nghiền: cà rốt,1
+ingredient,táo,1
+ingredient,đào từ cô đặc,1
+ingredient,"vitamin c 16 mg/ 100 ml 20% rni và vitamin e 1,8 mg/ 100 ml 15% rni",1
+ingredient,đường 46%,1
+ingredient,"vitamin (b3, e, a, b1, b6, b2, d3, b12)",1
+ingredient,khoáng chất (kẽm sulfat),1
+ingredient,bột dầu cá,1
+ingredient,vẩy khoai tây,1
+ingredient,"vảy ngũ cốc 33% (bột mì, glucose syrup, bột đậu nành, chiết xuất mầm lúa mạch, đường, tinh bột bắp, dextrose, bột nếp, bột gạo, fructose syrup, chất ổn định (1414), muối, hương liệu tổng hợp)",1
+ingredient,"bột kem thực vật (glucose syrup, dầu thực vật, chiết xuất mầm lúa mạch, protein sữa, chất ổn định (340(ii), 452(i)), chất nhũ hóa (471, 472e), chất chống đông vón (551))",1
+ingredient,"bột gia vị (hương liệu giống tự nhiên, đạm thực vật thủy phân, chất điều vị (ins 621, ins 631), chiết xuất cua, mực)",1
+ingredient,bột tôm,1
+ingredient,"vitamin premix b (b3 (nicotinamid), acid folic, b12 (cyanocobalamin), b1 (thiamin hydrochlorid), b6 (pyridoxin hydrochlorid))",1
+ingredient,"ngũ cốc [lúa mì nguyên cám - có chứa gluten, bột lúa mì - có chứa gluten, bột ngô]",1
+ingredient,chiết xuất mạch nha lúa mạch - có chứa gluten và tinh bột sắn,1
+ingredient,bột cacao giảm béo,1
+ingredient,"các khoáng chất [calci carbonat, sắt nguyên tố (khử hydrogen)]",1
+ingredient,"muối iốt (natri clorid, kali iodat)",1
+ingredient,"các vitamin (b3, b5, b6, b2, b9)",1
+ingredient,đường kính luyện,1
+ingredient,"vitamin và khoáng chất (a, b1, b6, kẽm lactat)",1
+ingredient,"thịt 71% (*) (thịt heo, thịt gà)",1
+ingredient,phô mai 10% (*),1
+ingredient,"gia vị (muối, đường, tiêu)",1
+ingredient,vỏ bọc bằng ruột collagen (hoặc ruột tự nhiên),1
+ingredient,bột phô mai 0.5%,1
+ingredient,"vắt mì: bột mì, chất làm dày (1420, 412), tinh bột khoai tây, bột gluten lúa mì, muối, dầu hướng dương, chất nhũ hóa (322(i)), bột tỏi, chất điều vị (621), bột nghệ, chất ổn định (401), chất điều chỉnh độ acid (500(ii)), chất làm ẩm (452(i)), chất tạo màu (164) tự nhiên, chất chống oxy hóa (320, 321)",1
+ingredient,"súp: viên súp bò sấy thăng hoa 157,8 g/kg, dầu cọ, mỡ bò tinh chế 24,3 g/kg, hành tím, tỏi tây, tinh cốt thịt bò 15,5 g/kg, chất điều vị (621, 635), tương hột, tương hột ớt, nước tương, bột thịt bò hầm 11 g/kg, nước cốt xương thịt gà, bò, chiết xuất nấm men, nước cốt bò 7,2 g/kg, xirô fructose-glucose, gừng, đường, gia vị lên men rau nấm, muối, cốt bò gia vị 2,2 g/kg, bột ớt, bột tiêu, chất tạo màu ((150a) tự nhiên, (150d) tổng hợp), bột hồi, bột quế, hương liệu tổng hợp, chất chống oxy hóa (320, 321)",1
+ingredient,"thịt (thịt gà, thịt heo 5%)",1
+ingredient,muối hồng himalaya,1
+ingredient,"nước ép trái cây cô đặc (táo, chanh)",1
+ingredient,"bột trộn sẵn bánh hotteok 38,1% [bột mì, chất làm dày (1440, 1420), đậu nành, bột gạo, đường, muối, bột sữa, bột béo thực vật, chất tạo xốp (575, 500(ii), 450(i), 341(i)), đường dextrose, phẩm màu tổng hợp (160a(iii))]",1
+ingredient,"nhân phô mai mozzarella 29,9% (phô mai mozzarella 60%, nước, đường, sữa bột béo, khoai lang, tinh bột khoai tây, muối, hương liệu phô mai tổng hợp)",1
+ingredient,gia vị nguyên bản,1
+ingredient,"chất béo thực vật (có chứa chất điều chỉnh độ acid (260), chất tạo màu tự nhiên (160a(iii)))",1
+ingredient,gia vị muối (có chứa chất điều vị (621)),1
+ingredient,"bột phô mai (có chứa chất ổn định (339(iii)), chất ổn định (415), chất xử lý bột (223))",1
+ingredient,nước mắm cốt,1
+ingredient,nước mắm cốt cá hồi,1
+ingredient,đầu cá hồi*,1
+ingredient,khoáng chất (natri selenit),1
+ingredient,phôi cháo: gạo,1
+ingredient,"gói nấm: nước hầm củ (nước, củ cải trắng, cà rốt), nấm đông cô , gluten từ bột mì, dầu cọ tinh luyện, nước tương, tinh bột khoai mì, đường tinh luyện, hạt mè, chất điều vị (mononatri l-glutamat, dinatri 5'-guanylat, dinatri 5'-inosinat), muối ăn, bột tiêu, chất chống oxy hóa (tocopherol concentrat (dạng hỗn hợp))",1
+ingredient,"gói gia vị: muối ăn, đường tinh luyện, chất điều vị (mononatri l-glutamat, dinatri 5'-guanylat, dinatri 5'-inosinat), rau sấy (cà rốt, barô, cần tây), bột tiêu, chất chống đông vón (ins 551)",1
+ingredient,"vắt mì: bột mì, dầu cọ, tinh bột khoai mì, chất ổn định (1420, 500(i), 422, 500(ii)), muối, tinh bột khoai tây, nước mắm, chất điều vị (621), chất làm ẩm (452(i), 451(i)), gluten lúa mì, chiết xuất nấm men, chất chống oxy hóa (307c, 320, 321, 330), chiết xuất lá dành dành, chất tạo màu (100(i)) tổng hợp",1
+ingredient,"súp: đường, chất điều vị (621, 635, 364(ii)), muối, bột gia vị nghêu 148 g/kg, nấm đông cô sấy 26 g/kg, bột kem thực vật, bắp sấy, chiết xuất nấm men, rong biển sấy 79 g/kg, chả hương cua sấy, nghêu sấy 6,3 g/kg, ớt sấy, hành lá sấy, dầu cọ, tinh bột khoai mì, bột chiết xuất sườn heo, tỏi, bột chiết xuất hàu, sả, nước tương, nước mắm, hương liệu (giống tự nhiên, tổng hợp), tôm khô, gừng, bột ớt, bột gừng, chất xơ lúa mì, dầu mè, bột nước mắm, hành tím, chất chống đông vón (551), ớt, bột tôm, bột tiêu, chất tạo màu (150d) tổng hợp, chất chống oxy hóa (320, 321)",1
+ingredient,dầu thực vật (từ trái ca cao),1
+ingredient,nước cốt dừa nguyên chất,1
+ingredient,"bột chiên [bột mì, đường, chất làm dày (1440, 415), chất tạo xốp (575, 500(ii), 450(i), 341(i)), muối, bột sữa gầy, chất nhũ hóa (477, 471, 322(i)), hương liệu thực phẩm tổng hợp (vani), phẩm màu tự nhiên (101(i))]",1
+ingredient,"xúc xích 22,9% (cá tra, mỡ heo, nước, thịt gà, chất ổn định (1412), nước đường bắp, nguyên liệu thực phẩm [chất ổn định (450(iii)), muối, chiết xuất gia vị các loại (bạch đậu khấu, ớt, đinh hương, paprika, hương thảo) trên chất nền dextrose], chất làm dày (412), chất chống oxy hóa (316), chất điều vị (621), dầu hạt cải, hương liệu tự nhiên, gluten lúa mì, bột sữa gầy, đường, nguyên liệu thực phẩm [đạm đậu nành, tinh bột khoai tây], bột giấm, muối, đạm đậu nành, chất xơ từ lúa mì, chất làm ẩm (450(i), 450(ii), 452(i), 452(ii)), chiết xuất nấm men, hương liệu thịt giống tự nhiên, hương liệu khói tự nhiên, chất chống oxy hóa (316), phẩm màu tự nhiên (120(i)))",1
+ingredient,"bột chiên xù khô trắng [bột mì, shortening, đường, men (saccharomyces cerevisiae), muối, tinh bột bắp, chất xử lý bột (170(i), 516, 300, 1100(i))]",1
+ingredient,dầu sử dụng để chiên sản phẩm,1
+ingredient,sữa đậu nành nguyên chất 80% (hàm lượng đậu nành 7%),1
+ingredient,"hỗn hợp calci carbonat (calci carbonat, polysaccharide đậu nành)",1
+ingredient,sữa gạo lứt,1
+ingredient,"chiết xuất đậu đen 0,5% (hàm lượng đậu 2%)",1
+ingredient,bột vừng,1
+ingredient,cam sấy khô,1
+ingredient,bột cam,1
+ingredient,paste đậu trắng,1
+ingredient,nhân sô-cô-la compound đen,1
+ingredient,nấm men saccharomyces cerevisiae,1
+ingredient,bột than tre,1
+ingredient,"milk chocolate (sugar, chocolate, skim milk, cocoa butter, lactose, milkfat, peanuts, lecithin, salt, natural flavor)",1
+ingredient,peanuts,1
+ingredient,cornstarch,1
+ingredient,"less than 1% of: palm oil, corn syrup, dextrose, colors, carnauba wax, gum acacia",1
+ingredient,"bánh gạo: gạo , muối, nước",1
+ingredient,"gói sốt: đường, đường ngô (hfcs), tương ớt gochujang, tỏi, cà chua cô đặc, chất điều vị (ins 621, ins 631, ins 627), muối, cồn thực phẩm, ớt, chất làm dày (ins 1422, ins 415), vừng, chất tạo màu tự nhiên (ins 160c(ii)), chiết xuất hải sản (mực, tôm, cá), chiết xuất hành, chất điều chỉnh độ acid (ins 330), bột vi khuẩn lactic lên men, maltodextrin, chiết xuất yucca",1
+ingredient,"kẹo dẻo boom vị đào: đường, mạch nha maltose, gelatin, chất làm dày (1200, 1442, 440), nước ép đào cô đặc , chất điều chỉnh độ acid (330, 334, 296), hương liệu tổng hợp và giống tự nhiên (đào), nước ép cà rốt đen cô đặc, chất làm bóng (903, 901)",1
+ingredient,"kẹo dẻo boom vị nho: đường, mạch nha maltose, gelatin, chất làm dày (1200, 1442, 440), nước ép nho cô đặc , chất điều chỉnh độ acid (330, 334, 296), hương liệu tổng hợp (nho), nước ép cà rốt đen cô đặc, chất làm bóng (903, 901)",1
+ingredient,"kẹo dẻo boom hương dâu: đường, mạch nha maltose, gelatin, chất làm dày (1200, 1442, 440), nước ép táo cô đặc , chất điều chỉnh độ acid (330, 334, 296), hương liệu tổng hợp (dâu), chất làm bóng (903, 901), chất tạo màu tự nhiên (141(i), 100(i)), chất tạo màu tổng hợp (129)",1
+ingredient,cá 60%,1
+ingredient,xốt cà chua 35%,1
+ingredient,"dầu nành, đường 5%",1
+ingredient,"vắt sợi: bột mì, dầu cọ, tinh bột khoai mì, tinh bột khoai tây (10 g/kg), muối, chất điều vị (621, 631, 627), bột trứng (0,5 g/kg), chất ổn định (1210, 451(i), 405), chất điều chỉnh độ acid (330, 260), chất tạo xốp (500(ii), 452(i)), chất tạo màu (màu tổng hợp (101(iii)), màu tự nhiên (164)), chất chống oxy hóa (320, 307b)",1
+ingredient,"gói xốt: nước, dầu cọ, muối, chất điều vị (621, 631, 627, 364(ii)), hành, đường, cốt nước tương, hỗn hợp bột (bột hành, bột tiêu, bột thảo quả), tỏi, hương liệu tổng hợp dùng cho thực phẩm (hương bò, hương mùi tàu), gừng, bột sữa dừa, chất tạo màu (màu tổng hợp (150d), màu tự nhiên (160c(iii))), chiết xuất nấm men, chất bảo quản (202, 211), chất tạo ngọt tổng hợp (950), chất làm dày (415), chất chống oxy hóa (319)",1
+ingredient,"gói rau: giả thịt (từ protein lúa mì), rau sấy (hành lá, cà rốt)",1
+ingredient,tinh bột bắp biến tính,1
+ingredient,bột tiêu trắng,1
+ingredient,chiết xuất men,1
+ingredient,hạt nêm thịt gà,1
+ingredient,siro đường bắp,1
+ingredient,bột sữa (21 g/l),1
+ingredient,"nước ép táo cô đặc (5,2 g/l)",1
+ingredient,l-arginine (100 mg/l),1
+ingredient,"trái cây (quýt, đào vàng, dứa, đào trắng)",1
+ingredient,xi-rô ngô fructose cao (sản xuất trong nước),1
+ingredient,rượu tây,1
+ingredient,thạch aga,1
+ingredient,chất béo thực vật (có chứa chất nhũ hóa (322(i))),1
+ingredient,"chất làm ẩm (420(ii), 422, 1520)",1
+ingredient,"(1442, 1440, 415, 170(i), 401)",1
+ingredient,"cốm dừa sấy khô 1,9%",1
+ingredient,"(1450, 477, 471, 475, 473, 322(i), 491, 470(i))",1
+ingredient,hỗn hợp cốm dạng bột 1%,1
+ingredient,"bột sữa dừa 0,7%",1
+ingredient,"hương liệu nhân tạo (lá dứa, dừa, sữa, cốm)",1
+ingredient,"chất tạo xốp (575, 500(ii))",1
+ingredient,chất xử lý bột (1100(iii)),1
+ingredient,(307b),1
+ingredient,(141(ii)),1
+ingredient,(160a(i)),1
+ingredient,"khoai tây 59,0%",1
+ingredient,"bột gia vị cay 6,0% (đường, bột rau, muối, chất điều vị (ins 621, ins 627, ins 508, ins 631), maltodextrin, gia vị và thảo mộc (tiêu trắng, ớt đỏ), bột nước tương, chất điều chỉnh độ acid (ins 330, ins 331(iii)), chất chống đông vón (ins 551), phẩm màu tự nhiên (ins 160c(ii)), phẩm màu tổng hợp (ins 150c), chất tạo ngọt tổng hợp (ins 951), chất làm dày (ins 339(iii)))",1
+ingredient,hương liệu vị nước mắm,1
+ingredient,yến mạch cán dẹt,1
+ingredient,shortening (dầu cọ),1
+ingredient,sô cô la viên,1
+ingredient,bơ thực vật (từ dầu cọ),1
+ingredient,bột sô cô la,1
+ingredient,si rô đường caramen,1
+ingredient,"sữa (nước, sữa bột nguyên kem, sữa bột gầy)",1
+ingredient,chiết xuất ngũ cốc và lúa mạch,1
+ingredient,"khoáng chất (tricalci phosphat, dicalci phosphat, magnesi carbonat, mangan (ii) sulfat)",1
+ingredient,xi-rô glucose,1
+ingredient,"bột kem không sữa (xi-rô glucose, dầu cọ hydro hóa, chất ổn định (340(ii)), chất caseinat, chất nhũ hóa (471), muối)",1
+ingredient,vitamin e,1
+ingredient,axit pantothenic,1
+ingredient,vitamin b1,1
+ingredient,vitamin b2,1
+ingredient,vitamin b9,1
+ingredient,taurine (1000 mg),1
+ingredient,mật ong (500 mg),1
+ingredient,caffein (80 mg),1
+ingredient,inositol (50 mg),1
+ingredient,vitamin b3 (20 mg),1
+ingredient,vitamin b6 (4 mg),1
+ingredient,"vitamin b2 (3,2 mg)",1
+ingredient,"vitamin b1 (0,5 mg)",1
+ingredient,chiết xuất đậu đỏ dạng bột,1
+ingredient,"chất béo thực vật (chứa chất nhũ hóa (492, 322(i)))",1
+ingredient,hỗn hợp cốm dạng bột,1
+ingredient,cream từ sữa tươi,1
+ingredient,chất đạm đậu nành,1
+ingredient,gia vị tôm,1
+ingredient,sữa 97 % (sữa bò tươi),1
+ingredient,"vitamin và khoáng chất (k2 - mk7, a, d3, natri selenit)",1
+ingredient,bột giấm,1
+ingredient,cà chua (130 g/kg),1
+ingredient,"hỗn hợp bột (bột hành, bột tỏi, bột ớt, bột tiêu)",1
+ingredient,dịch chiết bò tươi (14 g/kg),1
+ingredient,bột tôm khô chiết xuất,1
+ingredient,"gói rau: rau sấy (hành lá, hành tây, cà rốt)",1
+ingredient,chiết xuất lúa mạch,1
+ingredient,bột cacao tách béo,1
+ingredient,"vitamin (b6, acid folic, b12)",1
+ingredient,bột gia vị tôm tái chanh,1
+ingredient,non dairy creamer,1
+ingredient,"gạo japonica 36,3%",1
+ingredient,"chà bông nấm hương 8,4%",1
+ingredient,bột thực vật,1
+ingredient,"bột gia vị teriyaki (đường, muối, maltodextrin, chất điều vị (621, 631, 627, 364(ii)), hương liệu (tự nhiên, giống tự nhiên), chất điều chỉnh độ acid (330), chất chống đông vón (551), chất tạo ngọt nhân tạo (951, 955))",1
+ingredient,tỏi bột,1
+ingredient,"nước tương 0,7%",1
+ingredient,tảo biển,1
+ingredient,malto dextrin,1
+ingredient,"bột làm thạch: [chất làm dày: (carrageenan (từ rong biển) (ins 407), bột konjac (từ khoai nưa) (ins 425), gôm xanthan (ins 415)), chất ổn định: kali clorid (ins 508), chất chống đông vón: dioxyd silic vô định hình (ins 551), glucose]",1
+ingredient,"bột phô mai (có chứa bột sữa, chất rắn phô mai)",1
+ingredient,"sữa 50% (nước, sữa bột, chất béo sữa)",1
+ingredient,"chiết xuất từ mầm lúa mạch 1,5%",1
+ingredient,"bột ca cao 0,4%",1
+ingredient,"hỗn hợp vitamin và khoáng chất (e, c, b3, b5, b1, b6, a, b2, b9, k1; biotin, d3, kali clorid, sắt (iii) pyrophosphat, kẽm oxyd, natri selenit, kali iodid, mangan sulfat)",1
+ingredient,"hỗn hợp sô cô la 24% (đường, chất béo thực vật, bột cacao, đường dextrose, chất nhũ hóa (322(i), 492, 476))",1
+ingredient,nước hầm xương gà 60%,1
+ingredient,"chiết xuất rau củ quả tươi 18% (sả, riềng, ớt, lá chanh, hành tây, gừng)",1
+ingredient,bột gia vị chanh,1
+ingredient,xiro glucose,1
+ingredient,lactobacillus paracasei (lcasei 431™),1
+ingredient,"sữa 97,22% (nước, sữa bột, chất béo sữa)",1
+ingredient,"hỗn hợp vitamin và khoáng chất (c (natri-l-ascorbat), e (dl-alpha-tocopheryl acetat), b5 (d-pantothenat), b3 (nicotinamid), a (retinyl acetat), b2 (riboflavin), b6 (pyridoxin hydroclorid), b1 (thiamin mononitrat), b9 (acid pteroymonoglutamic), k1 (phytomenadion), d3 (cholecalciferol), biotin (d-biotin), b12 (cyanocobalamin), magnesi oxyd, sắt (iii) pyrophosphat, kẽm sulfat, kali iodid)",1
+ingredient,"bột sương sáo đen (cây sương sáo khô 80%, chất ổn định ins 1414)",1
+ingredient,"bột kem không sữa - non dairy creamer (glucose syrup, chất béo thực vật, chất ổn định (ins 414), đạm sữa, chất nhũ hóa (ins 322i), chất chống đông vón (ins 551))",1
+ingredient,"sữa 32 % (nước, sữa bột gầy)",1
+ingredient,chiết xuất từ lúa mạch (10 g/l),1
+ingredient,tricalci phosphat,1
+ingredient,chất tạọ ngọt tự nhiên,1
+ingredient,steviol glycosid từ stevia,1
+ingredient,"vitamin (b1, b3, b6, d3, k2-mk7)",1
+ingredient,"sữa 41 % (nước, sữa bột, chất béo sữa)",1
+ingredient,chiết xuất từ mầm lúa mạch,1
+ingredient,"vitamin và khoáng chất (vitamin b1, b3, b5, b6, k2, a, d3, tricali citrat, tricalci phosphat, natri polyphosphat, kẽm oxyd)",1
+ingredient,"trái cây khô (dâu tây, lý chua đen)",1
+ingredient,0.1% rong biển,1
+ingredient,gói xốt: dầu cọ,1
+ingredient,"hỗn hợp bột (bột hành, bột tỏi, bột tiêu)",1
+ingredient,"rau sấy (hành lá, cà rốt, nấm, hành tây)",1
+ingredient,môn sữa,1
+ingredient,ớt tươi,1
+ingredient,rượu,1
+ingredient,hạt chia đen (organic),1
+ingredient,trà tinh chế,1
+ingredient,"gia vị hương mực nướng cay 5,4% [đường, bột hải sản (bột cá mối vạch, bột tôm), muối, chất điều vị (621, 640, 635), bột gia vị (bột me, bột tỏi, bột ớt), hương liệu mực nướng giống tự nhiên, maltodextrin, nhựa dầu ớt, chất chống đông vón (551, 341(iii)), phẩm màu tự nhiên (160c(i)), chất điều chỉnh độ acid (330), chất tạo ngọt tổng hợp (951, 955)]",1
+ingredient,"gói mì ý: 60% (mỳ ý spaghetti: 97,4%, dầu thực vật, muối, i-ốt)",1
+ingredient,"gói xốt kem cá hồi: 40% (nước, xốt mayonnaise, cá hồi: 13,6%, kem sữa tươi: 4,9%, bơ lạt, dầu thực vật, đường tinh luyện, phô mai, phụ gia thực phẩm (chất ổn định (ins 1414, ins 415), hương phô mai tổng hợp, hương sữa giống tự nhiên), hạt nêm, tỏi, muối i-ốt, tiêu, lá kinh giới, lá xạ hương)",1
+ingredient,"hỗn hợp dầu thực vật (dầu ngô, dầu ô liu), rau & hạt (ngô, hạt óc chó, hạnh nhân, nấm đông cô, cải bó xôi), rong biển hàn quốc , đường, chiết xuất bắp, maltodextrin, muối hồng",1
+ingredient,"dầu thực vật (dầu nành, dầu cọ)",1
+ingredient,"rong biển 28,9%",1
+ingredient,"chà bông cá hồi 12,4% [cá hồi, thịt nạc gà, đường, nước mắm, hạt nêm, chiết xuất nấm men, muối, chất xơ, màu điều, bột tỏi, bột tiêu, phẩm màu tổng hợp (110, 120), chất bảo quản (202)]",1
+ingredient,đường làm bánh,1
+ingredient,"hỗn hợp calci lactat và calci gluconat 0,5%",1
+ingredient,coconut cream powder (contains milk protein),1
+ingredient,"cheese seasoning [sugar, dairy product, cheese powder , salt, coconut powder, flavour enhancer (ins 621), hydrolyzed soya protein, anticaking agent (ins 551), paprika oleoresin, turmeric colouring (e100(i)), artificial flavour]",1
+ingredient,durian powder,1
+ingredient,thạch dừa (50 g/l),1
+ingredient,nước ép táo hoàn nguyên (10 g/l),1
+ingredient,canxi lactat,1
+ingredient,"vitamin (k2, b1, b3, b5, b6, a, d3)",1
+ingredient,chất thay thế bột sữa,1
+ingredient,"sữa lên men tự nhiên (nước, sữa bò tươi, bột sữa, chất béo sữa, men streptococcus và lactobacillus)",1
+ingredient,lactobacillus plantarum l-137 (23.4 mg/l),1
+ingredient,"gạo japonica 46,3%",1
+ingredient,"bột gia vị ngô bơ ngọt 3,3% (đường, bột sữa, muối, hương liệu tổng hợp, chất điều vị (621, 635), chiết xuất nấm men, chất chống đông vón (551), chất tạo ngọt nhân tạo (955))",1
+ingredient,"bột gia vị muối 1,7% (muối, chất điều vị (621), muối i-ốt, hương liệu tổng hợp (ngô), hành lá sấy, chất tạo màu tổng hợp (160a(i)))",1
+ingredient,hỗn hợp bột cacao và bơ ca cao,1
+ingredient,"gia vị (muối, đường, nhục đậu khấu)",1
+ingredient,"dịch chiết thịt bò 0,12%",1
+ingredient,bột hương tỏi tự nhiên,1
+ingredient,"sô cô la tổng hợp 20% [đường, dầu cọ stearin chế biến, dầu đậu nành, bột ca cao, bột whey]",1
+ingredient,"bột whey protein 19% (whey protein phân lập, chất nhũ hóa (ins 322(i)) (từ đậu nành))",1
+ingredient,fructo oligosaccharide,1
+ingredient,sản phẩm đậu nành chế biến 8%,1
+ingredient,hạnh nhân 8%,1
+ingredient,"sản phẩm oligosaccharide chế biến (mạch nha, isomalto oligosaccharide, đường fructose)",1
+ingredient,ngũ cốc 4%,1
+ingredient,oligosaccharide,1
+ingredient,sản phẩm đường chế biến,1
+ingredient,dầu cọ thực vật,1
+ingredient,"cà phê 0,2%",1
+ingredient,muối tự nhiên,1
+ingredient,ruốc muối,1
+ingredient,wheat flour 60%,1
+ingredient,sugar 25%,1
+ingredient,milk powder 10%,1
+ingredient,salt 2%,1
+ingredient,đường ngô hfcs,1
+ingredient,dứa,1
+ingredient,"nước tương (đậu nành, nước)",1
+ingredient,"socola sữa 78.5% [đường, bơ cacao, sữa không kem, cacao nghiền, bột whey, bơ, chất nhũ hóa ins322(i), hương vani tổng hợp]",1
+ingredient,"bánh xốp giòn 21.5% [bột lúa mì, dầu thực vật (dầu cọ), đường, bột whey, sữa bột không béo, bột cacao, muối tinh, chất điều chỉnh độ axit ins500(ii), chất nhũ hóa ins322(ii)]",1
+ingredient,khoáng chất (natri selenit/ sodium selenite),1
+ingredient,"lợi khuẩn lactobacillus paracasei (th-l.casei, th.paracasei)",1
+ingredient,dịch trích từ đậu nành hạt,1
+ingredient,trái cây nghiền,1
+ingredient,"sữa pha sẵn (nước, sữa, chất béo sữa, sữa non colostrum (1500 mg/l))",1
+ingredient,chất xơ hòa tan (fos multi),1
+ingredient,"các khoáng chất (dinatri phosphat, magiê oxit, kẽm sulfat, kali iodid, natri selenit)",1
+ingredient,"các vitamin (vitamin k2 (mk7), nicotinamid, dl-alpha-tocopheryl acetat, phylloquinon, cholecalciferol, canxi-d-pantothenat, riboflavin, pyridoxin hydroclorid, thiamin mononitrat, retinyl acetat, axit folic)",1
+ingredient,"dha, hmo (2'-fl)",1
+ingredient,"bánh quy 9,5% (bột lúa mì, tinh bột ngô, chất xơ lúa mì, dầu cọ, đường, bột nở [chất điều chỉnh độ acid (ins 450(i), ins 341(ii)), tinh bột ngô, chất tạo xốp (ins 500(ii))], muối, hỗn hợp công thức (nước, chất làm ẩm (ins 420(i)), chất nhũ hóa (ins 471, ins 322(i) (đậu nành), ins 473, ins 491, ins 477)), chất làm rắn chắc (ins 526), phẩm màu tự nhiên (ins 160a(iv)))",1
+ingredient,"bột sữa chế biến (bột sữa tách béo, bột whey permeate khử khoáng (sữa), bột whey (sữa), chất nhũ hóa (ins 471, ins 433), chất ổn định (ins 466, ins 412, ins 407, ins 410), 2 loại hương liệu nhân tạo (vani))",1
+ingredient,"sô-cô-la compound đen bao gồm (đường, chất béo thực vật (dầu cọ hoặc nhân cọ đã hydro hóa), bột ca cao, chất nhũ hóa (ins 492, ins 322(i)), hương liệu tổng hợp (vani, sô cô la), có thể chứa một lượng rất nhỏ thành phần sữa)",1
+ingredient,bơ ca cao,1
+ingredient,"bột whey protein 20% (từ mỹ) [bột whey protein isolate, chất ổn định lecithin ins 322]",1
+ingredient,"bột nước ép đào 2.1% [nước ép đào (50% đào / từ hàn quốc), chất ổn định dextrin ins 1400]",1
+ingredient,bột sữa dừa bến tre,1
+ingredient,cacao mass,1
+ingredient,tôm (100 g/kg),1
+ingredient,phôi cháo khô (27g): gạo,1
+ingredient,"gói xốt (45g): nước hầm xương, thịt tôm , cà rốt , trứng gà , bột gạo , bột năng , dầu ăn dinh dưỡng cho trẻ nhãn hiệu kiddy, calcium carbonate, đường, muối, chất điều vị (ins 621)",1
+ingredient,"kombucha 96% (nước, đường, con giống scoby, trà xanh, trà đen)",1
+ingredient,nước ép vải 2.8%,1
+ingredient,nước ép kiwi 1%,1
+ingredient,xi-rô glucose 63.46%,1
+ingredient,đường 26.11%,1
+ingredient,gelatin 5.49%,1
+ingredient,tinh bột bắp 2.98%,1
+ingredient,trứng cút,1
+ingredient,sắn,1
+ingredient,nấm men: saccharomyces cerevisiae,1
+ingredient,"bột làm thạch [chất làm dày: carrageenan (chiết xuất từ rau câu) (ins 407), bột konjac (từ khoai nưa) (ins 425), gôm xanthan (ins 415), chất ổn định: kali clorid (ins 508), trikali citrate (ins 332(ii)), glucose, muối sấy]",1
+ingredient,"viên thịt: thịt (thịt heo, thịt gà) 510,6 g/kg, nước, chất ổn định (1414, 451(i)), đường, nước mắm, lạp xưởng, muối, tiêu, chất điều vị (621, 635), bột tỏi, dầu olein cọ tinh luyện, chất chống oxy hóa (316, 320, 321), chất giữ màu (250)",1
+ingredient,"xốt: nước, thịt heo (47,3 g/kg), hành tây, nước mắm, chất ổn định (1414, 415), đường, chất điều vị (621, 635), dầu hành, dầu tỏi, hành lát phi, bột hành tây, tiêu, tỏi lát phi, hành tím, muối, chiết xuất nấm men, nước màu, nấm hương, hương liệu giống tự nhiên, phẩm màu tự nhiên (150a), bột lòng trắng trứng, bột lòng đỏ trứng, chất chống oxy hóa (321, 320)",1
+ingredient,củ cải,1
+ingredient,xiro ngô fructose,1
+ingredient,nước sạch,1
+ingredient,"bột hỗn hợp gia vị (bột gạo 60%, glucose, bột tỏi, bột củ cải)",1
+ingredient,sô cô la compound hương matcha,1
+ingredient,sô cô la compound trắng,1
+ingredient,chất béo dạng phết,1
+ingredient,men khô dùng liền,1
+ingredient,bột trà xanh,1
+ingredient,kem làm mềm bánh,1
+ingredient,"phụ gia làm bánh (tinh bột, chất nhũ hóa (ins 472e), đường, chất chống oxy hóa (ins 300), chất xử lý bột (ins 1100(ii)))",1
+ingredient,"muối i-ốt (nacl, kio3)",1
+ingredient,trà xanh (6 g/l),1
+ingredient,bột cà phê hòa tan (100% từ hạt cà phê),1
+ingredient,muối biển tự nhiên,1
+ingredient,bột kombucha,1
+ingredient,vitamin c (ins 300),1
+ingredient,trà sữa phô mai: đường,1
+ingredient,"bột kem béo thực vật (đường glucose, dầu thực vật/dầu cọ hydro hóa, đạm sữa, bột sữa, chất ổn định (340(ii), 452(i)), chất nhũ hóa (471, 472e), chất chống đông vón (551), hương liệu vani giống tự nhiên)",1
+ingredient,trân châu pha lê hương phô mai: nước,1
+ingredient,"bột whey protein 20% (từ mỹ) [bột whey protein isolate, chất ổn định lecithin ins 322i]",1
+ingredient,"bột táo cô đặc 2.1% [táo cô đặc (chất rắn 10%) (từ hàn quốc), chất ổn định gồm: dextrin ins 1400, gum arabic ins 414]",1
+ingredient,xi-rô glucoza,1
+ingredient,"nước cam ép cô đặc (5,3 g/l)",1
+ingredient,"kem sữa (mạch nha maltose, dầu cọ (có chứa chất chống oxy hóa (320, 321)), chất làm ẩm (420(i), 422), sữa đặc có đường , đường dextrose, nước, chất nhũ hóa (322(i), 471), hương liệu tổng hợp (sữa), chất điều chỉnh độ acid (330), chất bảo quản (281))",1
+ingredient,"dầu thực vật (dầu cọ, dầu hướng dương)",1
+ingredient,"vegetable oil (palm, sunflower, shea, hydrogenated palm kernel, hydrogenated canola, palm kernel)",1
+ingredient,chocolate,1
+ingredient,milk,1
+ingredient,sweetened condensed milk,1
+ingredient,nonfat milk,1
+ingredient,cream,1
+ingredient,"high fructose glucose syrup (corn, potato, sweet potato)",1
+ingredient,cocoa butter,1
+ingredient,malt extract,1
+ingredient,"shortening thực vật (chứa chất nhũ hóa (491), chất chống oxy hóa (307b))",1
+ingredient,cà phê hòa tan 12 %,1
+ingredient,bột kem sữa 5 %,1
+ingredient,"bột cà phê rang xay(*) 0,4 %",1
+ingredient,muối iod,1
+ingredient,"sữa (nước, sữa bột nguyên kem, sữa bột gầy, đường, chiết xuất ngũ cốc và lúa mạch , bột ca cao , khoáng chất (tricalci phosphat, dicalci phosphat, magnesi carbonat, mangan (ii) sulfat), xirô glucose, bột whey, bột kem không sữa (xirô glucose, dầu cọ hydro hoá, chất ổn định (340(ii)), natri caseinat, chất nhũ hoá (451(i), 471), muối), chất ổn định (460(i), 407, 466), dầu thực vật, chất điều chỉnh độ axit, hương liệu tự nhiên (hương ngọt), hương liệu giống tự nhiên (hương lúa mạch sôcôla, hương sôcôla, hương vani), chất nhũ hoá (471), muối, vitamin (e, b3, a, axit pantothenic, b6, d, b1, b12, b2, b9), maltodextrin)",1
+ingredient,mực 95%,1
+ingredient,kinh giới,1
+ingredient,nước ép đào,1
+ingredient,bột trà từ trà đen,1
+ingredient,gia vị bò nướng,1
+ingredient,"vitamin (b1, b3, b5, b6, a, d3)",1
+ingredient,rượu muối,1
+ingredient,"ngũ cốc sấy giòn (yến mạch, gạo, đường, bắp, mạch nha, dầu thực vật, tinh bột bắp, bột dừa, muối, chất chống đông vón (ins 170(i)))",1
+ingredient,"trái cây sấy (nho khô, dâu, táo, đu đủ)",1
+ingredient,nước đường nghịch fructose,1
+additive,(621),71
+additive,,58
+additive,chất điều chỉnh độ acid (330),48
+additive,(202),35
+additive,(471),28
+additive,(322(i)),21
+additive,chất chống đông vón (551),20
+additive,hương liệu giống tự nhiên,20
+additive,(160a(i)),19
+additive,(307b),15
+additive,"(621, 631, 627)",14
+additive,tổng hợp (950),14
+additive,"(1442, 415)",13
+additive,"(320, 321)",13
+additive,dùng cho thực phẩm,13
+additive,(316),13
+additive,(211),12
+additive,(300),12
+additive,"(471, 407, 412)",12
+additive,"chất tạo xốp (500(ii), 503(ii))",11
+additive,chất điều chỉnh độ acid (260),11
+additive,chất làm dày (415),11
+additive,(1422),10
+additive,(319),10
+additive,(440),10
+additive,"(621, 635)",10
+additive,"chất điều chỉnh độ acid (270, 330)",10
+additive,"(322(i), 476)",9
+additive,"chất làm ẩm (420(ii), 422)",9
+additive,(415),9
+additive,chất điều chỉnh độ acid (ins 330),9
+additive,(ins 621),9
+additive,(vani),8
+additive,"chất làm bóng (903, 901)",8
+additive,(ins 322(i)),8
+additive,hương liệu nhân tạo,8
+additive,hương liệu giống tự nhiên dùng cho thực phẩm,8
+additive,"chất làm ẩm (420(ii), 1520, 422)",8
+additive,"chất tạo xốp (575, 500(ii))",8
+additive,chất điều chỉnh độ acid (500(ii)),8
+additive,"(202, 211)",8
+additive,maltodextrin,7
+additive,"(492, 322(i))",7
+additive,"(621, 627, 631)",7
+additive,chất chống đông vón (ins 551),7
+additive,"(621, 631, 627, 364(ii))",7
+additive,phẩm màu tổng hợp (129),6
+additive,chất làm ẩm (420(ii)),6
+additive,(160a(ii)),6
+additive,tổng hợp (951),6
+additive,chất giữ màu (250),6
+additive,(1104),6
+additive,chất tạo xốp (500(ii)),6
+additive,màu thực phẩm tổng hợp (129),5
+additive,"(211, 202)",5
+additive,"chất tạo xốp (503(ii), 500(ii))",5
+additive,chất làm dày (ins 414),5
+additive,chất làm bóng (ins 903),5
+additive,tổng hợp (ins 951),5
+additive,phẩm màu tổng hợp (110),5
+additive,"chất điều chỉnh độ acid (330, 260)",5
+additive,"chất làm dày (1422, 415)",5
+additive,"(ins 466, ins 418)",5
+additive,"chất tạo xốp (450(i), 500(ii))",5
+additive,"chất làm ẩm (422, 420(ii), 420(i))",5
+additive,tổng hợp (955),5
+additive,lecithin đậu nành,4
+additive,chất điều chỉnh độ acid (341(i)),4
+additive,hương liệu vani tổng hợp,4
+additive,(hương sữa),4
+additive,"chất làm dày (1200, 1442, 440)",4
+additive,"chất điều chỉnh độ acid (330, 334, 296)",4
+additive,"(ins 621, ins 627, ins 631)",4
+additive,chất làm dày (1420),4
+additive,"(202, 282)",4
+additive,caramen nhóm i (150a),4
+additive,tổng hợp acesulfam kali (950),4
+additive,"(477, 471, 322(i), 475, 491, 470(i))",4
+additive,hương liệu phô mai tổng hợp,4
+additive,phẩm màu tổng hợp (127),4
+additive,"chất điều chỉnh độ acid (330, 270)",4
+additive,phẩm màu tổng hợp (ins 150d),4
+additive,tự nhiên (964),4
+additive,"chất làm ẩm (420(i), 422)",4
+additive,"(1422, 415)",4
+additive,antioxidant tbhq (e319),4
+additive,emulsifier soy lecithin (e322),4
+additive,"chất làm dày (1442, 1422)",4
+additive,"chất làm ẩm (422, 420(ii))",4
+additive,"chất điều chỉnh độ acid (575, 330)",4
+additive,"tổng hợp (950, 955)",4
+additive,hương vani tổng hợp,4
+additive,"(440, 466)",4
+additive,"chất xử lý bột (1100(i), 1100(iii))",4
+additive,"chất tạo xốp (500(ii), 452(i))",4
+additive,"chất tạo màu (màu tổng hợp (101(iii)), màu tự nhiên (164))",4
+additive,"(320, 307b)",4
+additive,"chất điều chỉnh độ acid (ins 330, ins 270)",4
+additive,"(1440, 1401)",4
+additive,"chất điều chỉnh độ acid (262(i), 325, 260)",4
+additive,tự nhiên steviol glycosid từ stevia,4
+additive,hương liệu giống tự nhiên và tự nhiên dùng cho thực phẩm,3
+additive,"chất làm dày (1200, 440, 1442, 407)",3
+additive,chất điều chỉnh độ acid (ins330),3
+additive,chất tạo xốp natri hydro carbonat (ins 500(ii)),3
+additive,"chất tạo xốp (ins 500(ii), ins 503(ii))",3
+additive,"(631, 627)",3
+additive,(nho),3
+additive,tinh bột biến tính alpha,3
+additive,621,3
+additive,chất điều chỉnh độ acid 330,3
+additive,(160c(i)),3
+additive,"chất tạo xốp (blend baking powder b202, 500(ii))",3
+additive,"(dừa, sữa)",3
+additive,chất xử lý bột (223),3
+additive,"(460(i), 466, 407, 339(ii))",3
+additive,chất nhũ hoá (471),3
+additive,(ins 1422),3
+additive,"chất làm dày (425, 407, 410, 418, 401)",3
+additive,"chất điều chỉnh độ acid (327, 330, 296, 331(iii))",3
+additive,(ins 1400),3
+additive,"(170(i), 415)",3
+additive,"(vani, sữa trứng)",3
+additive,"chất tạo xốp (503(ii), 500(ii), 450(i))",3
+additive,màu tự nhiên (120),3
+additive,(hương vani),3
+additive,(ins 322(i)) từ đậu nành,3
+additive,phẩm màu tự nhiên (ins 120),3
+additive,"(451(i), 450(i), 407)",3
+additive,"chất điều chỉnh độ acid (262(i), 331(iii))",3
+additive,"(1442, 1440, 415)",3
+additive,"(124, 102, 133)",3
+additive,"(vani, sữa, đậu đỏ)",3
+additive,(476),3
+additive,hương giống tự nhiên dùng cho thực phẩm,3
+additive,"(471, 460(i), 407, 466)",3
+additive,chất chống oxi hóa (hỗn hợp tocopherol),3
+additive,nhân tạo (955),3
+additive,dextrin ins 1400,3
+additive,acid citric ins 330,3
+additive,erythritol ins 968,3
+additive,sucralose ins 955,3
+additive,raising agent sodium bicarbonate (e500(ii)),3
+additive,chất làm ẩm (422),3
+additive,"(1401, 1440)",3
+additive,"chất điều chỉnh độ acid (330, 331(iii))",3
+additive,"chất điều chỉnh độ acid (260, 330)",3
+additive,(223),3
+additive,(635),3
+additive,phẩm màu tổng hợp (150c),3
+additive,"chất tạo xốp (500(ii), 503(ii), 450(i))",3
+additive,(150c),3
+additive,"hương liệu (tự nhiên, giống tự nhiên)",3
+additive,"chất tạo xốp (500(ii), 450(i))",3
+additive,"(282, 200)",3
+additive,(sữa),3
+additive,"(282, 211)",3
+additive,"(1210, 451(i), 405)",3
+additive,"(471, 481(i))",3
+additive,(hương dâu),3
+additive,"hương liệu (tổng hợp, giống tự nhiên)",3
+additive,(ins621),3
+additive,"(1414, 451(i))",3
+additive,phẩm màu tự nhiên (150a),3
+additive,(tocopherol concentrat (dạng hỗn hợp)),3
+additive,chất làm dày (412),3
+additive,phẩm màu tổng hợp (160a(i)),3
+additive,chất tạo xốp (ins 500(ii)),3
+additive,chất làm ẩm (ins 420(i)),3
+additive,(1412),3
+additive,chất xử lý bột (1100(iii)),3
+additive,chất điều chỉnh độ acid (296),3
+additive,"chất làm dày (ins 1422, ins 415)",3
+additive,"chất tạo xốp (500(ii), 503(iii))",3
+additive,phẩm màu tự nhiên (monascus red),3
+additive,(250),3
+additive,dl-alpha tocopherol,2
+additive,caramen nhóm iv (caramen amoni sulfit),2
+additive,caramen nhóm i (caramen nguyên chất),2
+additive,(cà phê trắng và vanilla ),2
+additive,"chất điều chỉnh độ acid (330, 331(ii), 296, 334)",2
+additive,"(ins621, ins631, ins627)",2
+additive,"chất làm dày (ins1422, ins415)",2
+additive,tbhq (ins 319),2
+additive,hương liệu sữa tổng hợp (chứa chất rắn sữa),2
+additive,lecithin đậu nành (ins 322(i)),2
+additive,hương liệu dâu tổng hợp,2
+additive,hương sữa giống tự nhiên,2
+additive,(133),2
+additive,hương tổng hợp,2
+additive,(e322),2
+additive,mononatri l-glutamat,2
+additive,"chất làm bóng (414, 903)",2
+additive,"(508, 412)",2
+additive,chất tạo gel (440),2
+additive,"(322(i), 460(i), 401, 466)",2
+additive,"(pentacake 6305v, pentacake gel 8100, excelsponge 900, 322(ii))",2
+additive,(341(iii)),2
+additive,(339(ii)),2
+additive,"(ins 621, ins 631, ins 627)",2
+additive,(hương bơ),2
+additive,chất điều chỉnh độ acid (ins 500(ii)),2
+additive,"(406, 401, 415)",2
+additive,chất làm dày (327),2
+additive,phẩm màu nhân tạo (ins 110),2
+additive,(ins 621; ins 635),2
+additive,chất làm dày (ins 1404),2
+additive,202,2
+additive,d-xylose,2
+additive,(ins 472e),2
+additive,(ins 300),2
+additive,"(1422, 471, 415)",2
+additive,chất điều chỉnh độ axit (330),2
+additive,chất chống oxi hóa (385),2
+additive,emulsifier soya lecithin (e322),2
+additive,lecithin,2
+additive,hương liệu vani giống tự nhiên,2
+additive,chất làm dày (ins 415),2
+additive,dùng trong thực phẩm,2
+additive,(150a),2
+additive,"hương liệu giống tự nhiên (cà phê, phô mai)",2
+additive,(kem),2
+additive,chất xơ hòa tan (inulin),2
+additive,acesulfam kali tổng hợp (950),2
+additive,"chất xử lý bột (223, 1101(i))",2
+additive,hương liệu (hương dâu) tổng hợp dùng cho thực phẩm,2
+additive,"chất làm ẩm (451(i), 452(i))",2
+additive,"(307c, 320, 321, 330)",2
+additive,hương liệu,2
+additive,(472e),2
+additive,phẩm màu tự nhiên (160c(i)),2
+additive,phẩm màu tổng hợp (150d),2
+additive,(281),2
+additive,(120),2
+additive,"chất điều chỉnh độ acid (260, 270)",2
+additive,"(307b, 385, 321)",2
+additive,phẩm màu tự nhiên (160a(iii)),2
+additive,"chất tạo xốp (500(ii), 341(i), 450(i))",2
+additive,carnauba wax,2
+additive,chất làm dày (1412),2
+additive,tự nhiên (960a),2
+additive,"(466, 460(i), 407, 471)",2
+additive,(385),2
+additive,lecithin ins 322(i),2
+additive,chất điều chỉnh độ acid (ins 331(iii)),2
+additive,"tổng hợp (ins 950, ins 955)",2
+additive,trehalose,2
+additive,disodium dihydrogen pyrophosphate 450(i),2
+additive,sodium bicarbonate 500(ii),2
+additive,xanthan gum 415,2
+additive,synthetic colour sunset yellow fcf (e110),2
+additive,men khô (saccharomyces cerevisiae),2
+additive,lecithin - chiết xuất từ đậu nành (soya lecithin),2
+additive,"(322(i), 492, 476)",2
+additive,"(hương matcha, hương vanilla)",2
+additive,"(110, 102, 133)",2
+additive,chất làm dày (1414),2
+additive,phẩm màu tổng hợp (ins 110),2
+additive,"(ins 466, ins 440)",2
+additive,(960a) tự nhiên,2
+additive,chất tạo màu (129) tổng hợp,2
+additive,chất làm dầy (1412),2
+additive,được chiết xuất từ cây cỏ ngọt tự nhiên (960a),2
+additive,"hương liệu giống tự nhiên (thịt, bơ, bánh mì)",2
+additive,chất xử lý bột (1100(ii)),2
+additive,"chất tạo xốp (ins 503(ii), ins 500(ii), ins 450(i))",2
+additive,chất tạo gel (407),2
+additive,(492),2
+additive,chất làm ẩm (450iii),2
+additive,(200),2
+additive,(hương bí đao),2
+additive,(1420),2
+additive,"chất chống đông vón (551, 341(iii))",2
+additive,hương liệu dừa tổng hợp,2
+additive,(435),2
+additive,(509),2
+additive,"(477, 471, 475, 1520, 322(i), 491, 470(i))",2
+additive,"(475, 322(i), 471, 492, 1520, 491, 470(i))",2
+additive,"(150c, 129)",2
+additive,hương kẹo nho tổng hợp dùng cho thực phẩm,2
+additive,(bánh cốm),2
+additive,"chất xử lý bột (1101(i), 223)",2
+additive,"(102, 133)",2
+additive,"(466, 418(i))",2
+additive,"(471, 1400)",2
+additive,màu tự nhiên (160c(i)),2
+additive,"chất làm dày (1442, 415)",2
+additive,(hương cam),2
+additive,hương liệu xoài tổng hợp,2
+additive,"(bơ, vani)",2
+additive,"(300, 304)",2
+additive,"(322(i), 471)",2
+additive,(466),2
+additive,"(340(ii), 451(i))",2
+additive,beta-caroten 160a(i),2
+additive,chất điều chỉnh độ acid 500(ii),2
+additive,(hương hương thảo),2
+additive,"(316, 320, 321)",2
+additive,"(1414, 415)",2
+additive,(hương phô mai),2
+additive,"(102, 110)",2
+additive,(lecithin) (đậu nành),2
+additive,"chất giữ ẩm (422, 420(i))",2
+additive,(475),2
+additive,chất chống đông vón ins551,2
+additive,"(475, 322(i), 471, 492, 1520, 491, 470(ii))",2
+additive,ins 322(i),2
+additive,chất tạo xốp ins 500(ii),2
+additive,hương liệu thực phẩm,2
+additive,"(ins 621, ins 635)",2
+additive,"(477, 471, 475, 322(i), 473(a), 492, 491, 470(i))",2
+additive,(hương gà),2
+additive,ins 500(ii),2
+additive,"(307b, 304)",2
+additive,flavour enhancer (monosodium glutamate (e621) and disodium 5'-ribonucleotide (e635)),2
+additive,synthetic colour (ponceau 4r (e124) and sunset yellow fcf (e110)),2
+additive,chất làm dày (1422),2
+additive,"chất điều chỉnh độ acid (ins 330, ins 331(iii))",2
+additive,"(ins 1442, ins 440)",2
+additive,"chất điều chỉnh độ acid (ins 330, ins 341(ii), ins 331(iii))",2
+additive,phẩm màu tự nhiên (ins 160a(iv)),2
+additive,"(ins 471, ins 433)",2
+additive,"(ins 466, ins 412, ins 407, ins 410)",2
+additive,2 loại hương liệu nhân tạo (sữa),2
+additive,"phẩm màu tổng hợp (ins 102, ins 110)",2
+additive,"chất điều chỉnh độ acid (500(i), 452(i))",2
+additive,(412),2
+additive,(bò),2
+additive,hương dừa tự nhiên,2
+additive,"(450(iii), 451(i), 452(i), 450(i))",2
+additive,"(415, 466, 1422)",2
+additive,hương liệu chanh dây tổng hợp,2
+additive,màu thực phẩm tổng hợp (160a(i)),2
+additive,mononatri l-glutamat (ins 621),2
+additive,"chất làm dày (1440, 415)",2
+additive,hương liệu thực phẩm tổng hợp (vani),2
+additive,hương liệu khói tự nhiên,2
+additive,(calci clorid),2
+additive,"(1422, 471)",2
+additive,"(1442, 440)",2
+additive,"chất tạo màu (102, 133) tổng hợp",2
+additive,(ins 321),2
+additive,chất làm dày (466),2
+additive,"chất xử lý bột (223, 1100(i))",2
+additive,hương liệu giống tự nhiên (hương bánh mì),2
+additive,hương liệu nước tương giống tự nhiên,2
+additive,"(621, 635, 364(ii))",2
+additive,"hương liệu (tổng hợp, giống tự nhiên, tự nhiên)",2
+additive,chất điều chỉnh acid (330),2
+additive,chất tạo khí carbonic: carbon dioxide (ins 290),2
+additive,"hương liệu (hương sôcôla giống tự nhiên, hương vani tổng hợp)",2
+additive,chất tạo xốp (ins 503(i)),2
+additive,[170(i)],2
+additive,chất điều chỉnh độ axit (501(i)),2
+additive,"(hương cacao, hương sô cô la, hương bơ)",2
+additive,"(340(ii), 452(i))",2
+additive,"(471, 472e)",2
+additive,hương phô mai tổng hợp,2
+additive,hương thịt tổng hợp,2
+additive,"chất tạo xốp (575, 500(ii), 450(i), 341(i))",2
+additive,hương liệu vani tự nhiên,2
+additive,và giống tự nhiên (đào),2
+additive,"chất làm ẩm (420(ii), 422, 1520)",2
+additive,"hương liệu (giống tự nhiên, tự nhiên)",2
+additive,(340(ii)),2
+additive,(hương ngọt),2
+additive,hương liệu giống tự nhiên (hương bánh),2
+additive,"chất điều chỉnh độ acid (330, 296)",2
+additive,"(460(i), 407, 466)",2
+additive,natri bicarbonate ins 500ii,2
+additive,tổng hợp (420(i)),2
+additive,chất điều chỉnh độ acid (327),2
+additive,"(466, 418)",2
+additive,hương liệu giống tự nhiên và tổng hợp (chanh dây),1
+additive,(ins160c(i)),1
+additive,ins150a,1
+additive,hương liệu khoai môn tổng hợp,1
+additive,phẩm màu tổng hợp allura red ac (ins 129),1
+additive,phẩm màu tổng hợp brilliant blue fcf (ins 133),1
+additive,acid lactic,1
+additive,"lecithin, mono và diglycerid của các acid béo",1
+additive,hương liệu nhân tạo: hương sữa chua quả mọng,1
+additive,phẩm màu nhân tạo: allura red ac,1
+additive,"chất tạo xốp (ins 500(i), ins 500(ii))",1
+additive,chất điều chỉnh độ acid acid lactid (ins 270),1
+additive,phẩm màu carmine tự nhiên (ins 120),1
+additive,màu thực phẩm tự nhiên (164),1
+additive,"(471, 170(i))",1
+additive,dmg (ins 471),1
+additive,"(ins 307b, ins 307c)",1
+additive,(ins 170(i)),1
+additive,(ins 150a),1
+additive,men (saccharomyces cerevisiae),1
+additive,natri benzoate,1
+additive,màu thực phẩm ponceau 4r,1
+additive,"chất tạo xốp (450(i), 500(ii), 341(i))",1
+additive,"(vani, trà)",1
+additive,"(100(ii), 160c(i))",1
+additive,"(ins621, ins635)",1
+additive,chất điều chỉnh độ acid (ins260),1
+additive,(ins234),1
+additive,chất làm đặc (1420),1
+additive,chất chống hoá (319),1
+additive,chất chống đông vón: dioxyd silic vô định hình,1
+additive,"paprika oleoresin, curcumin",1
+additive,hương liệu bơ tổng hợp,1
+additive,"(sầu riêng, đường thốt nốt, vani)",1
+additive,tartrazin,1
+additive,"chất làm dày (407, 415, 401)",1
+additive,"chất điều chỉnh độ acid (330, 296, 331(iii), 425(i), 327, 332(i), 337)",1
+additive,(xoài),1
+additive,"phẩm màu tổng hợp (171, 102, 124, 133, 110, 160a(i))",1
+additive,"(acesulfam kali, aspartam)",1
+additive,chất tạo màu (caramen nhóm i tự nhiên),1
+additive,chất tạo xốp 500(ii),1
+additive,chất khí bao gói 941,1
+additive,"chất điều chỉnh độ axit: (ins 451(i), ins 500(i), ins 501(i))",1
+additive,chất làm dày: (ins 405),1
+additive,chất chống đông vón: (ins 551),1
+additive,"màu tự nhiên: (ins 164, ins 160b(ii))",1
+additive,hương liệu (giống tự nhiên),1
+additive,(307c),1
+additive,hương liệu giống tự nhiên (gạo rang),1
+additive,"nhân tạo: maltitol (ins 965 (i)) 17,35%",1
+additive,dextrin (ins 1400) 0.239%,1
+additive,chất tạo xốp: amoni hydro carbonat (ins 503(ii)) 0.1%,1
+additive,chất tạo xốp: natri hydro carbonat (ins 500 (ii)) 0.2%,1
+additive,chất tạo xốp: dicalci hydro phosphate (ins 341 (iii)) 0.05%,1
+additive,chất điều chỉnh độ acid: acid citric (ins 330) 0.01%,1
+additive,0.1%,1
+additive,"chất điều chỉnh độ acid (332(i), 330)",1
+additive,dextrin (ins 1400),1
+additive,hương liệu thực phẩm tổng hợp,1
+additive,phẩm màu caramel tổng hợp,1
+additive,chất chống đông silicon dioxide (ins 551),1
+additive,chất điều chỉnh độ acid acid citric (ins 330),1
+additive,5'-flavoured disodium nucleotide (ins 635),1
+additive,aspartam tổng hợp (ins 951),1
+additive,phẩm màu curcumin tổng hợp (ins 100(i)),1
+additive,calci cyclamate tổng hợp (ins 952(ii)),1
+additive,acesulfam kali tổng hợp (ins 950),1
+additive,natri carbonat (ins 500(ii)),1
+additive,chất điều chỉnh độ acid amoni bicarbonate (ins 503(ii)),1
+additive,tertbutylhydroquinon (tbhq) (ins 319),1
+additive,chất chống oxy hoá (307b),1
+additive,(ins 415),1
+additive,chất làm dày (1404),1
+additive,"- giống tự nhiên (cam, dâu, chanh vàng, cherry, nho, chanh)",1
+additive,"(129, 102, 133, 110)",1
+additive,humectant e422(glycerol),1
+additive,acidity regulators e330 (citric acid),1
+additive,thickener e440 (pectin),1
+additive,artificial flavour (mango flavor),1
+additive,acidity regulators e296 (malic acid),1
+additive,acidity regulators e331(iii)(sodium citrate),1
+additive,maltitol,1
+additive,glazing agent e903(carnauba wax),1
+additive,thickener e406 (agar),1
+additive,acidity regulators e452i (sodium polyphosphate),1
+additive,"artificial colors: e171 titanium dioxide, e102 tartrazine, e110 sunset yellow",1
+additive,mononatri glutamat (621),1
+additive,dầu thực vật (vitamin e),1
+additive,(carmin (120)),1
+additive,hương gà luộc,1
+additive,chất làm dày (gôm arabic (414)),1
+additive,hương thịt,1
+additive,phẩm màu tự nhiên: màu nghệ và (ins 160a(iii)),1
+additive,"(332(ii), 508)",1
+additive,"(pentacake 6305v, pentacake gel 8100, excelspone 900, 322(ii))",1
+additive,"màu thực phẩm nhân tạo (ins 110, ins 129, ins 102, ins 133, ins 170(i))",1
+additive,(ins 220) 0.1%,1
+additive,"(1451, 414, 500ii)",1
+additive,"(621, 950)",1
+additive,(hương rong biển),1
+additive,1442,1
+additive,caramen nhóm iii,1
+additive,(hương hào),1
+additive,"(phúc bồn tử, chanh)(có chứa lecithin đậu nành, lúa mì - contain sky lecithin, wheat)",1
+additive,tổng hợp acesulfam kali,1
+additive,chất xử lý bột (ins 1100),1
+additive,"(hương phô mai, hương sữa kem)",1
+additive,"calci lactat (ins 327) 0,42%",1
+additive,"acid citric (ins 330) 0,15%",1
+additive,"sodium citrate (ins 331(ii)) 0,13%",1
+additive,"hương tổng hợp (hương dưa lưới) 0,12%",1
+additive,"carrageenan (ins 407) 0,08%",1
+additive,"kali clorid (ins 508) 0,08%",1
+additive,"acid malic (dl-) (ins 296) 0,06%",1
+additive,"natri benzoat (ins 211) 0,04%",1
+additive,"sucralose (ins 955) 0,02%",1
+additive,phẩm màu vàng chanh lemon yellow số 4,1
+additive,phẩm màu xanh brilliant blue số 1 (ins 133),1
+additive,hương liệu bạc hà giống tự nhiên,1
+additive,chất làm rắn chắc (dicalci hydro phosphat),1
+additive,chất làm bóng (ins 901),1
+additive,chất làm bóng (ins 904),1
+additive,màu thực phẩm tổng hợp (ins 133),1
+additive,antioxidant: tocopherol (e307c),1
+additive,"colouring (caramel iv (ins 150d), caramel i (ins 150a))",1
+additive,"synthetic flavour (white coffee, vanilla)",1
+additive,mono và diglycerid của các acid béo,1
+additive,hương liệu nhân tạo: hương vani,1
+additive,tinh dầu bạc hà,1
+additive,"(ins 471, ins 460(i), ins 407)",1
+additive,"(hỗn hợp tocopherol concentrate, ascorbyl palmitat)",1
+additive,tbhq (319),1
+additive,"(gelatin, 471)",1
+additive,(ins307b),1
+additive,chất tạo xốp (ins503(ii)),1
+additive,hương liệu nhân tạo (vani),1
+additive,enzyme đông sữa,1
+additive,phẩm màu tổng hợp (ins 160a(i)),1
+additive,"(ins 621, ins 627, ins 631, ins 635)",1
+additive,(hương teriyaki),1
+additive,chất tạo màu (ins 150c) tổng hợp,1
+additive,chất tạo màu (gạo men đỏ) tự nhiên,1
+additive,(ins 202),1
+additive,hương liệu socola tự nhiên,1
+additive,"(407, 418(i), 466)",1
+additive,calcium lactate (chất điều chỉnh độ acid 327),1
+additive,sodium alginate (chất ổn định 401),1
+additive,"(477, 471, 475, 322(i), 491, 473, 470(i), 476)",1
+additive,"(170(i), 1442, 415)",1
+additive,"(kem phô mai, cà phê, sữa chua, vani)",1
+additive,tổng hợp (isomalt 953),1
+additive,"hương liệu (khoai lang, dừa, vani) tổng hợp",1
+additive,481(i),1
+additive,"chất tạo xốp (500(ii), 503(ii), 341(i), 450(i))",1
+additive,"màu thực phẩm tự nhiên (120, 141(i))",1
+additive,tự nhiên (stevia 960a),1
+additive,"hương liệu giống tự nhiên và tổng hợp (chanh dây, nước ép cà rốt đen cô đặc)",1
+additive,"(1414, 451(i), 450(iii), 450(i), 452(ii))",1
+additive,"(1420, 500(i), 500(ii))",1
+additive,hương liệu (hương tôm càng nướng tổng hợp),1
+additive,nguyên liệu vitamin e acetate (dl-alpha-tocopheryl acetate),1
+additive,phụ gia thực phẩm (phospholipids),1
+additive,chât tạo màu tổng hợp (beta-caroten 160a(i)),1
+additive,hương liệu thực phẩm nhân tạo,1
+additive,"chất tạo màu nhân tạo: phẩm màu (ins 171, ins 129, ins 133, ins 110, ins 102)",1
+additive,"chất làm bóng (ins 904, ins 903)",1
+additive,"chất làm dày (405, 412, 466)",1
+additive,"(451(i), 500(ii), 501(i))",1
+additive,(321),1
+additive,phẩm màu tự nhiên (100(i)),1
+additive,"(621, 627, 631, 364(ii), 640)",1
+additive,"hương liệu giống tự nhiên (hương hải sản, hương rau, hương chanh)",1
+additive,"chất làm ẩm (420(i), 422, 1520)",1
+additive,"(477,471,472e,322(i),475,491)",1
+additive,"chât điều chỉnh độ acid (330, 270)",1
+additive,"(việt quất (có chứa việt quất nghiền ), dâu)",1
+additive,"chất tạo xốp(500(ii),341(i),(450(i)))",1
+additive,"(300, 301)",1
+additive,"(1424, 415)",1
+additive,"chất nhũ hoá (ins 492, ins 322(i))",1
+additive,chất nhũ hoá (ins 322(i)),1
+additive,chất xơ hòa tan inulin,1
+additive,hương liệu (hương vani) tổng hợp dùng cho thực phẩm,1
+additive,(lecithin),1
+additive,"(hỗn hợp tocopherol concentrate, ascorbyl palmitate)",1
+additive,"(471, 407, 401, 412, 452(i))",1
+additive,"hương liệu (tổng hợp, giống tự nhiên, tự nhiên) dùng cho thực phẩm",1
+additive,chất giữ ẩm (422),1
+additive,"hương liệu (hương sữa, vani, chanh) tổng hợp",1
+additive,"màu thực phẩm tổng hợp (160d(i), 160a(i), 307c)",1
+additive,e211,1
+additive,chất xơ hòa tan,1
+additive,(hương nho) và tự nhiên (chiết xuất từ lá cỏ ngọt),1
+additive,chất điều chỉnh acid (ins 270),1
+additive,"(1420, 420(i))",1
+additive,hương dầu hành tự nhiên,1
+additive,hương heo tổng hợp,1
+additive,hương dầu bò tự nhiên,1
+additive,phẩm màu erythrosin tổng hợp (127),1
+additive,"chất làm dày ins(401, 418, 407, 466, 415)",1
+additive,(ins 331 (iii)),1
+additive,màu caramel tổng hợp (ins 150d),1
+additive,kali sorbat (ins 202),1
+additive,natri benzoate (ins 211),1
+additive,tổng hợp: acesulfam kali (ins 950),1
+additive,aspartam (ins 951),1
+additive,hương đường đen tổng hợp,1
+additive,chất điều chỉnh độ axit (ins 341(iii)),1
+additive,nhân tạo (ins 965(ii)),1
+additive,"chất làm dày (ins 422, ins 414)",1
+additive,"(ins 307b, ins 322(i))",1
+additive,"(477, 475, 322(i), 473a, 491, 470(i))",1
+additive,"chất tạo xốp (500(ii), 450(i), 341(i), 341(ii), 575)",1
+additive,chất xử lý bột (1100(v)),1
+additive,hương liệu giống tự nhiên (bánh mì),1
+additive,chất làm dày (tinh bột biến tính (distarch phosphate (ins 1412))),1
+additive,(este của propylene glycol với acid béo (ins 477)),1
+additive,(tocopherol concentrate (dạng hỗn hợp) (ins 307b)),1
+additive,"hương liệu nhân tạo (hương sữa, hương bơ, hương sữa hokkaido, hương vani)",1
+additive,(lecithin) (ins 322(i)),1
+additive,chất tạo xốp (natri hydro carbonat (ins 500(ii))),1
+additive,"chất làm dầy (407, 415, 401)",1
+additive,"chất điều chỉnh độ acid (330, 296, 331(iii), 425(), 327, 332(i), 337)",1
+additive,"phẩm màu tổng hợp (171, 102, 124, 133, 110, 160a(ii))",1
+additive,chất chống đông vón,1
+additive,sorbitol,1
+additive,citric acid,1
+additive,artificial flavor,1
+additive,malic acid,1
+additive,glycerol,1
+additive,pectin,1
+additive,sodium citrate,1
+additive,titanium dioxide,1
+additive,fd&c red 40,1
+additive,chất béo thực vật,1
+additive,"(477,471,475,322(i),491,473,470(i),476)",1
+additive,"(170(i),1422,415)",1
+additive,"chất tạo xốp(575,500(ii))",1
+additive,"(kem phô mai, cà phê, sửa chua, vani)",1
+additive,"621, 635",1
+additive,chất chống đông vón 551,1
+additive,tổng hợp 951,1
+additive,chất khí đóng gói 941,1
+additive,"(460(i), 406, 407, 471)",1
+additive,"1442, 440, 452(i)",1
+additive,"chất điều chỉnh độ axit: 270, 330",1
+additive,hương liệu dâu giống tự nhiên,1
+additive,hương vị thịt nướng (hương vị tổng hợp),1
+additive,bột ngọt (ins 621),1
+additive,acid citric (ins 330),1
+additive,hương vị thịt hun khói (hương vị giống tự nhiên),1
+additive,[621],1
+additive,"(262(i), 260)",1
+additive,"stabilizers (e340ii, e452i)",1
+additive,emulsifier (e471),1
+additive,anti-caking agent (e551),1
+additive,colour (e160a),1
+additive,synthetic flavours used in food industry (coconut milk flavour),1
+additive,chất xơ hòa tan (fos/inulin),1
+additive,chất điều chỉnh độ acid (ins 170(i)),1
+additive,chất làm dày (ins 407),1
+additive,chất tạo màu caramen tự nhiên nhóm i (ins 150a),1
+additive,paprika oleoresin (ins160c),1
+additive,phẩm màu tổng hợp (150a),1
+additive,phẩm màu tự nhiên [160c(i)],1
+additive,"chất làm ẩm (420(i), 422, 420(ii))",1
+additive,"(475, 471, 322(i), 1520, 491, 470(iii))",1
+additive,"(sữa, bơ sữa, trứng, bơ, vani, chanh)",1
+additive,hương liệu mè giống tự nhiên,1
+additive,natri bicarbonate ins 500(ii),1
+additive,"(ins 322(i), ins 476, ins 414)",1
+additive,"(phô mai, tiramisu, vani, cà phê)",1
+additive,(ins 222),1
+additive,"chất điều chỉnh độ acid (ins 330, ins 331(iii), ins 296)",1
+additive,"(hương chanh, hương trà)",1
+additive,màu tổng hợp (caramen nhóm iv - ins 150d),1
+additive,"(hydroxypropyl distarch phosphat, gôm xanthan)",1
+additive,"chất điều chỉnh độ acid (acid acetic băng, acid citric)",1
+additive,"(kali sorbat, dinatri ethylendiamintetraacetat (edta))",1
+additive,butyl hydroxytoluen (bht),1
+additive,tổng hợp sucralose (trichlorogalacto sucrose),1
+additive,hương sữa tổng hợp,1
+additive,phẩm màu beta-caroten tổng hợp,1
+additive,"các chất làm dày (1422, 415)",1
+additive,"các chất điều vị (621, 627, 631)",1
+additive,hương liệu cua tổng hợp,1
+additive,"các chất bảo quản (211, 202)",1
+additive,cồn thực phẩm,1
+additive,"(1700, 415)",1
+additive,muối-i-ốt,1
+additive,chất tạo mùng,1
+additive,chất tạo mùi tổng hợp (160a(ii)),1
+additive,maltitol (ins 965(i)),1
+additive,"(lecithin đậu nành (ins 322(i), ins 476)",1
+additive,hương liệu sữa chua tổng hợp,1
+additive,hương liệu vanilla tự nhiên,1
+additive,sorbitol solution 420(i),1
+additive,"compound emulsifier [hydroxypropyl distarch phosphate 1442, disodium dihydrogen pyrophosphate 450(i), sodium bicarbonate 500(ii), canxi cacbonat 170(i), mono- and diglycerides of fatty acids 471, sodium stearoyl lactylate 481(i), xanthan gum 415, guar gum 412, starch, soy protein powder, egg white powder, edible salt]",1
+additive,hydroxypropyl distarch phosphate 1442,1
+additive,mono- and diglycerides of fatty acids 471,1
+additive,sodium stearoyl lactylate 481(i),1
+additive,guar gum 412,1
+additive,"compound emulsifier and moisture retention agent [mono-and diglycerides of fatty acids 471, propylene glycol 1520, polyglycerol esters of fatty acids 475, glycerin 422, sorbitan monostearate 491, propylene glycol esters of fatty acids 477, potassium stearate, water]",1
+additive,mono-and diglycerides of fatty acids 471,1
+additive,propylene glycol 1520,1
+additive,polyglycerol esters of fatty acids 475,1
+additive,glycerin 422,1
+additive,sorbitan monostearate 491,1
+additive,propylene glycol esters of fatty acids 477,1
+additive,potassium stearate,1
+additive,"hydroxypropyl distarch phosphate 1442 (additional, if distinct from above)",1
+additive,"compound leavening agent [disodium dihydrogen pyrophosphate 450(i), sodium bicarbonate 500(ii), canxi cacbonat 170(i), xanthan gum 415, corn starch]",1
+additive,canxi cacbonat 170(i),1
+additive,citric acids 330,1
+additive,glucono - lactone 575,1
+additive,potassium sorbate 202,1
+additive,food flavorings,1
+additive,(hương bánh quy),1
+additive,flavour enhancer (monosodium l-glutamate (e621) and disodium 5'-ribonucleotides (e635)),1
+additive,synthetic colour (ponceau 4r (e124) and sunset yellow fcf (e110),1
+additive,antioxidant tocopherol (e307a)),1
+additive,synthetic milk flavour,1
+additive,antioxidant ascorbic acid (e300),1
+additive,flavour enhancer monosodium l-glutamate (e621),1
+additive,acidity regulator (e330),1
+additive,"chất điều chỉnh độ acid (332(ii), 330)",1
+additive,407a,1
+additive,"tổng hợp (acesulfam kali, sucralose)",1
+additive,chất điều chỉnh acid (ins 500(ii)),1
+additive,hương liệu sô cô la và sữa đặc giống tự nhiên,1
+additive,"(1414, 451(i), 407a)",1
+additive,chiết xuất ớt (160c),1
+additive,màu thực phẩm tổng hợp (150c),1
+additive,"chất điều chỉnh độ axit (330, 260)",1
+additive,"(234, 211)",1
+additive,"chất làm dày (1414, 1420)",1
+additive,"chất làm ẩm (452i, 451i)",1
+additive,hương liệu hải sản tự nhiên và giống tự nhiên,1
+additive,"(ins 1414, ins 450(i), ins 450(iii), ins 451(i), ins 170(i))",1
+additive,"chất làm đầy (ins 420(ii), ins 425, ins 415, ins 407)",1
+additive,bột gia vị fish sauce plus,1
+additive,transglutaminase,1
+additive,chất điều chỉnh độ acid (ins 500(i)),1
+additive,mononitrate,1
+additive,"(460(i), 466, 407, 471)",1
+additive,"(460), (466)",1
+additive,lactaza/lactase,1
+additive,(hương kem dâu),1
+additive,"(142, 415)",1
+additive,(ins160c(ii)),1
+additive,hương liệu: hương phô mai tổng hợp,1
+additive,(ins405),1
+additive,(ins160a(ii)),1
+additive,"chất điều chỉnh độ acid (acid citric, acid malic (dl-))",1
+additive,"hương tổng hợp (đào, sả)",1
+additive,"hương tự nhiên (trái cây, cam)",1
+additive,"tự nhiên steviol glycosid từ stevia rebaudiana bertoni 0,025 %",1
+additive,(3220),1
+additive,"(hương tỏi tổng hợp, hương ớt tổng hợp)",1
+additive,"(627, 631)",1
+additive,"(440, 414, 445(iii))",1
+additive,"màu thực phẩm tự nhiên (160d (ii), 160a (ii))",1
+additive,carrageenan (407),1
+additive,hương liệu (dâu) giống tự nhiên,1
+additive,caramen (150a),1
+additive,"(32(ii), 508)",1
+additive,acesulfam kali (950),1
+additive,phẩm màu (ins 150d),1
+additive,chất xử lý bột (ins 1101(i)),1
+additive,màu thực phẩm tổng hợp ins 160(i),1
+additive,"(100(i), 160c(i))",1
+additive,(508),1
+additive,"(sữa, vanillin)",1
+additive,và giống tự nhiên (trà đen),1
+additive,(1442),1
+additive,"chất tạo xốp (bakemate, 500(ii))",1
+additive,hương liệu giống tự nhiên (bơ),1
+additive,chất bổ sung (calci carbonat),1
+additive,phẩm màu nhân tạo (160c(ii),1
+additive,chất làm dầy (451i),1
+additive,hương liệu (hương trái cây) tổng hợp,1
+additive,hương liệu (hương chanh) tự nhiên,1
+additive,"(621, 951, 631, 627, 364(ii))",1
+additive,"(307b, 307c)",1
+additive,"(621, 631, 627, 620)",1
+additive,(414),1
+additive,"chất điều chỉnh độ acid (330, 341(iii))",1
+additive,hương liệu rau củ,1
+additive,"hương liệu (tự nhiên, giống tự nhiên, tổng hợp)",1
+additive,"hương liệu (tự nhiên, giống tự nhiên) (tôm)",1
+additive,(ins 471),1
+additive,(ins 307b),1
+additive,"[ins 322(i) từ đậu nành, ins 492]",1
+additive,"chất điều chỉnh độ acid (ins 330, ins 296, ins 331(iii))",1
+additive,(ins 1520),1
+additive,"chất tạo màu nhân tạo 2 loại: phẩm màu (ins 120, ins 127)",1
+additive,chất tạo màu nhân tạo: phẩm màu (102),1
+additive,"(621, 951, 627, 631)",1
+additive,"chất điều chỉnh độ acid (262(i), 330)",1
+additive,(1450),1
+additive,"(1400, 1442, 415)",1
+additive,hương liệu dừa giống tự nhiên,1
+additive,"(450(i), 471, 475, 477, 472e, 1520, 322(i), 415, 476, 492, 491, 470(ii))",1
+additive,"chất tạo xốp (500(ii), 341(i), 341(ii))",1
+additive,"chất điều chỉnh độ acid (330, 524)",1
+additive,(282),1
+additive,"(vani, sữa, bơ)",1
+additive,(124),1
+additive,"(475, 471, 1520, 322(i), 477, 491, 470(i))",1
+additive,"(1422, 1440, 415)",1
+additive,"(sữa, bơ sữa, bơ, vani)",1
+additive,"hương tổng hợp (lá dứa, vani, trứng muối)",1
+additive,"màu tổng hợp (124, 110, 133)",1
+additive,"chất làm dày (407, 508, 425, 410)",1
+additive,"chất điều chỉnh độ axit (330, 331(iii))",1
+additive,"hương liệu (cam, dâu, me, khoai môn, soda) tổng hợp",1
+additive,"màu thực phẩm tổng hợp (129, 110, 133, 150d)",1
+additive,"chất điều chỉnh độ acid (330, 338)",1
+additive,"(sữa, bơ)",1
+additive,"chất xử lý bột [516, 1100(i)]",1
+additive,"(471, 460(i), 466) có nguồn gốc từ thực vật",1
+additive,hương sầu riêng tổng hợp,1
+additive,"[1412, 450(iii)]",1
+additive,(ins 621) 0.5 %,1
+additive,màu tổng hợp (ins 124) 0.02 %,1
+additive,"(621, 951, 631, 627)",1
+additive,tinh bột sắn biến tính,1
+additive,322(i),1
+additive,(hương đào),1
+additive,"(1422, 1412, 407)",1
+additive,"chất điều chỉnh độ acid (260, 262i)",1
+additive,"chất làm ẩm (450i, 450ii, 450iii, 451i)",1
+additive,(461),1
+additive,"(1422,415)",1
+additive,"(621,631,627,955)",1
+additive,"chất điều chỉnh độ acid (330,331)",1
+additive,màu tổng hợp (150c),1
+additive,"dùng cho thực phẩm (hương chanh, hương cua, hương sả)",1
+additive,chất điều chỉnh độ acid (270),1
+additive,"(621, 364(ii))",1
+additive,"hương liệu (hương trà giống tự nhiên, hương sữa tổng hợp)",1
+additive,phẩm màu tự nhiên (ins 160b (i)),1
+additive,"0,1188% (hương dâu tây)",1
+additive,"0,02422% (hương sô cô la)",1
+additive,nhân tạo (ins 955),1
+additive,chất tạo màu nhân tạo: phẩm màu (ins 120),1
+additive,[340(ii)],1
+additive,màu tổng hợp dùng trong thực phẩm,1
+additive,hương dâu giống tự nhiên dùng cho thực phẩm,1
+additive,"(471, 412, 466, 407, 322(i))",1
+additive,"(477, 471, 481(i), 322(i))",1
+additive,"chất làm dày (1404, 466, 412, 451(i))",1
+additive,"(475, 322(i))",1
+additive,màu tự nhiên (164),1
+additive,"chất điều chỉnh độ acid (296, 270, 327)",1
+additive,màu tự nhiên (100(i)),1
+additive,"chất làm dày (422, 1422, 415)",1
+additive,"(316, 319)",1
+additive,"màu tự nhiên (171, 164, 160c(i))",1
+additive,"chất chống ôxy hóa (320, 321)",1
+additive,"màu thực phẩm tự nhiên (160c(i), 164)",1
+additive,"chất điều chỉnh độ acid (501(i), 500(i))",1
+additive,chất làm ẩm (451(i)),1
+additive,phẩm màu curcumin tự nhiên,1
+additive,"(415, 1442)",1
+additive,"hương liệu giống tự nhiên (dưa hấu, dưa gang)",1
+additive,"(sữa, vani, hương làm mát)",1
+additive,"(141(i), 153)",1
+additive,"(129, 160a(i))",1
+additive,"(321,320)",1
+additive,"(lecithin đậu nành (ins 322i), ins 476)",1
+additive,"chất làm bóng (ins 414, ins 904)",1
+additive,hương sữa chua tổng hợp,1
+additive,hương vanilla tự nhiên,1
+additive,"320, 321",1
+additive,hương dừa nướng nhân tạo,1
+additive,bơ thực vật - bos,1
+additive,"(ins 200, ins 211)",1
+additive,(ins 223),1
+additive,chất làm dày (tự nhiên) (gum arabic),1
+additive,(este của propylen glycol với acid béo),1
+additive,"hương liệu (dâu, chanh, bơ) tổng hợp",1
+additive,"phẩm màu tổng hợp (160a(i), 129)",1
+additive,chất điều chỉnh độ acid dikali hydro phosphat ins 340(ii),1
+additive,"chất chống oxy hoá (ins307a, ins307b, lascorbil palmitate)",1
+additive,"chất nhũ hoá (ins322(i), ins475)",1
+additive,ins621,1
+additive,ins160c(i),1
+additive,chất xử lý bột ins1400,1
+additive,"chất nhũ hoá (ins322(i), ins491, ins473)",1
+additive,ins160a(i),1
+additive,"(ins 418, ins 466)",1
+additive,(hương sôcôla) và tự nhiên (chiết xuất từ cỏ ngọt),1
+additive,chất điều chỉnh độ acid (ins 339 (iii)),1
+additive,"màu thực phẩm nhân tạo (ins 110, ins 129, ins 102, ins 133, ins 170(ii))",1
+additive,ins 320,1
+additive,chất điều chỉnh độ axit ins 503(ii),1
+additive,phẩm màu tổng hợp ins 150a,1
+additive,trisodium citrate (ins 332(i)),1
+additive,natri bicarbonate (ins 500(ii)),1
+additive,"hương liệu nhân tạo [sữa, sữa vani]",1
+additive,cellulose gum (ins 466),1
+additive,(glycerin ester của axit béo (ins 471)),1
+additive,sorbitan este axit béo (ins 494),1
+additive,cellulose microcrystalline (ins 460(i)),1
+additive,tự nhiên (bột siro glucose khan),1
+additive,gum arabic (ins 414),1
+additive,trinatri citrate (ins 331(iii)),1
+additive,axit citric (ins 330),1
+additive,chất tạo xốp (natri hydro carbonat),1
+additive,amoni clorid,1
+additive,calci carbonat,1
+additive,phẩm màu tổng hợp (ins 101(i)),1
+additive,phẩm màu nhân tạo (ins 160c(ii)),1
+additive,nhân tạo (ins 951),1
+additive,"chất tạo xốp (575, 500(ii), 450(i)m 341(ii), 341(i))",1
+additive,chất xử lí bột (1100(v)),1
+additive,hương liệu giống tự nhiên (hương bán),1
+additive,ins 621,1
+additive,ins 1422,1
+additive,ins 1412,1
+additive,ins 1420,1
+additive,ins 821,1
+additive,ins 635,1
+additive,"chất điều chỉnh độ acid (501(i), 452(i), 500(i), 339(i), 330, 451(i), 450(iii), 300)",1
+additive,"(412, 1400, 1450)",1
+additive,"(621, 627, 631, 364(ii))",1
+additive,"(1400, 420(i), 340(ii))",1
+additive,"chất điều chỉnh độ acid (330, 260, 452(i))",1
+additive,hương liệu giống tự nhiên (hương tỏi),1
+additive,"(160b(ii), 120)",1
+additive,humectant (ins 420(ii)),1
+additive,"leavening agents (ins 503(ii), ins 500(ii), ins 450(i))",1
+additive,emulsifier (ins 322(i)),1
+additive,"artificial flavorings (onion, vanilla)",1
+additive,antioxidant (ins 223),1
+additive,"flavour enhancers (ins 627, ins 631)",1
+additive,chất điều chỉnh độ acid (262i),1
+additive,hương tôm tự nhiên,1
+additive,monosodium glutamate (e621),1
+additive,disodium 5'-ribonucleotide (e635),1
+additive,ponceau 4r (e124),1
+additive,sunset yellow fcf (e110),1
+additive,(hương thịt gà),1
+additive,hương liệu gà nhân tạo,1
+additive,ins 282,1
+additive,chất điều chỉnh độ acid ins 330,1
+additive,chất chống đóng vón ins170(i),1
+additive,ins475,1
+additive,hương đậu nành tổng hợp,1
+additive,chất làm đầy ins407,1
+additive,ins414,1
+additive,"(bơ, trứng, vani)",1
+additive,chất chống oxi hóa (304),1
+additive,màu thực phẩm tổng hợp (ins 150d),1
+additive,hương đào,1
+additive,chất làm dày (distarch phosphate),1
+additive,(este của propylene glycol với acid béo),1
+additive,"hương liệu (hương hoa hồng, hương vanilla) tự nhiên",1
+additive,"chất tạo màu (carmine, beet red) tự nhiên",1
+additive,chất điều chỉnh độ acid (acid malic (dl-)),1
+additive,phẩm màu tự nhiên (ins 162),1
+additive,"chất điều chỉnh độ acid (ins 450(i), ins 341(i))",1
+additive,chất làm rắn (ins 526),1
+additive,"(ins 471, ins 1520 (đậu nành), ins 473, ins 491, ins 477)",1
+additive,"2 loại hương liệu nhân tạo (vani, sữa)",1
+additive,"chất điều chỉnh độ axit (ins503 (ii), ins500(ii))",1
+additive,"(hương dừa, sữa, vani)",1
+additive,chất nhũ hoá ins322(i),1
+additive,chất xử lý bột ins1101 (i),1
+additive,"chất điều chỉnh độ acid (acidity regulator) (ins 332(ii), ins 296, ins 330)",1
+additive,chất tạo gel (gelling agent) (ins 407),1
+additive,(stabilizer) (ins 425),1
+additive,hương liệu giống tự nhiên (hương vải) [nature-identical flavour (lychee flavour)],1
+additive,(preservative) (ins 211),1
+additive,"nhân tạo (artificial sweetener) (ins 950, ins 955)",1
+additive,"dùng cho thực phẩm (341(iii), 1450, 460(i), 401, 466, 508)",1
+additive,và tổng hợp,1
+additive,mono và diglycerid của các acid béo ins 471,1
+additive,chất tạo xốp ins 503(ii),1
+additive,chất xử lý bột ins 170(i),1
+additive,ins 223,1
+additive,(1451),1
+additive,"(621, 627, 631, 950, 951)",1
+additive,"chất điều chỉnh độ acid (330, 364(ii))",1
+additive,"(300, 320, 321)",1
+additive,(nướng),1
+additive,"chất làm dày: ins 407, ins 425, ins 415",1
+additive,"ins 331(iii), ins 340(i)",1
+additive,"chất điều chỉnh độ acid: ins 296, ins 330, ins 327",1
+additive,chất chống tạo bọt: ins 900a,1
+additive,hương vải,1
+additive,"(ins 1422, ins 415)",1
+additive,hương liệu giống tự nhiên (hương kim quất),1
+additive,tự nhiên (ins 307b),1
+additive,chất làm dày (ins1422),1
+additive,chất nhũ hoá (ins471),1
+additive,(ins 160c(i)),1
+additive,hương bò,1
+additive,hương tỏi tổng hợp,1
+additive,chất điều chỉnh độ acid (ins 514(ii)),1
+additive,chất chống oxy hoá (300),1
+additive,nhân tạo (ins 420(i)),1
+additive,"chất điều chỉnh độ acid 2 loại [ins 503(ii), ins 500(ii)]",1
+additive,"phẩm màu (120, ins 164)",1
+additive,"chất làm dày (508, 407, 425)",1
+additive,"hương tổng hợp (hương trà, hương sữa)",1
+additive,chất chống đông vón (dioxyd silic vô định hình),1
+additive,tổng hợp (acesulfam kali),1
+additive,synthetic milk flavour (contains milk solids),1
+additive,synthetic strawberry flavour,1
+additive,sodium bicarbonate (e500ii),1
+additive,acidity regulator lactid acid (e270),1
+additive,natural colour carmine (e120),1
+additive,"(466, 418(i), 412)",1
+additive,"chất điều chỉnh độ acid (270, 331(iii))",1
+additive,antioxidant tbhq,1
+additive,synthetic flavour (contains natural colour caramel iv sulphite ammonia process),1
+additive,natural colour caramel iv sulphite ammonia process,1
+additive,emulsifier soy lecithin,1
+additive,raising agent,1
+additive,antioxidant tocopherol,1
+additive,tbhq chất chống oxy hóa (ins 319),1
+additive,(mononatri l-glutamat (ins 621) và dinatri 5'-ribonucleotid (ins 635)),1
+additive,dinatri 5'-ribonucleotid (ins 635),1
+additive,phẩm màu tổng hợp (ponceau 4r (cochineal red a) (ins 124) và sunset yellow fcf (ins 110)),1
+additive,ponceau 4r (cochineal red a) (ins 124),1
+additive,sunset yellow fcf (ins 110),1
+additive,d-alpha-tocopherol (ins 307a),1
+additive,hương liệu sữa tổng hợp (chứa sữa đặc),1
+additive,lecithin (ins 322(i)),1
+additive,acid ascorbic (l-) (ins 300),1
+additive,phẩm màu tổng hợp sunset yellow fcf (ins 110),1
+additive,silic dioxide (ins 551),1
+additive,glycine (ins 640),1
+additive,trisodium citrate (ins 331(iii)),1
+additive,"chất tạo xốp (575, 500ii, 450i, 341)",1
+additive,"(477, 471, 322i)",1
+additive,(450iii),1
+additive,"chất làm ẩm (450i, 450ii, 452ii, 452i)",1
+additive,hương liệu thịt gà tự nhiên,1
+additive,phẩm màu tự nhiên (120),1
+additive,"chất xử lý bột (170i, 516, 300, 1100i)",1
+additive,(hương gạo rang),1
+additive,"(ins 307c, ins 307b)",1
+additive,ins 492,1
+additive,ins 473,1
+additive,(ins 477),1
+additive,"chất tạo màu nhân tạo 3 loại: phẩm màu (ins 150a, ins 102, ins 133)",1
+additive,dl - alpha - tocopheryl acetat,1
+additive,thiamin mononitrat,1
+additive,pyridoxin hydrochlorid,1
+additive,cholecalciferol,1
+additive,cyanocobalamin,1
+additive,"chất chống đông vón (dioxyd silic, magnesi stearat)",1
+additive,"(hydroxypropyl methyl cellulose, calci carboxymethyl cellulose, ester của polyglycerol với các acid béo)",1
+additive,(titan dioxyd),1
+additive,phẩm màu (màu tổng hợp): 150c,1
+additive,hương nước tương,1
+additive,chất điều chỉnh độ acid: 330,1
+additive,415,1
+additive,tự nhiên: 960a,1
+additive,"322(i), 492, 476",1
+additive,471,1
+additive,(221),1
+additive,"chất làm ẩm (420ii, 422)",1
+additive,"chất tạo xốp (450i, 500ii)",1
+additive,"(hương sôcôla, hương vani)",1
+additive,"(202, 200)",1
+additive,"(322i, 476)",1
+additive,(hương vanillin),1
+additive,"chất làm dày (1442, 440)",1
+additive,"phẩm màu tổng hợp (171, 102)",1
+additive,(322i),1
+additive,"(621, 620, 635)",1
+additive,"(950, 951)",1
+additive,"chất tạo màu (110, 124)",1
+additive,"(223, 221, 300)",1
+additive,chất tạo khí carbonic(ins 290),1
+additive,nhân tạo(ins 955),1
+additive,"chất làm dày (ins 1420, ins 451(i))",1
+additive,"chất tạo xốp (ins 452(i), ins 500(i), ins 500(ii))",1
+additive,"(ins 466, ins 405, ins 501(i))",1
+additive,"(ins 322(i), ins 471, ins 475)",1
+additive,"phẩm màu tự nhiên (ins 160b(i), ins 101(iii))",1
+additive,"(ins 320, ins 321)",1
+additive,"(ins 621, ins 627, ins 631, ins 364(ii))",1
+additive,(hương tiêu),1
+additive,"chất điều chỉnh độ acid (ins 330, ins 296, ins 260)",1
+additive,(hương chanh),1
+additive,(hương rau),1
+additive,(hương hành),1
+additive,"(471, 1400, 481(i), 477, 322(i))",1
+additive,chất làm dầy (422),1
+additive,hương liệu bò giống tự nhiên,1
+additive,thực phẩm tự nhiên (160c(i)),1
+additive,chất làm dày (440),1
+additive,"(tri natri phosphat, ins339(iii))",1
+additive,(hỗn hợp tocopherol cô đặc (đậu nành)),1
+additive,chất làm dày (e407),1
+additive,"chất điều chỉnh độ acid (e330, e331(iii))",1
+additive,"phẩm màu tổng hợp (e171, e124, e101(i), e160a(i), e110, e133)",1
+additive,"(e211, e202)",1
+additive,"tổng hợp (e950, e951)",1
+additive,"hương tổng hợp (sữa, sữa chua, vani, dâu, dứa, chuối, xoài, dưa tây, dừa, táo, mít, nho, ổi, chanh dây, măng cầu)",1
+additive,hương cam tự nhiên,1
+additive,"chất tạo xốp (503(ii), 500(ii), 341(i))",1
+additive,hương liệu (giống tự nhiên tổng hợp),1
+additive,chất làm dày ins414,1
+additive,chất chống oxi hóa tbhq (319),1
+additive,sodium phosphates,1
+additive,sodium erythorbate,1
+additive,sodium nitrite,1
+additive,chất làm đầy (412),1
+additive,chất làm dày (ins 1422),1
+additive,"chất điều chỉnh độ acid (ins 514(ii), ins 260)",1
+additive,chất tạo màu (164),1
+additive,"(500(ii), 500(i))",1
+additive,"(307b, 320, 321, 330)",1
+additive,"flavour enhancer (ins627, ins631)",1
+additive,"(chanh dây, sữa chua, sữa kem)",1
+additive,(bơ),1
+additive,(hương trái cây),1
+additive,"phẩm màu tự nhiên (ins 120, ins 160b(ii))",1
+additive,chất tạo xốp (503(ii)),1
+additive,(500(ii)),1
+additive,(450(i)),1
+additive,(phô mai),1
+additive,enzim protease,1
+additive,"chất làm dày (1414,415)",1
+additive,"(621, 640, 627, 631)",1
+additive,(473),1
+additive,disodium 5’- guanylat (ins627),1
+additive,disodium 5’- inosinat (ins631),1
+additive,tổng hợp (ins950),1
+additive,acesulfam kali tổng hợp 950,1
+additive,"(322(ii), 508)",1
+additive,"(460(i),466,407,471)",1
+additive,"chất điều chỉnh độ acid (330, 331(iii), 340(ii))",1
+additive,chất điện giải (nacl),1
+additive,"(414, 1450, 445(iii))",1
+additive,"(211, 202, 385)",1
+additive,tổng hợp (acesulfam kali 950),1
+additive,"chất làm dày: (466, 412)",1
+additive,chất tạo phức kim loại: 451(i),1
+additive,501(i),1
+additive,chất tạo xốp: 500(i),1
+additive,phẩm màu: [beta-caroten tổng hợp 160a(i); beta-caroten tự nhiên chiết xuất từ thực vật 160a(ii)],1
+additive,"(621,640)",1
+additive,(503(ii)),1
+additive,"(sữa, vani)",1
+additive,chất điều chỉnh độ acid (450(i)),1
+additive,acid malic (dl-) (ins 296),1
+additive,hương liệu cola nhân tạo,1
+additive,phẩm màu tổng hợp: caramen nhóm iv (caramen amoni sulfit) (ins 150d),1
+additive,"chất điều chỉnh độ acid (338, 331(iii))",1
+additive,(hương bánh quy kem),1
+additive,"chất làm dày [407, 460(ii), 1412]",1
+additive,"[450(i), 450(iii), 450(v), 451(i), 452(i), 452(ii)]",1
+additive,"chất điều chỉnh độ acid [262(i), 263, 300, 330]",1
+additive,"(sôcôla, vani)",1
+additive,phẩm màu (ins 150a),1
+additive,(ins 500(ii)),1
+additive,"(ins 481(i), ins 472a)",1
+additive,chất điều chỉnh độ acid (ins 450(iii)),1
+additive,(ins 322(i) từ đậu nành),1
+additive,"dùng trong thực phẩm (341(iii), 1450, 460(i), 401, 466, 508)",1
+additive,và tổng hợp dùng trong thực phẩm,1
+additive,màu tổng hợp dùng trong thực phẩm (beta-caroten) 160a(i),1
+additive,ins 503(ii),1
+additive,"màu tự nhiên (chiết xuất từ quả lý chua đen, màu củ cải đỏ)",1
+additive,"chất nhũ hoá (471, 1520, 322(i), 475, 477, 472e, 415, 491, 470(i))",1
+additive,"chất điều chỉnh độ acid (330, 341(ii), 341(i), 524)",1
+additive,(1414),1
+additive,"(ins 621, ins 631)",1
+additive,trinatri phosphat,1
+additive,307b - có chứa đậu nành,1
+additive,(hương cốm),1
+additive,phẩm màu tự nhiên (ins 160b(ii)),1
+additive,tự nhiên (steviol glycoside từ stevia),1
+additive,"(1414, 420(i))",1
+additive,"(451(i), 450(i))",1
+additive,màu thực phẩm tự nhiên chiết xuất từ ớt,1
+additive,"chất làm dày (1420, 412)",1
+additive,(401),1
+additive,chất làm ẩm (452(i)),1
+additive,chất tạo màu (164) tự nhiên,1
+additive,"chất tạo màu ((150a) tự nhiên, (150d) tổng hợp)",1
+additive,"(1420, 420(i), 1200)",1
+additive,"(262(i), 250)",1
+additive,"hương dầu (hành, tỏi) tự nhiên",1
+additive,phẩm màu tổng hợp (erythrosin (127)),1
+additive,"chất điều chỉnh độ acid (330, 296, 331(iii))",1
+additive,"(150a, 171, 164, 141(ii), 100(i))",1
+additive,"chất làm dày (1440, 1420)",1
+additive,phẩm màu tổng hợp (160a(iii)),1
+additive,gia vị nguyên bản,1
+additive,bột whey,1
+additive,muối i-ốt,1
+additive,(160a(iii)),1
+additive,(339(iii)),1
+additive,"(mononatri l-glutamat, dinatri 5'-guanylat, dinatri 5'-inosinat)",1
+additive,"(1420, 500(i), 422, 500(ii))",1
+additive,"chất làm ẩm (452(i), 451(i))",1
+additive,chất tạo màu (100(i)) tổng hợp,1
+additive,"hương liệu (giống tự nhiên, tổng hợp)",1
+additive,chất tạo màu (150d) tổng hợp,1
+additive,chất tạo xốp (500(iii)),1
+additive,vanilla,1
+additive,"hương liệu (cốm, sữa, chanh, bơ) tổng hợp",1
+additive,"phẩm màu tổng hợp (160a(i), 133)",1
+additive,"(477, 471, 322(i))",1
+additive,phẩm màu tự nhiên (101(i)),1
+additive,(450(iii)),1
+additive,"chất làm ẩm (450(i), 450(ii), 452(i), 452(ii))",1
+additive,hương liệu thịt giống tự nhiên,1
+additive,phẩm màu tự nhiên (120(i)),1
+additive,"chất xử lý bột (170(i), 516, 300, 1100(i))",1
+additive,ins 471,1
+additive,ins 407,1
+additive,"(hương vani, hương tacao)",1
+additive,"hỗn hợp vitamin d3 (đường sucrose, chất làm dày: ins 414, tinh bột ngô, dầu dừa mct, vitamin d3 (cholecalciferol), chất chống oxy hóa: ins 307b, chất chống đông vón: ins 551)",1
+additive,chất làm dày: ins 414,1
+additive,ins 307b,1
+additive,chất chống đông vón: ins 551,1
+additive,chất tạo gel (ins 407),1
+additive,"chất điều chỉnh độ acid (ins 325, ins 330, ins 300, ins 331(ii), ins 332(iii))",1
+additive,hương liệu giống tự nhiên: hương cam,1
+additive,"chất điều chỉnh độ axit (500(i), 450(i), 341(i), 341(ii))",1
+additive,"(471, 433, 322, 322(i))",1
+additive,(hương chocolate),1
+additive,"(407, 405)",1
+additive,natural flavor,1
+additive,"colors (blue 1 lake, yellow 6, red 40, yellow 5, blue 1, yellow 6 lake, red 40 lake, yellow 5 lake, blue 2 lake, blue 2)",1
+additive,gum acacia,1
+additive,(ins 160c(ii)),1
+additive,"chất làm ẩm (422, 420(iii))",1
+additive,(dâu),1
+additive,"(141(i), 100(i))",1
+additive,(129),1
+additive,"chất làm dày (1442, 1414, 412)",1
+additive,màu thực phẩm lycopen tổng hợp (160d(ii)),1
+additive,"dùng cho thực phẩm (hương bò, hương mùi tàu)",1
+additive,"chất tạo màu (màu tổng hợp (150d), màu tự nhiên (160c(iii)))",1
+additive,hương thịt nướng nhân tạo,1
+additive,"(202, 385)",1
+additive,hương tỏi tự nhiên,1
+additive,"(322(i), 415, 460(i), 401, 466)",1
+additive,"(466, 418, 327, 471)",1
+additive,dùng cho thực phẩm (hương táo),1
+additive,chất tạo gel carrageenan (ins 407),1
+additive,gôm gellan (ins 418),1
+additive,"chất điều chỉnh độ acid (acid citric (ins 330), trinatri citrat (ins 331(iii)), acid malic (dl-) (ins 296))",1
+additive,"hương liệu (quýt, đào vàng, dứa, đào trắng) tự nhiên",1
+additive,chất làm rắn chắc (calci lactat (ins 327)),1
+additive,"(1442, 1440, 415, 170(i), 401)",1
+additive,"(1450, 477, 471, 475, 473, 322(i), 491, 470(i))",1
+additive,"hương liệu nhân tạo (lá dứa, dừa, sữa, cốm)",1
+additive,(141(ii)),1
+additive,"hương thực phẩm tổng hợp (dừa, vani)",1
+additive,chất xử lý bột (ins 223),1
+additive,"(ins 621, ins 627, ins 508, ins 631)",1
+additive,phẩm màu tự nhiên (ins 160c(ii)),1
+additive,phẩm màu tổng hợp (ins 150c),1
+additive,chất làm dày (ins 339(iii)),1
+additive,chất điều chỉnh độ acid (341(ii)),1
+additive,hương bơ tổng hợp,1
+additive,"(460(i), 340(iii), 407, 466)",1
+additive,chất điều chỉnh độ axit (500(ii)),1
+additive,"hương liệu giống tự nhiên (hương lúa mạch, hương sôcôla, hương vani)",1
+additive,màu caramel tự nhiên (150d),1
+additive,(310),1
+additive,"(1442, 415, 1440)",1
+additive,"(471, 477, 475, 322(i), 491, 470(i))",1
+additive,"chất tạo xốp (575, 500(ii), 450(i), 341(i), 341(ii))",1
+additive,"(đậu đỏ, lá dứa, cốm, dừa, vani)",1
+additive,"(150a, 120, 141(ii))",1
+additive,"(102, 160a(i), 133)",1
+additive,"chất tạo xốp (500ii, 503ii)",1
+additive,(320),1
+additive,"(ins 407, ins 471)",1
+additive,"chất làm dày (1412, 407, 425, 508)",1
+additive,"(450(iii), 451(i), 450(i), 331(iii))",1
+additive,"(451(i), 405)",1
+additive,"chất làm dày (422, 1442, 415)",1
+additive,"chất tạo màu (màu tự nhiên (160c(i)), màu tổng hợp (150d))",1
+additive,"(471, 412, 418)",1
+additive,(ins 1440),1
+additive,"chất làm dày (ins 500(ii), ins 414)",1
+additive,(hương tôm yum),1
+additive,"nhân tạo (951, 955)",1
+additive,"hương liệu rau củ (tự nhiên, giống tự nhiên, nhân tạo) (có chứa chất điều vị (621, 627, 631, 620), chất điều chỉnh độ acid (330))",1
+additive,"(621, 627, 631, 620)",1
+additive,"hương liệu (giống tự nhiên, nhân tạo, tự nhiên) (nấm truffle)",1
+additive,hương liệu nhân tạo (teriyaki),1
+additive,chất làm dày: carrageenan (từ rong biển) (ins 407),1
+additive,chất làm dày: bột konjac (từ khoai nưa) (ins 425),1
+additive,chất làm dày: gôm xanthan (ins 415),1
+additive,kali clorid (ins 508),1
+additive,chất chống đông vón: dioxyd silic vô định hình (ins 551),1
+additive,"carrageenan compound powder (compound thickener): [chất làm dày carrageenan (ins 407) , chất điều chỉnh độ acid sodium citrate (ins 331(iii)) , chất làm dày (konjac gum (ins 425) , potassium chloride (ins 508) , xanthan gum (ins 415) )]",1
+additive,chất điều chỉnh độ acid acid lactic (ins 270),1
+additive,màu tự nhiên carmine (ins 120),1
+additive,"chất tạo xốp (503(ii), 500(ii), 341(ii))",1
+additive,"hương liệu (giống tự nhiên, tổng hợp) (bơ)",1
+additive,"hương liệu (tổng hợp, giống tự nhiên) dùng cho thực phẩm",1
+additive,hương liệu (hương vanilla tổng hợp),1
+additive,"(621, 631, 627, 951, 640)",1
+additive,màu tự nhiên (paprika oleoresin),1
+additive,"(471, 407, 401)",1
+additive,lecithin - chiết xuất từ đậu nành,1
+additive,"(405, 466)",1
+additive,"màu tự nhiên (141(ii), 100(i))",1
+additive,hương liệu (hương dưa gang) tổng hợp dùng cho thực phẩm,1
+additive,"(471, 407, 401, 412, 452)",1
+additive,ins 1414,1
+additive,(ins 414),1
+additive,(ins 322i),1
+additive,"(ins 460(i), ins 418, ins 466)",1
+additive,(hương sôcôla) và tự nhiên (chiết xuất từ lá cỏ ngọt),1
+additive,(418(ii)),1
+additive,tổng hợp sucralose,1
+additive,"(440, 337, 452(i))",1
+additive,"hỗn hợp chất làm bóng (903, 901, dầu thực vật)",1
+additive,"(162, 160a(i), 171)",1
+additive,hương liệu giống tự nhiên (đào),1
+additive,(dâu tây),1
+additive,"chất tạo xốp (500(ii), 503(ii), 341(ii))",1
+additive,hương liệu (rong biển) tổng hợp,1
+additive,"dùng cho thực phẩm (hương thịt, hương nấm)",1
+additive,"chất tạo màu (màu tổng hợp (150d), màu tự nhiên (160c(i)))",1
+additive,(ins 281),1
+additive,hương liệu vải tổng hợp,1
+additive,tổng hợp (ins 950),1
+additive,"(450(iii), 451(i), 452(i))",1
+additive,"(621, 640, 635)",1
+additive,hương liệu mực nướng giống tự nhiên,1
+additive,"tổng hợp (951, 955)",1
+additive,"(ins 1414, ins 415)",1
+additive,"chất làm ẩm (420(ii), 422, 420(i))",1
+additive,"(471, 477, 475, 322(i), 1520, 491, 470(i))",1
+additive,"(1422, 466, 415)",1
+additive,"chất tạo xốp (450(i), 500(ii), 503(ii))",1
+additive,"(281, 202)",1
+additive,màu điều,1
+additive,"phẩm màu tổng hợp (110, 120)",1
+additive,flavour enhancer (ins 621),1
+additive,anticaking agent silicon dioxide (ins 551),1
+additive,turmeric colouring (e100(i)),1
+additive,synthetic butter flavour,1
+additive,"synthetic flavour (durian, palm sugar, vanilla)",1
+additive,synthetic colouring tartrazine (e102),1
+additive,"(466, 418(ii))",1
+additive,hương liệu giống tự nhiên (hương cam và hương ngọt),1
+additive,(160b(iii)),1
+additive,và nhũ hóa: mono và diglycerid của các acid béo (ins 471),1
+additive,gôm guar (ins 412),1
+additive,gôm đậu carob (ins 410),1
+additive,carrageenan (ins 407),1
+additive,"(460(i), 466, 415)",1
+additive,hương sô cô la tự nhiên,1
+additive,chất điều chỉnh độ acid (500(i)),1
+additive,phẩm màu tự nhiên (ins 160a(i)),1
+additive,(ngô),1
+additive,"(vani, sữa)",1
+additive,"(316, 300, 301)",1
+additive,chất tạo màu erythrosin tổng hợp (127),1
+additive,chất nhũ hoá (ins322(i)),1
+additive,hương liệu cà phê tổng hợp,1
+additive,"food additive 3% (raising agent (ins 500(ii), ins 450(i)), stabilizing agent (ins 415(i)), artificial vanilla extract)",1
+additive,(ins 150c),1
+additive,"chất điều chỉnh độ acid (ins 296, ins 260)",1
+additive,"(ins 202, ins 211)",1
+additive,ins322(i),1
+additive,chất điều chỉnh độ axit ins500(ii),1
+additive,ins322(ii),1
+additive,"(471, 460(i), 407, 460(ii), 466)",1
+additive,(hương dâu - chuối - lúa mạch),1
+additive,"màu tự nhiên (160b(ii), 120)",1
+additive,"màu tự nhiên (chất chiết xuất từ quả lý chua đen, màu củ cải đỏ)",1
+additive,"(471, 407, 500(ii))",1
+additive,chất điều chỉnh độ acid: acid citric - ins 330,1
+additive,"phẩm màu nhân tạo: allura red ac - ins 129, tartrazin - ins 102, sunset yellow fcf - ins 110",1
+additive,"dùng trong thực phẩm (bơ, sữa, vani)",1
+additive,phẩm màu tự nhiên (ins 162i),1
+additive,"chất điều chỉnh độ acid (ins 450(i), ins 341(ii))",1
+additive,"(ins 471, ins 322(i) (đậu nành), ins 473, ins 491, ins 477)",1
+additive,chất làm rắn chắc (ins 526),1
+additive,2 loại hương liệu nhân tạo (vani),1
+additive,"chất tạo xốp (575, 500(ii), 450(i), 341(ii), 341(i))",1
+additive,"(ins 492, ins 322(i))",1
+additive,"(vani, sô cô la)",1
+additive,lecithin ins 322,1
+additive,bột hương liệu đào tổng hợp,1
+additive,flavour enhancer monosodium glutamate (e621),1
+additive,(ins 322 (i)),1
+additive,hương sô-cô-la tổng hợp,1
+additive,hương vani tự nhiên,1
+additive,"(450(ii), 451(i), 452(i), 450(i))",1
+additive,"phẩm màu nhân tạo (tartrazin (ins 102), allura red ac (ins 129), brilliant blue fcf (ins 133))",1
+additive,"(282, 202, 200)",1
+additive,"chất điều chỉnh độ axit (326, 450(i), 500(ii), 262(i), 341(ii), 341(i), 330)",1
+additive,"(477, 471, 322(i), 475, 491, 470(ii))",1
+additive,"[471, 407, 401]",1
+additive,chất điều chỉnh độ acid [500(ii)],1
+additive,chất làm dày: carrageenan (chiết xuất từ rau câu) (ins 407),1
+additive,bột konjac (từ khoai nưa) (ins 425),1
+additive,gôm xanthan (ins 415),1
+additive,"kali clorid (ins 508), trikali citrate (ins 332(ii))",1
+additive,"(321, 320)",1
+additive,chất xử lý bột (ins 1100(ii)),1
+additive,chất chống oxi hóa (300),1
+additive,tự nhiên (960d),1
+additive,chất điều chỉnh độ axit ins 500(ii),1
+additive,hương cà phê tổng hợp dùng trong thực phẩm,1
+additive,tổng hợp acesulfam kali (ins 950),1
+additive,sucralose (ins 955),1
+additive,chất điều chỉnh độ acid trisodium citrate (ins 331(iii)),1
+additive,hương liệu đào tổng hợp,1
+additive,hương liệu phô mai giống tự nhiên,1
+additive,"(407, 425, 410, 418)",1
+additive,(301),1
+additive,lecithin ins 322i,1
+additive,gum arabic ins 414,1
+additive,bột hương liệu táo tổng hợp,1
+additive,chất béo sữa,1
+additive,hương cam tổng hợp dùng cho thực phẩm,1
+additive,"chất tạo xốp (ins 503(ii), ins 500(ii))",1
+additive,"chất làm ẩm (422, 420(i), 1520)",1
+additive,"(477, 471, 472e, 475, 491)",1
+additive,"(bơ, sữa)",1
+additive,hydrogenated palm kernel,1
+additive,hydrogenated canola,1
+additive,"emulsifiers (soy lecithin, polyglycerol esters of fatty acids, sucrose esters of fatty acids, polyglycerol esters of interesterified ricinoleic acid)",1
+additive,soy lecithin,1
+additive,polyglycerol esters of fatty acids,1
+additive,sucrose esters of fatty acids,1
+additive,polyglycerol esters of interesterified ricinoleic acid,1
+additive,leavening (sodium bicarbonate),1
+additive,sodium bicarbonate,1
+additive,artificial flavors,1
+additive,(491),1
+additive,"chất tạo xốp (500(ii), 500(iii))",1
+additive,chất tạo màu (150a) tự nhiên,1
+additive,"hương liệu (tổng hợp, tự nhiên, giống tự nhiên)",1
+additive,(950) tổng hợp,1
+additive,chất làm giòn (1420),1
+additive,chất điều chỉnh độ acid: acid malic (dl-) (ins 296),1
+additive,hương liệu dưa hấu nhân tạo,1
+additive,phẩm màu tổng hợp: allura red ac (ins 129),1
+additive,"chất điều chỉnh độ axít (330, 331(iii), 340(i), 327)",1
+additive,(518),1
+additive,hương liệu bưởi tổng hợp,1
+additive,"chất nhũ hoá (451(i), 471)",1
+additive,chất điều chỉnh độ axit,1
+additive,"hương liệu giống tự nhiên (hương lúa mạch sôcôla, hương sôcôla, hương vani)",1
+additive,(e621),1
+additive,hương kem sữa tổng hợp,1
+additive,"chất điều chỉnh độ acid (330, 331(i))",1
+additive,"tổng hợp (955, 950)",1
+additive,chất chống đông vón (ins 170(i)),1

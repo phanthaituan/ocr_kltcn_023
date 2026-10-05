@@ -1,0 +1,46 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Hoa chuối (70%)",
+    "bột mì",
+    "muối i-ốt",
+    "đường",
+    "dầu đậu nành",
+    "gia vị chay (trích từ bắp)",
+    "tiêu (1%)"
+  ],
+  "additive": [],
+  "warning": [
+    "Không sử dụng sản phẩm đã hết hạn sử dụng."
+  ],
+  "nutrition": [
+    {
+      "name": "Calories",
+      "value": "130"
+    },
+    {
+      "name": "Total Fat",
+      "value": "9 g"
+    },
+    {
+      "name": "Sodium",
+      "value": "220 mg"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "8 g"
+    },
+    {
+      "name": "Total Sugars",
+      "value": "Less than 1 g"
+    },
+    {
+      "name": "Protein",
+      "value": "4 g"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

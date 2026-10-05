@@ -1,0 +1,94 @@
+{
+  "product_name": "MÌ GẠO",
+  "ingredient": [
+    "Vắt sợi: Gạo (634,82 g/kg)",
+    "tinh bột khoai tây (158,7 g/kg)",
+    "muối",
+    "Gói xốt: Nước",
+    "giấm",
+    "đường",
+    "muối",
+    "dầu cọ",
+    "nước mắm",
+    "hành",
+    "tỏi",
+    "bột sữa dừa",
+    "sữa bột gầy",
+    "bột tôm (12 g/kg)",
+    "ớt",
+    "riềng",
+    "lá mùi tàu",
+    "gừng",
+    "hỗn hợp bột (bột ớt, bột tỏi, bột tiêu)",
+    "chiết xuất nấm men",
+    "bột gia vị",
+    "chiết xuất ớt",
+    "Gói tương ớt: Nước",
+    "muối",
+    "dầu cọ",
+    "đường",
+    "bột ớt (30 g/kg)",
+    "Gói rau: Giả thịt (từ đậu nành)",
+    "rau sấy (hành lá, cà rốt, đậu bắp)"
+  ],
+  "additive": [
+    "chất làm dày (1404, 466, 412, 451(i))",
+    "chất nhũ hóa (475, 322(i))",
+    "màu tự nhiên (164)",
+    "chất chống oxy hóa (307b)",
+    "chất điều vị (621, 631, 627, 364(ii))",
+    "chất làm dày (1422, 415)",
+    "chất điều chỉnh độ acid (296, 270, 327)",
+    "hương liệu tổng hợp dùng cho thực phẩm",
+    "chất bảo quản (202, 211)",
+    "chất tạo ngọt tổng hợp (950)",
+    "màu tự nhiên (100(i))",
+    "chất chống oxy hóa (319)",
+    "chất chống đông vón (551)",
+    "chất làm dày (422, 1422, 415)",
+    "chất điều vị (621)",
+    "chất chống oxy hóa (316, 319)",
+    "chất điều chỉnh độ acid (330)",
+    "màu tự nhiên (171, 164, 160c(i))",
+    "chất bảo quản (202, 211)",
+    "chất tạo ngọt tổng hợp (950)"
+  ],
+  "warning": [
+    "Sản phẩm có chứa: gluten lúa mì, đậu nành, cá, tôm, cua, sữa.",
+    "Không sử dụng sản phẩm quá hạn hoặc bao bì không còn nguyên vẹn."
+  ],
+  "nutrition": [
+    {
+      "name": "Giá trị năng lượng",
+      "value": "246,96 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "3,22 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "51,16 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "4,60 g"
+    },
+    {
+      "name": "Natri",
+      "value": "1856,4 mg"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "1,44 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "4,77 g"
+    }
+  ],
+  "origin": "SẢN XUẤT TẠI VIỆT NAM",
+  "net_weight": "84 g",
+  "mfg_date": "04 03 26 22:03",
+  "expiry_date": "04 11 26 20 PH"
+}

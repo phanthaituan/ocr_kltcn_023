@@ -1,0 +1,45 @@
+{
+  "product_name": "KẸO DẺO BURGER KHỔNG LỒ FUNMORE",
+  "ingredient": [
+    "Xi-rô glucose 63.46%",
+    "đường 26.11%",
+    "gelatin 5.49%",
+    "tinh bột bắp 2.98%"
+  ],
+  "additive": [
+    "chất điều chỉnh độ acid (INS 330)",
+    "chất làm ẩm (INS 420(i))",
+    "chất làm bóng (INS 903)",
+    "phẩm màu nhân tạo (Tartrazin (INS 102), Allura red AC (INS 129), Brilliant blue FCF (INS 133))",
+    "hương liệu nhân tạo"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm khi hết hạn sử dụng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "364 kcal"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "82 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "74 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "9 g"
+    },
+    {
+      "name": "Natri",
+      "value": "14 mg"
+    }
+  ],
+  "origin": "Trung Quốc",
+  "net_weight": "50 g",
+  "mfg_date": "23/10/2025",
+  "expiry_date": "22/01/2027"
+}

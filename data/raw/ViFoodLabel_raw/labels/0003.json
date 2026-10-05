@@ -1,0 +1,60 @@
+{
+  "product_name": "THANH GRANOLA PHÚ QUÝ",
+  "ingredient": [
+    "Hạt bí",
+    "đậu phộng",
+    "yến mạch",
+    "mạch nha",
+    "đường",
+    "mè",
+    "hạt hướng dương",
+    "chất xơ hòa tan",
+    "nho khô",
+    "mơ khô",
+    "gạo",
+    "dầu canola",
+    "muối"
+  ],
+  "additive": [],
+  "warning": [
+    "Sản phẩm có thể chứa vết các hạt khác, đậu nành, lúa mì và mù tạt."
+  ],
+  "nutrition": [
+    {
+      "name": "Calories-kcal",
+      "value": "150"
+    },
+    {
+      "name": "Tổng chất béo",
+      "value": "7 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "1.5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "70 mg"
+    },
+    {
+      "name": "Tổng Carbohydrate",
+      "value": "16 g"
+    },
+    {
+      "name": "Chất xơ",
+      "value": "2 g"
+    },
+    {
+      "name": "Đường",
+      "value": "5 g"
+    },
+    {
+      "name": "Chất Đạm",
+      "value": "5 g"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "Xem trên bao bì",
+  "mfg_date": "Xem trên bao bì",
+  "expiry_date": "Xem trên bao bì"
+}

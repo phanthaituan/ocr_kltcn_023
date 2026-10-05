@@ -1,0 +1,52 @@
+{
+  "product_name": "PIZZA GẬP NHÂN PHÔ MAI CÀ CHUA",
+ "ingredient": [
+  "Đế bánh 55% (bột mì, nước, muối, men)",
+  "cà chua 21%",
+  "phô mai 20% (sữa bò, muối, enzyme đông sữa, khuẩn sữa)",
+  "nước",
+  "đường",
+  "bột mì",
+  "muối",
+  "dầu oliu",
+  "chiết xuất men",
+  "bột tỏi",
+  "lá quế tây",
+  "lá kinh giới",
+  "tiêu"
+],
+"additive": [],
+  "warning": [
+    "Không phù hợp cho người bị dị ứng với các thành phần trên."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng (Energy)",
+      "value": "231 kcal"
+    },
+    {
+      "name": "Chất đạm (Protein)",
+      "value": "11.5 g"
+    },
+    {
+      "name": "Carbohydrat (Carbohydrate)",
+      "value": "28.7 g"
+    },
+    {
+      "name": "Đường tổng số (Total Sugars)",
+      "value": "2.7 g"
+    },
+    {
+      "name": "Chất béo (Total Fat)",
+      "value": "7.7 g"
+    },
+    {
+      "name": "Natri (Sodium)",
+      "value": "531 mg"
+    }
+  ],
+  "origin": "VIỆT NAM",
+  "net_weight": null,
+  "mfg_date": "Vui lòng xem trên bao bì",
+  "expiry_date": "Vui lòng xem trên bao bì"
+}

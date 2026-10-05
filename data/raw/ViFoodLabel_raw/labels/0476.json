@@ -1,0 +1,68 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước",
+    "sữa hoàn toàn từ sữa bò tươi (25%)",
+    "đường",
+    "chiết xuất lúa mạch (2,5%)",
+    "yến mạch (2%)",
+    "bột cacao tách béo (0,7%)",
+    "khoáng chất (calci carbonat)",
+    "vitamin (B6, acid folic, B12)"
+  ],
+  "additive": [
+    "chất ổn định (471, 412, 418)",
+    "hương liệu tự nhiên"
+  ],
+  "warning": [
+    "Sản phẩm có chứa sữa, lúa mạch và yến mạch.",
+    "Sản phẩm có chứa yến mạch, nên thận trọng khi sử dụng cho trẻ nhỏ.",
+    "Phù hợp cho trẻ từ 2 tuổi trở lên."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "66,8 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,3 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "12,7 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "11,5 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "1,2 g"
+    },
+    {
+      "name": "Natri",
+      "value": "17 mg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "120 μg"
+    },
+    {
+      "name": "Vitamin B12",
+      "value": "0,16 μg"
+    },
+    {
+      "name": "Acid Folic",
+      "value": "28 μg"
+    },
+    {
+      "name": "Calci",
+      "value": "60 mg"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì."
+}

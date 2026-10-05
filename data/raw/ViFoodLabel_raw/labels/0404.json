@@ -1,0 +1,45 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Rong biển: 70%",
+    "đường: 15%",
+    "dầu bắp: 5%",
+    "mè: 5%",
+    "dầu mè: 4%",
+    "muối: 1%"
+  ],
+  "additive": [],
+  "warning": [
+    "Không dùng sản phẩm nếu dị ứng với thành phần có trong sản phẩm."
+  ],
+  "nutrition": [
+    {
+      "name": "Chất đạm",
+      "value": "20.8 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "29.4 g"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "462 kcal"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "15.5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "1270 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "16.3 g"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "11/05/2026",
+  "expiry_date": "11/05/2027"
+}

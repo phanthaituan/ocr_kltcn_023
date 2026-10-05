@@ -1,0 +1,75 @@
+{
+  "image_id": "0329",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Đường",
+    "bột kem không sữa",
+    "maltodextrin",
+    "sữa bột gầy 10 %",
+    "bột trà 6 % (trà xanh Thái Nguyên 3 %)",
+    "muối",
+    "dầu cọ"
+  ],
+  "gold_additives_raw": [
+    "hương tổng hợp (hương trà, hương sữa)",
+    "chất chống đông vón (Dioxyd silic vô định hình)",
+    "chất tạo ngọt tổng hợp (Acesulfam kali)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "57 ~ 99 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "≥ 0,5 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "≤ 2,5 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "< 18 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "≤ 15,5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "≤ 75 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm không dành cho người nhạy cảm với sữa và gluten."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "sữa"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

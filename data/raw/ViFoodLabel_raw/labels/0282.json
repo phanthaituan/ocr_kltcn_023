@@ -1,0 +1,60 @@
+{
+  "product_name": "VỊ NGỌT TỰ NHIÊN THỊT BẰM",
+  "ingredient": [
+    "Nước",
+    "hành tây",
+    "thịt 15 % (thịt bò, thịt heo)",
+    "cà chua xay nhuyễn",
+    "cà rốt",
+    "đường",
+    "muối ăn",
+    "dầu đậu nành",
+    "dịch cao nấm men",
+    "hỗn hợp gia vị",
+    "tỏi xay nhuyễn",
+    "chiết xuất thịt bò",
+    "ớt chuông xanh"
+  ],
+  "additive": [
+    "chất làm dày (1414)",
+    "chất điều vị (621, 627, 631)",
+    "phẩm màu tự nhiên (150a)"
+  ],
+  "warning": [
+    "Sản phẩm này có chứa thành phần đậu nành gây dị ứng."
+  ],
+  "nutrition": [
+    {
+      "name": "Giá trị năng lượng",
+      "value": "83 (kcal)"
+    },
+    {
+      "name": "Chất đạm (Protein)",
+      "value": "4,2 g (8 %)"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "7,8 g (2 %)"
+    },
+    {
+      "name": "Đường tổng số (Total Sugars)",
+      "value": "6,0 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "3,9 g (7 %)"
+    },
+    {
+      "name": "Chất béo bão hòa (Saturated Fat)",
+      "value": "1,4 g (7 %)"
+    },
+    {
+      "name": "Natri (Sodium)",
+      "value": "853 mg (43 %)"
+    }
+  ],
+  "origin": "CÔNG TY TNHH VIỆT NAM NISSHIN SEIFUN",
+  "net_weight": null,
+  "mfg_date": "30102025 /Z",
+  "expiry_date": "30102027"
+}

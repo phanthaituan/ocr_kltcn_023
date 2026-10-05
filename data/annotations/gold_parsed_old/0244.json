@@ -1,0 +1,73 @@
+{
+  "image_id": "0244",
+  "product_name": "Tea Break",
+  "gold_ingredients_raw": [
+    "Nước",
+    "đường",
+    "sữa bột nguyên kem (17 g/l)",
+    "lá trà đen (7,4 g/l)",
+    "muối"
+  ],
+  "gold_additives_raw": [
+    "hương liệu (hương trà giống tự nhiên, hương sữa tổng hợp)",
+    "chất nhũ hóa (471, 481(i))",
+    "chất điều chỉnh độ acid (500(ii))",
+    "chất chống oxy hóa (300)",
+    "chất tạo ngọt tổng hợp (950, 955)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "34 kcal"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "7 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0,4 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0,5 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "6,3 g"
+    },
+    {
+      "name": "Natri",
+      "value": "31 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa sữa."
+  ],
+  "allergen_final": {
+    "contains": [
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "sữa"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "xem trên nắp chai.",
+  "expiry_date": "xem trên nắp chai.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

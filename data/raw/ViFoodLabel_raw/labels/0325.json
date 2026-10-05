@@ -1,0 +1,78 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước dừa (98.39%)",
+    "Đường"
+  ],
+  "additive": [
+    "Hương dừa tự nhiên",
+    "Chất chống oxy hoá (300)"
+  ],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "70"
+    },
+    {
+      "name": "Béo Tổng",
+      "value": "0g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "0g"
+    },
+    {
+      "name": "Chất béo dạng trans",
+      "value": "0g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0mg"
+    },
+    {
+      "name": "Sodium",
+      "value": "130mg"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "17g"
+    },
+    {
+      "name": "Chất xơ",
+      "value": "0g"
+    },
+    {
+      "name": "Đường",
+      "value": "12g"
+    },
+    {
+      "name": "Bao gồm 5g đường bổ sung",
+      "value": "10%"
+    },
+    {
+      "name": "Protein",
+      "value": "0g"
+    },
+    {
+      "name": "Vitamin D",
+      "value": "0mcg"
+    },
+    {
+      "name": "Calcium",
+      "value": "40mg"
+    },
+    {
+      "name": "Iron",
+      "value": "0mg"
+    },
+    {
+      "name": "Potassium",
+      "value": "560mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

@@ -1,0 +1,78 @@
+{
+  "image_id": "0514",
+  "product_name": "RONG BIỂN GIÒN TRỘN RAU & HẠT",
+  "gold_ingredients_raw": [
+    "Hỗn hợp dầu thực vật (dầu ngô, dầu Ô Liu), rau & hạt(29,5%) (ngô, hạt óc chó, hạnh nhân, nấm đông cô, cải bó xôi), rong biển Hàn Quốc (21,6%), đường, chiết xuất bắp, maltodextrin, muối hồng"
+  ],
+  "gold_additives_raw": [
+    "chất điều vị (INS621)",
+    "hương liệu tự nhiên (hương hương thảo)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "436,8 ~ 655,2 kcal"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "16,8 ~ 31,3 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "9,4 ~ 17,54 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "33,6 ~ 50,5 g"
+    },
+    {
+      "name": "Natri (Na)",
+      "value": "< 1500 mg"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "< 8 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "11,8 ~ 22,1 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng nếu người dùng bị dị ứng với bất cứ thành phần của sản phẩm.",
+    "12+ tháng tuổi."
+  ],
+  "allergen_final": {
+    "contains": [
+      "hạt_cây",
+      "ngô",
+      "nhuyễn_thể",
+      "rong_biển"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "hạt_cây",
+      "ngô",
+      "nhuyễn_thể",
+      "rong_biển"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1,
+      "child_supervision": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì sản phẩm.",
+  "expiry_date": "Xem trên bao bì sản phẩm.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

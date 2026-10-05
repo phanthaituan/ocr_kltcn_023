@@ -1,0 +1,41 @@
+{
+  "image_id": "0172",
+  "product_name": "BÁNH GẠO Cà Rốt Bí Đỏ",
+  "gold_ingredients_raw": [
+    "Bột gạo (74%)",
+    "Tinh bột khoai tây sáp",
+    "Tinh bột khoai tây",
+    "Đường",
+    "Bột bí đỏ (0,6%)",
+    "Bột cà rốt (0,6%)",
+    "Vitamin A (0,02%)",
+    "Vitamin B1 (0,0008%)"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "7+ tháng tuổi"
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "child_supervision": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

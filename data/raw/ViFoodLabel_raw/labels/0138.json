@@ -1,0 +1,57 @@
+{
+  "product_name": "KHÔ HEO CHÁY TỎI",
+  "ingredient": [
+    "Thịt heo 225 g (*)",
+    "đường",
+    "tỏi tươi 9 g (*)",
+    "tỏi khô 7 g (*)",
+    "ớt 2 g (*)",
+    "muối",
+    "gừng, sả",
+    "dầu điều",
+    "ngũ vị hương 1 g(*)",
+    "chiết xuất ớt Paprika oleoresin (INS160c)"
+  ],
+  "additive": [
+    "chất điều vị (INS 621)",
+    "chất tạo màu caramen tự nhiên nhóm I (INS 150a)",
+    "Paprika oleoresin (INS160c)"
+  ],
+  "warning": [
+    "Không sử dụng cho người dị ứng với bất kỳ thành phần nào của sản phẩm."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "418 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "28 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "49,4 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "48,5 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "12 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "5,4 g"
+    },
+    {
+      "name": "Natri",
+      "value": "1675 mg"
+    }
+  ],
+  "origin": "VIỆT NAM",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì."
+}

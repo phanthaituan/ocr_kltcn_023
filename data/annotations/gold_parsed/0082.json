@@ -1,0 +1,116 @@
+{
+  "image_id": "0082",
+  "product_name": "NuVi",
+  "gold_ingredients_raw": [
+    "Nước",
+    "sữa tươi (40 %)",
+    "thạch dừa (5 %)",
+    "bột kem thực vật",
+    "đường",
+    "xirô glucose",
+    "xirô đường đen (2 %)",
+    "hỗn hợp vitamin và khoáng chất (vitamin A, D3, B1, B3, B5, B6, kẽm oxy, tricali citrat, natri polyphosphat)"
+  ],
+  "gold_additives_raw": [
+    "hương liệu tổng hợp",
+    "chất ổn định (407, 418(i), 466)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "77,5 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,34 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "2,9 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "11,5 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "10,0 g"
+    },
+    {
+      "name": "Calci",
+      "value": "45 mg"
+    },
+    {
+      "name": "Vitamin D3",
+      "value": "50 IU"
+    },
+    {
+      "name": "Kẽm",
+      "value": "0,80 mg"
+    },
+    {
+      "name": "Phospho",
+      "value": "55 mg"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "250 IU"
+    },
+    {
+      "name": "Natri",
+      "value": "15 mg"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "120 µg"
+    },
+    {
+      "name": "Vitamin B5",
+      "value": "833 µg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "150 µg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Có chứa sữa.",
+    "Không dùng cho người mẫn cảm với thành phần sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [
+      "dừa",
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "sữa"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "sữa"
+    ],
+    "inferred_from_ingredient_additive": [
+      "dừa",
+      "sữa"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": "HSD và NSX: Xem trên hộp.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

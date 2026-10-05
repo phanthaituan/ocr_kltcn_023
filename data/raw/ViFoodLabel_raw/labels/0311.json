@@ -1,0 +1,44 @@
+{
+  "product_name": "Bột Gạo Lứt Hạt Sen",
+  "ingredient": [
+    "Gạo lứt (45 %)",
+    "đường cát trắng",
+    "hạt sen (10 %)",
+    "bột kem không sữa",
+    "maltodextrin"
+  ],
+  "additive": [
+    "hương vani tổng hợp"
+  ],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "381 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3,54 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "80,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "32,5 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "4,25 g"
+    },
+    {
+      "name": "Natri",
+      "value": "134 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì sản phẩm",
+  "expiry_date": "Xem trên bao bì sản phẩm"
+}

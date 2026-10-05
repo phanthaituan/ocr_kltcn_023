@@ -1,0 +1,66 @@
+{
+  "image_id": "0031",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Me cô đặc (40%)",
+    "đường",
+    "nước",
+    "ớt",
+    "tỏi",
+    "cà chua cô đặc",
+    "nước mắm",
+    "muối ăn",
+    "bột quế",
+    "bột hương thảo"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (1422)",
+    "chất điều vị (621, 631, 627)",
+    "chất tạo ngọt (acesulfam kali, aspartam)",
+    "chất tạo màu (caramen nhóm I tự nhiên)",
+    "chất bảo quản (211, 202)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Protein",
+      "value": "≤ 1.5 g"
+    },
+    {
+      "name": "Lipid",
+      "value": "≤ 1.2 g"
+    },
+    {
+      "name": "Carbonhydrate",
+      "value": "6 g - 11 g"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "49 Kcal - 65 Kcal"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm đã hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "20-10-2025",
+  "expiry_date": "20-04-2027",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

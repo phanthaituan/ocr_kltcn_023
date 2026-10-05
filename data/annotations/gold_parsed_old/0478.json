@@ -1,0 +1,93 @@
+{
+  "image_id": "0478",
+  "product_name": "BÁNH CHOCOPIE",
+  "gold_ingredients_raw": [
+    "BỘT MÌ",
+    "ĐƯỜNG",
+    "MẠCH NHA GLUCOSE",
+    "SHORTENING THỰC VẬT (CÓ CHỨA CHẤT NHŨ HÓA (471))",
+    "CHẤT BÉO THỰC VẬT (CÓ CHỨA CHẤT NHŨ HÓA (492, 322(i)))",
+    "BỘT CACAO (2,8%)",
+    "SỮA BỘT NGUYÊN KEM",
+    "TRỨNG",
+    "ĐƯỜNG DEXTROSE",
+    "GELATIN",
+    "MUỐI",
+    "HỖN HỢP BỘT CACAO VÀ BƠ CACAO (0,2%)",
+    "MUỐI I-ỐT",
+    "PROTEIN SỮA"
+  ],
+  "gold_additives_raw": [
+    "CHẤT NHŨ HÓA (471)",
+    "CHẤT NHŨ HÓA (492, 322(i))",
+    "CHẤT TẠO XỐP (500(ii), 503(ii))",
+    "CHẤT ỔN ĐỊNH (1442, 415)",
+    "CHẤT ĐIỀU CHỈNH ĐỘ ACID (341(i))",
+    "HƯƠNG LIỆU TỔNG HỢP (VANI)",
+    "CHẤT NHŨ HÓA (322(i), 476)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "160 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "6 g"
+    },
+    {
+      "name": "Natri",
+      "value": "110 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "24 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "12 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "SẢN PHẨM KHÔNG DÙNG CHO NGƯỜI DỊ ỨNG VỚI CÁC THÀNH PHẦN SAU: SỮA, LÚA MÌ, TRỨNG VÀ ĐẬU NÀNH.",
+    "KHÔNG SỬ DỤNG SẢN PHẨM KHI ĐÃ HẾT HẠN HOẶC CÓ DẤU HIỆU MỐC HAY HƯ HỎNG."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "nhuyễn_thể",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "nhuyễn_thể",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": "SẢN XUẤT TẠI CÔNG TY TNHH THỰC PHẨM ORION VINA",
+  "net_weight": null,
+  "mfg_date": "ĐƯỢC IN TRÊN BAO BÌ (NGÀY/THÁNG/NĂM).",
+  "expiry_date": "10 THÁNG KỂ TỪ NGÀY SẢN XUẤT",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

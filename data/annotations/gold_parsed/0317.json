@@ -1,0 +1,112 @@
+{
+  "image_id": "0317",
+  "product_name": "Đậu Hà Lan (65%) vị bò cay",
+  "gold_ingredients_raw": [
+    "Đậu Hà Lan (65%)",
+    "bột mì",
+    "đường",
+    "dầu cọ",
+    "gia vị bò nướng cay 3% (glucose, muối, maltodextrin, chất điều vị (621, 627, 631, 950, 951), ớt bột, đường, bột thịt, cà chua cô đặc, chiết xuất nấm men, bột tỏi, bột tiêu đen, chất điều chỉnh độ acid (330, 364(ii))",
+    "hương liệu tự nhiên (bò)",
+    "bột sữa",
+    "oleoresin capsicum",
+    "bột hồi",
+    "bột quế",
+    "bột đinh hương",
+    "muối i-ốt"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (1451)",
+    "chất điều vị (621, 627, 631, 950, 951)",
+    "chất điều chỉnh độ acid (330, 364(ii))",
+    "hương liệu tự nhiên (bò)",
+    "chất chống đông vón (551)",
+    "chất chống oxy hóa (300, 320, 321)",
+    "hương liệu tự nhiên (nướng)",
+    "chất tạo xốp (500(ii))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "414 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "17 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "57,9 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "12,6 g"
+    },
+    {
+      "name": "Tổng chất béo",
+      "value": "12,7 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "4,7 g"
+    },
+    {
+      "name": "Hàm lượng Natri",
+      "value": "630 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm khi hết hạn.",
+    "Không dùng cho người dị ứng với các thành phần sản phẩm.",
+    "Nhai kỹ trước khi nuốt.",
+    "Lưu ý không dùng cho trẻ em dưới 3 tuổi.",
+    "Sản phẩm được sản xuất tại nhà máy có xử lý các nguyên liệu như đậu phộng, hạt cây, sữa, đậu nành, lúa mì và lúa mì.",
+    "Sản phẩm được sản xuất tại nhà máy có xử lý các nguyên liệu như đậu phộng, hạt cây, sữa, đậu nành, lúa mì và lúa mì."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "sữa",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [
+      "gluten",
+      "sữa"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "expiry_usage": 1,
+      "generic_allergy_reference": 1,
+      "child_supervision": 2,
+      "named_allergy": 2
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "KLT: 70 g",
+  "mfg_date": "181225 E 13109",
+  "expiry_date": "180526",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

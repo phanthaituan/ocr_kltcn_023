@@ -1,0 +1,95 @@
+{
+  "image_id": "0536",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Sữa hoàn toàn từ sữa bò tươi (51%)",
+    "nước",
+    "đường",
+    "vitamin (B6, B12, acid folic)",
+    "khoáng chất (calci carbonat)",
+    "men Streptococcus thermophilus và Lactobacillus bulgaricus"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (440)",
+    "hương liệu tự nhiên (hương dâu - chuối - lúa mạch)",
+    "màu tự nhiên (160b(ii), 120)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "68,4 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,5 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "12 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "11,7 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "1,6 g"
+    },
+    {
+      "name": "Natri",
+      "value": "24 mg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "110 µg"
+    },
+    {
+      "name": "Vitamin B12",
+      "value": "0,16 µg"
+    },
+    {
+      "name": "Acid Folic",
+      "value": "26 µg"
+    },
+    {
+      "name": "Calci",
+      "value": "55 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa sữa.",
+    "Phù hợp cho trẻ từ 2 tuổi trở lên."
+  ],
+  "allergen_final": {
+    "contains": [
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "sữa"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "sữa"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "child_supervision": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam.",
+  "net_weight": null,
+  "mfg_date": "Ngày sản xuất và hạn sử dụng: Xem trên bao bì",
+  "expiry_date": "Ngày sản xuất và hạn sử dụng: Xem trên bao bì",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

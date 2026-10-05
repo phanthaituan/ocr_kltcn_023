@@ -1,0 +1,71 @@
+{
+  "image_id": "0301",
+  "product_name": "SỮA ĐẬU NÀNH GIÀU CANXI NO BRAND",
+  "gold_ingredients_raw": [
+    "Đậu nành nguyên chất 82% (hàm lượng rắn của đậu nành 7%, đậu nành)",
+    "nước tinh khiết",
+    "fructose",
+    "đậu ngọc bích",
+    "bột hộp canxdicarbonat (chất chống đóng vón INS170(i), polysaccharide đậu nành)",
+    "muối tinh luyện",
+    "công thức hỗn hợp Vitamin D3 (Saccarose, chất nhũ hóa INS414, tinh bột bắp, Vitamin D3, Vitamin E, chất chống đông vón INS551)"
+  ],
+  "gold_additives_raw": [
+    "chất chống đóng vón INS170(i)",
+    "chất nhũ hóa INS475",
+    "hương đậu nành tổng hợp",
+    "chất làm đầy INS407",
+    "chất nhũ hóa INS414",
+    "chất chống đông vón INS551"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Giá trị nội dung",
+      "value": "190 mL"
+    },
+    {
+      "name": "115 kcal",
+      "value": "115 kcal"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa đậu nành",
+    "Vui lòng không uống nếu vật chứa bị biến dạng, bị hư hỏng hoặc bên trong đồ bị biến chất.",
+    "Sản phẩm này được sản xuất tại thiết bị sản xuất giống như các sản phẩm sữa, trứng, đậu phộng, mì, đậu, cà chua, quả óc chó, kiều mạch, acid sunfua, hạt thông."
+  ],
+  "allergen_final": {
+    "contains": [
+      "hạt_cây",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "hạt_cây",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Hàn Quốc",
+  "net_weight": "190 ml / hộp",
+  "mfg_date": "7 tháng trước hạn sử dụng",
+  "expiry_date": "Xem trên bao bì (năm.tháng.ngày 까지)",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

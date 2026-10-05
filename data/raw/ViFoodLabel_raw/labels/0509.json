@@ -1,0 +1,62 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Thịt heo",
+    "thịt gà",
+    "đường",
+    "vỏ bọc collagen",
+    "nước",
+    "đạm đậu nành",
+    "đạm chiết xuất từ heo",
+    "rượu nếp",
+    "muối",
+    "rượu Mai Quế Lộ",
+    "tiêu (0,3 %)",
+    "chất xơ từ lúa mì",
+    "dầu cọ olein tinh luyện",
+    "chiết xuất tự nhiên từ đại hồi"
+  ],
+  "additive": [
+    "chất điều chỉnh độ acid (262(i), 325, 260)",
+    "chất nhũ hóa (450(iii), 451(i), 452(i))",
+    "chất điều vị (621)",
+    "hương liệu (giống tự nhiên, tự nhiên)",
+    "phẩm màu tự nhiên (monascus red)",
+    "chất chống oxy hóa (307b)",
+    "phẩm màu tổng hợp (129)",
+    "chất bảo quản (250)"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm hết hạn, hư hỏng hoặc khi dị ứng với bất kì thành phần nào của sản phẩm."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "519 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "16,5 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "23,7 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "22,5 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "39,8 g"
+    },
+    {
+      "name": "Natri",
+      "value": "1002 mg"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": "200 g",
+  "mfg_date": "NSX: 08/03/2026",
+  "expiry_date": "HSD: 08/09/2026"
+}

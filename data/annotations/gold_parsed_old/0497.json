@@ -1,0 +1,72 @@
+{
+  "image_id": "0497",
+  "product_name": "Mứt Sệt Chanh Dây",
+  "gold_ingredients_raw": [
+    "Trái Chanh Dây (22%)",
+    "đường mía",
+    "nước",
+    "muối"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (415, 466, 1422)",
+    "chất điều chỉnh độ acid (330)",
+    "chất bảo quản (202)",
+    "hương liệu chanh dây tổng hợp",
+    "màu thực phẩm tổng hợp (160a(i))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "52 Kcal"
+    },
+    {
+      "name": "Tổng chất béo",
+      "value": "0.03 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0 mg"
+    },
+    {
+      "name": "Natri",
+      "value": "5 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "12.8 g"
+    },
+    {
+      "name": "Tổng đường",
+      "value": "12.3 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0.06 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm khi hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

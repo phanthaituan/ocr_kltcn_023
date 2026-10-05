@@ -1,0 +1,45 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Trái dâu tây 15%",
+    "nước",
+    "đường tinh luyện"
+  ],
+  "additive": [
+    "chất bảo quản Natri benzoate",
+    "màu thực phẩm Ponceau 4R"
+  ],
+  "warning": [
+    "Không dùng khi sản phẩm hết hạn hoặc có dấu hiệu hư hỏng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "110"
+    },
+    {
+      "name": "Béo tổng",
+      "value": "0g"
+    },
+    {
+      "name": "Natri",
+      "value": "90mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "27g"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "23g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "ít hơn 1g"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

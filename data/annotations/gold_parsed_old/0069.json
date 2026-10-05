@@ -1,0 +1,79 @@
+{
+  "image_id": "0069",
+  "product_name": "Kẹo Butter Toffees Collection",
+  "gold_ingredients_raw": [
+    "Sữa nguyên kem (36,9%)",
+    "Xi rô glucose",
+    "Đường",
+    "Dầu thực vật",
+    "Bơ (sữa) (2%)",
+    "Ca cao khối (3,6%)",
+    "Sữa bột tách béo",
+    "Cà phê (1%)"
+  ],
+  "gold_additives_raw": [
+    "Lecithin",
+    "Mono và diglycerid của các acid béo",
+    "Hương liệu nhân tạo: Hương vani",
+    "Tinh dầu bạc hà"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "469 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2.81 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "70.4 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "50.4 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "19.6 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "13.7 g"
+    },
+    {
+      "name": "Natri",
+      "value": "210 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "KHÔNG SỬ DỤNG CHO NGƯỜI BỊ MẪN CẢM VỚI BẤT CỨ THÀNH PHẦN NÀO CỦA SẢN PHẨM."
+  ],
+  "allergen_final": {
+    "contains": [
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "sữa"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "ARGENTINA",
+  "net_weight": null,
+  "mfg_date": "10/07/2025",
+  "expiry_date": "10/01/2027",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

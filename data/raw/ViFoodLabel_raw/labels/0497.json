@@ -1,0 +1,53 @@
+{
+  "product_name": "Mứt Sệt Chanh Dây",
+  "ingredient": [
+    "Trái Chanh Dây (22%)",
+    "đường mía",
+    "nước",
+    "muối"
+  ],
+  "additive": [
+    "chất ổn định (415, 466, 1422)",
+    "chất điều chỉnh độ acid (330)",
+    "chất bảo quản (202)",
+    "hương liệu chanh dây tổng hợp",
+    "màu thực phẩm tổng hợp (160a(i))"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm khi hết hạn sử dụng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "52 Kcal"
+    },
+    {
+      "name": "Tổng chất béo",
+      "value": "0.03 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0 mg"
+    },
+    {
+      "name": "Natri",
+      "value": "5 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "12.8 g"
+    },
+    {
+      "name": "Tổng đường",
+      "value": "12.3 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0.06 g"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì."
+}

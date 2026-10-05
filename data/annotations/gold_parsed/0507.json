@@ -1,0 +1,74 @@
+{
+  "image_id": "0507",
+  "product_name": "Trail Mix Việt quất",
+  "gold_ingredients_raw": [
+    "Hỗn hợp hạt (76,3%) (Hạnh nhân lát, óc chó, hạt điều, bí xanh)",
+    "nam việt quất (3,3%)",
+    "việt quất (2,5%)",
+    "nho vàng",
+    "nho đen"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "550 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "18,4 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "27,4 g"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "20,7 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "39,2 g"
+    },
+    {
+      "name": "Natri",
+      "value": "3,7 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa hạt và có thể chứa đạm lúa mì.",
+    "Không dùng sản phẩm đã hết hạn sử dụng, hoặc có dấu hiệu hư hỏng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "gluten"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [
+      "gluten"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "550 g",
+  "mfg_date": "18/11/2025",
+  "expiry_date": "18/11/2026",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

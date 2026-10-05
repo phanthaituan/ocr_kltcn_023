@@ -1,0 +1,99 @@
+{
+  "image_id": "0216",
+  "product_name": "Sandwich chà bông xốt Mayonnaise cay",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "xốt mayonnaise cay (13,7%) [dầu thực vật (cọ), đường, bơ tươi, bột lòng trắng trứng, muối, bột ớt, bột cốt dừa, dịch nước cốt chanh, chất điều chỉnh độ acid (330, 338), chất điều vị (621), hạt nêm, chất bảo quản (202), hạt điều màu]",
+    "chà bông gà / ruốc gà (3,1 %)",
+    "đường",
+    "dextrose",
+    "dầu thực vật (cọ)",
+    "nước đường mạch ngô",
+    "men",
+    "muối",
+    "cồn thực phẩm",
+    "sữa béo",
+    "gluten"
+  ],
+  "gold_additives_raw": [
+    "chất điều chỉnh độ acid (330, 338)",
+    "chất điều vị (621)",
+    "chất bảo quản (202)",
+    "chất bảo quản (282, 200)",
+    "chất nhũ hóa (471)",
+    "hương liệu tổng hợp (sữa, bơ)",
+    "chất chống oxy hóa (300)",
+    "chất xử lý bột [516, 1100(i)]"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "266 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "6,86 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "36,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "8,55 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "9,88 g"
+    },
+    {
+      "name": "Natri",
+      "value": "287 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "60,0 mg"
+    },
+    {
+      "name": "Xơ dinh dưỡng",
+      "value": "1,95 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Thành phần có chứa bột mì, trứng, sữa, gluten và có thể chứa đậu nành, cá."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "cá",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ]
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "cá",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam.",
+  "net_weight": null,
+  "mfg_date": "In trên bao bì.",
+  "expiry_date": "In trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

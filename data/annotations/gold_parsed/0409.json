@@ -1,0 +1,46 @@
+{
+  "image_id": "0409",
+  "product_name": "THỰC PHẨM BỔ SUNG: NƯỚC ÉP VITAMINKA HỖN HỢP TÁO, CÀ RỐT, ĐÀO",
+  "gold_ingredients_raw": [
+    "Nước ép táo (34%) từ cô đặc",
+    "các loại trái cây nghiền: cà rốt (25%)",
+    "táo (11%)",
+    "đào (10%) từ cô đặc",
+    "nước",
+    "vitamin C 16 mg/ 100 ml 20% RNI và vitamin E 1,8 mg/ 100 ml 15% RNI"
+  ],
+  "gold_additives_raw": [
+    "hương liệu tổng hợp"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Không sử dụng khi sản phẩm đã hết hạn sử dụng",
+    "Sản phẩm có thể có lắng đọng tự nhiên từ trái cây, hoàn toàn không ảnh hưởng chất lượng sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1,
+      "unclassified": 1
+    }
+  },
+  "origin": "Ba Lan",
+  "net_weight": "1 lít/ hộp",
+  "mfg_date": "Trước hạn sử dụng 13 tháng.",
+  "expiry_date": "Đến ngày cuối cùng của tháng hết hạn. Xem trên bao bì sản phẩm (tháng.năm).",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

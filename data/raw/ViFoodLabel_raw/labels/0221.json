@@ -1,0 +1,62 @@
+{
+  "product_name": "BÁNH SOCOLA OREO PIE PHIÊN BẢN RED VELVET (BÁNH NHUNG ĐỎ)",
+  "ingredient": [
+    "Đường",
+    "bột mì",
+    "mạch nha",
+    "dầu thực vật (dầu cọ)",
+    "trứng",
+    "bột cacao (4,2%)",
+    "dextroza",
+    "gelatin",
+    "muối i-ốt"
+  ],
+  "additive": [
+    "chất làm ẩm (422, 420(ii), 420(i))",
+    "chất nhũ hóa (475, 322(i), 471, 492, 1520, 491, 470(i))",
+    "hương liệu tổng hợp",
+    "chất tạo xốp (450(i), 500(ii))",
+    "chất ổn định (1442, 415)",
+    "chất tạo màu tổng hợp (150c, 129)",
+    "chất điều chỉnh độ acid (330)",
+    "chất bảo quản (202)",
+    "chất điều vị (1104)"
+  ],
+  "warning": [
+    "Thông tin dị ứng: Sản phẩm có chứa: lúa mì, trứng, sữa, đậu nành."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "428 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "5 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "60,7 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "35,5 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "18,4 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "13,1 g"
+    },
+    {
+      "name": "Natri",
+      "value": "206 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

@@ -1,0 +1,59 @@
+{
+  "product_name": "BÁNH BÔNG LAN SOLITE PHIÊN BẢN MINNIE VI DÂU",
+  "ingredient": [
+    "Trứng",
+    "bột mì",
+    "đường",
+    "dầu thực vật (dầu nành)",
+    "mạch nha",
+    "sữa bột nguyên chất",
+    "muối"
+  ],
+  "additive": [
+    "chất làm ẩm (422, 420(ii))",
+    "chất nhũ hóa (477, 471, 475, 1520, 322(i), 491, 470(i))",
+    "chất tạo xốp (500(ii), 450(i))",
+    "chất điều chỉnh độ acid (575, 330)",
+    "hương liệu tổng hợp",
+    "chất bảo quản (202)",
+    "chất ổn định (415)",
+    "chất tạo màu tổng hợp (124)"
+  ],
+  "warning": [
+    "Sản phẩm có chứa lúa mì, trứng, sữa, đậu nành."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "399 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "6,9 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "53,7 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "21,7 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "17,4 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "4,3 g"
+    },
+    {
+      "name": "Natri",
+      "value": "265 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

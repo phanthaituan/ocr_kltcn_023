@@ -1,0 +1,104 @@
+{
+  "image_id": "0488",
+  "product_name": "Bánh Socola Pie LOTTE CHOCOLAT",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "hỗn hợp sô cô la 24% (đường, chất béo thực vật, bột cacao, đường dextrose, chất nhũ hóa (322(i), 492, 476))",
+    "mạch nha",
+    "đường",
+    "shortening thực vật (chứa chất nhũ hóa (471), chất chống oxy hóa (307b))",
+    "cồn thực phẩm",
+    "đường dextrose",
+    "sữa gầy",
+    "gelatin",
+    "bột trứng",
+    "muối",
+    "protein sữa"
+  ],
+  "gold_additives_raw": [
+    "chất nhũ hóa (322(i), 492, 476)",
+    "chất nhũ hóa (471)",
+    "chất chống oxy hóa (307b)",
+    "chất làm ẩm (422)",
+    "chất ổn định (1401, 1440)",
+    "chất tạo xốp (500(ii), 503(ii))",
+    "hương liệu (hương vanilla tổng hợp)",
+    "chất nhũ hóa (476)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "123 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,28 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "18,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "9,45 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "4,78 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "2,97 g"
+    },
+    {
+      "name": "Natri",
+      "value": "65,4 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Thông tin dị ứng: Sản phẩm có chứa gluten, trứng, sữa, đậu nành và được sản xuất trên cùng dây chuyền với sản phẩm có chứa đậu phộng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "169,8 g (6 gói x 28,3 g)",
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

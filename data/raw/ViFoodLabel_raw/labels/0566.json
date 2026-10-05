@@ -1,0 +1,45 @@
+{
+  "product_name": "TH true TEA",
+  "ingredient": [
+    "Nước",
+    "trà xanh (6 g/l)",
+    "lương phấn thảo"
+  ],
+  "additive": [
+    "chất chống oxi hóa (300)",
+    "hương liệu tự nhiên",
+    "chất điều chỉnh độ acid (500(ii))",
+    "chất tạo ngọt tự nhiên (960d)"
+  ],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "1,2 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0,1 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "0,2 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "0 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0 g"
+    },
+    {
+      "name": "Natri",
+      "value": "3 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì."
+}

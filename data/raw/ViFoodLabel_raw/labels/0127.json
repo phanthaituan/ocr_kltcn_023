@@ -1,0 +1,69 @@
+{
+  "product_name": "BÁNH CUSTAS TIRAMISU",
+  "ingredient": [
+    "TRỨNG",
+    "BỘT MÌ",
+    "ĐƯỜNG",
+    "DẦU THỰC VẬT",
+    "MẠCH NHA MALTOSE",
+    "ĐƯỜNG NÂU",
+    "CÔN THỰC PHẨM",
+    "BỘT SỮA NGUYÊN KEM",
+    "BỘT KEM SỮA",
+    "MẠCH NHA ISOMALTO OLIGO",
+    "BỘT CACAO",
+    "BỘT PHÔ MAI",
+    "BỘI SỬA GIẤY",
+    "MUỐI",
+    "BỘT WHEY",
+    "BỘT CÀ PHÊ",
+    "MUỐI I-ỐT",
+    "HỖN HỢP BÔT CACAO VÀ BƠ CACAO",
+    "BỘT QUẾ"
+  ],
+  "additive": [
+    "CHẤT BÉO THỰC VẬT",
+    "CHẤT LÀM ẨM (420(ii), 1520, 422)",
+    "CHẤT NHŨ HÓA (477,471,475,322(i),491,473,470(i),476)",
+    "CHẤT ỔN ĐỊNH (170(i),1422,415)",
+    "CHẤT TẠO MÀU TỰ NHIÊN (150a)",
+    "CHẤT TẠO XỐP(575,500(ii))",
+    "HƯƠNG LIỆU TỔNG HỢP (KEM PHÔ MAI, CÀ PHÊ, SỬA CHUA, VANI)",
+    "HƯƠNG LIỆU GIỐNG TỰ NHIÊN (CÀ PHÊ, PHÔ MAI)",
+    "HƯƠNG LIỆU TỰ NHIÊN (KEM)",
+    "CHẤT TẠO MÀU TỔNG HỢP (160a(i))"
+  ],
+  "warning": [
+    "SẢN PHẨM KHÔNG DÀNH CHO NGƯỜI DỊ ỨNG VỚI CÁC THÀNH PHẦN SAU: TRỨNG, LÚA MÌ, SỮA, ĐẬU NÀNH."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "110 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "6 g"
+    },
+    {
+      "name": "Natri",
+      "value": "40 mg"
+    },
+    {
+      "name": "Carhydrat",
+      "value": "12 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "6 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1 g"
+    }
+  ],
+  "origin": "VIỆT NAM.",
+  "net_weight": "281,4 g (12 gói x 23,45 g)",
+  "mfg_date": "ĐƯỢC IN TRÊN BAO BÌ (NGÀY/THÁNG/NĂM).",
+  "expiry_date": "10 THÁNG KỂ TỪ NGÀY SẢN XUẤT."
+}

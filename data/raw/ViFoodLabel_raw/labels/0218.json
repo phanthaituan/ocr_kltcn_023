@@ -1,0 +1,45 @@
+{
+  "product_name": "BÁNH KẸP DỪA ÚT HỒNG VỊ SẦU RIÊNG",
+  "ingredient": [
+    "bột mì",
+    "nước cốt dừa (40%)",
+    "đường cát",
+    "bột gạo",
+    "trứng gà",
+    "sữa",
+    "mè"
+  ],
+  "additive": [
+    "hương vani tổng hợp",
+    "hương sầu riêng tổng hợp"
+  ],
+  "warning": [
+    "Sản phẩm có chứa thành phần bột mì (gluten), có thể gây dị ứng cho người mẫn cảm tới thành phần trên."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "470 Kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2,8 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "16 g"
+    },
+    {
+      "name": "Carbonhydrate",
+      "value": "68 g"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "23 g"
+    }
+  ],
+  "origin": "Việt Nam.",
+  "net_weight": "180 g",
+  "mfg_date": "07 -04- 2026",
+  "expiry_date": "6 tháng kể từ NSX"
+}

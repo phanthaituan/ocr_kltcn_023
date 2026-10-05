@@ -1,0 +1,73 @@
+{
+  "image_id": "0042",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Nước dừa tươi (93%)",
+    "đường",
+    "nước tắc (1,6%)"
+  ],
+  "gold_additives_raw": [
+    "hương liệu tự nhiên",
+    "chất điều chỉnh độ acid (332(i), 330)",
+    "chất chống oxy hóa (300)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "36 kcal"
+    },
+    {
+      "name": "CARBOHYDRAT",
+      "value": "9 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ",
+      "value": "6,6 g"
+    },
+    {
+      "name": "ĐƯỜNG BỔ SUNG THÊM",
+      "value": "5,5 g"
+    },
+    {
+      "name": "CHẤT ĐẠM",
+      "value": "<0,5 g"
+    },
+    {
+      "name": "CHẤT BÉO",
+      "value": "<0,5 g"
+    },
+    {
+      "name": "NATRI",
+      "value": "15 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Thành phần nước dừa có thể bị lắng, nhưng chất lượng sản phẩm không thay đổi."
+  ],
+  "allergen_final": {
+    "contains": [
+      "dừa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "dừa"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "12 tháng trước HSD.",
+  "expiry_date": "Xem trên hộp.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

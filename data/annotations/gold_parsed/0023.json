@@ -1,0 +1,88 @@
+{
+  "image_id": "0023",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "gói rau: Rau sấy (hành lá, đậu bắp, cà rốt)",
+    "giả thịt (từ đậu nành)",
+    "hỗn hợp protein sấy vị tôm (140 g/kg)."
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Giá trị năng lượng",
+      "value": "375,7 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "13,51 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "7,44 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "55,29 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "7,09 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "3,86 g"
+    },
+    {
+      "name": "Natri",
+      "value": "2167 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa: trứng, gluten lúa mì, đậu nành, cá, tôm, cua.",
+    "Không sử dụng sản phẩm quá hạn hoặc bao bì không còn nguyên vẹn."
+  ],
+  "allergen_final": {
+    "contains": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "trứng",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "VIỆT NAM",
+  "net_weight": "85 g",
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

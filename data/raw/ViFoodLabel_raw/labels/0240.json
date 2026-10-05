@@ -1,0 +1,49 @@
+{
+  "product_name": "CHIN-SU",
+  "ingredient": [
+    "Nước",
+    "đường",
+    "cà chua dạng sệt 158 g/kg",
+    "muối",
+    "bột hành tây"
+  ],
+  "additive": [
+    "chất ổn định (1422, 415)",
+    "chất điều chỉnh độ acid (260, 330)",
+    "chất bảo quản (202)",
+    "hương liệu giống tự nhiên",
+    "chất chống oxy hóa (223)",
+    "chất điều vị (635)",
+    "chất tạo ngọt (960a) tự nhiên",
+    "chất tạo màu (129) tổng hợp"
+  ],
+  "warning": [
+    "Kiểm tra ngày sản xuất và hạn sử dụng trước khi dùng."
+  ],
+  "nutrition": [
+    {
+      "name": "Chất đạm",
+      "value": "1,1 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "23 g"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "94,4 kcal"
+    },
+    {
+      "name": "Natri",
+      "value": "1144 mg"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "19,6 g"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": "xem trên bao bì",
+  "expiry_date": "09 tháng kể từ ngày sản xuất"
+}

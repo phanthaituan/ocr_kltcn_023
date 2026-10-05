@@ -1,0 +1,59 @@
+{
+  "product_name": "Nước dùng hoàn chỉnh Lẩu Thái",
+  "ingredient": [
+    "Nước hầm xương gà 60%",
+    "chiết xuất rau củ quả tươi 18% (sả, riềng, ớt, lá chanh, hành tây, gừng)",
+    "muối i-ốt",
+    "đường",
+    "cà chua dạng sệt",
+    "bột gia vị chanh",
+    "dầu cọ",
+    "nước mắm",
+    "oleoresin capsicum"
+  ],
+  "additive": [
+    "chất điều vị (621, 631, 627, 951, 640)",
+    "chất điều chỉnh độ acid (330, 296)",
+    "chất ổn định (415)",
+    "chất chống oxy hóa (307b, 304)",
+    "màu tự nhiên (paprika oleoresin)"
+  ],
+  "warning": [
+    "Dùng 1 lần sau khi mở bao bì.",
+    "Sản phẩm có chứa nguyên liệu có nguồn gốc từ cá."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "193(Kcal)"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "16,5 (g)"
+    },
+    {
+      "name": "Chất béo",
+      "value": "10,4 (g)"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "6,6 (g)"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "13,5 (g)"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "4,6 (g)"
+    },
+    {
+      "name": "Natri",
+      "value": "5843,3 (mg)"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": "11.05.26",
+  "expiry_date": "11.05.27"
+}

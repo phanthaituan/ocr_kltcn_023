@@ -1,0 +1,47 @@
+{
+  "image_id": "0561",
+  "product_name": "RONG BIỂN HÀN QUỐC",
+  "gold_ingredients_raw": [
+    "Rong biển Hàn Quốc 100%"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng (kcal)",
+      "value": "157,2 - 235,8"
+    },
+    {
+      "name": "Chất đạm (g)",
+      "value": "16,72 - 25,08"
+    },
+    {
+      "name": "Carbohydrat (g)",
+      "value": "≤ 6"
+    },
+    {
+      "name": "Chất béo (g)",
+      "value": "≤ 6"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

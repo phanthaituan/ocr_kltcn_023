@@ -1,0 +1,49 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước",
+    "đường",
+    "trà ô long (4 g/l)",
+    "lương phấn thảo",
+    "muối"
+  ],
+  "additive": [
+    "hương liệu tự nhiên",
+    "chất điều chỉnh độ acid (330)"
+  ],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "29,2 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "7,3 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "7,2 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0 g"
+    },
+    {
+      "name": "Natri",
+      "value": "7 mg"
+    },
+    {
+      "name": "Polyphenol",
+      "value": "≥ 5 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

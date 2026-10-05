@@ -1,0 +1,60 @@
+{
+  "image_id": "0331",
+  "product_name": "Bánh ăn dặm Bắp Ngọt",
+  "gold_ingredients_raw": [],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng (kcal)",
+      "value": "380"
+    },
+    {
+      "name": "Chất đạm (g)",
+      "value": "8.24"
+    },
+    {
+      "name": "Chất béo (g)",
+      "value": "1.14"
+    },
+    {
+      "name": "Chất xơ (g)",
+      "value": "0.99"
+    },
+    {
+      "name": "Carbohydrate (g)",
+      "value": "84.2"
+    },
+    {
+      "name": "Natri (mg)",
+      "value": "1.91"
+    },
+    {
+      "name": "Calci (mg)",
+      "value": "50.3"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": false,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

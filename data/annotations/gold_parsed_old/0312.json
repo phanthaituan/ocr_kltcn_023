@@ -1,0 +1,79 @@
+{
+  "image_id": "0312",
+  "product_name": "SNACK MÌ HƯƠNG GÀ - CHICKEN FLAVOUR (GEMELZ ENAAK EXTRA)",
+  "gold_ingredients_raw": [
+    "Bột mì (48,5%)",
+    "dầu thực vật (dầu cọ)",
+    "bột khoai mì",
+    "bột khoai tây",
+    "bột hành tây",
+    "bột tỏi",
+    "nước tương [nước, muối, đậu nành, bột mì, đường, chất điều vị (621, 631, 627), chất bảo quản (211)]",
+    "bột chiết xuất gà (1,58 %)",
+    "muối"
+  ],
+  "gold_additives_raw": [
+    "chất điều vị (621, 631, 627)",
+    "chất bảo quản (211)",
+    "chất điều vị (621)",
+    "chất tạo ngọt tổng hợp (955)",
+    "chất điều chỉnh độ acid (500(i), 452(i))",
+    "chất ổn định (412)",
+    "chất tạo ngọt tổng hợp (955)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng (Energy)",
+      "value": "492 kcal"
+    },
+    {
+      "name": "Chất đạm (Protein)",
+      "value": "8,99 g"
+    },
+    {
+      "name": "Carbohydrat (Carbohydrate)",
+      "value": "66,3 g"
+    },
+    {
+      "name": "Đường tổng số (Total Sugars)",
+      "value": "4,04 g"
+    },
+    {
+      "name": "Chất béo (Fat)",
+      "value": "21,2 g"
+    },
+    {
+      "name": "Chất béo bão hòa (Saturated Fat)",
+      "value": "9,08 g"
+    },
+    {
+      "name": "Natri (Sodium)",
+      "value": "591 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm có dấu hiệu hư hỏng hoặc hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Indonesia",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

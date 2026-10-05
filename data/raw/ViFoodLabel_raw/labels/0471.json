@@ -1,0 +1,56 @@
+{
+  "product_name": "SỮA TƯƠI THANH TRÙNG",
+  "ingredient": [
+    "100% sữa bò tươi"
+  ],
+  "additive": [],
+  "warning": [
+    "Không dùng sản phẩm hết hạn sử dụng hoặc bị hư"
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "69 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3,4 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "4,47 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "4,46 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "4,14 g"
+    },
+    {
+      "name": "Natri",
+      "value": "40 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "118 mg"
+    },
+    {
+      "name": "Kali",
+      "value": "162 mg"
+    },
+    {
+      "name": "Acid béo không bão hòa",
+      "value": "1,37 g"
+    },
+    {
+      "name": "Lactose",
+      "value": "4,46 g"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì."
+}

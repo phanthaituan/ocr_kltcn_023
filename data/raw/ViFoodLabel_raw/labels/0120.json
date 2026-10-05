@@ -1,0 +1,51 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Sữa tươi (97,7%)",
+    "đường (2,1%)"
+  ],
+  "additive": [
+    "chất ổn định (471, 407, 412)"
+  ],
+  "warning": [
+    "Không dùng cho trẻ dưới 1 tuổi."
+  ],
+  "nutrition": [
+    {
+      "name": "NĂNG LƯỢNG/ENERGY",
+      "value": "71 kcal"
+    },
+    {
+      "name": "CHẤT BÉO/TOTAL FAT",
+      "value": "3,8 g"
+    },
+    {
+      "name": "CHẤT ĐẠM/PROTEIN",
+      "value": "3,0 g"
+    },
+    {
+      "name": "CARBOHYDRAT/CARBOHYDRATE",
+      "value": "6,2 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ/TOTAL SUGARS",
+      "value": "6,2 g"
+    },
+    {
+      "name": "NATRI/SODIUM",
+      "value": "38 mg"
+    },
+    {
+      "name": "CALCI/CALCIUM",
+      "value": "110 mg"
+    },
+    {
+      "name": "PHOSPHO/PHOSPHORUS",
+      "value": "80 mg"
+    }
+  ],
+  "origin": "Việt Nam.",
+  "net_weight": null,
+  "mfg_date": "08 tháng trước HSD.",
+  "expiry_date": "Xem trên hộp"
+}

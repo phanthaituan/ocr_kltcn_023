@@ -1,0 +1,46 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước",
+    "đường",
+    "trà xanh (1,87 g/l)",
+    "ổi puree (1 g/l)",
+    "trà đen (0,9 g/l)",
+    "muối"
+  ],
+  "additive": [
+    "chất điều chỉnh độ acid (330, 331(iii))",
+    "hương liệu tự nhiên"
+  ],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "34,4 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "8,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "8,6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0 g"
+    },
+    {
+      "name": "Natri",
+      "value": "10 mg"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

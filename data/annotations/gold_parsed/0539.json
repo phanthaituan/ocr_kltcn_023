@@ -1,0 +1,44 @@
+{
+  "image_id": "0539",
+  "product_name": "Kẹo FRUTAL",
+  "gold_ingredients_raw": [
+    "Xi rô glucose",
+    "đường",
+    "trái cây nghiền",
+    "dầu hướng dương"
+  ],
+  "gold_additives_raw": [
+    "Chất điều chỉnh độ acid: Acid citric - INS 330",
+    "Phẩm màu nhân tạo: Allura Red AC - INS 129, Tartrazin - INS 102, Sunset Yellow FCF - INS 110",
+    "Hương liệu nhân tạo"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "KHÔNG SỬ DỤNG CHO NGƯỜI BỊ MẪN CẢM VỚI BẤT CỨ THÀNH PHẦN NÀO CỦA SẢN PHẨM."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

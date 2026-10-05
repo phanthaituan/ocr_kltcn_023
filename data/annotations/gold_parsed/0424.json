@@ -1,0 +1,88 @@
+{
+  "image_id": "0424",
+  "product_name": "OMACHI QUÁN XÁ CHÂU Á - MÌ BÒ",
+  "gold_ingredients_raw": [
+    "Vắt mì: Bột mì, chất làm dày (1420, 412), tinh bột khoai tây, bột gluten lúa mì, muối, dầu hướng dương, chất nhũ hóa (322(i)), bột tỏi, chất điều vị (621), bột nghệ, chất ổn định (401), chất điều chỉnh độ acid (500(ii)), chất làm ẩm (452(i)), chất tạo màu (164) tự nhiên, chất chống oxy hóa (320, 321)",
+    "Súp: Viên súp bò sấy thăng hoa 157,8 g/kg, dầu cọ, mỡ bò tinh chế 24,3 g/kg, hành tím, tỏi tây, tinh cốt thịt bò 15,5 g/kg, chất điều vị (621, 635), tương hột, tương hột ớt, nước tương, bột thịt bò hầm 11 g/kg, nước cốt xương thịt gà, bò, chiết xuất nấm men, nước cốt bò 7,2 g/kg, xirô fructose-glucose, gừng, đường, gia vị lên men rau nấm, muối, cốt bò gia vị 2,2 g/kg, bột ớt, bột tiêu, chất tạo màu ((150a) tự nhiên, (150d) tổng hợp), bột hồi, bột quế, hương liệu tổng hợp, chất chống oxy hóa (320, 321)"
+  ],
+  "gold_additives_raw": [
+    "Chất làm dày (1420, 412)",
+    "Chất nhũ hóa (322(i))",
+    "Chất điều vị (621)",
+    "Chất ổn định (401)",
+    "Chất điều chỉnh độ acid (500(ii))",
+    "Chất làm ẩm (452(i))",
+    "Chất tạo màu (164) tự nhiên",
+    "Chất chống oxy hóa (320, 321)",
+    "Chất điều vị (621, 635)",
+    "Chất tạo màu ((150a) tự nhiên, (150d) tổng hợp)",
+    "Hương liệu tổng hợp"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "344,0 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "11,8 g"
+    },
+    {
+      "name": "Natri",
+      "value": "1775 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "55,3 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "3,2 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "8,4 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "3,3 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm chứa các nguyên liệu có nguồn gốc từ lúa mì, đậu nành."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": "95 g",
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "06 tháng kể từ ngày sản xuất.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "image_id": "0277",
+  "product_name": "BÁNH QUẾ PHÔ MAI NO BRAND",
+  "gold_ingredients_raw": [
+    "Đường",
+    "bột mì",
+    "dầu cọ",
+    "bột sữa (sữa bột nguyên kem, chất chống sữa)",
+    "gia vị phô mai",
+    "các thành phần từ sữa (váng sữa, sữa tách béo, kem, dầu bơ)",
+    "bột phô mai 0.54%",
+    "muối tinh",
+    "bột dừa",
+    "sắc tố nghệ",
+    "gia vị (bột bơ, chất xử lý bột INS1400, bột kem, tinh bột ngô)",
+    "đạm đậu nành thủy phân",
+    "chất xơ từ lúa mì"
+  ],
+  "gold_additives_raw": [
+    "chất chống oxy hoá (INS307a, INS307b, Lascorbil palmitate)",
+    "chất nhũ hoá (INS322(i), INS475)",
+    "chất điều vị INS621",
+    "chất chống đông vón INS551",
+    "chất tạo màu tự nhiên INS160c(i)",
+    "chất xử lý bột INS1400",
+    "chất nhũ hoá (INS322(i), INS491, INS473)",
+    "hương liệu phô mai tổng hợp",
+    "chất tạo màu tổng hợp INS160a(i)"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa sữa, đậu nành, lúa mì."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "In-đô-nê-xi-a",
+  "net_weight": "115 g / hộp",
+  "mfg_date": "12 tháng trước hạn sử dụng",
+  "expiry_date": "xem trên bao bì (EXP: năm/ tháng/ ngày)",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

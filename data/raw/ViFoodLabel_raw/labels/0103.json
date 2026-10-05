@@ -1,0 +1,61 @@
+{
+  "product_name": "MÌ TÔM CHUA CAY Đặc Biệt",
+  "ingredient": [
+  "Vắt mì: Bột mì (66%), dầu thực vật, tinh bột khoai mì, muối, đường, chất điều vị (621, 631, 627), chất làm dày (405, 412, 466), chất ổn định (451(i), 500(ii), 501(i)), chất chống oxy hóa (321), phẩm màu tự nhiên (100(i))",
+  "Gói nước cốt tôm & thịt: Nước, muối, chất điều vị (621, 627, 631, 364(ii), 640), bột tôm (80 g/kg), dầu thực vật, đường, chất điều chỉnh độ acid (330), bột kem thực vật, bột ớt (1,0%), hương liệu giống tự nhiên (hương hải sản, hương rau, hương chanh), chiết xuất nấm men, chất ổn định (1442, 415), hỗn hợp hầm (4,0 g/kg), bột cà chua, phẩm màu tự nhiên (160c(i)), phẩm màu tổng hợp (150d), chất tạo ngọt tổng hợp (951), chất bảo quản (211, 202)",
+  "Gói rau: Cà rốt sấy, bắp hạt sấy, đạm đậu nành, hành lá sấy"
+],
+  "additive": [
+  "chất điều vị (621, 631, 627)",
+  "chất làm dày (405, 412, 466)",
+  "chất ổn định (451(i), 500(ii), 501(i))",
+  "chất chống oxy hóa (321)",
+  "phẩm màu tự nhiên (100(i))",
+  "chất điều vị (621, 627, 631, 364(ii), 640)",
+  "chất điều chỉnh độ acid (330)",
+  "hương liệu giống tự nhiên (hương hải sản, hương rau, hương chanh)",
+  "chất ổn định (1442, 415)",
+  "phẩm màu tự nhiên (160c(i))",
+  "phẩm màu tổng hợp (150d)",
+  "chất tạo ngọt tổng hợp (951)",
+  "chất bảo quản (211, 202)"
+],
+  "warning": [
+    "Sản phẩm có chứa các nguyên liệu có nguồn gốc từ lúa mì, giáp xác, đậu nành, sữa.",
+    "Không sử dụng sản phẩm hết hạn sử dụng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "388 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "9,7 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "62,0 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "3,4 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "11,0 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "5,5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "2270 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì."
+}

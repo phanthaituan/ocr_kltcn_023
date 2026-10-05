@@ -1,0 +1,59 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Khoai tây 61,5%",
+    "dầu thực vật",
+    "gói gia vị Biển Nori 7% (maltodextrin, đường, chất điều vị 621, 635)",
+    "muối I-ốt",
+    "tảo biển 0,7%",
+    "bột nước tương",
+    "tôm",
+    "tỏi",
+    "gừng"
+  ],
+  "additive": [
+    "chất điều vị 621, 635",
+    "hương liệu giống tự nhiên",
+    "chất chống đông vón 551",
+    "chất tạo ngọt tổng hợp 951",
+    "chất khí đóng gói 941"
+  ],
+  "warning": [
+    "Sản phẩm có chứa nguyên liệu từ đậu nành và tôm.",
+    "Không phù hợp với người dị ứng chất tạo ngọt."
+  ],
+  "nutrition":[
+  {
+    "name": "Năng lượng",
+    "value": "160 kcal"
+  },
+  {
+    "name": "Chất đạm",
+    "value": "2 g"
+  },
+  {
+    "name": "Carbohydrat",
+    "value": "18 g"
+  },
+  {
+    "name": "Đường tổng số",
+    "value": "2 g"
+  },
+  {
+    "name": "Chất béo",
+    "value": "9 g"
+  },
+  {
+    "name": "Chất béo bão hòa",
+    "value": "4 g"
+  },
+  {
+    "name": "Natri",
+    "value": "125 mg"
+  }
+],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": "6 tháng kể từ ngày sản xuất"
+}

@@ -1,0 +1,58 @@
+{
+  "image_id": "0487",
+  "product_name": "VPMILK NUTRI MALT",
+  "gold_ingredients_raw": [
+    "Sữa 50% (nước, sữa bột, chất béo sữa)",
+    "nước",
+    "đường",
+    "chiết xuất từ mầm lúa mạch 1,5%",
+    "dầu thực vật",
+    "bột ca cao 0,4%",
+    "hỗn hợp vitamin và khoáng chất (E, C, B3, B5, B1, B6, A, B2, B9, K1; biotin, D3, kali clorid, sắt (III) pyrophosphat, kẽm oxyd, natri selenit, kali iodid, mangan sulfat)"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (460(i), 407, 466)",
+    "chất nhũ hóa (471)",
+    "hương liệu (tổng hợp, giống tự nhiên) dùng cho thực phẩm",
+    "chất tạo ngọt tổng hợp (950, 955)"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa sữa và gluten.",
+    "Không dùng cho trẻ dưới 1 tuổi.",
+    "Không sử dụng cho người dị ứng với các thành phần của sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "sữa"
+    ],
+    "inferred_from_ingredient_additive": [
+      "gluten",
+      "sữa"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "child_supervision": 1,
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam.",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

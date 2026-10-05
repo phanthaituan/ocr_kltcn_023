@@ -1,0 +1,56 @@
+{
+  "product_name": "SANCHI",
+  "ingredient": [
+    "Đậu phộng (52%)",
+    "bột mì",
+    "đường",
+    "bột gia vị tôm tái chanh (5,8%)",
+    "dầu olein tinh luyện",
+    "non dairy creamer",
+    "muối",
+    "bột năng"
+  ],
+  "additive": [
+    "chất ổn định (INS 1440)",
+    "chất làm dày (INS 500(ii), INS 414)",
+    "hương liệu tổng hợp (hương Tôm Yum)"
+  ],
+  "warning": [
+    "Sản phẩm có chứa đậu phộng, bột mì, sữa.",
+    "Sử dụng sản phẩm trước hạn sử dụng, không sử dụng khi bao bì không còn nguyên vẹn."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng (kcal)",
+      "value": "397 ÷ 595"
+    },
+    {
+      "name": "Chất béo (g)",
+      "value": "19,9 ÷ 29,8"
+    },
+    {
+      "name": "Carbohydrate (g)",
+      "value": "43,4 ÷ 65,1"
+    },
+    {
+      "name": "Protein (g)",
+      "value": "11 ÷ 16,6"
+    },
+    {
+      "name": "Chất béo bão hòa (g)",
+      "value": "5 ÷ 7,5"
+    },
+    {
+      "name": "Natri (mg)",
+      "value": "531 ÷ 796"
+    },
+    {
+      "name": "Đường tổng số (g)",
+      "value": "12,2 ÷ 18,3"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "55 g",
+  "mfg_date": "26/11/25",
+  "expiry_date": "26/08/26"
+}

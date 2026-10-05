@@ -1,0 +1,48 @@
+{
+  "image_id": "0239",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "PROTOMALT® 32% (chiết xuất từ lúa mạch)",
+    "đường",
+    "sữa bột tách kem 15 %",
+    "cacao",
+    "dầu thực vật",
+    "bột whey (từ sữa)",
+    "các khoáng chất (dicalci phosphat, dinatri phosphat, sắt pyrophosphat)",
+    "các vitamin (C, B3, B6, B2, D, B12)",
+    "muối i-ốt"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Không sử dụng cho người dị ứng với các thành phần của sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "gluten",
+      "sữa"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "product_name": "Peelerz Cummy mango",
+  "ingredient": [
+    "Glucose Syrup",
+    "Sugar",
+    "Water",
+    "Concentrated Mango Juice",
+    "Concentrated Apple Juice",
+    "Gelatin",
+    "Trehalose",
+    "Palm oil"
+  ],
+  "additive": [
+    "Humectant E422(Glycerol)",
+    "Acidity Regulators E330 (Citric Acid)",
+    "Thickener E440 (Pectin)",
+    "Artificial flavour (Mango flavor)",
+    "Acidity Regulators E296 (Malic Acid)",
+    "Acidity Regulators E331(iii)(Sodium Citrate)",
+    "Maltitol",
+    "Glazing Agent E903(Carnauba Wax)",
+    "Thickener E406 (Agar)",
+    "Acidity Regulators E452i (Sodium Polyphosphate)",
+    "Artificial colors: E171 Titanium Dioxide, E102 Tartrazine, E110 Sunset Yellow"
+  ],
+  "warning": [
+    "Allergen Information: may contain milk, soy and sulphites.",
+    "WARNING: Choking Hazard."
+  ],
+  "nutrition": [
+    {
+      "name": "Calories",
+      "value": "92kcal"
+    },
+    {
+      "name": "Calories from Fat",
+      "value": "0kcal"
+    },
+    {
+      "name": "Total Fat",
+      "value": "0g"
+    },
+    {
+      "name": "Saturated fat",
+      "value": "0g"
+    },
+    {
+      "name": "Trans Fat",
+      "value": "0g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0mg"
+    },
+    {
+      "name": "Sodium",
+      "value": "9mg"
+    },
+    {
+      "name": "Total Carbohydrates",
+      "value": "22g"
+    },
+    {
+      "name": "Dietary Fiber",
+      "value": "0g"
+    },
+    {
+      "name": "Sugar",
+      "value": "16g"
+    },
+    {
+      "name": "Total Protein",
+      "value": "1g"
+    }
+  ],
+  "origin": "PRODUCED IN P.R.C.",
+  "net_weight": null,
+  "mfg_date": "23/11/2025",
+  "expiry_date": "22/05/2027"
+}

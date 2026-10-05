@@ -1,0 +1,57 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Sữa dừa (85%)",
+    "nước dừa (10%)",
+    "đường",
+    "bột ca cao (1%)"
+  ],
+  "additive": [
+    "maltodextrin"
+  ],
+  "warning": [
+    "Không dùng cho trẻ dưới 1 tuổi."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "60 kcal"
+    },
+    {
+      "name": "Chất béo/Total Fat",
+      "value": "2,88 g"
+    },
+    {
+      "name": "Chất béo chuyển hóa/Trans fat",
+      "value": "0 g"
+    },
+    {
+      "name": "Chất béo bão hòa/Saturated fat",
+      "value": "2,425 g"
+    },
+    {
+      "name": "Chất đạm/Protein",
+      "value": "0,45 g"
+    },
+    {
+      "name": "Carbohydrat/Carbohydrate",
+      "value": "8,5 g"
+    },
+    {
+      "name": "Đường tổng số/Total Sugars",
+      "value": "8 g"
+    },
+    {
+      "name": "Natri/Sodium",
+      "value": "7,9 mg"
+    },
+    {
+      "name": "Acid lauric",
+      "value": "1,16 g"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": "Xem trên hộp"
+}

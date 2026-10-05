@@ -1,0 +1,43 @@
+{
+  "image_id": "0340",
+  "product_name": "TRÀ XANH LATTE",
+  "gold_ingredients_raw": [
+    "Bột kem thực vật (sữa, đậu nành, sữa tách béo)",
+    "đường trắng",
+    "trà xanh 6%",
+    "muối",
+    "dextrin"
+  ],
+  "gold_additives_raw": [
+    "Silic dioxide (INS 551)",
+    "Glycine (INS 640)",
+    "Trisodium citrate (INS 331(iii))",
+    "hương liệu tổng hợp"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm khi đã hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Hàn Quốc",
+  "net_weight": "130g( 13g X 10 gói)",
+  "mfg_date": "2025/08/18.",
+  "expiry_date": "2027/08/17 (in trên bao bì sản phẩm, định dạng: năm/tháng/ngày).",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

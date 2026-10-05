@@ -1,0 +1,48 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Đường (47,2%)",
+    "sữa (nước, sữa bột, sữa tươi chuẩn hóa)",
+    "dầu thực vật",
+    "whey bột",
+    "lactoza",
+    "maltodextrin"
+  ],
+  "additive": [
+    "chất nhũ hóa (322(i), 460(i), 401, 466)"
+  ],
+  "warning": [
+    "Có chứa sữa, lecithin đậu nành.",
+    "Không dùng cho người dị ứng với các thành phần của sản phẩm."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "334 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2,7 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "10,8 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "56,7 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "54,9 g"
+    },
+    {
+      "name": "Natri",
+      "value": "38,2 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": "12 tháng trước HSD",
+  "expiry_date": "Xem trên hộp."
+}

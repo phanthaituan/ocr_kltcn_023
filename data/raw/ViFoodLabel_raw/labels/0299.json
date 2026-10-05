@@ -1,0 +1,48 @@
+{
+  "product_name": "TH true FOOD CHÁO TƯƠI SƯỜN TỔ YẾN",
+  "ingredient": [
+    "Nước hầm xương (nước, xương heo)",
+    "đậu xanh",
+    "gạo (6,4%) (Japonica, nếp cái hoa vàng)",
+    "thịt sườn heo (1,76%)",
+    "dầu hướng dương",
+    "nước mắm",
+    "hành tím",
+    "tổ yến (0,18%)",
+    "muối",
+    "tiêu đen"
+  ],
+  "additive": [
+    "chất điều vị (621)"
+  ],
+  "warning": [
+    "Không sử dụng khi sản phẩm có dấu hiệu hư hỏng, hết hạn sử dụng hoặc khi bị dị ứng với các thành phần của sản phẩm.",
+    "Sản phẩm có thể chứa miếng sụn heo."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "151,8 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "11,8 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "18,5 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "3,4 g"
+    },
+    {
+      "name": "Natri",
+      "value": "624 mg"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam / Made in Vietnam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì",
+  "expiry_date": "Xem trên bao bì"
+}

@@ -1,0 +1,44 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước ép nho (99,9%) (nước, nước ép nho cô đặc (24,8%))"
+  ],
+  "additive": [
+    "hương liệu giống tự nhiên dùng cho thực phẩm"
+  ],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "NĂNG LƯỢNG/ ENERGY",
+      "value": "66 kcal"
+    },
+    {
+      "name": "CARBOHYDRAT/ CARBOHYDRATE",
+      "value": "16,5 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ/ TOTAL SUGARS",
+      "value": "12 g"
+    },
+    {
+      "name": "ĐƯỜNG BỔ SUNG THÊM/ SUGARS ADDED",
+      "value": "0 g"
+    },
+    {
+      "name": "CHẤT ĐẠM/ PROTEIN",
+      "value": "<0,5 g"
+    },
+    {
+      "name": "CHẤT BÉO/ TOTAL FAT",
+      "value": "<0,5 g"
+    },
+    {
+      "name": "NATRI/ SODIUM",
+      "value": "1,7 mg"
+    }
+  ],
+  "origin": "Made in Vietnam",
+  "net_weight": null,
+  "mfg_date": "06 tháng trước HSD",
+  "expiry_date": "Xem trên hộp"
+}

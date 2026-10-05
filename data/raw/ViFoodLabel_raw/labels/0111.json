@@ -1,0 +1,40 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Gạo",
+    "nước",
+    "muối"
+  ],
+  "additive": [
+    "chất bảo quản E211"
+  ],
+  "warning": [
+    "Không dùng sản phẩm hư hỏng hoặc hết hạn sử dụng"
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng (Energy)",
+      "value": "100 - 160 kcal"
+    },
+    {
+      "name": "Chất đạm (Protein)",
+      "value": "2.3 - 2.9 g"
+    },
+    {
+      "name": "Chất bột đường (Carbohydrate)",
+      "value": "30.3 - 33.3 g"
+    },
+    {
+      "name": "Chất béo (Fat)",
+      "value": "< 0.6 g"
+    },
+    {
+      "name": "Natri (Sodium)",
+      "value": "256 - 306 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì",
+  "expiry_date": "Xem trên bao bì"
+}

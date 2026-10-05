@@ -1,0 +1,40 @@
+{
+  "product_name": null,
+  "ingredient": [],
+  "additive": [],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "289,8 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "6,9 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "38,1 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "4,3 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "12,2 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "5,6 g"
+    },
+    {
+      "name": "Natri",
+      "value": "1725 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "xem trên bao bì",
+  "expiry_date": "06 tháng kể từ ngày sản xuất"
+}

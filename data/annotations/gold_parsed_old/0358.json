@@ -1,0 +1,69 @@
+{
+  "image_id": "0358",
+  "product_name": "KOMBUCHA CÓ GẠ VỊ CHANH NO BRAND",
+  "gold_ingredients_raw": [
+    "Nước tinh khiết",
+    "men Kombucha 31,73% (nước tinh khiết, đường, trà đen, cao lương, nuôi cấy cộng sinh của vi khuẩn và nấm men Scoby)",
+    "nước chanh 1,65% (thành phần pha trộn: 100% chanh)",
+    "đường"
+  ],
+  "gold_additives_raw": [
+    "Chất tạo khí carbonic(INS 290)",
+    "chất tạo ngọt nhân tạo(INS 955)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "16 Kcal"
+    },
+    {
+      "name": "Natri",
+      "value": "30 mg"
+    },
+    {
+      "name": "carbohydrat",
+      "value": "4 g"
+    },
+    {
+      "name": "đường tổng số",
+      "value": "4 g"
+    },
+    {
+      "name": "chất béo",
+      "value": "0 g"
+    },
+    {
+      "name": "chất béo bão hòa",
+      "value": "0 g"
+    },
+    {
+      "name": "chất đạm",
+      "value": "0 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm đã hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Đài Loan",
+  "net_weight": "420 ml / chai",
+  "mfg_date": "18 tháng trước hạn sử dụng",
+  "expiry_date": "Xem trên bao bì sản phẩm. (năm.tháng.ngày)",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

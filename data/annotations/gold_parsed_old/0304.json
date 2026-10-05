@@ -1,0 +1,68 @@
+{
+  "image_id": "0304",
+  "product_name": "COOP Select Trà Hoà Tan Vị Vải Hạt Chia",
+  "gold_ingredients_raw": [
+    "Đường kính",
+    "Đường Dextrose",
+    "bột quả Đào (0,1%)",
+    "bột trà (0,1%)"
+  ],
+  "gold_additives_raw": [
+    "chất điều chỉnh độ acid (INS 330, INS 331(iii))",
+    "màu thực phẩm tổng hợp (INS 150d)",
+    "hương liệu tổng hợp: Hương Đào",
+    "chất chống đông vón (INS 551)",
+    "chất tạo ngọt tổng hợp (INS 950, INS 955)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Calories/ Năng lượng",
+      "value": "58,95 Kcal"
+    },
+    {
+      "name": "Carbohydrate/Carbohydrat",
+      "value": "14,5 g"
+    },
+    {
+      "name": "Total Sugars/Đường tổng số",
+      "value": "14,3 g"
+    },
+    {
+      "name": "Protein/Chất đạm",
+      "value": "0 g"
+    },
+    {
+      "name": "Total Fat/ Chất béo tổng số",
+      "value": "0,08 g"
+    },
+    {
+      "name": "Natri/Sodium",
+      "value": "33,6 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không dùng sản phẩm hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

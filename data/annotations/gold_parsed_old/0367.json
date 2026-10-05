@@ -1,0 +1,47 @@
+{
+  "image_id": "0367",
+  "product_name": "Fruit Yogurt Thạch Hương Sữa Chua",
+  "gold_ingredients_raw": [
+    "Nước",
+    "đường",
+    "sữa bột",
+    "bột cốt dừa",
+    "thạch dừa (2%)",
+    "bột rau câu (1%)"
+  ],
+  "gold_additives_raw": [
+    "Chất làm dày (E407)",
+    "Chất điều chỉnh độ acid (E330, E331(iii))",
+    "phẩm màu tổng hợp (E171, E124, E101(i), E160a(i), E110, E133)",
+    "Chất bảo quản (E211, E202)",
+    "Chất tạo ngọt tổng hợp (E950, E951)",
+    "Hương tổng hợp (sữa, sữa chua, vani, dâu, dứa, chuối, xoài, dưa tây, dừa, táo, mít, nho, ổi, chanh dây, măng cầu)",
+    "hương cam tự nhiên"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Không dùng sản phẩm hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": "VIỆT NAM",
+  "net_weight": "470 g/túi",
+  "mfg_date": "In trên bao bì.",
+  "expiry_date": "In trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

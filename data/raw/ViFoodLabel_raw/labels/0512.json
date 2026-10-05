@@ -1,0 +1,36 @@
+{
+  "product_name": "Rong Biển WAKAME",
+  "ingredient": [
+    "Rong biển: 100 % nguyên chất"
+  ],
+  "additive": [],
+  "warning": [
+    "Không dùng sản phẩm khi đã hết hạn sử dụng"
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "205 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "22.2 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "3.74 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "0.00 g"
+    },
+    {
+      "name": "Natri (Na)",
+      "value": "7180 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "20 g",
+  "mfg_date": "In trên bao bì.",
+  "expiry_date": "In trên bao bì."
+}

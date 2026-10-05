@@ -1,0 +1,68 @@
+{
+  "image_id": "0517",
+  "product_name": "Tương Ớt Phở",
+  "gold_ingredients_raw": [
+    "Nước",
+    "ớt (21 %)",
+    "đường",
+    "tỏi",
+    "muối iod (NaCl, KIO3)"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (1422)",
+    "chất điều vị (621)",
+    "chất điều chỉnh độ acid (330)",
+    "chất bảo quản (211)",
+    "phẩm màu tổng hợp (110)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "68 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0,72 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "15,6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0,33 g"
+    },
+    {
+      "name": "Natri",
+      "value": "1250 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Người dị ứng với các thành phần trên cần lưu ý khi sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "230 g",
+  "mfg_date": "25/12/2025",
+  "expiry_date": "26/12/2026",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "product_name": "Cháo tươi thịt bò & cà rốt",
+  "ingredient": [
+    "Nước",
+    "gạo (7,5%)",
+    "thịt bò (4%)",
+    "cà rốt (3%)",
+    "dầu nành",
+    "gạo ST25 (1,5%)",
+    "đạm thực vật thủy phân",
+    "muối i-ốt",
+    "tiêu"
+  ],
+  "additive": [
+    "chất làm dày (1442, 1422)"
+  ],
+  "warning": [
+    "Không dùng cho người bị dị ứng với các thành phần của sản phẩm.",
+    "Không dùng sản phẩm khi đã hết hạn sử dụng hoặc gói phồng to bất thường.",
+    "Không đặt trực tiếp gói cháo vào lò vi sóng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "≥ 58 Kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "≥ 1,8 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "≥ 9 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "≥ 1,2 g"
+    },
+    {
+      "name": "Natri",
+      "value": "≥ 154 mg"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "≥ 1,7 g"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "In trên bao bì (ngày.tháng.năm)",
+  "expiry_date": "18 tháng kể từ ngày sản xuất"
+}

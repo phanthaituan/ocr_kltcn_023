@@ -1,0 +1,66 @@
+{
+  "product_name": "SOLITE - BÁNH BÔNG LAN KEM BƠ SỮA",
+  "ingredient": [
+    "Trứng gà (23%)",
+    "bột mì",
+    "đường",
+    "dầu thực vật (dầu cọ)",
+    "mạch nha",
+    "shortening",
+    "xi rô fructoza",
+    "sữa bột nguyên chất",
+    "sữa tươi (1,1%)",
+    "bơ (1,1%)",
+    "sữa bột tách béo",
+    "muối",
+    "cồn thực phẩm"
+  ],
+  "additive": [
+    "chất làm ẩm (420(i), 422)",
+    "chất nhũ hóa (475, 471, 1520, 322(i), 477, 491, 470(i))",
+    "chất ổn định (1422, 1440, 415)",
+    "chất điều chỉnh độ acid (575, 330)",
+    "chất tạo xốp (500(ii))",
+    "chất bảo quản (202)",
+    "chất điều vị (1104)",
+    "chất tạo màu tổng hợp (160a(ii))",
+    "hương liệu tổng hợp (sữa, bơ sữa, bơ, vani)"
+  ],
+  "warning": [
+    "Sản phẩm có chứa trứng, sữa, lúa mì, đậu nành."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "430 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "6,4 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "48,9 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "23 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "23,2 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "11,9 g"
+    },
+    {
+      "name": "Natri",
+      "value": "248 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

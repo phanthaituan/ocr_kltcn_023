@@ -1,0 +1,83 @@
+{
+  "image_id": "0033",
+  "product_name": "POCA BÁNH PHỒNG TÔM",
+  "gold_ingredients_raw": [
+    "Tinh bột sắn 53%",
+    "dầu thực vật",
+    "đường",
+    "bột tôm 3,3%",
+    "muối i-ốt",
+    "bột tỏi"
+  ],
+  "gold_additives_raw": [
+    "chất điều vị 621",
+    "chất điều chỉnh độ acid 330",
+    "chất tạo xốp 500(ii)",
+    "chất khí bao gói 941"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "165 Kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0,15 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "18,5 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "2,54 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "9,99 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "4,35 g"
+    },
+    {
+      "name": "Natri",
+      "value": "227 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa nguyên liệu từ tôm.",
+    "Có thể chứa bột mì và mực từ sản phẩm sản xuất trên cùng dây chuyền."
+  ],
+  "allergen_final": {
+    "contains": [
+      "giáp_xác"
+    ],
+    "may_contain": [
+      "gluten",
+      "nhuyễn_thể"
+    ]
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "giáp_xác",
+      "gluten",
+      "nhuyễn_thể"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": "6 tháng kể từ ngày sản xuất",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

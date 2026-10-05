@@ -1,0 +1,86 @@
+{
+  "image_id": "0546",
+  "product_name": "BÁNH MỲ KEM PHÔ MAI - 2 BÁNH",
+  "gold_ingredients_raw": [
+    "Bột mì 33.69%",
+    "kem thực vật 19.44%",
+    "kem động vật 8.33%",
+    "nước 7.57%",
+    "trứng 7.01%",
+    "đường kính trắng 6.91%",
+    "bột kem phô mai 5.56%",
+    "bơ lạt 3.37%",
+    "hỗn hợp làm mềm bánh mỳ 2.36% (nước, đường mạch nha, dầu thực vật, đường)",
+    "sữa tươi 1.75%",
+    "men bánh mỳ 1.35%",
+    "kem tươi động vật 1.04%",
+    "sữa bột tách kem 1.01%",
+    "muối"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "341 kcal"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "37.87 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "17.2 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "13.7 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "7.80 g"
+    },
+    {
+      "name": "Natri",
+      "value": "315 mg"
+    },
+    {
+      "name": "Đường",
+      "value": "12.27 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng khi bị dị ứng với các thành phần trên hoặc khi sản phẩm có dấu hiệu hư hỏng.",
+    "Sản phẩm này không chứa các loại hạt/đậu."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "trứng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "gluten",
+      "sữa",
+      "trứng"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1,
+      "unclassified": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "150 g",
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

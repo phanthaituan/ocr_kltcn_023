@@ -1,0 +1,36 @@
+{
+  "product_name": "BÁNH CHOCOPIE",
+  "ingredient": [
+    "Bột mì",
+    "Đường",
+    "Mạch nha glucose",
+    "Shortening thực vật (có chứa chất nhũ hóa (471))",
+    "Chất béo thực vật (có chứa chất nhũ hóa (492, 322(i)))",
+    "Bột cacao (2,8%)",
+    "Sữa bột nguyên kem",
+    "Trứng",
+    "Đường dextrose",
+    "Gelatin",
+    "Muối",
+    "Hỗn hợp bột cacao và bơ cacao (0,2%)",
+    "Muối i-ốt",
+    "Protein sữa"
+  ],
+  "additive": [
+    "Chất nhũ hóa (471)",
+    "Chất nhũ hóa (492, 322(i))",
+    "Chất tạo xốp (500(ii), 503(iii))",
+    "Chất ổn định (1442, 415)",
+    "Chất điều chỉnh độ acid (341(ii))",
+    "Hương liệu tổng hợp (vani)",
+    "Chất nhũ hóa (322(i), 476)"
+  ],
+  "warning": [
+    "Sản phẩm không dùng cho người dị ứng với các thành phần sau: sữa, lúa mì, trứng và đậu nành."
+  ],
+  "nutrition": [],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": "Được in trên bao bì (ngày/tháng/năm).",
+  "expiry_date": "10 tháng kể từ ngày sản xuất."
+}

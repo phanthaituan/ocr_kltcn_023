@@ -1,0 +1,31 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Đường",
+    "maltodextrin",
+    "chiết xuất hibiscus (2 %)",
+    "bột cốt dâu tằm",
+    "muối",
+    "chiết xuất trà xanh (0,2 %)"
+  ],
+  "additive": [
+    "chất điều chỉnh độ acid (330)",
+    "chất tạo ngọt tổng hợp (950)",
+    "hương liệu (hương trái cây) tổng hợp",
+    "hương liệu (hương chanh) tự nhiên"
+  ],
+  "warning": [
+    "Không dùng cho người dị ứng với các thành phần của sản phẩm.",
+    "không sử dụng sản phẩm đã hết hạn sử dụng."
+  ],
+  "nutrition": [
+    {
+      "name": "Độ ẩm",
+      "value": "≤ 5 %"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "120 g (10 gói x 12 g)",
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "12 tháng kể từ ngày sản xuất."
+}

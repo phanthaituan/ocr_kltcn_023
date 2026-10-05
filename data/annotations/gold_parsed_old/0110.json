@@ -1,0 +1,88 @@
+{
+  "image_id": "0110",
+  "product_name": "Quasure Light",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "trứng",
+    "Isomalt (13,88%)",
+    "chất béo thực vật",
+    "mạch nha",
+    "đường",
+    "tinh bột bắp",
+    "chất xơ hòa tan (Inulin)",
+    "sữa bột",
+    "muối",
+    "gấc tươi (0,2%)",
+    "vitamin C",
+    "vitamin A",
+    "axit folic"
+  ],
+  "gold_additives_raw": [
+    "chất giữ ẩm (422)",
+    "chất nhũ hóa (471)",
+    "chất tạo xốp (500(ii), 341(i), 450(i))",
+    "hương liệu (hương sữa, vani, chanh) tổng hợp",
+    "màu thực phẩm tổng hợp (160d(i), 160a(i), 307c)",
+    "chất bảo quản (202)",
+    "chất làm dày (415)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "146 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2,2 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "6,3 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "20,2 g"
+    },
+    {
+      "name": "Isomalt",
+      "value": "4,4 g"
+    },
+    {
+      "name": "Chất xơ hòa tan (Inulin)",
+      "value": "392,4 mg"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "107,9 mcg"
+    },
+    {
+      "name": "Vitamin C",
+      "value": "16,2 mg"
+    },
+    {
+      "name": "Axit folic",
+      "value": "147 mcg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "12 tháng trước ngày hết HSD",
+  "expiry_date": "in trên bao bì",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

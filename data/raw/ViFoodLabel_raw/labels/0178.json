@@ -1,0 +1,68 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Gạo (85%)",
+    "muối",
+    "nước",
+    "Đường",
+    "đường ngô (HFCS)",
+    "hành",
+    "tỏi",
+    "phô mai (4,5%)",
+    "muối",
+    "cồn thực phẩm",
+    "vừng",
+    "ớt",
+    "hành lá",
+    "maltodextrin",
+    "bột vi khuẩn lactic lên men",
+    "chiết xuất Yucca",
+    "Vắt mì: Bột mì (95%)",
+    "trứng tươi (3,5%)",
+    "muối i-ốt",
+    "bột nghệ"
+  ],
+  "additive": [
+    "chất làm dày (INS1422, INS415)",
+    "chất điều vị (INS621, INS631, INS627)",
+    "chất điều chỉnh độ acid (INS330)",
+    "chất tạo màu tự nhiên (INS160c(ii))",
+    "hương liệu: hương phô mai tổng hợp",
+    "chất ổn định (INS405)",
+    "chất tạo màu tự nhiên (INS160a(ii))"
+  ],
+  "warning": [
+    "Không sử dụng cho người dị ứng với bất kì thành phần nào của sản phẩm.",
+    "chứa gói hút oxy. Không ăn gói này"
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "189,6 ~ 284,4 kcal"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "42,2 ~ 63,4 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3,6 ~ 5,4 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "< 2 g"
+    },
+    {
+      "name": "Natri (Na)",
+      "value": "<2000 mg"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "8,8 ~ 13,2 g"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

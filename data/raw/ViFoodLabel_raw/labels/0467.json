@@ -1,0 +1,119 @@
+{
+  "product_name": "THỨC UỐNG SỮA LÚA MẠCH",
+  "ingredient": [
+    "Nước",
+    "Sữa (35%) (nước, sữa bột nguyên kem, sữa bột gầy)",
+    "Đường",
+    "Chiết xuất ngũ cốc và lúa mạch (2,1%)",
+    "Bột ca cao (1,1%)",
+    "Khoáng chất (tricalci phosphat, dicalci phosphat, magnesi carbonat, mangan (II) sulfat)",
+    "Xi-rô glucose",
+    "Bột whey",
+    "Bột kem không sữa (xi-rô glucose, dầu cọ hydro hóa, chất ổn định (340(ii)), chất caseinat, chất nhũ hóa (471), muối)",
+    "Dầu thực vật",
+    "Vitamin E",
+    "Vitamin B3",
+    "Vitamin A",
+    "Axit pantothenic",
+    "Vitamin B6",
+    "Vitamin D",
+    "Vitamin B1",
+    "Vitamin B12",
+    "Vitamin B2",
+    "Vitamin B9",
+    "Maltodextrin"
+  ],
+  "additive": [
+    "Chất ổn định (340(ii))",
+    "Chất nhũ hóa (471)",
+    "Chất ổn định (460(i), 340(iii), 407, 466)",
+    "Chất điều chỉnh độ axit (500(ii))",
+    "Hương liệu tự nhiên (hương ngọt)",
+    "Hương liệu giống tự nhiên (hương lúa mạch, hương sôcôla, hương vani)"
+  ],
+  "warning": [
+    "Sản phẩm có chứa sữa và đậu nành."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "130 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2,6 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "25 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "21 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "1,8 g"
+    },
+    {
+      "name": "Axit béo Omega-9",
+      "value": "330 mg"
+    },
+    {
+      "name": "Axit béo Omega-6",
+      "value": "40 mg"
+    },
+    {
+      "name": "Chất xơ",
+      "value": "1,5 g"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "178 µg"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "0,41 mg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "0,57 mg"
+    },
+    {
+      "name": "Vitamin B12",
+      "value": "1,12 µg"
+    },
+    {
+      "name": "Vitamin B3",
+      "value": "4,86 mg NE"
+    },
+    {
+      "name": "Axit pantothenic",
+      "value": "1,70 mg"
+    },
+    {
+      "name": "Vitamin D",
+      "value": "1,43 µg"
+    },
+    {
+      "name": "Vitamin E",
+      "value": "3,56 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "505 mg"
+    },
+    {
+      "name": "Mangan",
+      "value": "1,0 mg"
+    },
+    {
+      "name": "Natri",
+      "value": "88,9 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

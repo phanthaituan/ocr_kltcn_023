@@ -1,0 +1,75 @@
+{
+  "image_id": "0189",
+  "product_name": "COCOXIM - NƯỚC DỪA ORGANIC",
+  "gold_ingredients_raw": [
+    "Nước dừa hữu cơ (100%)"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "15 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "3,6 g"
+    },
+    {
+      "name": "Đường",
+      "value": "2,9 g"
+    },
+    {
+      "name": "Chất béo tổng số",
+      "value": "0 g"
+    },
+    {
+      "name": "Acid béo bão hoà",
+      "value": "0 g"
+    },
+    {
+      "name": "Acid béo dạng trans",
+      "value": "0 g"
+    },
+    {
+      "name": "Acid béo không bão hoà đơn",
+      "value": "0 g"
+    },
+    {
+      "name": "Acid béo không bão hoà đa",
+      "value": "0 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0 mg"
+    },
+    {
+      "name": "Natri",
+      "value": "31 mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": null,
+  "net_weight": "330 ml/hộp (11.15 fl.oz)",
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

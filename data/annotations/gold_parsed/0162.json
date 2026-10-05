@@ -1,0 +1,75 @@
+{
+  "image_id": "0162",
+  "product_name": "CHÂN GÀ RÚT XƯƠNG VỊ CAY NGỌT ALACO",
+  "gold_ingredients_raw": [
+    "Chân gà rút xương (95%)",
+    "nước",
+    "muối",
+    "đường",
+    "cao thịt gà",
+    "gia vị thảo mộc, hồi"
+  ],
+  "gold_additives_raw": [
+    "chất điều vị (621)",
+    "chiết xuất ớt (160c)",
+    "màu thực phẩm tổng hợp (150c)",
+    "chất điều chỉnh độ axit (330, 260)",
+    "chất bảo quản (234, 211)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Tổng lượng Calo/ Calories",
+      "value": "133 kcal"
+    },
+    {
+      "name": "Chất đạm/ Protein",
+      "value": "17,3 g"
+    },
+    {
+      "name": "Chất béo/ Total Fat",
+      "value": "6,81 g"
+    },
+    {
+      "name": "Carbohydrat/ Carbohydrate",
+      "value": "< 2,0 g"
+    },
+    {
+      "name": "Đường tổng/ Total sugars",
+      "value": "< 1,2 g"
+    },
+    {
+      "name": "Natri/ Sodium",
+      "value": "934 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Cảnh báo: Không sử dụng sản phẩm quá hạn sử dụng, có mùi vị lạ, bị phồng hoặc bao bì không còn nguyên vẹn.",
+    "Trong quá trình vận chuyển và lưu thông, bao bì sản phẩm có thể bị rách hoặc thủng, dẫn đến sản phẩm bị hỏng.",
+    "Khi phát hiện sản phẩm lỗi, quý khách vui lòng mang sản phẩm đến nơi mua hàng để được hỗ trợ đổi trả theo quy định."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 3
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "26 g",
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

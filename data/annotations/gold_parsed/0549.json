@@ -1,0 +1,108 @@
+{
+  "image_id": "0549",
+  "product_name": "PIZZA HẢI SẢN",
+  "gold_ingredients_raw": [
+    "Đế bánh (Bột mì, nước, shortening, muối, men Saccharomyces cerevisiae)",
+    "xúc xích",
+    "tôm (100 g/kg)",
+    "phô mai",
+    "hành tây",
+    "bắp",
+    "ớt chuông",
+    "nước",
+    "cà chua cô đặc",
+    "bột hành tây",
+    "bột tỏi",
+    "muối",
+    "đường",
+    "tiêu",
+    "lá húng quế"
+  ],
+  "gold_additives_raw": [
+    "chất làm dày (1422, 415)",
+    "chất điều chỉnh độ acid (330)",
+    "chất chống oxy hóa (316)",
+    "chất tạo ngọt tổng hợp (955)",
+    "màu thực phẩm tổng hợp (129)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "214.0 Kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "9.8 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "26.4 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "6.6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "7.3 g"
+    },
+    {
+      "name": "Natri",
+      "value": "377.0 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa thành phần: Gluten (bột mì), tôm, sữa (phô mai), đậu nành, trứng, cá, sữa, cần tây (xúc xích).",
+    "Không sử dụng khi bao bì bị rách, gói sản phẩm bị phồng, hư hỏng, có mùi lạ hoặc khi đã hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "cá",
+      "cần_tây",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "cá",
+      "cần_tây",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "cá",
+      "cần_tây",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "12 tháng kể từ ngày sản xuất khi bảo quản liên tục ở nhiệt độ ≤ -18 °C và còn nguyên bao bì gốc.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

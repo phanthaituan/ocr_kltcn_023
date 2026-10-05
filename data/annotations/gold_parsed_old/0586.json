@@ -1,0 +1,76 @@
+{
+  "image_id": "0586",
+  "product_name": "MỰC NƯỚNG XÉ",
+  "gold_ingredients_raw": [
+    "Mực 95%",
+    "đường tinh luyện",
+    "muối i-ốt"
+  ],
+  "gold_additives_raw": [
+    "chất điều vị (E621)",
+    "chất tạo ngọt tổng hợp (420(i))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Calories (Kcal)",
+      "value": "211"
+    },
+    {
+      "name": "Total Fat",
+      "value": "1.44g"
+    },
+    {
+      "name": "Saturated Fat",
+      "value": "0.44g"
+    },
+    {
+      "name": "Trans Fat",
+      "value": "0g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "111mg"
+    },
+    {
+      "name": "Sodium/ Natri",
+      "value": "1177mg"
+    },
+    {
+      "name": "Total Carbohydrate",
+      "value": "22.1g"
+    },
+    {
+      "name": "Protein",
+      "value": "27.3g"
+    },
+    {
+      "name": "Sugar",
+      "value": "14.7g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Khuyến cáo không sử dụng sản phẩm khi hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "70 g",
+  "mfg_date": "Xem mặt trước phía dưới.",
+  "expiry_date": "12 tháng kể từ ngày sản xuất.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

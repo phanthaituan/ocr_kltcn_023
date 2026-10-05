@@ -1,0 +1,60 @@
+{
+  "image_id": "0550",
+  "product_name": null,
+  "gold_ingredients_raw": [],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "433,6 ~ 650,4 kcal"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "14,4 ~ 26,9 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "14,5 ~ 27,1 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "34,6 ~ 52 g"
+    },
+    {
+      "name": "Natri (Na)",
+      "value": "< 1500 mg"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "< 8 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "12,3 ~ 22,9 g"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": false,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

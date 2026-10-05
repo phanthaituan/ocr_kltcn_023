@@ -1,0 +1,105 @@
+{
+  "image_id": "0272",
+  "product_name": "Crispier Vibes",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "đường",
+    "dầu thực vật hydro hóa hoàn toàn (dầu nhân cọ, dầu cọ, dầu hạt cải) (đậu nành)",
+    "bột ca cao 8%",
+    "sữa bột gầy 3%",
+    "bột mì nguyên cám 2%",
+    "shortening (dầu cọ hydro hóa hoàn toàn)",
+    "chiết xuất mạch nha (lúa mì, lúa mạch, lúa mạch đen, yến mạch)",
+    "ca cao nguyên chất 1%",
+    "men",
+    "bơ (sữa)",
+    "muối",
+    "vitamin và khoáng chất (sắt, vitamin B3, vitamin B1, vitamin B2, acid folic)",
+    "Chứa kem hương vị sôcôla 53%"
+  ],
+  "gold_additives_raw": [
+    "chất nhũ hóa (este của propylen glycol với acid béo)",
+    "chất chống oxy hóa (tocopherol concentrat (dạng hỗn hợp))",
+    "chất nhũ hóa (lecithin) (đậu nành)",
+    "hương liệu tổng hợp"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "182 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3,5 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "7,4 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "5,9 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "25,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "13,2 g"
+    },
+    {
+      "name": "Natri",
+      "value": "100 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm chứa các nguyên liệu có nguồn gốc từ lúa mì, gluten, sữa, đậu nành, lúa mạch, lúa mạch đen, yến mạch.",
+    "Được sản xuất tại cơ sở có sử dụng đậu phộng, hạnh nhân.",
+    "Người từ 4 tuổi trở lên"
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "hạt_cây",
+      "sữa",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "hạt_cây",
+      "sữa",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "hạt_cây",
+      "sữa",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2,
+      "child_supervision": 1
+    }
+  },
+  "origin": "Thái Lan",
+  "net_weight": null,
+  "mfg_date": "xem trên bao bì",
+  "expiry_date": "15 tháng kể từ ngày sản xuất, HSD xem trên bao bì",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

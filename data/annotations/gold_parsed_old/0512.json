@@ -1,0 +1,55 @@
+{
+  "image_id": "0512",
+  "product_name": "Rong Biển WAKAME",
+  "gold_ingredients_raw": [
+    "Rong biển: 100 % nguyên chất"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "205 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "22.2 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "3.74 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "0.00 g"
+    },
+    {
+      "name": "Natri (Na)",
+      "value": "7180 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không dùng sản phẩm khi đã hết hạn sử dụng"
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "20 g",
+  "mfg_date": "In trên bao bì.",
+  "expiry_date": "In trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

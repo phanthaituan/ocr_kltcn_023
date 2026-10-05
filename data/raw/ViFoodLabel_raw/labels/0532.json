@@ -1,0 +1,56 @@
+{
+  "product_name": "Teriyaki Sauce",
+  "ingredient": [
+    "Đường ngô HFCS",
+    "đường mạch nha",
+    "đường",
+    "muối",
+    "dứa (2,5%)",
+    "gừng (2%)",
+    "nước tương (đậu nành, nước)",
+    "dầu cọ",
+    "dầu mè",
+    "tiêu",
+    "tỏi"
+  ],
+  "additive": [
+    "chất làm dày (INS 1422, INS 415)",
+    "chất tạo màu tự nhiên (INS 150c)",
+    "chất điều vị (INS 621, INS 627, INS 631)",
+    "chất điều chỉnh độ acid (INS 296, INS 260)",
+    "chất bảo quản (INS 202, INS 211)"
+  ],
+  "warning": [
+    "Không sử dụng cho người dị ứng với các thành phần của sản phẩm."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "154,4 ~ 231,6 kcal"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "36,0 ~ 55,1 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0,7 ~ 1,2 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0,5 ~ 0,9 g"
+    },
+    {
+      "name": "Natri(Na)",
+      "value": "< 1900 mg"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "28,5 ~ 43,0 g"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "29.04.2026 09:43:04",
+  "expiry_date": "12 tháng kể từ NSX"
+}

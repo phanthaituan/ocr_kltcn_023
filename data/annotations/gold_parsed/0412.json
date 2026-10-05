@@ -1,0 +1,105 @@
+{
+  "image_id": "0412",
+  "product_name": "Bánh Bouchee LOTTE CHOCOLAT vị Socola",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "Mạch nha",
+    "Đường",
+    "Shortening thực vật (chứa chất nhũ hóa (471), chất chống oxy hóa (307b))",
+    "Hỗn hợp sô cô la 3,7%",
+    "Bột cacao (chứa chất điều chỉnh độ axit (501(i)))",
+    "Sữa gầy",
+    "Bơ đậu phộng",
+    "Cồn thực phẩm",
+    "Bột trứng",
+    "Đường dextrose",
+    "Gelatin",
+    "Muối",
+    "Protein sữa"
+  ],
+  "gold_additives_raw": [
+    "Chất nhũ hóa (471)",
+    "Chất chống oxy hóa (307b)",
+    "Chất làm ẩm (422, 420(ii))",
+    "Chất điều chỉnh độ axit (501(i))",
+    "Chất ổn định (1440, 1401)",
+    "Chất tạo xốp (500(ii), 503(ii))",
+    "Hương liệu tổng hợp (hương cacao, hương sô cô la, hương bơ)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "116 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,49 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "17,2 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "6,59 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "4,59 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "2,38 g"
+    },
+    {
+      "name": "Natri",
+      "value": "54,3 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa gluten, trứng, sữa, đậu nành, đậu phộng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "378 g (14 gói x 27 g)",
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

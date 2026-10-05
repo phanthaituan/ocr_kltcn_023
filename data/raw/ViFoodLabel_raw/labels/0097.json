@@ -1,0 +1,65 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Sữa (92,7%) (nước, sữa bột, sữa tươi chuẩn hóa)",
+    "đường",
+    "dầu thực vật",
+    "vitamin (A, D3)"
+  ],
+  "additive": [
+    "chất ổn định (471, 407, 412)",
+    "hương liệu (hương dâu) tổng hợp dùng cho thực phẩm",
+    "màu tự nhiên (120)",
+    "chất xơ hòa tan (inulin)"
+  ],
+  "warning": [
+    "Có chứa sữa",
+    "Không dùng cho trẻ dưới 1 tuổi."
+  ],
+  "nutrition": [
+  {
+    "name": "Năng lượng",
+    "value": "74,5 kcal"
+  },
+  {
+    "name": "Chất đạm",
+    "value": "2,9 g"
+  },
+  {
+    "name": "Chất béo",
+    "value": "2,8 g"
+  },
+  {
+    "name": "Carbohydrat",
+    "value": "9,4 g"
+  },
+  {
+    "name": "Đường tổng số",
+    "value": "9,3 g"
+  },
+  {
+    "name": "Chất xơ hòa tan",
+    "value": "140 mg"
+  },
+  {
+    "name": "Natri",
+    "value": "37 mg"
+  },
+  {
+    "name": "Calci",
+    "value": "100 mg"
+  },
+  {
+    "name": "Vitamin A",
+    "value": "150 IU"
+  },
+  {
+    "name": "Vitamin D3",
+    "value": "30 IU"
+  }
+],
+  "origin": "Sản phẩm của Công Ty CP Sữa Việt Nam. Product of Vietnam Dairy Products JSC. Sản xuất tại Việt Nam/ Made in Vietnam",
+  "net_weight": null,
+  "mfg_date": "06 tháng trước HSD.",
+  "expiry_date": "Xem trên bịch"
+}

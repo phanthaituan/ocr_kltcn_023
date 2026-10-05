@@ -1,0 +1,69 @@
+{
+  "product_name": "Thực phẩm bổ sung: Sữa bò hữu cơ nguyên kem Koita 1L",
+  "ingredient": [
+    "Sữa bò hữu cơ nguyên kem",
+    "vitamin A",
+    "vitamin D3",
+    "3,6% chất béo sữa",
+    "tối thiểu 8.5% sữa khô tách béo"
+  ],
+  "additive": [],
+  "warning": [
+    "Có chứa sữa.",
+    "Không thích hợp cho trẻ sơ sinh trừ khi có chỉ định của bác sỹ."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "67 calories (3%)"
+    },
+    {
+      "name": "tổng chất béo",
+      "value": "3,7g (5%)"
+    },
+    {
+      "name": "chất béo bão hòa",
+      "value": "2,5g (13%)"
+    },
+    {
+      "name": "chất béo chuyển hóa",
+      "value": "<0,1g"
+    },
+    {
+      "name": "cholesterol",
+      "value": "11,7mg (4%)"
+    },
+    {
+      "name": "natri",
+      "value": "52mg (2%)"
+    },
+    {
+      "name": "carbohydrate",
+      "value": "4,9g (2%)"
+    },
+    {
+      "name": "tổng đường",
+      "value": "4,9g"
+    },
+    {
+      "name": "đạm",
+      "value": "3,5g (7%)"
+    },
+    {
+      "name": "canxi",
+      "value": "120mg (12%)"
+    },
+    {
+      "name": "vitamin A",
+      "value": "60µg (8%)"
+    },
+    {
+      "name": "vitamin D3",
+      "value": "0,88µg (18%)"
+    }
+  ],
+  "origin": "Ý",
+  "net_weight": "1L/hộp",
+  "mfg_date": "Xem mục “produced on” trên bao bì sản phẩm",
+  "expiry_date": "Xem mục “best before” trên bao bì sản phẩm"
+}

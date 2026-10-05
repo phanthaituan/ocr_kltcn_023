@@ -1,0 +1,97 @@
+{
+  "image_id": "0353",
+  "product_name": "ChocoPie",
+  "gold_ingredients_raw": [
+    "BÁNH (58%): Bột mì",
+    "đường",
+    "trứng (15,5%)",
+    "dầu thực vật",
+    "nước",
+    "glucose syrup",
+    "bột ca cao (2%)",
+    "bột sữa gầy",
+    "muối I-ốt",
+    "LỚP PHỦ (29%): Đường",
+    "chất béo thực vật không hydro hóa",
+    "bột ca cao (10,2%)",
+    "NHÂN (13%): Glucose syrup"
+  ],
+  "gold_additives_raw": [
+    "chất làm ẩm (420ii, 422)",
+    "chất tạo xốp (450i, 500ii)",
+    "chất nhũ hóa (471)",
+    "hương liệu tổng hợp (hương sôcôla, hương vani)",
+    "chất bảo quản (202, 200)",
+    "chất ổn định (415)",
+    "chất nhũ hóa (322i, 476)",
+    "hương liệu tổng hợp (hương vanillin)",
+    "chất làm dày (1442, 440)",
+    "phẩm màu tổng hợp (171, 102)",
+    "chất nhũ hóa (322i)",
+    "chất bảo quản (202)",
+    "chất điều chỉnh độ acid (330)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "127 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,7 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "15,7 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "10,6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "6,4 g"
+    },
+    {
+      "name": "Natri",
+      "value": "89 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Thông tin dị ứng: Sản phẩm có chứa lúa mì, trứng, sữa, và đậu nành. Được sản xuất trên dây chuyền cùng sản xuất sản phẩm có chứa đậu phộng và hạt cây."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì",
+  "expiry_date": "Xem trên bao bì",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

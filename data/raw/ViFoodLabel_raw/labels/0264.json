@@ -1,0 +1,79 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước ép dứa [96%]",
+    "sori [4%]"
+  ],
+  "additive": [],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "120"
+    },
+    {
+      "name": "Chất béo toàn phần",
+      "value": "0g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "0g"
+    },
+    {
+      "name": "Chất béo trans",
+      "value": "0g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0mg"
+    },
+    {
+      "name": "Na-tri",
+      "value": "0mg"
+    },
+    {
+      "name": "Carbohydrate toàn phần",
+      "value": "28g"
+    },
+    {
+      "name": "Chất xơ",
+      "value": "0g"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "24g"
+    },
+    {
+      "name": "Đường thêm vào",
+      "value": "0g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1g"
+    },
+    {
+      "name": "Vitamin D",
+      "value": "0mcg"
+    },
+    {
+      "name": "Sắt",
+      "value": "0.00mg"
+    },
+    {
+      "name": "Vitamin C",
+      "value": "25%"
+    },
+    {
+      "name": "Can-xi",
+      "value": "12.9mg"
+    },
+    {
+      "name": "Ka-li",
+      "value": "210mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

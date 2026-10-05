@@ -1,0 +1,63 @@
+{
+  "product_name": "Bánh Bouchee LOTTE CHOCOLAT vị Phô Mai",
+  "ingredient": [
+    "Bột mì",
+    "mạch nha",
+    "shortening thực vật (chứa chất nhũ hóa (491), chất chống oxy hóa (307b))",
+    "đường",
+    "hỗn hợp sô cô la (3,7%)",
+    "bột phô mai (2,2%)",
+    "cồn thực phẩm",
+    "bột trứng",
+    "đường dextrose",
+    "gelatin",
+    "muối",
+    "protein sữa"
+  ],
+  "additive": [
+    "chất nhũ hóa (491)",
+    "chất chống oxy hóa (307b)",
+    "chất làm ẩm (420(ii), 422)",
+    "chất ổn định (1440, 1401)",
+    "chất tạo xốp (500(ii), 500(iii))",
+    "hương liệu tổng hợp (hương phô mai)",
+    "chất tạo màu tổng hợp (102, 110)"
+  ],
+  "warning": [
+    "Sản phẩm có chứa gluten, trứng, sữa, đậu nành và được sản xuất trên cùng dây chuyền với sản phẩm có chứa đậu phộng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "113 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,31 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "17,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "7,13 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "4,21 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "2,16 g"
+    },
+    {
+      "name": "Natri",
+      "value": "101 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "162 g (6 gói x 27 g)",
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì."
+}

@@ -1,0 +1,90 @@
+{
+  "image_id": "0502",
+  "product_name": "KẸO DẺO RICHY 4D VỊ ĐÀO",
+  "gold_ingredients_raw": [
+    "Mạch nha",
+    "Đường",
+    "Gelatin",
+    "Nước ép đào cô đặc (3,3%)"
+  ],
+  "gold_additives_raw": [
+    "Chất làm ẩm (420(ii), 422)",
+    "Chất điều chỉnh độ acid (330, 331(iii))",
+    "Chất ổn định (440, 337, 452(i))",
+    "Hỗn hợp chất làm bóng (903, 901, dầu thực vật)",
+    "Chất tạo màu tự nhiên (162, 160a(i), 171)",
+    "Hương liệu giống tự nhiên (Đào)",
+    "Chất tạo màu tổng hợp (133)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "308 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0.81 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "69.42 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "64.4 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0 g"
+    },
+    {
+      "name": "Natri",
+      "value": "47.2 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có thể chứa lúa mì, sữa, đậu nành, trứng, hạnh nhân, mè, cá, động vật giáp xác.",
+    "Hình ảnh chỉ mang tính chất minh họa."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "hạt_cây",
+      "hạt_vừng",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ]
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "hạt_cây",
+      "hạt_vừng",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "unclassified": 1
+    }
+  },
+  "origin": "VIỆT NAM",
+  "net_weight": "246 g (8.68 oz)",
+  "mfg_date": "Xem \"PRO\" / \"EXP\" trên bao bì.",
+  "expiry_date": "Xem \"PRO\" / \"EXP\" trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

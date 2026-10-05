@@ -1,0 +1,110 @@
+{
+  "image_id": "0332",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Wheat Flour",
+    "Sugar",
+    "Vegetable Oil (contains Antioxidant TBHQ (E319))",
+    "Whey Powder",
+    "Maltodextrin",
+    "Cheese Powder (1%) (contains Milk Powder, Cheese Solids)",
+    "Salt"
+  ],
+  "gold_additives_raw": [
+    "Antioxidant TBHQ (E319)",
+    "Synthetic Milk Flavour (contains Milk Solids)",
+    "Emulsifier Soy Lecithin (E322)",
+    "Synthetic Strawberry Flavour",
+    "Sodium Bicarbonate (E500ii)",
+    "Acidity Regulator Lactid Acid (E270)",
+    "Natural Colour Carmine (E120)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Khẩu phần",
+      "value": "15 g"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "50"
+    },
+    {
+      "name": "Tổng chất béo",
+      "value": "3 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "1.5 g"
+    },
+    {
+      "name": "Chất béo chuyển hóa",
+      "value": "0 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0 mg"
+    },
+    {
+      "name": "Natri",
+      "value": "35 mg"
+    },
+    {
+      "name": "Tổng Carbohydrat",
+      "value": "11 g"
+    },
+    {
+      "name": "Tổng đường",
+      "value": "4 g"
+    },
+    {
+      "name": "Bao gồm đường thêm",
+      "value": "4 g"
+    },
+    {
+      "name": "Chất đạm ít hơn",
+      "value": "1 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Allergen Information. For allergens, see ingredients in bold. May also contain Egg, Hazelnut and Peanut.",
+    "DO NOT ACCEPT IF PACKAGING IS DAMAGED."
+  ],
+  "allergen_final": {
+    "contains": [
+      "hạt_cây",
+      "trứng",
+      "đậu_phộng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "hạt_cây",
+      "trứng",
+      "đậu_phộng"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "hạt_cây",
+      "trứng",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "unclassified": 3,
+      "named_allergy": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

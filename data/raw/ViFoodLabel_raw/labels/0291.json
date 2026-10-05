@@ -1,0 +1,52 @@
+{
+  "product_name": "CƠM GÀ DA GIÒN “ÁO XỐT”",
+  "ingredient": [
+    "Gia vị nấu cơm: Dầu thực vật, đường, muối, nước, đạm thực vật thủy phân, bột thịt gà (8%), gia vị hỗn hợp (4,9%), bột gà rì (1,2%), chiết xuất nấm men, hương liệu tổng hợp (hương gà), chiết xuất thanh hương trà, chiết xuất quả dành dành",
+    "Gia vị tẩm ướp: Chất làm dày (INS 1422, INS 1412, INS 1420), bột mì, bột gạo, muối, hành tây, tỏi, chiết xuất nấm men, tiêu đen, bột tạo xốp (INS 500(ii)), bột gia vị cà ri (1%), bột nguyên trứng, gia vị hỗn hợp (0,7%)",
+    "Xốt chấm: Nước, đường, nước mắm, dầu thực vật, ớt, tỏi, muối, giấm, bột điều màu, chiết xuất thanh hương trà, chiết xuất hào"
+  ],
+  "additive": [
+    "INS 621",
+    "hương liệu tổng hợp (hương gà)",
+    "INS 1422",
+    "INS 1412",
+    "INS 1420",
+    "INS 500(ii)",
+    "INS 821",
+    "INS 635"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm hết hạn",
+    "Sản phẩm có chứa thành phần đậu nành, lúa mì, trứng, hào, cá."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "294 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "4,59 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "43,5 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "14,7 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "11,0 g"
+    },
+    {
+      "name": "Natri",
+      "value": "3570 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "28/02/2026",
+  "expiry_date": "28/02/2027"
+}

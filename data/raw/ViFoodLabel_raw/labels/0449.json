@@ -1,0 +1,81 @@
+{
+  "product_name": "CÁ XỐT CÀ ĐÓNG HỘP",
+  "ingredient": [
+    "Cá 60%",
+    "Xốt cà chua 35%",
+    "Dầu nành, đường 5%",
+    "Muối i-ốt"
+  ],
+  "additive": [
+    "Chất làm dày (1442, 1414, 412)",
+    "Chất điều vị (621)",
+    "Màu thực phẩm Lycopen tổng hợp (160d(ii))"
+  ],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "69 kcal"
+    },
+    {
+      "name": "Năng lượng từ chất béo",
+      "value": "23 kcal"
+    },
+    {
+      "name": "Tổng chất béo",
+      "value": "2,3 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "1 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "46 mg"
+    },
+    {
+      "name": "Natri",
+      "value": "339 mg"
+    },
+    {
+      "name": "Tổng Carbohydrat",
+      "value": "2 g"
+    },
+    {
+      "name": "Chất xơ",
+      "value": "1 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "1 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "11 g"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "0%"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "0%"
+    },
+    {
+      "name": "Vitamin B2",
+      "value": "0%"
+    },
+    {
+      "name": "Calci",
+      "value": "19%"
+    },
+    {
+      "name": "Sắt",
+      "value": "3%"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

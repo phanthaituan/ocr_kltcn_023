@@ -1,0 +1,53 @@
+{
+  "image_id": "0383",
+  "product_name": null,
+  "gold_ingredients_raw": [],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Carbohydrat",
+      "value": "11,6"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "538,9 Kcal/ 100 g"
+    },
+    {
+      "name": "Protein",
+      "value": "21,5"
+    },
+    {
+      "name": "Lipid",
+      "value": "45,1"
+    },
+    {
+      "name": "Canxi",
+      "value": "665,7 mg/ 100 g"
+    },
+    {
+      "name": "Xơ thô",
+      "value": "10,0"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": false,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

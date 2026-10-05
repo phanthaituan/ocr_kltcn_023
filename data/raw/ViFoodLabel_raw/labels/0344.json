@@ -1,0 +1,48 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước ép cam (99,9%) (nước, nước ép cam cô đặc (18%))"
+  ],
+  "additive": [
+    "hương liệu giống tự nhiên dùng cho thực phẩm"
+  ],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "37,2 kcal"
+    },
+    {
+      "name": "CARBOHYDRAT",
+      "value": "9,3 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ",
+      "value": "5,5 g"
+    },
+    {
+      "name": "ĐƯỜNG BỔ SUNG THÊM",
+      "value": "0 g"
+    },
+    {
+      "name": "CHẤT ĐẠM",
+      "value": "<1 g"
+    },
+    {
+      "name": "CHẤT BÉO",
+      "value": "<0,5 g"
+    },
+    {
+      "name": "NATRI",
+      "value": "1,2 mg"
+    },
+    {
+      "name": "VITAMIN C",
+      "value": "12 mg"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": "06 tháng trước HSD",
+  "expiry_date": "Xem trên hộp"
+}

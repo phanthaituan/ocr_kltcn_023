@@ -1,0 +1,91 @@
+{
+  "image_id": "0527",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Thịt gà",
+    "nước đá",
+    "đạm đậu nành",
+    "dầu thực vật",
+    "gia vị (muối, đường, nhục đậu khấu)",
+    "bột lòng trắng trứng",
+    "dịch chiết thịt bò 0,12%",
+    "bột hương tỏi tự nhiên"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (1420)",
+    "chất nhũ hóa (451(i), 450(i), 407)",
+    "chất điều chỉnh độ acid (262(i), 331(iii))",
+    "chất điều vị (621)",
+    "chất chống oxy hóa (316, 300, 301)",
+    "chất giữ màu (250)",
+    "chất tạo màu erythrosin tổng hợp (127)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng (Energy)",
+      "value": "150 - 250 (kcal)"
+    },
+    {
+      "name": "Chất đạm (Protein)",
+      "value": "5 - 15 (g)"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "10 - 35 (g)"
+    },
+    {
+      "name": "Đường tổng số (Total Sugars)",
+      "value": "1 - 6 (g)"
+    },
+    {
+      "name": "Chất béo (Fat)",
+      "value": "3 - 12 (g)"
+    },
+    {
+      "name": "Chất béo bão hòa (Saturated Fat)",
+      "value": "0.5 - 4 (g)"
+    },
+    {
+      "name": "Natri (Sodium)",
+      "value": "400 - 900 (mg)"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm sau ngày hết hạn, có hiện tượng hư hỏng hoặc khi dị ứng với bất kì thành phần nào của sản phẩm.",
+    "Sản phẩm có chứa: Chất ổn định (1420), đạm đậu nành, bột lòng trắng trứng, nhục đậu khấu.",
+    "Khi vỏ ngoài cây xúc xích bị rách hoặc thủng thì tuyệt đối không được sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [
+      "trứng",
+      "đậu_nành"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1,
+      "named_allergy": 1,
+      "unclassified": 1
+    }
+  },
+  "origin": "Xuất xứ: Việt Nam",
+  "net_weight": "Khối lượng tịnh trước là 175 g (5 cây x 35 g) nay là 192 g (6 cây x 32 g)",
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

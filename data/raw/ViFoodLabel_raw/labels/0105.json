@@ -1,0 +1,66 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước",
+    "sữa hoàn toàn từ sữa bò tươi (17%)",
+    "đường HFCS",
+    "đường",
+    "nước ép cam cô đặc (1 g/L)",
+    "vitamin (B6, B12, acid folic)",
+    "khoáng chất (calci carbonat)"
+  ],
+  "additive": [
+    "chất ổn định (440)",
+    "chất điều chỉnh độ acid (330)",
+    "hương liệu tự nhiên"
+  ],
+  "warning": [
+    "Sản phẩm có chứa sữa.",
+    "Thành phần sản phẩm có thể lắng đọng tự nhiên.",
+    "Sử dụng ngay sau khi mở. Ngon hơn khi uống lạnh.",
+    "Sử dụng từ 2 - 3 hộp mỗi ngày.",
+    "Phù hợp cho trẻ từ 2 tuổi trở lên."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng / Energy",
+      "value": "59,8 kcal"
+    },
+    {
+      "name": "Chất đạm / Protein",
+      "value": "0,6 g"
+    },
+    {
+      "name": "Carbohydrat / Carbohydrate",
+      "value": "13 g"
+    },
+    {
+      "name": "Đường tổng số / Total Sugars",
+      "value": "12,6 g"
+    },
+    {
+      "name": "Chất béo / Total Fat",
+      "value": "0,5 g"
+    },
+    {
+      "name": "Natri / Sodium",
+      "value": "12 mg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "120 µg"
+    },
+    {
+      "name": "Vitamin B12",
+      "value": "0,16 µg"
+    },
+    {
+      "name": "Acid Folic / Folic Acid",
+      "value": "20 µg"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì."
+}

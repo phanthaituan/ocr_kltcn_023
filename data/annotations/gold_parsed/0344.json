@@ -1,0 +1,68 @@
+{
+  "image_id": "0344",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Nước ép cam (99,9%) (nước, nước ép cam cô đặc (18%))"
+  ],
+  "gold_additives_raw": [
+    "hương liệu giống tự nhiên dùng cho thực phẩm"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "37,2 kcal"
+    },
+    {
+      "name": "CARBOHYDRAT",
+      "value": "9,3 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ",
+      "value": "5,5 g"
+    },
+    {
+      "name": "ĐƯỜNG BỔ SUNG THÊM",
+      "value": "0 g"
+    },
+    {
+      "name": "CHẤT ĐẠM",
+      "value": "<1 g"
+    },
+    {
+      "name": "CHẤT BÉO",
+      "value": "<0,5 g"
+    },
+    {
+      "name": "NATRI",
+      "value": "1,2 mg"
+    },
+    {
+      "name": "VITAMIN C",
+      "value": "12 mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": "06 tháng trước HSD",
+  "expiry_date": "Xem trên hộp",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

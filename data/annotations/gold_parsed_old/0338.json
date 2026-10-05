@@ -1,0 +1,76 @@
+{
+  "image_id": "0338",
+  "product_name": "THỰC PHẨM BỔ SUNG: BÁNH KEM XỐP PHÔ MAI – RICHEESE NABATI CHEESE CREAM WAFER",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "đường",
+    "dầu thực vật (chứa TBHQ chất chống oxy hóa (INS 319))",
+    "bột whey",
+    "bột phô mai 4,650% (chứa chất điều vị (Mononatri L-glutamat (INS 621) và Dinatri 5'-ribonucleotid (INS 635)), phẩm màu tổng hợp (Ponceau 4R (Cochineal red A) (INS 124) và Sunset yellow FCF (INS 110)), chất chống oxy hóa d-alpha-Tocopherol (INS 307a))",
+    "maltodextrin",
+    "tinh bột ngô",
+    "muối",
+    "vitamin A (682,41 µg/100g)",
+    "vitamin B1 (1,49 mg/100g)",
+    "vitamin B2 (1,71 mg/100g)",
+    "vitamin B6",
+    "vitamin B12"
+  ],
+  "gold_additives_raw": [
+    "TBHQ chất chống oxy hóa (INS 319)",
+    "chất điều vị (Mononatri L-glutamat (INS 621) và Dinatri 5'-ribonucleotid (INS 635))",
+    "Mononatri L-glutamat (INS 621)",
+    "Dinatri 5'-ribonucleotid (INS 635)",
+    "phẩm màu tổng hợp (Ponceau 4R (Cochineal red A) (INS 124) và Sunset yellow FCF (INS 110))",
+    "Ponceau 4R (Cochineal red A) (INS 124)",
+    "Sunset yellow FCF (INS 110)",
+    "chất chống oxy hóa d-alpha-Tocopherol (INS 307a)",
+    "hương liệu sữa tổng hợp (chứa sữa đặc)",
+    "chất nhũ hóa: Lecithin (INS 322(i))",
+    "chất tạo xốp Natri hydro carbonat (INS 500(ii))",
+    "chất chống oxy hóa Acid ascorbic (L-) (INS 300)",
+    "chất điều vị Mononatri L-glutamat (INS 621)",
+    "phẩm màu tổng hợp Sunset yellow FCF (INS 110)",
+    "chất điều chỉnh độ acid (INS 330)"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa bột mì, sữa và đậu nành.",
+    "Sản phẩm có thể chứa: Hạt phỉ và đậu phộng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": [
+      "hạt_cây",
+      "đậu_phộng"
+    ]
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "hạt_cây",
+      "sữa",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": "Indonesia",
+  "net_weight": "120 g (6 g x 20 gói)",
+  "mfg_date": "Xem MFG trên bao bì sản phẩm.",
+  "expiry_date": "Xem EXP trên bao bì sản phẩm.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "image_id": "0503",
+  "product_name": "BÁNH QUY YẾN MẠCH DÂU TÂY VÀ LÝ CHUA ĐEN",
+  "gold_ingredients_raw": [
+    "Yến mạch (34,6%)",
+    "bột mì",
+    "chất béo thực vật (dầu cọ)",
+    "đường",
+    "mạch nha",
+    "trái cây khô (dâu tây, lý chua đen) (3,8%)",
+    "sữa bột",
+    "chất bổ sung (calci carbonat)",
+    "hạt phỉ",
+    "muối"
+  ],
+  "gold_additives_raw": [
+    "chất tạo xốp (500(ii), 503(ii))",
+    "chất nhũ hóa (322(i))",
+    "hương liệu tổng hợp (dâu tây)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "123 kcal (517 kJ)"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2.3 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "5.0 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "2.0 g"
+    },
+    {
+      "name": "Chất béo trans",
+      "value": "0.0 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "17.3 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "5.6 g"
+    },
+    {
+      "name": "Chất xơ",
+      "value": "1.4 g"
+    },
+    {
+      "name": "Natri",
+      "value": "57 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "88 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm chứa bột mì, sữa, các loại hạt, đậu nành.",
+    "Có thể chứa đậu phộng vì được sản xuất tại nhà máy có sử dụng nguyên liệu đậu phộng.",
+    "Đối tượng sử dụng: 2 tuổi trở lên."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": [
+      "đậu_phộng"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [
+      "đậu_phộng"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2,
+      "child_supervision": 1
+    }
+  },
+  "origin": "Malaysia.",
+  "net_weight": "156 g (6 gói x 26 g)",
+  "mfg_date": "NSX, HSD xem “PROD” và “EXP” trên bao bì.",
+  "expiry_date": "NSX, HSD xem “PROD” và “EXP” trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

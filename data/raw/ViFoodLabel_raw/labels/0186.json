@@ -1,0 +1,69 @@
+{
+  "product_name": "THỰC PHẨM BỔ SUNG – BÁNH ĂN SÁNG C’EST BON SỢI THỊT GÀ",
+  "ingredient": [
+    "TRỨNG (25,1%)",
+    "BỘT MÌ",
+    "ĐƯỜNG",
+    "DẦU THỰC VẬT",
+    "CHẢ BÔNG GÀ (RUỐC THỊT GÀ) (5,1%) (THỊT ỨC GÀ TƯƠI, ĐƯỜNG, NƯỚC MẮM, NƯỚC TƯƠNG)",
+    "MẠCH NHA GLUCOSE",
+    "BỘT LÒNG TRẮNG TRỨNG",
+    "CỒN THỰC PHẨM",
+    "MẠCH NHA ISOMALTO OLIGOSACCHARIDE",
+    "CANXI CARBONAT (0,44%)",
+    "BƠ",
+    "MUỐI I-ỐT",
+    "ĐƯỜNG THỰC VẬT LÊN MEN",
+    "MUỐI",
+    "SẮT (II) PYROPHOSPHAT (0,04%)"
+  ],
+  "additive": [
+    "CHẤT ĐIỀU VỊ (621)",
+    "CHẤT LÀM ẨM (420(ii), 1520, 422)",
+    "CHẤT ỔN ĐỊNH (1442, 415)",
+    "HƯƠNG LIỆU GIỐNG TỰ NHIÊN (THỊT, BƠ, BÁNH MÌ)",
+    "CHẤT TẠO XỐP (575, 500(ii))",
+    "CHẤT XỬ LÝ BỘT (1100(ii))"
+  ],
+  "warning": [
+    "SẢN PHẨM KHÔNG DÙNG CHO NGƯỜI DỊ ỨNG VỚI CÁC THÀNH PHẦN SAU: TRỨNG, LÚA MÌ, SỮA, CÁ VÀ ĐẬU NÀNH."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "390 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "18 g"
+    },
+    {
+      "name": "Natri",
+      "value": "410 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "47 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "23 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "10 g"
+    },
+    {
+      "name": "Sắt",
+      "value": "13 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "210 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

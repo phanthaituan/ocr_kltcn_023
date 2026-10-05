@@ -1,0 +1,56 @@
+{
+  "product_name": "Cà phê Muối",
+  "ingredient": [
+    "Nondairy creamer (Glucose syrup, Refined palm kernel oil and/or refined coconut oil, Caseinate, Stabilizers (E340ii, E452i), Emulsifier (E471), Anti-caking agent (E551), Colour (E160a))",
+    "Sugar",
+    "Maltodextrine",
+    "Coconut cream powder used in food industry (contains skimmed milk powder)",
+    "Instant coffee powder (100 % from green coffee beans) (8.2 %)",
+    "Salt (1.5 %)"
+  ],
+  "additive": [
+    "Stabilizers (E340ii, E452i)",
+    "Emulsifier (E471)",
+    "Anti-caking agent (E551)",
+    "Colour (E160a)",
+    "Synthetic flavours used in food industry (coconut milk flavour)"
+  ],
+  "warning": [
+    "Do not use for those who are allergic to the product ingredients.",
+    "Keep children out of reach to avoid burns when preparing SaltCoffee."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "90 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0,9 g"
+    },
+    {
+      "name": "Chất béo tổng",
+      "value": "3,1 g"
+    },
+    {
+      "name": "Chất béo Trans",
+      "value": "0 g"
+    },
+    {
+      "name": "Hydrat cacbon",
+      "value": "14,8 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "8,2 g"
+    },
+    {
+      "name": "Natri",
+      "value": "114,4 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "180 g (9 sachets x 20 g)",
+"mfg_date": "Printed on the label.",
+"expiry_date": "Printed on the label."
+}

@@ -1,0 +1,58 @@
+{
+  "product_name": "BÁNH GẠO RONG BIỂN WANT WANT VỊ CÁ NGỪ BONITO",
+  "ingredient": [
+    "Gạo (59,0%)",
+    "Dầu cọ (có chất chống oxy hóa (319))",
+    "Đường",
+    "Hỗn hợp gia vị(Bột gia vị hải sản,CHiết xuất nấm men,chất làm dày(440),tinh bột khoai tây,muối,chất làm dày(466))",
+    "Bột nếp",
+    "Tinh bột sắn",
+    "Nước tương (Nước,đậu nành,lúa mì,Muối)",
+    "Gia vị cá ngừ Bonito(1.4%)",
+    "Muối",
+    "Rượu nấu ăn",
+    "Rong biển (0,9%)"
+  ],
+  "additive": [
+    "chất làm dày (440)",
+    "chất làm dày (466)",
+    "chất chống oxy hóa (319)"
+  ],
+  "warning": [
+    "Sản phẩm này có chứa các thành phần làm từ đậu nành, lúa mì, cá ngừ và cá mòi."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng (Energy)",
+      "value": "498 kcal"
+    },
+    {
+      "name": "Chất đạm (Protein)",
+      "value": "5,7 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "68,4 g"
+    },
+    {
+      "name": "Đường tổng số (Total Sugars)",
+      "value": "9,2 g"
+    },
+    {
+      "name": "Chất béo (Fat)",
+      "value": "22,4 g"
+    },
+    {
+      "name": "Chất béo bão hòa (Saturated Fat)",
+      "value": "10,0 g"
+    },
+    {
+      "name": "Natri (Sodium)",
+      "value": "699 mg"
+    }
+  ],
+  "origin": "SẢN XUẤT TẠI VIỆT NAM",
+  "net_weight": null,
+  "mfg_date": "21012026",
+  "expiry_date": "20102026"
+}

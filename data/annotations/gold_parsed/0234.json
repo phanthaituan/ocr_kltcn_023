@@ -1,0 +1,112 @@
+{
+  "image_id": "0234",
+  "product_name": null,
+  "gold_ingredients_raw": [],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "112,3 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "5,5 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "4,3 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "15,5 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "15,3 g"
+    },
+    {
+      "name": "Omega 6",
+      "value": "55,6 mg"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "450 IU"
+    },
+    {
+      "name": "Vitamin D3",
+      "value": "90 IU"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "216 µg"
+    },
+    {
+      "name": "Vitamin B2",
+      "value": "324 µg"
+    },
+    {
+      "name": "Vitamin B3",
+      "value": "2250 µg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "252 µg"
+    },
+    {
+      "name": "Biotin",
+      "value": "8,1 µg"
+    },
+    {
+      "name": "Natri",
+      "value": "54 mg"
+    },
+    {
+      "name": "Kali",
+      "value": "198 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "108 mg"
+    },
+    {
+      "name": "Phốt pho",
+      "value": "108 mg"
+    },
+    {
+      "name": "Magiê",
+      "value": "18 mg"
+    },
+    {
+      "name": "Sắt",
+      "value": "1,3 mg"
+    },
+    {
+      "name": "Kẽm",
+      "value": "0,9 mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì",
+  "expiry_date": "Xem trên bao bì",
+  "completeness": {
+    "has_ingredient": false,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

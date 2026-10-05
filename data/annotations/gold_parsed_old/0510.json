@@ -1,0 +1,105 @@
+{
+  "image_id": "0510",
+  "product_name": "SNACK RONG BIỂN CUỘN BÁNH GẠO BẮP Hương Vị Mực Nướng Cay",
+  "gold_ingredients_raw": [
+    "Bánh gạo bắp 42,7% (bắp, gạo, dầu cọ)",
+    "đường làm bánh (đường tinh luyện, bột bắp)",
+    "rong biển 17,8%",
+    "dầu cọ",
+    "gia vị hương mực nướng cay 5,4% [đường, bột hải sản (bột cá mối vạch, bột tôm), muối, chất điều vị (621, 640, 635), bột gia vị (bột me, bột tỏi, bột ớt), hương liệu mực nướng giống tự nhiên, maltodextrin, nhựa dầu ớt, chất chống đông vón (551, 341(iii)), phẩm màu tự nhiên (160c(i)), chất điều chỉnh độ acid (330), chất tạo ngọt tổng hợp (951, 955)]",
+    "dextrose",
+    "maltodextrin",
+    "muối",
+    "hỗn hợp calci lactat và calci gluconat 0,01%"
+  ],
+  "gold_additives_raw": [
+    "chất điều vị (621, 640, 635)",
+    "hương liệu mực nướng giống tự nhiên",
+    "chất chống đông vón (551, 341(iii))",
+    "phẩm màu tự nhiên (160c(i))",
+    "chất điều chỉnh độ acid (330)",
+    "chất tạo ngọt tổng hợp (951, 955)",
+    "chất điều vị (621)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "28 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0,74 g"
+    },
+    {
+      "name": "Natri",
+      "value": "35,4 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "4,66 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "2,47 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0,58 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "0,23 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Có chứa cá, tôm.",
+    "Được sản xuất chung dây chuyền sản xuất các sản phẩm có chứa đậu nành, lúa mì, sữa.",
+    "Không sử dụng sản phẩm khi đã hết hạn sử dụng hoặc dị ứng với các thành phần trên."
+  ],
+  "allergen_final": {
+    "contains": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "hải_sản",
+      "ngô",
+      "nhuyễn_thể",
+      "rong_biển",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [
+      "cá",
+      "giáp_xác",
+      "hải_sản",
+      "ngô",
+      "nhuyễn_thể",
+      "rong_biển"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "named_allergy": 2,
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

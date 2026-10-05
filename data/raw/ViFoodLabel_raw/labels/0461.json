@@ -1,0 +1,68 @@
+{
+  "product_name": "BÁNH DỪA NƯỚNG",
+  "ingredient": [
+    "Bột mì",
+    "Chất béo thực vật",
+    "Đường",
+    "Cơm dừa sấy (1%)",
+    "Mạch nha",
+    "Muối",
+    "Men khô"
+  ],
+  "additive": [
+    "Chất tạo xốp (INS 503(ii), INS 500(ii), INS 450(i))",
+    "Hương thực phẩm tổng hợp (dừa, vani)",
+    "Chất nhũ hóa (INS 322(i))",
+    "Chất xử lý bột (INS 223)"
+  ],
+  "warning": [
+    "Không dùng sản phẩm khi hết hạn sử dụng, bị mốc, có mùi vị lạ.",
+    "Sản phẩm chứa các thành phần có thể gây dị ứng như bột mì, đậu nành từ chất nhũ hóa và sulfite."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "519 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "7,49 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "24,7 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "10,308 g"
+    },
+    {
+      "name": "Chất béo chuyển hóa",
+      "value": "0,127 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "66,12 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "19,3 g"
+    },
+    {
+      "name": "Chất xơ tổng số",
+      "value": "1,25 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0,0 mg"
+    },
+    {
+      "name": "Natri",
+      "value": "388 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "160 g (5,64 oz)",
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì."
+}

@@ -1,0 +1,60 @@
+{
+  "product_name": "BÁNH GOUTE MÈ GIÒN TAN",
+  "ingredient": [
+    "BỘT MÌ",
+    "ĐƯỜNG",
+    "DẦU DỪA",
+    "SHORTENING TỪ ĐỘNG VẬT VÀ THỰC VẬT",
+    "CƠM DỪA SẤY",
+    "HẠT MÈ TRẮNG (2,9%)",
+    "BỘT WHEY",
+    "SỮA BỘT NGUYÊN KEM",
+    "CHẤT BÉO THỰC VẬT (CÓ CHỨA CHẤT ĐIỀU CHỈNH ĐỘ ACID (260))",
+    "MUỐI I-ỐT",
+    "ĐƯỜNG DEXTROSE",
+    "GIA VỊ MUỐI (CÓ CHỨA CHẤT ĐIỀU VỊ (621), CHẤT ỔN ĐỊNH (341(iii)))",
+    "HỖN HỢP BỘT NGŨ CỐC",
+    "BỘT PHÔ MAI (CÓ CHỨA CHẤT ỔN ĐỊNH (339(ii)))"
+  ],
+  "additive": [
+    "CHẤT TẠO XỐP (503(ii), 500(ii))",
+    "CHẤT TẠO MÀU TỰ NHIÊN (160a(ii))",
+    "HƯƠNG LIỆU TỔNG HỢP (DỪA, SỮA)",
+    "CHẤT ỔN ĐỊNH (339(ii))",
+    "CHẤT ỔN ĐỊNH (415)",
+    "CHẤT XỬ LÝ BỘT (223)"
+  ],
+  "warning": [
+    "SẢN PHẨM KHÔNG DÙNG CHO NGƯỜI DỊ ỨNG VỚI CÁC THÀNH PHẦN SAU: LÚA MÌ, SỮA, SULFIT VÀ CÓ THỂ CHỨA ĐẬU NÀNH, YẾN MẠCH."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "512 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "7,3 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "62,9 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "29,7 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "25,1 g"
+    },
+    {
+      "name": "Natri",
+      "value": "320 mg"
+    }
+  ],
+  "origin": "VIỆT NAM",
+  "net_weight": "null",
+  "mfg_date": "ĐƯỢC IN TRÊN BAO BÌ (NGÀY / THÁNG / NĂM).",
+  "expiry_date": null
+}

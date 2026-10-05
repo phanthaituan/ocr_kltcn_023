@@ -1,0 +1,57 @@
+{
+  "product_name": "Oishi Snack Bắp Vị Sữa",
+  "ingredient": [
+    "Bắp (30%)",
+    "Dầu ăn (với Chất chống oxy hóa: (320, 321))",
+    "Bột mì",
+    "Đường",
+    "Sữa bột (8%)",
+    "Bột gạo",
+    "Muối i-ốt",
+    "Bột kem không sữa",
+    "Chất xơ lúa mì"
+  ],
+  "additive": [
+    "Chất chống oxy hóa: (320, 321)",
+    "Chất ổn định (471, 170(i))",
+    "Hương sữa giống tự nhiên"
+  ],
+  "warning": [
+    "Sản phẩm có chứa Lúa Mì, Sữa.",
+    "Được sản xuất trên cùng thiết bị và/hoặc trên dây chuyền chế biến các sản phẩm có thành phần gây dị ứng như: Đậu Nành, Hải Sản, Trứng, Yến Mạch và Đậu Phộng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "165 Kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "10 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "4,5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "120 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "16 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "5 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2 g"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": "Hạn sử dụng 6 tháng kể từ ngày sản xuất",
+  "expiry_date": null
+}

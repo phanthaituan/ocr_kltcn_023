@@ -1,0 +1,63 @@
+{
+  "product_name": "BÁNH QUY SỮA",
+  "ingredient": [
+    "Bột mì",
+    "Dầu thực vật",
+    "Đường",
+    "Tinh bột bắp",
+    "Đường bắp",
+    "Bột whey (1,1%)",
+    "Dầu bơ khan",
+    "Mạch nha",
+    "Bột nếp",
+    "Shortening",
+    "Bột sữa béo (0,58%)",
+    "Muối"
+  ],
+  "additive": [
+    "Chất tạo xốp (500(ii))",
+    "(503(ii))",
+    "Hương liệu tổng hợp (Sữa, Vani)",
+    "Chất điều chỉnh độ acid (450(i))",
+    "Chất nhũ hóa (322(i))",
+    "Chất chống oxy hóa (223)"
+  ],
+  "warning": [
+    "Thành phần sản phẩm có chứa: Lúa mì, đậu nành, sữa.",
+    "Sản phẩm có thể chứa trứng, mè, hạnh nhân, cá, động vật giáp xác."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "474 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "5,66 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "73,86 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "19,90 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "17,10 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "7,19 g"
+    },
+    {
+      "name": "Natri",
+      "value": "417 mg"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam/ Made in Vietnam",
+  "net_weight": "160 g (5,64 oz) (5 gói x 32 g)",
+  "mfg_date": "Xem “PRO” / “EXP” trên bao bì.",
+  "expiry_date": "Xem “PRO” / “EXP” trên bao bì."
+}

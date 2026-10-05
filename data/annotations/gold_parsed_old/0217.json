@@ -1,0 +1,104 @@
+{
+  "image_id": "0217",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Sữa chiết từ đậu nành nguyên hạt (52,3%)",
+    "nước",
+    "đường (5%)",
+    "mè đen nghiền (16 g/l)",
+    "dầu thực vật",
+    "muối ăn",
+    "vitamin (E, B3, A, D3, Biotin)"
+  ],
+  "gold_additives_raw": [
+    "chất nhũ hóa (471, 460(i), 466) có nguồn gốc từ thực vật",
+    "hương liệu giống tự nhiên dùng cho thực phẩm",
+    "chất điều chỉnh độ acid (500(ii))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "53.1 kcal"
+    },
+    {
+      "name": "CHẤT ĐẠM",
+      "value": "1.2 g"
+    },
+    {
+      "name": "CHẤT BÉO",
+      "value": "2.7 g"
+    },
+    {
+      "name": "CARBOHYDRAT",
+      "value": "6.0 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ",
+      "value": "5.5 g"
+    },
+    {
+      "name": "NATRI",
+      "value": "32 mg"
+    },
+    {
+      "name": "VITAMIN A",
+      "value": "175 IU"
+    },
+    {
+      "name": "VITAMIN D3",
+      "value": "60 IU"
+    },
+    {
+      "name": "VITAMIN E",
+      "value": "1.0 mg"
+    },
+    {
+      "name": "NIACIN (VITAMIN B3)",
+      "value": "1.0 mg"
+    },
+    {
+      "name": "BIOTIN",
+      "value": "9.0 µg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Có chứa đậu nành, mè.",
+    "Dùng cho người trên 4 tuổi không dị ứng với thành phần của sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [
+      "hạt_vừng",
+      "nhuyễn_thể",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "hạt_vừng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [
+      "hạt_vừng",
+      "nhuyễn_thể",
+      "sữa",
+      "đậu_nành"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam.",
+  "net_weight": null,
+  "mfg_date": "06 tháng trước HSD.",
+  "expiry_date": "Xem trên hộp",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "image_id": "0037",
+  "product_name": "BÁNH GẠO NƯỚNG AN VỊ SƯỜN NƯỚNG TẢNG",
+  "gold_ingredients_raw": [
+    "GẠO JAPONICA 47,2%",
+    "DẦU THỰC VẬT",
+    "ĐƯỜNG",
+    "BỘT GIA VỊ SƯỜN NƯỚNG TẢNG 5,6% (ĐƯỜNG, MUỐI, CHẤT ĐIỀU VỊ (621, 627, 631), ĐẠM ĐẬU NÀNH THỦY PHÂN, HƯƠNG LIỆU (GIỐNG TỰ NHIÊN), MALTODEXTRIN, BỘT NƯỚC TƯƠNG, CHẤT CHỐNG ĐÔNG VÓN (551), BỘT SỮA, CHẤT ĐIỀU CHỈNH ĐỘ ACID (330), CHẤT TẠO MÀU TỰ NHIÊN (160c(i)), CHẤT TẠO NGỌT TỔNG HỢP (951), CHẤT CHỐNG OXY HÓA (307c))",
+    "SHORTENING TỪ ĐỘNG VẬT VÀ THỰC VẬT",
+    "TINH BỘT KHOAI TÂY",
+    "MUỐI I-ỐT",
+    "BỘT GIA VỊ MUỐI (MUỐI, CHẤT ĐIỀU VỊ (621))"
+  ],
+  "gold_additives_raw": [
+    "CHẤT LÀM DÀY (1420)",
+    "CHẤT ĐIỀU VỊ (621, 627, 631)",
+    "HƯƠNG LIỆU (GIỐNG TỰ NHIÊN)",
+    "CHẤT CHỐNG ĐÔNG VÓN (551)",
+    "CHẤT ĐIỀU CHỈNH ĐỘ ACID (330)",
+    "CHẤT TẠO MÀU TỰ NHIÊN (160c(i))",
+    "CHẤT TẠO NGỌT TỔNG HỢP (951)",
+    "CHẤT CHỐNG OXY HÓA (307c)",
+    "CHẤT ĐIỀU VỊ (621)",
+    "HƯƠNG LIỆU GIỐNG TỰ NHIÊN (GẠO RANG)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "508 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "4,5 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "66,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "7,2 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "24,7 g"
+    },
+    {
+      "name": "Chất béo bão hoà",
+      "value": "11,0 g"
+    },
+    {
+      "name": "Natri",
+      "value": "816 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "SẢN PHẨM CÓ CHỨA CÁC THÀNH PHẦN DỊ ỨNG SAU: SỮA, ĐẬU NÀNH, LÚA MÌ VÀ CÓ THỂ CHỨA CÁ, TÔM."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "VIỆT NAM",
+  "net_weight": "105.8 g (14 Miếng x 7,56 g)",
+  "mfg_date": "30.01.26",
+  "expiry_date": "8 THÁNG KỂ TỪ NGÀY SẢN XUẤT",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

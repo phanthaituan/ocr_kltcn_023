@@ -1,0 +1,51 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Đường",
+    "bơ cacao",
+    "bột sữa"
+  ],
+  "additive": [
+    "chất nhũ hóa (322(i))",
+    "hương liệu vani tự nhiên"
+  ],
+  "warning": [
+    "Không sử dụng khi sản phẩm đã hết hạn.",
+    "Tránh sử dụng cho người bị dị ứng với các thành phần của sản phẩm.",
+    "Sự thay đổi trên 10 °C so với nhiệt độ bảo quản tiêu chuẩn, bề mặt sô cô la có thể hình thành 1 lớp phấn trắng, điều này không ảnh hưởng đến chất lượng sản phẩm."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "540 kcal"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "36 g"
+    },
+    {
+      "name": "Béo tổng",
+      "value": "42 g"
+    },
+    {
+      "name": "Đạm tổng",
+      "value": "5 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "28 g"
+    },
+    {
+      "name": "Natri",
+      "value": "65 mg"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "35 g"
+    }
+  ],
+  "origin": "VIỆT NAM",
+  "net_weight": "85 g",
+  "mfg_date": "21.10.25",
+  "expiry_date": "21.10.26"
+}

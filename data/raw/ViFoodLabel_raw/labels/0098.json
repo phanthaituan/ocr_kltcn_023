@@ -1,0 +1,58 @@
+{
+  "product_name": "Mì dinh dưỡng khoai tây OMACHI hương vị Lẩu tôm càng",
+  "ingredient": [
+    "Vắt mì: Bột mì, dầu cọ, tinh bột khoai mì, muối, nước mắm, bột lòng đỏ trứng, chiết xuất trái dành dành, bột cari",
+    "Súp: Dầu cọ, đường, muối, tỏi, ớt, đạm đậu nành, thơm, ngò gai, ngò om,bôt tôm, hành lá sấy, hành tím, hỗn hợp protein sấy vụn, cà chua bột, dưa chua (cải bẹ, hành tím, muối, đường, cà chua dạng sệt, ngò gai sấy, ớt sấy, nước cốt xương thịt (nước, xương heo, muối, thịt heo), bột tỏi, nước mắm, tôm khô, hành tây, chiết xuất nấm men, gạo, khổ mực, mắm ruốc, bột tiêu, hương liệu (hương tôm càng nướng tổng hợp), ruốc khô, bột chiết xuất sườn heo, me, nguyên liệu vitamin E acetate (DL-alpha-tocopheryl acetate), dầu hạt cải dầu, D-xylose, chiết xuất tự nhiên từ quả ớt"
+  ],
+  "additive": [
+    "chất ổn định (1420, 500(i), 500(ii))",
+    "chất điều vị (621, 635)",
+    "chất làm ẩm (451(i), 452(i))",
+    "chất chống oxy hóa (307c, 320, 321, 330)",
+    "chất điều chỉnh độ acid (330, 260)",
+    "chất điều chỉnh độ acid (260)",
+    "hương liệu",
+    "hương liệu (hương tôm càng nướng tổng hợp)",
+    "nguyên liệu vitamin E acetate (DL-alpha-tocopheryl acetate)",
+    "chất nhũ hóa (472e)",
+    "chất chống oxy hóa (320, 321)"
+  ],
+  "warning": [
+    "Sản phẩm chứa các nguyên liệu có nguồn gốc từ lúa mì, thủy sản, trứng, đậu nành",
+    "Có thể chứa vết đậu phộng và hạt điều"
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "361,1 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "8,2 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "46,3 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "5,0 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "15,9 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "6,9 g"
+    },
+    {
+      "name": "Natri",
+      "value": "1961 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": "80 g",
+  "mfg_date": null,
+  "expiry_date": null
+}

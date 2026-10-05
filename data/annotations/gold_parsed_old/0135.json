@@ -1,0 +1,68 @@
+{
+  "image_id": "0135",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Cá bống (95 %)",
+    "(đường, muối) (5 %)"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "301 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "36,9 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "34,9 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "1,5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "1969 mg"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "30,8 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng đối với người có khả năng mẫn cảm hoặc dị ứng với các thành phần trong sản phẩm.",
+    "Không dùng sản phẩm có màu sắc, mùi vị bất thường, sản phẩm hết hạn sử dụng.",
+    "Gói hút ẩm/ gói hút oxy trong sản phẩm không được ăn, để xa tầm tay trẻ em."
+  ],
+  "allergen_final": {
+    "contains": [
+      "cá"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "cá"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1,
+      "expiry_usage": 1,
+      "child_supervision": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "70 g",
+  "mfg_date": "20/01/2026",
+  "expiry_date": "20/01/2027",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

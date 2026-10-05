@@ -1,0 +1,104 @@
+{
+  "image_id": "0472",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "dầu thực vật",
+    "bơ đậu phộng",
+    "bột ngô",
+    "đường",
+    "tinh bột bắp",
+    "chất đạm đậu nành",
+    "gia vị tôm",
+    "nước mắm",
+    "muối"
+  ],
+  "gold_additives_raw": [
+    "chất điều vị (621)",
+    "chất tạo xốp (500ii, 503ii)",
+    "chất chống oxy hóa (320)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Khẩu phần",
+      "value": "100g"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "577 kcal/100g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "38.5g 68.8%"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "17.5g 87.5%"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "53.0g 16.3%"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "10.3g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "4.5g 9.0%"
+    },
+    {
+      "name": "Natri",
+      "value": "426mg 21.3%"
+    }
+  ],
+  "gold_warning_raw": [
+    "Chất gây dị ứng có trong thành phần: Đậu nành, lúa mì.",
+    "Trong xưởng sản xuất sản phẩm này có sản xuất các sản phẩm có liên quan đến: Sữa, tôm, cá.",
+    "Gói hút ẩm để trong bao bì không ăn được, lưu ý để xa tầm tay của trẻ em."
+  ],
+  "allergen_final": {
+    "contains": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2,
+      "child_supervision": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

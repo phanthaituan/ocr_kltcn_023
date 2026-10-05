@@ -1,0 +1,38 @@
+{
+  "product_name": "NHO KHÔ",
+  "ingredient": [
+    "40% Nho Vàng",
+    "30% Nho Đỏ",
+    "30% Nho Đen"
+  ],
+  "additive": [],
+  "warning": [
+    "Không dùng sản phẩm khi hết hạn, không ăn túi hút ẩm, hút oxy (nếu có) trong sản phẩm."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "294"
+    },
+    {
+      "name": "Năng lượng từ béo",
+      "value": "0"
+    },
+    {
+      "name": "Tổng chất béo",
+      "value": "0g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "71g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2,4g"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "500 G",
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì."
+}

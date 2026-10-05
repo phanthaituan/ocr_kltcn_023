@@ -1,0 +1,111 @@
+{
+  "image_id": "0074",
+  "product_name": "Bánh quy bơ Danisa",
+  "gold_ingredients_raw": [
+    "Bột Lúa Mì",
+    "Đường",
+    "Bơ (Từ Sữa) (17,16%)",
+    "Dầu Thực Vật (Dầu Dừa - chứa Chất Chống Oxy Hóa (INS307b))",
+    "Sirô Glucose",
+    "Trứng",
+    "Dừa Sấy",
+    "Nho Khô Không Hạt",
+    "Bột Sữa Tách Béo",
+    "Muối"
+  ],
+  "gold_additives_raw": [
+    "Chất Chống Oxy Hóa (INS307b)",
+    "Chất Tạo Xốp (INS503(ii))",
+    "Hương Liệu Nhân Tạo (Vani)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng Lượng",
+      "value": "507 kcal"
+    },
+    {
+      "name": "Chất Béo",
+      "value": "24 g"
+    },
+    {
+      "name": "Chất Béo Bão Hòa",
+      "value": "20 g"
+    },
+    {
+      "name": "Chất Béo Dạng Trans",
+      "value": "0 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "30 mg"
+    },
+    {
+      "name": "Chất Đạm",
+      "value": "6 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "66 g"
+    },
+    {
+      "name": "Chất Xơ",
+      "value": "0 g"
+    },
+    {
+      "name": "Đường Tổng Số",
+      "value": "21 g"
+    },
+    {
+      "name": "Natri",
+      "value": "200 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa Lúa Mì, Trứng và Sữa.",
+    "Không khuyến khích sử dụng cho người bị tiểu đường và dị ứng với thành phần sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [
+      "dừa",
+      "gluten",
+      "sữa",
+      "trứng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "sữa",
+      "trứng"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "trứng"
+    ],
+    "inferred_from_ingredient_additive": [
+      "dừa",
+      "gluten",
+      "sữa",
+      "trứng"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "Indonesia",
+  "net_weight": "72 g",
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

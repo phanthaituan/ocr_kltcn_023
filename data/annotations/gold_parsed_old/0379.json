@@ -1,0 +1,122 @@
+{
+  "image_id": "0379",
+  "product_name": "Crispy Seaweed Big Sheet Classic Flavor Taokaenoi Brand",
+  "gold_ingredients_raw": [
+    "Rong biển 50%",
+    "hỗn hợp dầu tinh 44% [dầu cọ, chất chống oxy hóa (INS 321), dầu cám gạo]",
+    "Maltodextrin",
+    "tiêu",
+    "muối"
+  ],
+  "gold_additives_raw": [
+    "chất chống oxy hóa (INS 321)",
+    "Flavour Enhancer (INS627, INS631)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Energy",
+      "value": "21 kcal"
+    },
+    {
+      "name": "Total Fat",
+      "value": "1.9g"
+    },
+    {
+      "name": "Saturated Fat",
+      "value": "0.6g"
+    },
+    {
+      "name": "Trans Fat",
+      "value": "0g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0mg"
+    },
+    {
+      "name": "Sodium",
+      "value": "20mg"
+    },
+    {
+      "name": "Total Carbohydrate",
+      "value": "0.5g"
+    },
+    {
+      "name": "Dietary Fiber",
+      "value": "0.5g"
+    },
+    {
+      "name": "Sugars",
+      "value": "0g"
+    },
+    {
+      "name": "Protein",
+      "value": "0.6g"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "21 kcal"
+    },
+    {
+      "name": "Tổng chất béo",
+      "value": "1,9g"
+    },
+    {
+      "name": "Chất béo hòa bão hòa",
+      "value": "0,6g"
+    },
+    {
+      "name": "Chất béo chuyển hóa",
+      "value": "0g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0mg"
+    },
+    {
+      "name": "Natri",
+      "value": "20mg"
+    },
+    {
+      "name": "Tổng Carbohydrate",
+      "value": "0,5g"
+    },
+    {
+      "name": "Chất xơ",
+      "value": "0,5g"
+    },
+    {
+      "name": "Đường",
+      "value": "0g"
+    },
+    {
+      "name": "Protein",
+      "value": "0,6g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm nếu bao bì bị hỏng hoặc hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Thái Lan",
+  "net_weight": "38,4 g (12 gói x 3,2 g)",
+  "mfg_date": "Xem “MFG” & “EXP” trên bao bì.",
+  "expiry_date": "Xem “MFG” & “EXP” trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

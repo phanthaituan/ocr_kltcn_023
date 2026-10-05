@@ -1,0 +1,44 @@
+{
+  "image_id": "0213",
+  "product_name": "Khô Gà Lá Chanh",
+  "gold_ingredients_raw": [
+    "Thịt ức gà (92 %)",
+    "lá chanh (3 %)",
+    "đường tinh luyện",
+    "nước mắm",
+    "bột canh"
+  ],
+  "gold_additives_raw": [
+    "chất điều vị (INS 621)"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Không sử dụng đối với người có khả năng mẫn cảm với các thành phần của sản phẩm, sản phẩm có màu sắc, mùi vị bất thường, sản phẩm hết hạn sử dụng"
+  ],
+  "allergen_final": {
+    "contains": [
+      "cá"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "cá"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam.",
+  "net_weight": null,
+  "mfg_date": "NSX: xem trên bao bì sản phẩm",
+  "expiry_date": "HSD: 9 tháng kể từ NSX.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

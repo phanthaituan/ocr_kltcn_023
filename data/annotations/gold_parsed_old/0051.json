@@ -1,0 +1,57 @@
+{
+  "image_id": "0051",
+  "product_name": "NHO KHÔ",
+  "gold_ingredients_raw": [
+    "40% Nho Vàng",
+    "30% Nho Đỏ",
+    "30% Nho Đen"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "294"
+    },
+    {
+      "name": "Năng lượng từ béo",
+      "value": "0"
+    },
+    {
+      "name": "Tổng chất béo",
+      "value": "0g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "71g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2,4g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không dùng sản phẩm khi hết hạn, không ăn túi hút ẩm, hút oxy (nếu có) trong sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "500 G",
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

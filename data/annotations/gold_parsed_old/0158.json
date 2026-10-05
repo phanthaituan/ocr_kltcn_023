@@ -1,0 +1,77 @@
+{
+  "image_id": "0158",
+  "product_name": "Pizza Manna",
+  "gold_ingredients_raw": [
+    "Đế pizza 53.4% (Bột mì 59.3%, nước, trứng gà, đường, bơ thực vật - BOS, dầu thực vật, muối, men khô (Saccharomyces cerevisiae))",
+    "phô mai - Pizza topping 22.9%",
+    "phô mai kem 7.3%",
+    "cà chua",
+    "sữa tươi không đường",
+    "cà rốt",
+    "cà chua dạng sệt",
+    "hành tây",
+    "đường muối",
+    "bột sữa",
+    "tỏi",
+    "dầu thực vật",
+    "lá kinh giới - oregano"
+  ],
+  "gold_additives_raw": [
+    "men khô (Saccharomyces cerevisiae)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "266 Kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "11.5 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "35.2 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "4.1 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "8.8 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "3.7 g"
+    },
+    {
+      "name": "Natri",
+      "value": "312 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm khi có dấu hiệu hư hỏng hoặc hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

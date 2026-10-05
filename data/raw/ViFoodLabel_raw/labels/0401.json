@@ -1,0 +1,32 @@
+{
+  "product_name": null,
+  "ingredient": [],
+  "additive": [],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "45 kcal"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "11,7 g"
+    },
+    {
+      "name": "Đường",
+      "value": "11,6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0 g"
+    },
+    {
+      "name": "Natri",
+      "value": "30 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "null",
+  "mfg_date": null,
+  "expiry_date": null
+}

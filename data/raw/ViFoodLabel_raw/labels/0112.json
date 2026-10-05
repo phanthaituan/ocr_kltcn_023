@@ -1,0 +1,39 @@
+{
+  "product_name": null,
+  "ingredient": [],
+  "additive": [],
+  "warning": [
+    "Không dùng sản phẩm có dấu hiệu hư hỏng hoặc hết hạn sử dụng.",
+    "Trẻ em từ 7 tháng tuổi trở lên."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng/ Energy",
+      "value": "392 kcal"
+    },
+    {
+      "name": "Chất đạm/ Protein",
+      "value": "5.78 g"
+    },
+    {
+      "name": "Chất béo/ Fat",
+      "value": "<0.5 g"
+    },
+    {
+      "name": "Carbohydrat/ Carbohydrate",
+      "value": "91.47 g"
+    },
+    {
+      "name": "Natri/ Sodium",
+      "value": "9.7 mg"
+    },
+    {
+      "name": "Đường/ Total sugars",
+      "value": "9.84 g"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "15 tháng kể từ ngày sản xuất."
+}

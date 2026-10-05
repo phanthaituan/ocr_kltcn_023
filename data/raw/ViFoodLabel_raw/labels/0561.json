@@ -1,0 +1,30 @@
+{
+  "product_name": "RONG BIỂN HÀN QUỐC",
+  "ingredient": [
+    "Rong biển Hàn Quốc 100%"
+  ],
+  "additive": [],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng lượng (kcal)",
+      "value": "157,2 - 235,8"
+    },
+    {
+      "name": "Chất đạm (g)",
+      "value": "16,72 - 25,08"
+    },
+    {
+      "name": "Carbohydrat (g)",
+      "value": "≤ 6"
+    },
+    {
+      "name": "Chất béo (g)",
+      "value": "≤ 6"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

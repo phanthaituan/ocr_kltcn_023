@@ -1,0 +1,71 @@
+{
+  "image_id": "0521",
+  "product_name": "TH true FOOD CHÁO TƯƠI THỊT HEO BÍ ĐỎ",
+  "gold_ingredients_raw": [
+    "Nước hầm xương (nước, xương gà)",
+    "gạo (12,3%) (Japonica, nếp cái hoa vàng)",
+    "bí đỏ (2,6%)",
+    "khoai lang",
+    "bột hạt sen",
+    "thịt heo (1,6%)",
+    "nước",
+    "dầu hạt cải",
+    "protein thịt heo (0,1%)"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "78 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2,4 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "14,4 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "2,7 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "1,2 g"
+    },
+    {
+      "name": "Natri",
+      "value": "39 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng khi sản phẩm có dấu hiệu hư hỏng, hết hạn sử dụng hoặc khi bị dị ứng với các thành phần của sản phẩm.",
+    "Không cho trực tiếp gói sản phẩm vào lò vi sóng.",
+    "Sản phẩm này phù hợp cho trẻ từ 6 tháng tuổi trở lên và người lớn."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1,
+      "desiccant_or_misc": 1,
+      "child_supervision": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": "01/12/2025",
+  "expiry_date": "28/07/2026",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

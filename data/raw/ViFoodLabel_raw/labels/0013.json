@@ -1,0 +1,40 @@
+{
+  "product_name": null,
+  "ingredient": [],
+  "additive": [],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "113 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,31 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "17,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "7,13 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "4,21 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "2,16 g"
+    },
+    {
+      "name": "Natri",
+      "value": "101 mg"
+    }
+  ],
+  "origin": "Việt Nam tại Thành Phố Hồ Chí Minh",
+  "net_weight": "324 g (12 gói x 27 g)",
+  "mfg_date": null,
+  "expiry_date": null
+}

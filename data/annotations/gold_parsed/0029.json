@@ -1,0 +1,101 @@
+{
+  "image_id": "0029",
+  "product_name": "Bánh xốp ống Deka Jumbo phô mai sầu riêng Cheesy Durian",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "Đường",
+    "Chất béo thực vật",
+    "Bột sữa",
+    "Bột whey",
+    "Tinh bột ngô",
+    "Maltodextrin",
+    "Bột kem dừa (có chứa Đạm sữa)",
+    "Gia vị phô mai (có chứa Đường, Sản phẩm từ Sữa, Bột phô mai (0,02%), Muối, Bột dừa, Chất điều vị: Mononatri L-glutamat, Đạm đậu nành thủy phân, Chất chống đông vón: Dioxyd silic vô định hình, Chất tạo màu tự nhiên: Paprika oleoresin, Curcumin, Hương liệu bơ tổng hợp)",
+    "Muối",
+    "Bột sầu riêng (0,04%)"
+  ],
+  "gold_additives_raw": [
+    "Chất nhũ hóa: Lecithin đậu nành",
+    "Chất điều vị: Mononatri L-glutamat",
+    "Chất chống đông vón: Dioxyd silic vô định hình",
+    "Chất tạo màu tự nhiên: Paprika oleoresin, Curcumin",
+    "Hương liệu bơ tổng hợp",
+    "Hương liệu tổng hợp (Sầu riêng, Đường thốt nốt, Vani)",
+    "Chất tạo màu tổng hợp: Tartrazin"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "70 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "3 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "10 g"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "6 g"
+    },
+    {
+      "name": "Natri",
+      "value": "25 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Có chứa lúa mì, đậu nành và sữa.",
+    "Có thể chứa trứng và đậu phộng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": [
+      "trứng",
+      "đậu_phộng"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [
+      "trứng",
+      "đậu_phộng"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": "Indonesia",
+  "net_weight": "140 g (14 g x 10 cây)",
+  "mfg_date": "Xem “PRODUCTION CODE” trên bao bì.",
+  "expiry_date": "Xem “BEST BEFORE” trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

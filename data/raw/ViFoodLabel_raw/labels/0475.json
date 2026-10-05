@@ -1,0 +1,77 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Vắt sợi: Bột mì",
+    "dầu cọ",
+    "tinh bột khoai mì",
+    "muối",
+    "bột nếp",
+    "Gói xốt: Nước",
+    "dầu cọ",
+    "cà chua (130 g/kg)",
+    "đường",
+    "hành",
+    "hỗn hợp bột (bột hành, bột tỏi, bột ớt, bột tiêu)",
+    "tỏi",
+    "muối",
+    "cốt nước tương",
+    "nước mắm",
+    "dịch chiết bò tươi (14 g/kg)",
+    "chiết xuất nấm men",
+    "bột gia vị",
+    "bột cà chua",
+    "bột sữa dừa",
+    "bột tôm khô chiết xuất",
+    "Gói rau: Rau sấy (hành lá, hành tây, cà rốt)"
+  ],
+  "additive": [
+    "chất điều vị (621, 631, 627)",
+    "chất tạo xốp (500(ii), 452(i))",
+    "chất ổn định (451(i), 405)",
+    "chất tạo màu (màu tổng hợp (101(iii)), màu tự nhiên (164))",
+    "chất chống oxy hóa (320, 307b)",
+    "chất làm dày (422, 1442, 415)",
+    "chất điều vị (621, 631, 627, 364(ii))",
+    "hương liệu tổng hợp dùng cho thực phẩm",
+    "chất điều chỉnh độ acid (330, 296)",
+    "chất bảo quản (202, 211)",
+    "chất tạo màu (màu tự nhiên (160c(i)), màu tổng hợp (150d))",
+    "chất tạo ngọt tổng hợp (950)",
+    "chất chống oxy hóa (319)"
+  ],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Giá trị năng lượng",
+      "value": "430,5 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "18,48 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "9,09 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "56,84 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "7,9 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "5,51 g"
+    },
+    {
+      "name": "Natri",
+      "value": "1354,5 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

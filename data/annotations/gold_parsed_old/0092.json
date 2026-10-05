@@ -1,0 +1,189 @@
+{
+  "image_id": "0092",
+  "product_name": null,
+  "gold_ingredients_raw": [],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "105 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3,8 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "4,8 g"
+    },
+    {
+      "name": "MCT",
+      "value": "0,5 g"
+    },
+    {
+      "name": "Acid linoleic",
+      "value": "286 mg"
+    },
+    {
+      "name": "Acid alpha-linolenic",
+      "value": "35,3 mg"
+    },
+    {
+      "name": "DHA",
+      "value": "6,7 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "11,2 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "10 g"
+    },
+    {
+      "name": "Chất xơ hòa tan",
+      "value": "0,88 g"
+    },
+    {
+      "name": "2'-Fucosyllactose (2'-FL)",
+      "value": "22,6 mg"
+    },
+    {
+      "name": "Nucleotid",
+      "value": "4,2 mg"
+    },
+    {
+      "name": "Lysin",
+      "value": "297 mg"
+    },
+    {
+      "name": "Taurin",
+      "value": "9,5 mg"
+    },
+    {
+      "name": "Natri",
+      "value": "55 mg"
+    },
+    {
+      "name": "Kali",
+      "value": "158 mg"
+    },
+    {
+      "name": "Clorid",
+      "value": "99 mg"
+    },
+    {
+      "name": "Calci",
+      "value": "201 mg"
+    },
+    {
+      "name": "Phospho",
+      "value": "143 mg"
+    },
+    {
+      "name": "Magnesi",
+      "value": "12,4 mg"
+    },
+    {
+      "name": "Mangan",
+      "value": "165 µg"
+    },
+    {
+      "name": "Sắt",
+      "value": "0,98 mg"
+    },
+    {
+      "name": "Iod",
+      "value": "17,6 µg"
+    },
+    {
+      "name": "Kẽm",
+      "value": "0,74 mg"
+    },
+    {
+      "name": "Đồng",
+      "value": "0,07 mg"
+    },
+    {
+      "name": "Selen",
+      "value": "4 µg"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "319 IU"
+    },
+    {
+      "name": "Vitamin D3",
+      "value": "88 IU"
+    },
+    {
+      "name": "Vitamin E",
+      "value": "1,8 mg TE"
+    },
+    {
+      "name": "Vitamin K1",
+      "value": "5,8 µg"
+    },
+    {
+      "name": "Vitamin K2",
+      "value": "4 µg"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "1,1 mg"
+    },
+    {
+      "name": "Vitamin B2",
+      "value": "0,42 mg"
+    },
+    {
+      "name": "Niacin",
+      "value": "1,4 mg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "0,2 mg"
+    },
+    {
+      "name": "Acid folic",
+      "value": "3 µg"
+    },
+    {
+      "name": "Acid pantothenic",
+      "value": "0,5 mg"
+    },
+    {
+      "name": "Vitamin B12",
+      "value": "0,41 µg"
+    },
+    {
+      "name": "Biotin",
+      "value": "4,4 µg"
+    },
+    {
+      "name": "Cholin",
+      "value": "24,2 mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": false,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

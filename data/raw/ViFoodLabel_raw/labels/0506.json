@@ -1,0 +1,53 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Đậu nành (60%)",
+    "môn sữa (20%)",
+    "ớt tươi",
+    "muối",
+    "nước",
+    "rượu",
+    "đường"
+  ],
+  "additive": [
+    "chất điều vị (INS 621, INS 627, INS 631)",
+    "chất bảo quản (INS 281)"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm khi có hiện tượng mốc đen."
+  ],
+  "nutrition": [
+    {
+      "name": "Khẩu phần",
+      "value": "100 g"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "128 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "10,4 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "6,8 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "6,4 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "6,6 g"
+    },
+    {
+      "name": "Natri",
+      "value": "3140 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

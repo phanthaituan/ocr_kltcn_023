@@ -1,0 +1,71 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Tinh bột sắn",
+    "tinh bột khoai lang tím (14%)",
+    "dầu thực vật tinh luyện",
+    "maltitol",
+    "bơ",
+    "cơm dừa sấy (9%)",
+    "bột khoai môn tím",
+    "bột lòng trắng trứng",
+    "muối",
+    "bột khoai lang tím (0.15%)",
+    "bột ca cao",
+    "gelatin"
+  ],
+  "additive": [
+    "chất tạo ngọt tổng hợp (isomalt 953)",
+    "hương liệu (khoai lang, dừa, vani) tổng hợp",
+    "chất nhũ hóa 481(i)",
+    "chất tạo xốp (500(ii), 503(ii), 341(i), 450(i))",
+    "màu thực phẩm tự nhiên (120, 141(i))",
+    "chất tạo ngọt tự nhiên (stevia 960a)"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm khi đã hết hạn sử dụng.",
+    "Sản phẩm có chứa: Trứng và gelatin."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "527 kcal"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "61 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "30 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "0 g"
+    },
+    {
+      "name": "Đường sucrose",
+      "value": "0 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3 g"
+    },
+    {
+      "name": "Natri",
+      "value": "206 mg"
+    },
+    {
+      "name": "Xơ Dinh Dưỡng",
+      "value": "2 g"
+    },
+    {
+      "name": "Gluten",
+      "value": "0 g"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "12 tháng trước ngày hết HSD",
+  "expiry_date": "in trên bao bì"
+}

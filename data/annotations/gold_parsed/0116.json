@@ -1,0 +1,73 @@
+{
+  "image_id": "0116",
+  "product_name": "TRÂN CHÂU TƯƠI CARAMEL OPPABUBBLE",
+  "gold_ingredients_raw": [
+    "Tinh bột sắn",
+    "nước"
+  ],
+  "gold_additives_raw": [
+    "màu caramel tổng hợp (INS 150d)",
+    "chất bảo quản: Kali sorbat (INS 202)",
+    "Natri benzoate (INS 211)",
+    "chất tạo ngọt tổng hợp: Acesulfam kali (INS 950)",
+    "Aspartam (INS 951)",
+    "hương đường đen tổng hợp"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "233 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0.34 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "57.82 g"
+    },
+    {
+      "name": "Đường Tổng",
+      "value": "0 g"
+    },
+    {
+      "name": "Béo tổng",
+      "value": "0 g"
+    },
+    {
+      "name": "Natri",
+      "value": "117 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm khi hết hạn sử dụng hoặc có dấu hiệu hư hỏng",
+    "Sản phẩm này có thể gây hóc, vui lòng nhai kỹ khi ăn",
+    "Không sử dụng cho trẻ nhỏ và người già không có khả năng nhai"
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1,
+      "child_supervision": 2
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì theo định dạng ngày/tháng/năm",
+  "expiry_date": "Xem trên bao bì theo định dạng ngày/tháng/năm",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

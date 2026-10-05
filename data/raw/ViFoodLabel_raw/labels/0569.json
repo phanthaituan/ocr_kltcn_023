@@ -1,0 +1,47 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Bột kombucha (7%)",
+    "chiết xuất trà đen (2,5%)",
+    "vitamin C (INS 300)"
+  ],
+  "additive": [
+    "chất tạo ngọt tổng hợp Acesulfam kali (INS 950)",
+    "sucralose (INS 955)",
+    "chất điều chỉnh độ acid Trisodium citrate (INS 331(iii))",
+    "hương liệu đào tổng hợp"
+  ],
+  "warning": [
+    "Không dùng cho những người có dị ứng với các thành phần của sản phẩm."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "346 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1.74 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "82.5 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "11.4 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "1.03 g"
+    },
+    {
+      "name": "Natri",
+      "value": "2257 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

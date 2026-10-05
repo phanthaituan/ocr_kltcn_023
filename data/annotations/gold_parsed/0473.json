@@ -1,0 +1,93 @@
+{
+  "image_id": "0473",
+  "product_name": "THỰC PHẨM BỔ SUNG SỮA TƯƠI TIỆT TRÙNG CÓ ĐƯỜNG - LOF KUN 100% SỮA TƯƠI",
+  "gold_ingredients_raw": [
+    "Sữa 97 % (sữa bò tươi)",
+    "đường (2,8 %)",
+    "vitamin và khoáng chất (K2 - MK7, A, D3, natri selenit)"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (INS 407, INS 471)",
+    "hương liệu tự nhiên (hương sữa)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "76,1 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3,0 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "3,7 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "7,7 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "7,7 g"
+    },
+    {
+      "name": "Natri",
+      "value": "38 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "100 mg"
+    },
+    {
+      "name": "Selen",
+      "value": "8,0 µg"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "215 IU"
+    },
+    {
+      "name": "Vitamin D3",
+      "value": "40 IU"
+    },
+    {
+      "name": "Vitamin K2",
+      "value": "4,0 µg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa sữa."
+  ],
+  "allergen_final": {
+    "contains": [
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "sữa"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "sữa"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên hộp.",
+  "expiry_date": "Xem trên hộp.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

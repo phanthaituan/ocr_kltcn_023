@@ -1,0 +1,116 @@
+{
+  "image_id": "0438",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Đậu phộng (55%)",
+    "Bột mì",
+    "Nước cốt dừa nguyên chất (7%)",
+    "Đường tinh luyện",
+    "Muối",
+    "Dầu dừa tinh luyện"
+  ],
+  "gold_additives_raw": [
+    "Hương liệu tổng hợp"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "140 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "6 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "2.5 g"
+    },
+    {
+      "name": "Chất béo chuyển hóa",
+      "value": "0 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0 mg"
+    },
+    {
+      "name": "Natri",
+      "value": "95 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "16 g"
+    },
+    {
+      "name": "Chất xơ",
+      "value": "1 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "4 g"
+    },
+    {
+      "name": "Đường bổ sung",
+      "value": "2 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "5 g"
+    },
+    {
+      "name": "Vitamin D",
+      "value": "0 mcg"
+    },
+    {
+      "name": "Canxi",
+      "value": "0 mg"
+    },
+    {
+      "name": "Sắt",
+      "value": "1.1 mg"
+    },
+    {
+      "name": "Kali",
+      "value": "120 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa đậu phộng, bột mì (có thể chứa gluten).",
+    "Xem thành phần in đậm."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "gluten",
+      "đậu_phộng"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [
+      "gluten",
+      "đậu_phộng"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "unclassified": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": "Xem dưới đáy lon.",
+  "expiry_date": "Xem dưới đáy lon.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

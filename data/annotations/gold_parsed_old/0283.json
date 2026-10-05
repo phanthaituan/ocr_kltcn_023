@@ -1,0 +1,92 @@
+{
+  "image_id": "0283",
+  "product_name": "BÁNH QUY CHOCOCHIP NO BRAND",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "chocochip 19% [đường trắng, dầu cọ, bột ca cao, ca cao hạt, sữa bột nguyên chất, chất nhũ hóa INS 322(i), hương liệu vani tổng hợp]",
+    "đường trắng",
+    "dầu thực vật [dầu cọ, chất chống oxy hóa INS 320]",
+    "tinh bột ngô",
+    "sữa bột nguyên chất",
+    "bột nở [chất điều chỉnh độ axit INS 503(ii), chất tạo xốp INS 500(ii)]",
+    "muối",
+    "dầu cọ"
+  ],
+  "gold_additives_raw": [
+    "chất nhũ hóa INS 322(i)",
+    "hương liệu vani tổng hợp",
+    "chất chống oxy hóa INS 320",
+    "chất điều chỉnh độ axit INS 503(ii)",
+    "chất tạo xốp INS 500(ii)",
+    "chất nhũ hóa INS 322(i)",
+    "phẩm màu tổng hợp INS 150a"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "500 kcal"
+    },
+    {
+      "name": "Natri",
+      "value": "530 mg"
+    },
+    {
+      "name": "carbohydrat",
+      "value": "73 g"
+    },
+    {
+      "name": "đường tổng số",
+      "value": "40 g"
+    },
+    {
+      "name": "chất béo",
+      "value": "20 g"
+    },
+    {
+      "name": "chất béo bão hòa",
+      "value": "17 g"
+    },
+    {
+      "name": "chất đạm",
+      "value": "7 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm này sản xuất trên dây chuyền sản xuất sản phẩm sử dụng trứng gà.",
+    "Không dùng chất hút ẩm trong sản phẩm này.",
+    "Sản phẩm có chứa sữa, đậu nành, lúa mì."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2,
+      "desiccant_or_misc": 1
+    }
+  },
+  "origin": "In-đô-nê-xi-a",
+  "net_weight": "400g",
+  "mfg_date": "Xem trên bao bì",
+  "expiry_date": "Xem trên bao bì",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

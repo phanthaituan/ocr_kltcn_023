@@ -1,0 +1,83 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Bột mì",
+    "đường cát",
+    "khoai môn (30%)",
+    "sầu riêng (5%)",
+    "mứt bí",
+    "lòng đỏ trứng muối",
+    "nước",
+    "dầu nành",
+    "mỡ heo"
+  ],
+  "additive": [
+    "chất bảo quản (221)",
+    "phẩm màu tổng hợp (129)"
+  ],
+  "warning": [
+    "Không dùng sản phẩm đã quá hạn sử dụng."
+  ],
+  "nutrition": [
+    {
+      "name": "Calories",
+      "value": "383"
+    },
+    {
+      "name": "Calories from fat",
+      "value": "157"
+    },
+    {
+      "name": "Total Fat",
+      "value": "17g"
+    },
+    {
+      "name": "Saturated Fat",
+      "value": "5g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0mg"
+    },
+    {
+      "name": "Sodium",
+      "value": "103mg"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "51g"
+    },
+    {
+      "name": "Fiber",
+      "value": "3g"
+    },
+    {
+      "name": "Sugars",
+      "value": "42g"
+    },
+    {
+      "name": "Protein",
+      "value": "6g"
+    },
+    {
+      "name": "Vitamine A",
+      "value": "26%"
+    },
+    {
+      "name": "Calcium",
+      "value": "5%"
+    },
+    {
+      "name": "Vitamine C",
+      "value": "0%"
+    },
+    {
+      "name": "Iron",
+      "value": "25%"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

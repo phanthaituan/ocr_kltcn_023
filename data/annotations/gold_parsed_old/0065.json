@@ -1,0 +1,87 @@
+{
+  "image_id": "0065",
+  "product_name": "THẠCH UỐNG HƯƠNG DƯA LƯỚI CÓ THẠCH DỪA (SWEET COCO MELON)",
+  "gold_ingredients_raw": [
+    "Nước tinh khiết 64,37%",
+    "Thạch dừa 11%",
+    "Nước ép táo 10%",
+    "Đường glucose trái cây 7,08%",
+    "Nước ép dưa lưới 5%",
+    "Đường trắng 1,39%",
+    "Bột konjac 0,08%"
+  ],
+  "gold_additives_raw": [
+    "Calci lactat (INS 327) 0,42%",
+    "Acid citric (INS 330) 0,15%",
+    "Sodium citrate (INS 331(ii)) 0,13%",
+    "Hương tổng hợp (hương dưa lưới) 0,12%",
+    "Carrageenan (INS 407) 0,08%",
+    "Kali clorid (INS 508) 0,08%",
+    "Acid malic (DL-) (INS 296) 0,06%",
+    "Natri benzoat (INS 211) 0,04%",
+    "Sucralose (INS 955) 0,02%",
+    "Phẩm màu vàng chanh Lemon Yellow số 4",
+    "Phẩm màu xanh Brilliant Blue số 1 (INS 133)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Natri",
+      "value": "49,2 mg 2%"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0 g 0%"
+    },
+    {
+      "name": "Cacbohydrat",
+      "value": "12 g 4%"
+    },
+    {
+      "name": "Chất béo chuyển hóa",
+      "value": "0 g"
+    },
+    {
+      "name": "Đường",
+      "value": "10,8 g 11%"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "0 g 0%"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0 mg 0%"
+    },
+    {
+      "name": "Protein",
+      "value": "0 g 0%"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có nguy cơ có thể bị hỏng sau khi mở gói, vì vậy vui lòng sử dụng càng sớm càng tốt.",
+    "Nếu ăn hết cùng lúc, sẽ có thể bị nghẹn, vui lòng chú ý cẩn thận khi cho trẻ em và người lớn tuổi sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1,
+      "child_supervision": 1
+    }
+  },
+  "origin": "Trung Quốc",
+  "net_weight": "120 ml",
+  "mfg_date": "15 tháng trước hạn sử dụng",
+  "expiry_date": "Hạn sử dụng in trên bao bì (năm/tháng/ngày)",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

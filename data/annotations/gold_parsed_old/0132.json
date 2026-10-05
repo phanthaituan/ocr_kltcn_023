@@ -1,0 +1,84 @@
+{
+  "image_id": "0132",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Sữa từ 100% sữa tươi (97,3%)",
+    "đường (2,4%)",
+    "vitamin (A, D3)",
+    "khoáng chất (natn selenit/ sodium selenite)"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (471, 460(i), 407, 466)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "NĂNG LƯỢNG/ENERGY",
+      "value": "67,7 kcal"
+    },
+    {
+      "name": "CHẤT ĐẠM/PROTEIN",
+      "value": "3,0 g"
+    },
+    {
+      "name": "CHẤT BÉO/TOTAL FAT",
+      "value": "3,3 g"
+    },
+    {
+      "name": "CARBOHYDRAT/CARBOHYDRATE",
+      "value": "6,5 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ/TOTAL SUGARS",
+      "value": "6,3 g"
+    },
+    {
+      "name": "CALCI/CALCIUM",
+      "value": "110 mg"
+    },
+    {
+      "name": "PHOSPHO/PHOSPHORUS",
+      "value": "80 mg"
+    },
+    {
+      "name": "SELEN/SELENIUM",
+      "value": "7,5 µg"
+    },
+    {
+      "name": "NATRI/SODIUM",
+      "value": "40 mg"
+    },
+    {
+      "name": "VITAMIN A",
+      "value": "200 IU"
+    },
+    {
+      "name": "VITAMIN D3",
+      "value": "60 IU"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không dùng cho trẻ dưới 1 tuổi."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "child_supervision": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "NSX: 08 tháng trước HSD.",
+  "expiry_date": "HSD: Xem trên hộp.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

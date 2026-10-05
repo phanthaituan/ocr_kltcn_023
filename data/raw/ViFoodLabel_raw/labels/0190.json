@@ -1,0 +1,60 @@
+{
+  "product_name": "BÁNH CHOCOPIE GIÒN NO BRAND",
+  "ingredient": [
+    "Đường",
+    "bột mì",
+    "dầu cọ hydro hóa",
+    "bột ca cao 8,94%",
+    "tinh bột [tinh bột ngô (có thể bao gồm ngô biến đổi gen), tinh bột sắn]",
+    "muối tinh chế",
+    "bột cà phê",
+    "sữa bột nguyên kem",
+    "ca cao khối 0,03%",
+    "Có chứa lúa mì, đậu nành, sữa"
+  ],
+  "additive": [
+    "chất tạo xốp (INS 503(ii), INS 500(ii), INS 450(i))",
+    "chất nhũ hóa (INS 322(i)) từ đậu nành",
+    "phẩm màu (INS 150d)",
+    "hương liệu tổng hợp",
+    "chất xử lý bột (INS 1101(i))"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm đã hết hạn sử dụng.",
+    "Sản phẩm này được sản xuất trên thiết bị sản xuất cùng với các sản phẩm sử dụng đậu phộng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "1040 kcal"
+    },
+    {
+      "name": "Natri",
+      "value": "480 mg"
+    },
+    {
+      "name": "carbohydrat",
+      "value": "131 g"
+    },
+    {
+      "name": "đường tổng số",
+      "value": "70 g"
+    },
+    {
+      "name": "chất béo",
+      "value": "52 g"
+    },
+    {
+      "name": "chất béo bão hòa",
+      "value": "41 g"
+    },
+    {
+      "name": "chất đạm",
+      "value": "12 g"
+    }
+  ],
+  "origin": "Malaysia",
+  "net_weight": "200 g (10 cái) / gói",
+  "mfg_date": "12 tháng trước hạn sử dụng",
+  "expiry_date": "Xem trên bao bì sản phẩm (ngày,tháng, năm)"
+}

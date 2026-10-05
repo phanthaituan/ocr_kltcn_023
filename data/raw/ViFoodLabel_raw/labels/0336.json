@@ -1,0 +1,42 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Sữa hoàn toàn từ sữa bò tươi (99,8%)"
+  ],
+  "additive": [
+    "chất ổn định (471, 407, 412)"
+  ],
+  "warning": [
+    "Sản phẩm có chứa sữa."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "64,6 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3,1 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "4,5 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "3,8 g"
+    },
+    {
+      "name": "Natri",
+      "value": "40 mg"
+    },
+    {
+      "name": "Calci",
+      "value": "109 mg"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": "17 02 26 20:44",
+  "expiry_date": "14 10 26 P2"
+}

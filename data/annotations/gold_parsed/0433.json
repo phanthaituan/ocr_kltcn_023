@@ -1,0 +1,97 @@
+{
+  "image_id": "0433",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Sữa từ 100% sữa tươi (93%)",
+    "Đường",
+    "Bột cacao (0,6%)",
+    "Vitamin (A, D3)",
+    "Khoáng chất (natri selenit)"
+  ],
+  "gold_additives_raw": [
+    "Chất ổn định (471, 460(i), 407, 466)",
+    "Hương liệu tổng hợp dùng cho thực phẩm"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "83,3 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2,9 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "3,3 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "10,5 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "10,3 g"
+    },
+    {
+      "name": "Calci",
+      "value": "110 mg"
+    },
+    {
+      "name": "Phospho",
+      "value": "80 mg"
+    },
+    {
+      "name": "Selen",
+      "value": "7,5 µg"
+    },
+    {
+      "name": "Natri",
+      "value": "40 mg"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "200 IU"
+    },
+    {
+      "name": "Vitamin D3",
+      "value": "60 IU"
+    }
+  ],
+  "gold_warning_raw": [
+    "Có chứa sữa.",
+    "Không dùng cho trẻ dưới 1 tuổi."
+  ],
+  "allergen_final": {
+    "contains": [
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "sữa"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "sữa"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "child_supervision": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "08 tháng trước HSD.",
+  "expiry_date": "Xem trên hộp.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

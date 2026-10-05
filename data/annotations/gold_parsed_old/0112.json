@@ -1,0 +1,59 @@
+{
+  "image_id": "0112",
+  "product_name": null,
+  "gold_ingredients_raw": [],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng/ Energy",
+      "value": "392 kcal"
+    },
+    {
+      "name": "Chất đạm/ Protein",
+      "value": "5.78 g"
+    },
+    {
+      "name": "Chất béo/ Fat",
+      "value": "<0.5 g"
+    },
+    {
+      "name": "Carbohydrat/ Carbohydrate",
+      "value": "91.47 g"
+    },
+    {
+      "name": "Natri/ Sodium",
+      "value": "9.7 mg"
+    },
+    {
+      "name": "Đường/ Total sugars",
+      "value": "9.84 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không dùng sản phẩm có dấu hiệu hư hỏng hoặc hết hạn sử dụng.",
+    "Trẻ em từ 7 tháng tuổi trở lên."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1,
+      "child_supervision": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "15 tháng kể từ ngày sản xuất.",
+  "completeness": {
+    "has_ingredient": false,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

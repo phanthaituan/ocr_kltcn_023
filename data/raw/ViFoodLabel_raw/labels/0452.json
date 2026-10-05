@@ -1,0 +1,50 @@
+{
+  "product_name": "BÁNH TRÁNG PHÔ MAI CAY",
+  "ingredient": [
+    "Bánh tráng (67%)",
+    "Bột phô mai (3,5%)",
+    "Khô gà",
+    "Ớt",
+    "Muối tôm",
+    "Dầu ăn (olein, đậu nành tinh luyện)",
+    "Dầu điều"
+  ],
+  "additive": [],
+  "warning": [
+    "Không sử dụng sản phẩm quá hạn sử dụng hoặc sản phẩm có dấu hiệu hư hỏng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "391 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,96 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "74,2 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "-"
+    },
+    {
+      "name": "Chất béo",
+      "value": "9,56 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "-"
+    },
+    {
+      "name": "Natri",
+      "value": "896,1 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "40 g",
+  "mfg_date": "25/12/2025",
+  "expiry_date": "06 tháng kể từ ngày sản xuất."
+}

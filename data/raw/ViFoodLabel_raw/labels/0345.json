@@ -1,0 +1,63 @@
+{
+  "product_name": "BÁNH ỐNG VỊ TRÀ XANH NO BRAND",
+  "ingredient": [
+    "Bột mì",
+    "đường",
+    "dầu thực vật [dầu cọ, chất chống oxy hóa (INS 307C, INS 307b)]",
+    "bột sữa",
+    "bột whey",
+    "đường maltodextrin",
+    "tinh bột ngô (có thể bao gồm ngô biến đổi gen)",
+    "đường glucose",
+    "bột trà xanh 1%",
+    "bột đậu nành",
+    "chất xơ lúa mì",
+    "muối tinh chế"
+  ],
+  "additive": [
+    "chất chống oxy hóa (INS 307C, INS 307b)",
+    "INS 492",
+    "INS 473",
+    "hương liệu nhân tạo",
+    "chất nhũ hóa (INS 477)",
+    "chất tạo màu nhân tạo 3 loại: phẩm màu (INS 150a, INS 102, INS 133)"
+  ],
+  "warning": [
+    "CÓ CHỨA LÚA MÌ, SỮA, ĐẬU NÀNH",
+    "Không sử dụng sản phẩm đã hết hạn sử dụng"
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "555 kcal"
+    },
+    {
+      "name": "Natri",
+      "value": "190 mg"
+    },
+    {
+      "name": "carbohydrat",
+      "value": "83 g"
+    },
+    {
+      "name": "đường tổng số",
+      "value": "40 g"
+    },
+    {
+      "name": "chất béo",
+      "value": "23 g"
+    },
+    {
+      "name": "chất béo bão hòa",
+      "value": "13 g"
+    },
+    {
+      "name": "chất đạm",
+      "value": "4 g"
+    }
+  ],
+  "origin": "Indonesia",
+  "net_weight": "115 g / hộp",
+  "mfg_date": "12 tháng trước hạn sử dụng",
+  "expiry_date": "xem trên bao bì (EXP: năm/tháng/ngày)"
+}

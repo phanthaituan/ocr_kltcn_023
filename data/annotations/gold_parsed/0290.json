@@ -1,0 +1,106 @@
+{
+  "image_id": "0290",
+  "product_name": "BÁNH CON CÁ BỐNG BANG, MOCHI SO CÔ LA ĐẬU ĐỎ",
+  "gold_ingredients_raw": [
+    "Đường (21,4%)",
+    "Bột mì",
+    "Shortening thực vật (chứa chất nhũ hóa (471))",
+    "Nhân đậu đỏ (4,4%)",
+    "Dầu thực vật",
+    "Kem sữa đánh tiệt trùng",
+    "Sô cô la sữa nguyên chất (1,7%)",
+    "Chất béo thực vật",
+    "Bột sữa nguyên kem",
+    "Maltodextrin",
+    "Cồn thực phẩm",
+    "Mạch nha Isomalto Oligo",
+    "Bột sữa dừa",
+    "Bột cacao (0,5%)",
+    "Bột sữa gầy",
+    "Bột lòng trắng trứng",
+    "Muối",
+    "Tinh bột gạo nếp",
+    "Bột kem sữa",
+    "Hỗn hợp bơ cacao và bột cacao (0,1%)",
+    "Muối iot"
+  ],
+  "gold_additives_raw": [
+    "chất tạo ngọt tự nhiên (964)",
+    "chất nhũ hóa (471)",
+    "chất ổn định (1442, 1440, 415)",
+    "chất nhũ hóa (477, 471, 475, 322(i), 473(a), 492, 491, 470(i))",
+    "Chất tạo xốp (575, 500(ii), 450(i)m 341(ii), 341(i))",
+    "Hương liệu tổng hợp (Vani, Sữa, Đậu đỏ)",
+    "Chất xử lí bột (1100(v))",
+    "Hương liệu giống tự nhiên (hương bán)",
+    "Chất tạo màu tổng hợp (124, 102, 133)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "113 Kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "4,7 g"
+    },
+    {
+      "name": "Natri",
+      "value": "15,5 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "8,3 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,8 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không dùng cho người dị ứng với các thành phần sau: Trứng, Lúa mì, Sữa, Đậu nành và có thể chứa cá"
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "cá",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [
+      "cá",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "cá",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": null,
+  "net_weight": "145 g (5 gói x 29 g)",
+  "mfg_date": "Được in trên bao bì",
+  "expiry_date": "6 tháng kể từ ngày sản xuất",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

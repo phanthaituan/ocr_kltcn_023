@@ -1,0 +1,54 @@
+{
+  "product_name": "POCKET TOAST",
+  "ingredient": [
+    "Bột mì 30 %",
+    "đường",
+    "bắp ngọt nguyên hạt 10 %",
+    "sốt mayonnaise",
+    "phô mai sợi mozzarella 10 %",
+    "bột phô mai 5 %",
+    "men khô",
+    "creamer đặc có đường",
+    "muối",
+    "phụ gia làm bánh 2 % (tinh bột, chất nhũ hóa (INS 472e), đường, chất chống oxy hóa (INS 300), chất xử lý bột (INS 1100))"
+  ],
+  "additive": [
+    "chất nhũ hóa (INS 472e)",
+    "chất chống oxy hóa (INS 300)",
+    "chất xử lý bột (INS 1100)"
+  ],
+  "warning": [
+    "Thông tin gây dị ứng: Bột mì (chứa gluten), các sản phẩm từ sữa.",
+    "Không sử dụng sản phẩm khi hết hạn sử dụng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "254 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "9,96 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "35,9 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "7,38 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "7,82 g"
+    },
+    {
+      "name": "Natri",
+      "value": "539 mg"
+    }
+  ],
+  "origin": "VIỆT NAM",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì",
+  "expiry_date": "Xem trên bao bì"
+}

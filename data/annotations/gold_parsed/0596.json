@@ -1,0 +1,104 @@
+{
+  "image_id": "0596",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Bánh gạo bắp 42,7% (bắp, gạo, dầu cọ)",
+    "đường làm bánh (đường tinh luyện, bột bắp)",
+    "rong biển 17,8%",
+    "dầu cọ",
+    "dextrose",
+    "maltodextrin",
+    "muối",
+    "hỗn hợp calci lactat và calci gluconat 0,01%"
+  ],
+  "gold_additives_raw": [
+    "hương liệu nước tương giống tự nhiên",
+    "chất điều vị (621)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "28 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0,7 g"
+    },
+    {
+      "name": "Natri",
+      "value": "37 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "4,49 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "1,88 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0,7 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "0,28 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Có chứa đậu nành, lúa mì (gluten), tôm.",
+    "Được sản xuất chung dây chuyền sản xuất các sản phẩm có chứa cá, sữa.",
+    "Không sử dụng sản phẩm khi đã hết hạn sử dụng hoặc dị ứng với các thành phần trên."
+  ],
+  "allergen_final": {
+    "contains": [
+      "giáp_xác",
+      "gluten",
+      "ngô",
+      "rong_biển",
+      "đậu_nành"
+    ],
+    "may_contain": [
+      "cá",
+      "sữa"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "giáp_xác",
+      "gluten",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [
+      "cá",
+      "sữa"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [
+      "ngô",
+      "rong_biển"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "named_allergy": 2,
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

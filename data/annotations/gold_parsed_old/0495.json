@@ -1,0 +1,74 @@
+{
+  "image_id": "0495",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Sữa tươi (96,03%)",
+    "Đường (3,8%)"
+  ],
+  "gold_additives_raw": [
+    "Chất ổn định (471, 407, 412)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "74.9 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3.1 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "3.3 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "8.2 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "8.2 g"
+    },
+    {
+      "name": "Natri",
+      "value": "32.2 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "112 mg"
+    },
+    {
+      "name": "Photpho",
+      "value": "86.9 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa sữa."
+  ],
+  "allergen_final": {
+    "contains": [
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "sữa"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "Úc.",
+  "net_weight": null,
+  "mfg_date": "Xem MFD/EXP trên bao bì.",
+  "expiry_date": "Xem MFD/EXP trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

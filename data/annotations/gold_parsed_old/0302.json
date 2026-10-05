@@ -1,0 +1,89 @@
+{
+  "image_id": "0302",
+  "product_name": "BÁNH BÔNG LAN SOLITE PHIÊN BẢN MICKEY",
+  "gold_ingredients_raw": [
+    "Trứng",
+    "bột mì",
+    "đường",
+    "dầu thực vật (dầu nành, dầu hạt nho, dầu cọ)",
+    "mạch nha",
+    "sữa bột nguyên chất",
+    "muối"
+  ],
+  "gold_additives_raw": [
+    "chất làm ẩm (422, 420(ii), 420(i))",
+    "chất nhũ hóa (477, 471, 475, 1520, 322(i), 491, 470(i))",
+    "chất tạo xốp (500(ii), 450(i))",
+    "chất điều chỉnh độ acid (575, 330)",
+    "chất bảo quản (202)",
+    "chất ổn định (415)",
+    "hương liệu tổng hợp (bơ, trứng, vani)",
+    "chất tạo màu tổng hợp (160a(i))",
+    "chất chống oxi hóa (304)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Energy/ Năng lượng",
+      "value": "391 kcal"
+    },
+    {
+      "name": "Protein/ Chất đạm",
+      "value": "7,1 g"
+    },
+    {
+      "name": "Carbohydrate/ Carbohydrat",
+      "value": "53,0 g"
+    },
+    {
+      "name": "Total Sugars/ Đường tổng số",
+      "value": "22,9 g"
+    },
+    {
+      "name": "Total Fat/ Chất béo",
+      "value": "16,8 g"
+    },
+    {
+      "name": "Saturated Fat/ Chất béo bão hòa",
+      "value": "4,0 g"
+    },
+    {
+      "name": "Sodium/ Natri",
+      "value": "265 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa lúa mì, trứng, sữa, đậu nành."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

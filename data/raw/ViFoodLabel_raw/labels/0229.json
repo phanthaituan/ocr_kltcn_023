@@ -1,0 +1,65 @@
+{
+  "product_name": "THỰC PHẨM BỔ SUNG: BÁNH CRACKER AFC DINH DƯỠNG VỊ CỐM NON MỎNG GIÒN",
+  "ingredient": [
+    "Bột mì",
+    "dầu thực vật (dầu cọ)",
+    "đường",
+    "chất xơ yến mạch ((3,8%), (có chứa gluten (yến mạch)))",
+    "mạch nha",
+    "muối",
+    "calci carbonat",
+    "men"
+  ],
+  "additive": [
+    "hương liệu tổng hợp (bánh cốm)",
+    "chất tạo xốp (503(ii), 500(ii), 450(i))",
+    "chất xử lý bột (1101(i), 223)",
+    "chất tạo màu tổng hợp (102, 133)"
+  ],
+  "warning": [
+    "Thông tin dị ứng: Sản phẩm có chứa: sữa, lúa mì.",
+    "Sản phẩm có thể chứa đậu nành."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "480 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "6,4 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "60,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "8,7 g"
+    },
+    {
+      "name": "Xơ thực phẩm",
+      "value": "6,1 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "23,5 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "10,4 g"
+    },
+    {
+      "name": "Natri",
+      "value": "419 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "260 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

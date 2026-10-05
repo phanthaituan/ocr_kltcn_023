@@ -1,0 +1,84 @@
+{
+  "image_id": "0460",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Thịt heo",
+    "Thịt gà",
+    "Vỏ bọc collagen",
+    "Đường",
+    "Đạm đậu nành",
+    "Rượu Mai Quế Lộ (2,5%)",
+    "Đạm chiết xuất từ heo",
+    "Nước",
+    "Rượu nếp",
+    "Muối",
+    "Tiêu",
+    "Dầu cọ olein tinh luyện",
+    "Chiết xuất tự nhiên từ đại hồi"
+  ],
+  "gold_additives_raw": [
+    "Chất điều chỉnh độ acid (262(i), 325, 260)",
+    "Chất điều vị (621)",
+    "Chất nhũ hóa (450(iii), 451(i), 452(i), 450(i))",
+    "Hương liệu (giống tự nhiên, tự nhiên)",
+    "Phẩm màu tự nhiên (monascus red)",
+    "Chất chống oxy hóa (307b)",
+    "Phẩm màu tổng hợp (129)",
+    "Chất bảo quản (250)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "499 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "20,8 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "22,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "22,6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "36,1 g"
+    },
+    {
+      "name": "Natri",
+      "value": "1011 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm hết hạn, hư hỏng hoặc khi dị ứng với bất kỳ thành phần nào của sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "đậu_nành"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "200 g",
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

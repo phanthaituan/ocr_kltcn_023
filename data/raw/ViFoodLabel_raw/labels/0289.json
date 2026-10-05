@@ -1,0 +1,78 @@
+{
+  "product_name": "HẠT DINH DƯỠNG MIX TRÁI CÂY SẤY CAM NGUYÊN",
+  "ingredient": [
+    "Đậu Hà Lan (21%)",
+    "nho khô (20%)",
+    "đậu phộng (14%)",
+    "đậu cọ",
+    "đậu tằm (11%)",
+    "hạt điều (8%)",
+    "bột gạo nếp",
+    "đường cát trắng",
+    "gia vị nấm men",
+    "tinh bột",
+    "gia vị trứng cua",
+    "muối ăn",
+    "bột mì",
+    "maltodextrin",
+    "bột nêm",
+    "đường cát trắng",
+    "nước dùng gà cô đặc",
+    "gia vị bột gà",
+    "chiết xuất nấm men",
+    "bột gà",
+    "protein thực vật thủy phân",
+    "bột gạo",
+    "gia vị vị than nướng",
+    "muối ăn",
+    "gia vị protein thực vật thủy phân axit",
+    "gia vị",
+    "phẩm màu",
+    "phẩm màu nhân tạo",
+    "gia vị được chế biến bằng công nghệ chiếu xạ"
+  ],
+  "additive": [
+    "chất tạo xốp (INS 500(ii), INS 503(ii))",
+    "hương liệu thực phẩm",
+    "phẩm màu tổng hợp (INS 101(i))",
+    "chất điều vị (INS 621, INS 635)",
+    "hương liệu thực phẩm",
+    "chất chống đông vón (INS 551)",
+    "phẩm màu nhân tạo (INS 160c(ii))",
+    "chất tạo ngọt nhân tạo (INS 951)"
+  ],
+  "warning": [
+    "Sản phẩm này có chứa các loại hạt, đậu tằm, đậu phộng, lúa mì, đậu nành, động vật giáp xác và các sản phẩm từ chúng, động vật thân mềm, cá và trứng.",
+    "Không sử dụng sản phẩm khi hết hạn sử dụng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "536 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "12,1 g"
+    },
+    {
+      "name": "Cacbohydrat",
+      "value": "42,9 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "22,5 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "35,1 g"
+    },
+    {
+      "name": "Natri",
+      "value": "630 mg"
+    }
+  ],
+  "origin": "Trung Quốc",
+  "net_weight": null,
+  "mfg_date": "04/01/2026",
+  "expiry_date": "03/11/2026"
+}

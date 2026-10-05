@@ -1,0 +1,65 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Khoai Tây (65.7%)",
+    "Dầu Ăn (với Chất Chống Oxy Hóa (320, 321))",
+    "Bột Nước Tương",
+    "Gia Vị Gạch Cua (1.3%)",
+    "Đạm Thực Vật Thủy Phân",
+    "Gia Vị Sốt Cay (0.3%)",
+    "Đường",
+    "Bột Whey",
+    "Chiết Xuất Nấm Men",
+    "Bột Lòng Đỏ Trứng",
+    "Bột Tỏi",
+    "Bột Ớt",
+    "Bột Hành",
+    "Muối I-ốt",
+    "Bột Kem Không Sữa"
+  ],
+  "additive": [
+    "Chất Chống Oxy Hóa (320, 321)",
+    "Thực Phẩm Tự Nhiên (160c(i))"
+  ],
+  "warning": [
+    "Sản phẩm có chứa Đậu Nành và Yến Mạch, Được sản xuất trên cùng thiết bị và/hoặc trên dây chuyền chế biến các sản phẩm có thành phần gây dị ứng như: Đậu Phộng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "150 Kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "8 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "3 g"
+    },
+    {
+      "name": "Natri",
+      "value": "135 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "17 g"
+    },
+    {
+      "name": "Chất xơ",
+      "value": "1 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "1 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2 g"
+    }
+  ],
+  "origin": null,
+  "net_weight": "108 g",
+  "mfg_date": "NSX: 190326041LG",
+  "expiry_date": "Hạn sử dụng 6 tháng kể từ ngày sản xuất."
+}

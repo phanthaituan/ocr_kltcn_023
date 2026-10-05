@@ -1,0 +1,53 @@
+{
+  "image_id": "0387",
+  "product_name": "HILLWAY",
+  "gold_ingredients_raw": [
+    "Gói Trà sữa: Bột kem (54%) [siro glucose, dầu nhân cọ, chất khô từ sữa (5,5-7%), natri caseinate (2-3%)], đường, bột trà (5%),",
+    "Gói Trân châu: Nước, đường, fructose"
+  ],
+  "gold_additives_raw": [
+    "hương liệu tổng hợp",
+    "chất tạo ngọt Acesulfam kali tổng hợp 950",
+    "chất làm dày (425, 407, 410, 418, 401)",
+    "chất tạo màu tự nhiên Caramen nhóm I (150a)",
+    "chất ổn định (322(ii), 508)",
+    "chất điều chỉnh độ acid (327, 330, 296, 331(iii))",
+    "chất bảo quản (202)",
+    "chất tạo ngọt tổng hợp Acesulfam kali (950)"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Không dùng cho người dị ứng với các thành phần của sản phẩm.",
+    "Trẻ em dưới 11 tuổi nên ăn dưới sự giám sát của người lớn."
+  ],
+  "allergen_final": {
+    "contains": [
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "sữa"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1,
+      "child_supervision": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam.",
+  "net_weight": null,
+  "mfg_date": "Ngày đóng gói:",
+  "expiry_date": "Hạn sử dụng:",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

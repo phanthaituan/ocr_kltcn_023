@@ -1,0 +1,56 @@
+{
+  "product_name": "KẸO DẺO BOOM THẠCH DẺO HƯƠNG CHANH DÂY",
+  "ingredient": [
+    "Mạch nha Maltose",
+    "Đường",
+    "Nước ép táo cô đặc (8%)",
+    "Gelatin",
+    "Hạt chia"
+  ],
+  "additive": [
+    "Chất làm dày (1200, 440, 1442, 407)",
+    "Chất làm ẩm (420(ii))",
+    "Chất điều chỉnh độ acid (330, 331(ii), 296, 334)",
+    "Hương liệu giống tự nhiên và tổng hợp (chanh dây, nước ép cà rốt đen cô đặc)",
+    "Chất làm bóng (903, 901)",
+    "Chất tạo màu tổng hợp (160a(ii))"
+  ],
+  "warning": [
+    "Trẻ em cần có sự giám sát của người lớn khi ăn.",
+    "Bảo quản sản phẩm ở nơi khô ráo thoáng mát, tránh ánh nắng trực tiếp và nhiệt độ trên 35°C."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "320 kcal"
+    },
+    {
+      "name": "Tổng Carbohydrate",
+      "value": "76 g"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "51 g"
+    },
+    {
+      "name": "Đường thêm vào",
+      "value": "51 g"
+    },
+    {
+      "name": "Tổng chất béo",
+      "value": "0 g"
+    },
+    {
+      "name": "Natri",
+      "value": "65 mg"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3 g"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

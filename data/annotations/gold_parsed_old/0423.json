@@ -1,0 +1,103 @@
+{
+  "image_id": "0423",
+  "product_name": "XÚC XÍCH PHÔ MAI CHEESY",
+  "gold_ingredients_raw": [
+    "Thịt 71% (*) (thịt heo, thịt gà)",
+    "Nước đá",
+    "Phô mai 10% (*)",
+    "Tinh bột bắp",
+    "Đạm đậu nành",
+    "Gia vị (muối, đường, tiêu)",
+    "Vỏ bọc bằng ruột collagen (hoặc ruột tự nhiên)",
+    "Bột phô mai 0.5%",
+    "Chiết xuất nấm men"
+  ],
+  "gold_additives_raw": [
+    "Chất ổn định (1414, 420(i))",
+    "Chất nhũ hóa (451(i), 450(i))",
+    "Chất điều vị (621)",
+    "Chất điều chỉnh độ acid (262(i), 331(iii))",
+    "Chất chống oxy hóa (316)",
+    "Hương phô mai tổng hợp",
+    "Hương thịt tổng hợp",
+    "Màu thực phẩm tự nhiên chiết xuất từ ớt",
+    "Chất giữ màu (250)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "240 kcal"
+    },
+    {
+      "name": "Protein",
+      "value": "14.5 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "6.91 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "2.6 g"
+    },
+    {
+      "name": "Lipid",
+      "value": "16.9 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "6.05 g"
+    },
+    {
+      "name": "Natri",
+      "value": "621 mg"
+    },
+    {
+      "name": "Xơ dinh dưỡng",
+      "value": "1.3 g"
+    },
+    {
+      "name": "Canxi",
+      "value": "315 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm sau ngày hết hạn, có hiện tượng hư hỏng hoặc khi dị ứng với bất kì thành phần nào của sản phẩm.",
+    "Sản phẩm có chứa: Phô mai, đạm đậu nành.",
+    "Khi cấp đông sản phẩm không đúng cách có thể làm sản phẩm bị nhăn.",
+    "Nếu sản phẩm đã cấp đông nên rã đông hoàn toàn tại ngăn mát tủ lạnh trước khi chế biến.",
+    "Không nên tái cấp đông sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [
+      "ngô",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [
+      "ngô",
+      "đậu_nành"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1,
+      "named_allergy": 1,
+      "unclassified": 3
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "250 g",
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

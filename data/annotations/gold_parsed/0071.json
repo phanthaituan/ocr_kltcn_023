@@ -1,0 +1,66 @@
+{
+  "image_id": "0071",
+  "product_name": "BÁNH QUY SÔCÔLA OREO VỊ VANI",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "đường",
+    "dầu thực vật không hydro hóa (dầu cọ - chứa chất chống oxi hóa TBHQ (319))",
+    "bột cacao (3,9%)",
+    "sirô fructose",
+    "tinh bột bắp",
+    "muối"
+  ],
+  "gold_additives_raw": [
+    "TBHQ (319)",
+    "chất tạo xốp (500(ii), 503(ii))",
+    "chất nhũ hóa (322(i))",
+    "hương liệu vani giống tự nhiên"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "sản phẩm có chứa lúa mì và đậu nành",
+    "Sản phẩm có thể chứa sữa và đậu phộng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "đậu_nành"
+    ],
+    "may_contain": [
+      "sữa",
+      "đậu_phộng"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [
+      "sữa",
+      "đậu_phộng"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": "Indonesia",
+  "net_weight": null,
+  "mfg_date": "12 t",
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

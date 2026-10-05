@@ -1,0 +1,46 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Cà chua (70 %)",
+    "đường",
+    "muối iốt (NaCl, KIO3)",
+    "nước",
+    "củ hành"
+  ],
+  "additive": [
+    "chất điều vị (621)",
+    "chất ổn định (1422)",
+    "chất điều chỉnh độ acid (260)",
+    "chất bảo quản (211)",
+    "phẩm màu tổng hợp (129)"
+  ],
+  "warning": [
+    "Người dị ứng với các thành phần trên cần lưu ý khi sử dụng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "101 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,19 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "23,9 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0,09 g"
+    },
+    {
+      "name": "Natri",
+      "value": "1285 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "10 g",
+  "mfg_date": "Xem trên nhãn",
+  "expiry_date": "Xem trên nhãn"
+}

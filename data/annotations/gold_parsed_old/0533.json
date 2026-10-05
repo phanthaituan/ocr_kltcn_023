@@ -1,0 +1,57 @@
+{
+  "image_id": "0533",
+  "product_name": "THANH SOCOLA NO BRAND",
+  "gold_ingredients_raw": [
+    "Socola sữa 78.5% [đường, bơ cacao, sữa không kem, cacao nghiền, bột whey, bơ, chất nhũ hóa INS322(i), hương vani tổng hợp]",
+    "Bánh xốp giòn 21.5% [bột lúa mì, dầu thực vật (dầu cọ), đường, bột whey, sữa bột không béo, bột cacao, muối tinh, chất điều chỉnh độ axit INS500(ii), chất nhũ hóa INS322(ii)]"
+  ],
+  "gold_additives_raw": [
+    "chất nhũ hóa INS322(i)",
+    "hương vani tổng hợp",
+    "chất điều chỉnh độ axit INS500(ii)",
+    "chất nhũ hóa INS322(ii)"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa sữa, bột lúa mì.",
+    "Không sử dụng sản phẩm khi hết hạn sử dụng.",
+    "Sản phẩm này được sản xuất theo dây chuyền với các sản phẩm có sử dụng trứng, đậu phộng, đậu nành, lưu huỳnh dioxit, quả óc chó."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "hạt_cây",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "hạt_cây",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Tây Ban Nha",
+  "net_weight": "220g/gói",
+  "mfg_date": "12 tháng trước hạn sử dụng",
+  "expiry_date": "Xem trên bao bì",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

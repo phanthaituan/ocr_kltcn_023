@@ -1,0 +1,49 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Củ cải (80%)",
+    "tỏi",
+    "hành lá",
+    "xiro ngô fructose",
+    "nước sạch",
+    "bột ớt",
+    "nước mắm",
+    "bột hỗn hợp gia vị (bột gạo 60%, glucose, bột tỏi, bột củ cải)"
+  ],
+  "additive": [
+    "chất điều vị (621)",
+    "chất tạo ngọt tổng hợp (420(i))",
+    "chất ổn định (415)",
+    "chất điều chỉnh độ acid (327)"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm sau ngày hết hạn, có hiện tượng hư hỏng hoặc khi dị ứng với bất kì thành phần nào của sản phẩm.",
+    "Sản phẩm có chứa: Nước mắm."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng (kcal)",
+      "value": "35"
+    },
+    {
+      "name": "Protein (g)",
+      "value": "1.96"
+    },
+    {
+      "name": "Đường tổng số (g)",
+      "value": "2.77"
+    },
+    {
+      "name": "Carbohydrate (g)",
+      "value": "4.6"
+    },
+    {
+      "name": "Natri (mg)",
+      "value": "847"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "14/05/2026",
+  "expiry_date": "14/07/2026"
+}

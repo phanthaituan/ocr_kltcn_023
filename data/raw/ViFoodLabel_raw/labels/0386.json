@@ -1,0 +1,47 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Tinh cốt cá cơm 95% (cá cơm, muối)",
+    "nước",
+    "đường"
+  ],
+  "additive": [
+    "Disodium 5’- guanylat (INS627)",
+    "Disodium 5’- inosinat (INS631)",
+    "chất tạo ngọt tổng hợp (INS950)",
+    "chất điều chỉnh độ Acid (INS330)"
+  ],
+  "warning": [
+    "Không sử dụng nếu dị ứng với các thành phần của sản phẩm."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng (Energy)",
+      "value": "63 kcal"
+    },
+    {
+      "name": "Chất đạm (Protein)",
+      "value": "15.7 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "0 g"
+    },
+    {
+      "name": "Đường tổng số (Total Sugars)",
+      "value": "0 g"
+    },
+    {
+      "name": "Chất béo (Fat)",
+      "value": "0 g"
+    },
+    {
+      "name": "Natri (Sodium)",
+      "value": "9830 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì",
+  "expiry_date": "24 tháng kể từ ngày sản xuất"
+}

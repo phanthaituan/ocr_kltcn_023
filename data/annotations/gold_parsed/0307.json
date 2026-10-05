@@ -1,0 +1,88 @@
+{
+  "image_id": "0307",
+  "product_name": "BÁNH TRỨNG TƯƠI CHÀ BÔNG KARO",
+  "gold_ingredients_raw": [
+    "Trứng gà tươi (24.6%)",
+    "Bột mì",
+    "Đường",
+    "Dầu thực vật",
+    "Chà bông gà (10.4%)",
+    "Shortening",
+    "Mạch nha",
+    "Muối",
+    "Cồn thực phẩm"
+  ],
+  "gold_additives_raw": [
+    "Chất làm ẩm (420(ii), 422)",
+    "Chất nhũ hóa (Pentacake 6305V, Pentacake gel 8100, Excelsponge 900, 322(ii))",
+    "Chất tạo xốp (Blend baking powder B202, 500(ii))",
+    "Chất bảo quản (202, 282)",
+    "Chất điều chỉnh độ acid (330)",
+    "Chất tạo màu tổng hợp (160a(i))"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Bên trong có khí Nito để bảo quản.",
+    "Không sử dụng sản phẩm đã hết hạn.",
+    "Thành phần sản phẩm có chứa: Lúa mì, trứng, cá, đậu nành. Sản phẩm có thể chứa sữa, mè, hạnh nhân, dừa, động vật giáp xác."
+  ],
+  "allergen_final": {
+    "contains": [
+      "cá",
+      "gluten",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": [
+      "dừa",
+      "giáp_xác",
+      "hạt_cây",
+      "hạt_vừng",
+      "sữa"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "cá",
+      "gluten",
+      "trứng",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [
+      "dừa",
+      "giáp_xác",
+      "hạt_cây",
+      "hạt_vừng",
+      "sữa"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "cá",
+      "dừa",
+      "giáp_xác",
+      "gluten",
+      "hạt_cây",
+      "hạt_vừng",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "storage_instruction": 1,
+      "expiry_usage": 1,
+      "named_allergy": 2
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "45 ngày trước hạn sử dụng",
+  "expiry_date": "Xem “EXP” trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

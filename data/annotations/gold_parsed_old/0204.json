@@ -1,0 +1,70 @@
+{
+  "image_id": "0204",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Nước cốt dừa XIM (92,9%)",
+    "Nước",
+    "Dầu dừa tinh luyện",
+    "Đường",
+    "Xơ thực vật",
+    "Muối"
+  ],
+  "gold_additives_raw": [
+    "Chất ổn định (1400, 1442, 415)",
+    "Hương liệu dừa tổng hợp",
+    "Hương liệu dừa giống tự nhiên",
+    "Chất nhũ hóa (435)",
+    "Chất điều chỉnh độ acid (500(ii))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "137 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,2 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "3,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "3,6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "13,1 g"
+    },
+    {
+      "name": "Natri",
+      "value": "37 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm hết hạn sử dụng, hoặc có dấu hiệu hư hỏng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "18 tháng kể từ ngày sản xuất.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

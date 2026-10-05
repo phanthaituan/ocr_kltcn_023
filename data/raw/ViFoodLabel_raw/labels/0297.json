@@ -1,0 +1,41 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Cá Bóng 95%",
+    "(đường, muối) 5%"
+  ],
+  "additive": [],
+  "warning": [
+    "Không sử dụng sản phẩm nếu dị ứng với các thành phần có trong sản phẩm."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng (Energy)",
+      "value": "311 kcal"
+    },
+    {
+      "name": "Chất đạm (Protein)",
+      "value": "39.5 g"
+    },
+    {
+      "name": "Carbohydrat (Carbohydrate)",
+      "value": "35.9 g"
+    },
+    {
+      "name": "Chất béo (Fat)",
+      "value": "1.02 g"
+    },
+    {
+      "name": "Natri (Sodium)",
+      "value": "2193 mg"
+    },
+    {
+      "name": "Đường tổng số (Total sugars)",
+      "value": "22.8 g"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam.",
+  "net_weight": "70 g",
+  "mfg_date": "Xem trên bao bì",
+  "expiry_date": "12 tháng kể từ ngày sản xuất."
+}

@@ -1,0 +1,124 @@
+{
+  "image_id": "0585",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Nước",
+    "sữa (35%) (nước, sữa bột nguyên kem, sữa bột gầy, đường, chiết xuất ngũ cốc và lúa mạch (2,1%), bột ca cao (1,1%), khoáng chất (tricalci phosphat, dicalci phosphat, magnesi carbonat, mangan (II) sulfat), xirô glucose, bột whey, bột kem không sữa (xirô glucose, dầu cọ hydro hoá, chất ổn định (340(ii)), natri caseinat, chất nhũ hoá (451(i), 471), muối), chất ổn định (460(i), 407, 466), dầu thực vật, chất điều chỉnh độ axit, hương liệu tự nhiên (hương ngọt), hương liệu giống tự nhiên (hương lúa mạch sôcôla, hương sôcôla, hương vani), chất nhũ hoá (471), muối, vitamin (E, B3, A, axit pantothenic, B6, D, B1, B12, B2, B9), maltodextrin)"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (340(ii))",
+    "chất nhũ hoá (451(i), 471)",
+    "chất ổn định (460(i), 407, 466)",
+    "chất điều chỉnh độ axit",
+    "hương liệu tự nhiên (hương ngọt)",
+    "hương liệu giống tự nhiên (hương lúa mạch sôcôla, hương sôcôla, hương vani)",
+    "chất nhũ hoá (471)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "79 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,6 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "16 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "13 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "1,1 g"
+    },
+    {
+      "name": "Omega-9 axit béo",
+      "value": "200 mg"
+    },
+    {
+      "name": "Omega-6 axit béo",
+      "value": "24 mg"
+    },
+    {
+      "name": "Chất xơ",
+      "value": "0,9 g"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "109 µg"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "0,25 mg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "0,35 mg"
+    },
+    {
+      "name": "Vitamin B12",
+      "value": "0,68 µg"
+    },
+    {
+      "name": "Vitamin B3",
+      "value": "2,97 mg NE"
+    },
+    {
+      "name": "Axit Pantothenic",
+      "value": "1,04 mg"
+    },
+    {
+      "name": "Vitamin D",
+      "value": "0,87 µg"
+    },
+    {
+      "name": "Vitamin E",
+      "value": "2,18 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "309 mg"
+    },
+    {
+      "name": "Mangan",
+      "value": "0,62 mg"
+    },
+    {
+      "name": "Natri",
+      "value": "54,3 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa sữa."
+  ],
+  "allergen_final": {
+    "contains": [
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "sữa"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

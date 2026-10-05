@@ -1,0 +1,63 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Wheat Flour",
+    "Sugar",
+    "Vegetable Fat",
+    "Milk Powder",
+    "Whey Powder",
+    "Corn Starch",
+    "Maltodextrin",
+    "Coconut Cream Powder (contains Milk Protein)",
+    "Cheese Seasoning [Sugar, Dairy Product, Cheese Powder (0.02%), Salt, Coconut Powder, Flavour Enhancer (INS 621), Hydrolyzed Soya Protein, Anticaking Agent (INS 551), Paprika Oleoresin, Turmeric Colouring (E100(i)), Artificial Flavour]",
+    "Salt",
+    "Durian Powder (0.04%)"
+  ],
+  "additive": [
+    "Emulsifier Soya Lecithin (E322)",
+    "Flavour Enhancer (INS 621)",
+    "Anticaking Agent Silicon Dioxide (INS 551)",
+    "Turmeric Colouring (E100(i))",
+    "Synthetic Butter Flavour",
+    "Synthetic Flavour (Durian, Palm Sugar, Vanilla)",
+    "Synthetic Colouring Tartrazine (E102)"
+  ],
+  "warning": [
+    "contains wheat, soy, and milk.",
+    "Manufactured on equipments that also process products that contain egg and peanuts."
+  ],
+  "nutrition": [
+    {
+      "name": "Total Energy",
+      "value": "70 kcal"
+    },
+    {
+      "name": "Total Fat",
+      "value": "3 g"
+    },
+    {
+      "name": "Saturated Fat",
+      "value": "1.5 g"
+    },
+    {
+      "name": "Protein",
+      "value": "1 g"
+    },
+    {
+      "name": "Total Carbohydrate",
+      "value": "10 g"
+    },
+    {
+      "name": "Sugar",
+      "value": "6 g"
+    },
+    {
+      "name": "Salt (Sodium)",
+      "value": "25 mg"
+    }
+  ],
+  "origin": "Indonesia",
+  "net_weight": null,
+  "mfg_date": "18/02/2026",
+  "expiry_date": "18/02/2027"
+}

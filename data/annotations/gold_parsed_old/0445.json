@@ -1,0 +1,116 @@
+{
+  "image_id": "0445",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Milk chocolate (sugar, chocolate, skim milk, cocoa butter, lactose, milkfat, peanuts, lecithin, salt, natural flavor)",
+    "Peanuts",
+    "Sugar",
+    "Cornstarch",
+    "Less than 1% of: palm oil, corn syrup, dextrose, colors, carnauba wax, gum acacia"
+  ],
+  "gold_additives_raw": [
+    "Lecithin",
+    "Natural flavor",
+    "Colors (Blue 1 Lake, Yellow 6, Red 40, Yellow 5, Blue 1, Yellow 6 Lake, Red 40 Lake, Yellow 5 Lake, Blue 2 Lake, Blue 2)",
+    "Carnauba wax",
+    "Gum acacia"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Calories",
+      "value": "250 kcal"
+    },
+    {
+      "name": "Total Fat",
+      "value": "13 g"
+    },
+    {
+      "name": "Saturated Fat",
+      "value": "5 g"
+    },
+    {
+      "name": "Trans Fat",
+      "value": "0 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "< 5 mg"
+    },
+    {
+      "name": "Sodium",
+      "value": "25 mg"
+    },
+    {
+      "name": "Total Carbohydrate",
+      "value": "29 g"
+    },
+    {
+      "name": "Dietary Fiber",
+      "value": "2 g"
+    },
+    {
+      "name": "Total Sugars",
+      "value": "24 g"
+    },
+    {
+      "name": "Added Sugars",
+      "value": "23 g"
+    },
+    {
+      "name": "Protein",
+      "value": "5 g"
+    },
+    {
+      "name": "Vitamin D",
+      "value": "0% DV"
+    },
+    {
+      "name": "Calcium",
+      "value": "4% DV"
+    },
+    {
+      "name": "Iron",
+      "value": "6% DV"
+    },
+    {
+      "name": "Potassium",
+      "value": "4% DV"
+    }
+  ],
+  "gold_warning_raw": [
+    "Contains peanuts, milk and soy.",
+    "May contain tree nuts."
+  ],
+  "allergen_final": {
+    "contains": [
+      "hạt_cây",
+      "sữa",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "hạt_cây",
+      "sữa",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

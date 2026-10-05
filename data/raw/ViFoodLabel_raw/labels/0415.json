@@ -1,0 +1,52 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước",
+    "Sữa hoàn toàn từ sữa bò tươi tách béo (40%)",
+    "Đường (sucrose, fructose)",
+    "Lợi khuẩn Lactobacillus paracasei (TH_L.casei, TH.paracasei)"
+  ],
+  "additive": [
+    "Chất ổn định (440)",
+    "Hương liệu tự nhiên (hương dâu)",
+    "Màu tự nhiên (chiết xuất từ quả lý chua đen, màu củ cải đỏ)"
+  ],
+  "warning": [
+    "Không dùng cho trẻ dưới 1 tuổi.",
+    "Sản phẩm có chứa sữa."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "56,4 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,2 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "12,9 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "12,7 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "< 0,5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "20 mg"
+    },
+    {
+      "name": "Calci",
+      "value": "40 mg"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": "45 ngày trước hạn sử dụng.",
+  "expiry_date": "Xem trên bao bì."
+}

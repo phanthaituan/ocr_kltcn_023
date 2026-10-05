@@ -1,0 +1,72 @@
+{
+  "product_name": "BÁNH CHOCO PIE VỊ DÂU NO BRAND",
+  "ingredient": [
+    "Bột mì",
+    "đường",
+    "xì rô glucose",
+    "mỡ trừu (dầu cọ)",
+    "mứt trái cây 6,45% (dâu tây 30%, đường, xì rô glucose, quả mâm xôi 11,15%)",
+    "dầu cọ",
+    "trứng",
+    "bột ca cao 2,69%",
+    "đường lactose",
+    "bột sữa",
+    "ethanol",
+    "gelatin (heo)",
+    "muối tinh luyện",
+    "tinh bột ngô (có thể chứa ngô biến đổi gen)",
+    "cacao khối 0,13%",
+    "thịt heo",
+    "có chứa lúa mì",
+    "trứng",
+    "sữa",
+    "đậu nành và thịt heo"
+  ],
+  "additive": [
+    "chất tạo ngọt nhân tạo (INS 420(i))",
+    "chất điều chỉnh độ acid 2 loại [INS 503(ii), INS 500(ii)]",
+    "chất nhũ hóa (INS 322(i)) từ đậu nành",
+    "hương liệu nhân tạo",
+    "phẩm màu (120, INS 164)",
+    "chất làm dày (INS 415)"
+  ],
+  "warning": [
+    "Có chứa lúa mì, trứng, sữa, đậu nành và thịt heo",
+    "Không sử dụng sản phẩm đã hết hạn sử dụng.",
+    "Sản phẩm này được sản xuất trên thiết bị sản xuất cùng với các sản phẩm sử dụng thị bò"
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "407 Kcal"
+    },
+    {
+      "name": "Natri",
+      "value": "430 mg"
+    },
+    {
+      "name": "carbohydrat",
+      "value": "64 g"
+    },
+    {
+      "name": "đường tổng số",
+      "value": "32 g"
+    },
+    {
+      "name": "chất béo",
+      "value": "15 g"
+    },
+    {
+      "name": "chất béo bão hòa",
+      "value": "10 g"
+    },
+    {
+      "name": "chất đạm",
+      "value": "4 g"
+    }
+  ],
+  "origin": "Trung Quốc",
+  "net_weight": "240 g (8 cái) / hộp",
+  "mfg_date": "12 tháng trước hạn sử dụng",
+  "expiry_date": "Xem trên bao bì sản phẩm. (năm tháng ngày)"
+}

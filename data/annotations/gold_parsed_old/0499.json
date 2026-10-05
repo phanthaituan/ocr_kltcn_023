@@ -1,0 +1,132 @@
+{
+  "image_id": "0499",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Sữa 41 % (nước, sữa bột, chất béo sữa)",
+    "nước",
+    "thạch dừa (5 %)",
+    "đường",
+    "xi rô glucose",
+    "chiết xuất từ mầm lúa mạch (2 %)",
+    "chất béo thực vật",
+    "bột cacao (0.85 %)",
+    "vitamin và khoáng chất (vitamin B1, B3, B5, B6, K2, A, D3, tricali citrat, tricalci phosphat, natri polyphosphat, kẽm oxyd)",
+    "muối",
+    "taurin"
+  ],
+  "gold_additives_raw": [
+    "chất nhũ hóa (322(i))",
+    "chất ổn định (418(ii))",
+    "hương liệu tổng hợp",
+    "chất tạo ngọt tự nhiên steviol glycosid từ Stevia",
+    "chất tạo ngọt tổng hợp sucralose"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "75,2 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "2,2 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "12,3 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "12 g"
+    },
+    {
+      "name": "Taurin",
+      "value": "2,0 mg"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "120 µg"
+    },
+    {
+      "name": "Vitamin B5",
+      "value": "833 µg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "150 µg"
+    },
+    {
+      "name": "Calci",
+      "value": "85 mg"
+    },
+    {
+      "name": "Vitamin D3",
+      "value": "50 IU"
+    },
+    {
+      "name": "Vitamin K2",
+      "value": "6,0 µg"
+    },
+    {
+      "name": "Kẽm",
+      "value": "0,8 mg"
+    },
+    {
+      "name": "Phospho",
+      "value": "55 mg"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "250 IU"
+    },
+    {
+      "name": "Natri",
+      "value": "35 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Có chứa sữa, gluten và lecithin từ đậu nành.",
+    "Không sử dụng cho người mẫn cảm với thành phần sản phẩm.",
+    "Đối tượng sử dụng: Sử dụng cho trẻ từ 3 tuổi trở lên."
+  ],
+  "allergen_final": {
+    "contains": [
+      "dừa",
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [
+      "dừa",
+      "gluten",
+      "sữa"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "generic_allergy_reference": 1,
+      "child_supervision": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên hộp.",
+  "expiry_date": "Xem trên hộp.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước",
+    "Yến sào 18% (yến khô 450 mg / 100 ml)",
+    "Đường Isomalt"
+  ],
+  "additive": [
+    "Calcium lactate (chất điều chỉnh độ acid 327)",
+    "Sodium alginate (chất ổn định 401)",
+    "Hương liệu tổng hợp dùng trong thực phẩm."
+  ],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Calories/ Năng lượng (kcal)",
+      "value": "≥ 9"
+    },
+    {
+      "name": "Protein/ Chất đạm (g)",
+      "value": "≥ 0.18"
+    },
+    {
+      "name": "Total Fat/ Tổng chất béo (g)",
+      "value": "≤ 0.01"
+    },
+    {
+      "name": "Total Carbohydrate/ Tổng Carbohydrat (g)",
+      "value": "≥ 2"
+    },
+    {
+      "name": "Sodium/ Natri (mg)",
+      "value": "≥ 14"
+    },
+    {
+      "name": "Total Sugars/ Đường tổng (g)",
+      "value": "≥ 2"
+    }
+  ],
+  "origin": "VIỆT NAM",
+  "net_weight": null,
+  "mfg_date": "xem trên bao bì",
+  "expiry_date": "24 tháng kể từ ngày sản xuất"
+}

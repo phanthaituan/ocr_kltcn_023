@@ -1,0 +1,70 @@
+{
+  "image_id": "0167",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "thịt tôm 6%",
+    "muối"
+  ],
+  "gold_additives_raw": [
+    "mononitrate"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "71,4 - 132,6 Kcal/240g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "11,9 - 22,1 g/240g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2,5 - 4,7 g/240g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "1,5 - 2,8 g/240g"
+    },
+    {
+      "name": "Natri",
+      "value": "242,9 - 451,1 mg/240g"
+    },
+    {
+      "name": "Canxi",
+      "value": "31,9 - 59,2 mg/240g"
+    },
+    {
+      "name": "Folic Acid",
+      "value": "38,6 - 71,7 μg/240g"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "373,1 - 6… μg/240g"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "198,1 - 38… μg/240g"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

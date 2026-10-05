@@ -1,0 +1,45 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Sô-cô-la compound đen (70%) bao gồm (đường, chất béo thực vật (dầu cọ hoặc nhân cọ đã hydro hóa), bột ca cao, chất nhũ hóa (INS 492, INS 322(i)), hương liệu tổng hợp (vani, sô cô la), có thể chứa một lượng rất nhỏ thành phần sữa)",
+    "hạt hạnh nhân (15%)",
+    "bơ ca cao"
+  ],
+  "additive": [
+    "chất nhũ hóa (INS 492, INS 322(i))",
+    "hương liệu tổng hợp (vani, sô cô la)"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm nếu dị ứng với thành phần có trong sản phẩm."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "551 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "7,9 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "44,1 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "43,9 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "38,1 g"
+    },
+    {
+      "name": "Natri",
+      "value": "24,7 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "12/05/26",
+  "expiry_date": "12/05/27"
+}

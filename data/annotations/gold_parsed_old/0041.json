@@ -1,0 +1,92 @@
+{
+  "image_id": "0041",
+  "product_name": "BÁNH GOUTE MÈ GIÒN TAN",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "Đường",
+    "Dầu dừa",
+    "Shortening từ động vật và thực vật",
+    "Cơm dừa sấy",
+    "Hạt mè trắng (2,9%)",
+    "Bột whey",
+    "Sữa bột nguyên kem",
+    "Chất béo thực vật (có chứa chất điều chỉnh độ acid (260), Chất tạo màu tự nhiên (160a(ii)))",
+    "Muối i-ốt",
+    "Đường dextrose",
+    "Gia vị muối (có chứa chất điều vị (621), chất ổn định (341(iii)))",
+    "Hỗn hợp bột ngũ cốc",
+    "Bột phô mai (có chứa chất ổn định (339(ii)))"
+  ],
+  "gold_additives_raw": [
+    "Chất tạo xốp (503(ii), 500(ii))",
+    "Chất điều chỉnh độ acid (260)",
+    "Chất tạo màu tự nhiên (160a(ii))",
+    "Chất điều vị (621)",
+    "Chất ổn định (341(iii))",
+    "hương liệu tổng hợp (dừa, sữa)",
+    "Chất ổn định (339(ii))",
+    "Chất xử lý bột (223)",
+    "Chất ổn định (415)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "512 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "7,3 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "62,9 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "29,7 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "25,1 g"
+    },
+    {
+      "name": "Natri",
+      "value": "320 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "SẢN PHẨM KHÔNG DÙNG CHO NGƯỜI DỊ ỨNG VỚI CÁC THÀNH PHẦN SAU: LÚA MÌ, SỮA, SULFIT VÀ CÓ THỂ CHỨA ĐẬU NÀNH, YẾN MẠCH."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "gluten",
+      "sulfite",
+      "sữa",
+      "đậu_nành"
+    ]
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "sulfite",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "VIỆT NAM",
+  "net_weight": null,
+  "mfg_date": "ĐƯỢC IN TRÊN BAO BÌ (NGÀY / THÁNG / NĂM)",
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

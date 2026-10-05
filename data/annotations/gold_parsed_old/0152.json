@@ -1,0 +1,75 @@
+{
+  "image_id": "0152",
+  "product_name": "Queennam Sô cô la sữa chua không thêm đường",
+  "gold_ingredients_raw": [
+    "35% Bột sữa",
+    "bơ cacao",
+    "5% bột sữa chua",
+    "chất béo thực vật"
+  ],
+  "gold_additives_raw": [
+    "maltitol (INS 965(i))",
+    "chất nhũ hóa (lecithin đậu nành (INS 322(i), INS 476)",
+    "hương liệu sữa chua tổng hợp",
+    "hương liệu vanilla tự nhiên"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "494 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "7,3 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "25,3 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "12,6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "40,4 g"
+    },
+    {
+      "name": "Natri",
+      "value": "106 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa sữa, đậu nành.",
+    "Có thể chứa một lượng rất nhỏ thành phần các loại hạt trên cùng dây chuyền sản xuất."
+  ],
+  "allergen_final": {
+    "contains": [
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "unclassified": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": "75 g",
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

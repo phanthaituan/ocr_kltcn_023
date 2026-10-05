@@ -1,0 +1,89 @@
+{
+  "image_id": "0525",
+  "product_name": "BÁNH GẠO NƯỚNG AN VỊ NGÔ NƯỚNG BƠ",
+  "gold_ingredients_raw": [
+    "GẠO JAPONICA 46,3%",
+    "DẦU THỰC VẬT",
+    "ĐƯỜNG",
+    "TINH BỘT KHOAI TÂY",
+    "BỘT GIA VỊ NGÔ BƠ NGỌT 3,3% (ĐƯỜNG, BỘT SỮA, MUỐI, HƯƠNG LIỆU TỔNG HỢP, CHẤT ĐIỀU VỊ (621, 635), CHIẾT XUẤT NẤM MEN, CHẤT CHỐNG ĐÔNG VÓN (551), CHẤT TẠO NGỌT NHÂN TẠO (955))",
+    "BỘT GIA VỊ MUỐI 1,7% (MUỐI, CHẤT ĐIỀU VỊ (621), MUỐI I-ỐT, HƯƠNG LIỆU TỔNG HỢP (NGÔ), HÀNH LÁ SẤY, CHẤT TẠO MÀU TỔNG HỢP (160a(i)))"
+  ],
+  "gold_additives_raw": [
+    "CHẤT LÀM DÀY (1420)",
+    "HƯƠNG LIỆU TỔNG HỢP",
+    "CHẤT ĐIỀU VỊ (621, 635)",
+    "CHẤT CHỐNG ĐÔNG VÓN (551)",
+    "CHẤT TẠO NGỌT NHÂN TẠO (955)",
+    "CHẤT ĐIỀU VỊ (621)",
+    "HƯƠNG LIỆU TỔNG HỢP (NGÔ)",
+    "CHẤT TẠO MÀU TỔNG HỢP (160a(i))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "490 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "74 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "10 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "20 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "10 g"
+    },
+    {
+      "name": "Natri",
+      "value": "710 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "SẢN PHẨM CÓ CHỨA: SỮA VÀ CÓ THỂ CHỨA ĐẬU NÀNH, LÚA MÌ, TÔM, CÁ."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ]
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "VIỆT NAM",
+  "net_weight": "120 g (16 gói x 7,5 g)",
+  "mfg_date": "ĐƯỢC IN TRÊN BAO BÌ (NGÀY/THÁNG/NĂM).",
+  "expiry_date": "8 THÁNG KỂ TỪ NGÀY SẢN XUẤT",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

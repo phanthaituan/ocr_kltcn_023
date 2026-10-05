@@ -1,0 +1,53 @@
+{
+  "image_id": "0108",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "GẠO SỮA: Bột gạo (39,4%), sữa bột (36,1%), maltodextrin, dầu thực vật, đường, chất xơ hòa tan inulin, đạm whey, DHA từ dầu cá, lysin, các khoáng chất (calci carbonat, sắt pyrophosphat, kẽm sulfat, kali iodid), các vitamin (natri ascorbat, niacin, E, calci D-pantothenat, B1, B6, A, acid folic, K1, biotin, D3), Bifidobacterium (BB-12™) (probiotics), hương liệu (hương vani) tổng hợp dùng cho thực phẩm, lutein",
+    "GẠO TRÁI CÂY: Bột gạo (38,5%), sữa bột, dầu thực vật, đường, bột trái cây (bột chuối dạng mảnh, bột chuối, bột dâu dạng mảnh, bột táo) (6,6%), maltodextrin, chất xơ hòa tan inulin, đạm whey, DHA từ dầu cá, lysin, các khoáng chất (calci carbonat, sắt pyrophosphat, kẽm sulfat, kali iodid), các vitamin (natri ascorbat, niacin, E, calci D-pantothenat, B1, B6, A, acid folic, K1, biotin, D3), Bifidobacterium (BB-12™) (probiotics), hương liệu (hương vani) tổng hợp dùng cho thực phẩm, lutein",
+    "YẾN MẠCH SỮA: Bột yến mạch (40%), sữa bột (28,3%), maltodextrin, đường, dầu thực vật, đạm whey, các khoáng chất (calci carbonat, sắt pyrophosphat, kẽm sulfat, kali iodid), DHA từ dầu cá, lysin, các vitamin (natri ascorbat, niacin, E, calci D-pantothenat, B1, B6, B2, A, acid folic, K1, biotin, D3, B12), Bifidobacterium (BB-12™) (probiotics), chất nhũ hóa (lecithin), hương liệu (hương vani) tổng hợp dùng cho thực phẩm, chất chống oxy hóa (hỗn hợp tocopherol concentrate, ascorbyl palmitate), lutein"
+  ],
+  "gold_additives_raw": [
+    "Chất xơ hòa tan inulin",
+    "hương liệu (hương vani) tổng hợp dùng cho thực phẩm",
+    "chất nhũ hóa (lecithin)",
+    "chất chống oxy hóa (hỗn hợp tocopherol concentrate, ascorbyl palmitate)"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Có chứa sữa, đậu nành & dầu cá.",
+    "Có chứa sữa, đậu nành & dầu cá.",
+    "Có chứa sữa, đậu nành, dầu cá & gluten."
+  ],
+  "allergen_final": {
+    "contains": [
+      "cá",
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "cá",
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 3
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

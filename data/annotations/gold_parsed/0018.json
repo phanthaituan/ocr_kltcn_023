@@ -1,0 +1,101 @@
+{
+  "image_id": "0018",
+  "product_name": "BÁNH GẤU KOALA'S MARCH HƯƠNG VỊ SỮA HOKKAIDO",
+  "gold_ingredients_raw": [
+    "Chất béo thực vật 23% (dầu hạt cọ hydro hóa hoàn toàn, dầu cọ, dầu hạt cọ, dầu hạt cải hydro hóa hoàn toàn)",
+    "đường 21%",
+    "bột mì 18%",
+    "lactose 14%",
+    "tinh bột bắp 6%",
+    "bơ thực vật (shortening) 5% (dầu cọ tinh luyện, dầu cọ đặc tinh luyện, dầu hạt cọ tinh luyện)",
+    "bột whey khử khoáng 3%",
+    "sữa bột tách béo 1,8%",
+    "trứng 1%",
+    "đường nghịch đảo 1% (sucrose, glucose, fructose)",
+    "muối",
+    "sữa bột nguyên kem 0,3%"
+  ],
+  "gold_additives_raw": [
+    "chất nhũ hóa DMG (INS 471)",
+    "Chất chống oxy hóa (INS 307b, INS 307c)",
+    "chất ổn định (INS 170(i))",
+    "chất tạo xốp (INS 500(ii), INS 503(ii))",
+    "chất nhũ hóa (INS 322(i))",
+    "hương liệu nhân tạo",
+    "chất tạo màu tự nhiên (INS 150a)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "202 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,35 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "25,00 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "14,90 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "10,70 g"
+    },
+    {
+      "name": "Natri",
+      "value": "77,70 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa lúa mì, sữa, trứng và đậu nành, có thể chứa gluten từ ngũ cốc, các loại hạt và đậu lupin, lecithin từ hạt hướng dương và cam.",
+    "Không sử dụng khi có dấu hiệu hư hỏng hoặc đã hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "gluten",
+      "lupin",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [
+      "gluten",
+      "lupin",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "lupin",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Thái Lan",
+  "net_weight": "37 g",
+  "mfg_date": "Xem Manufacturing Date",
+  "expiry_date": "Xem Best Before in trên bao bì",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước",
+    "muối",
+    "đạm thực vật (khô đậu nành 111 g/ lít)",
+    "chiết xuất nấm men"
+  ],
+  "additive": [
+    "chất điều vị: (621, 627, 631)",
+    "phẩm màu (màu tổng hợp): 150c",
+    "hương liệu tổng hợp: hương nước tương",
+    "chất điều chỉnh độ acid: 330",
+    "chất bảo quản: 202",
+    "chất ổn định: 415",
+    "chất tạo ngọt tự nhiên: 960a"
+  ],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "20 Kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "6 g"
+    },
+    {
+      "name": "Natri",
+      "value": "5120 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

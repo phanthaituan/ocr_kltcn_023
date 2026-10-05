@@ -1,0 +1,90 @@
+{
+  "product_name": null,
+  "ingredient": [],
+  "additive": [],
+  "warning": [
+    "Sử dụng cho người trên 3 tuổi."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "65 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0,7 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "3,2 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "0,3 g"
+    },
+    {
+      "name": "Chất béo chuyển hóa",
+      "value": "0,0 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "7,9 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "2,8 g"
+    },
+    {
+      "name": "Chất xơ",
+      "value": "1,0 g"
+    },
+    {
+      "name": "Natri",
+      "value": "40 mg"
+    },
+    {
+      "name": "Kali",
+      "value": "175 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "120 mg"
+    },
+    {
+      "name": "Phốt pho",
+      "value": "75 mg"
+    },
+    {
+      "name": "Vitamin D",
+      "value": "1,2 mcg"
+    },
+    {
+      "name": "Vitamin E",
+      "value": "1,2 mg"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "0,2 mg"
+    },
+    {
+      "name": "Vitamin B3",
+      "value": "2,0 mg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "0,2 mg"
+    },
+    {
+      "name": "Vitamin B12",
+      "value": "0,3 mcg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

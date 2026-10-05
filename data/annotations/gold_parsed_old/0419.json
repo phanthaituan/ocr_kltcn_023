@@ -1,0 +1,107 @@
+{
+  "image_id": "0419",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Rong biển (30.4%)",
+    "Muối i-ốt",
+    "Đường",
+    "Tôm (9.3%)",
+    "Mè",
+    "Bột gia vị (hương liệu giống tự nhiên, đạm thực vật thủy phân, chất điều vị (INS 621, INS 631), chiết xuất cua, mực)",
+    "Bột tôm (4.7%)",
+    "Vitamin premix B (B3 (nicotinamid), acid folic, B12 (cyanocobalamin), B1 (thiamin hydrochlorid), B6 (pyridoxin hydrochlorid))",
+    "Tiêu",
+    "Gừng",
+    "Hành"
+  ],
+  "gold_additives_raw": [
+    "Hương liệu giống tự nhiên",
+    "Chất điều vị (INS 621, INS 631)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "10.40 Kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0.68 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "1.40 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0.19 g"
+    },
+    {
+      "name": "Calci",
+      "value": "21.68 mg"
+    },
+    {
+      "name": "Sắt",
+      "value": "0.27 mg"
+    },
+    {
+      "name": "Natri",
+      "value": "441.28 mg"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "0.14 mg"
+    },
+    {
+      "name": "Vitamin B3",
+      "value": "1.61 mg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "0.14 mg"
+    },
+    {
+      "name": "Acid folic",
+      "value": "45.12 µg"
+    },
+    {
+      "name": "Vitamin B12",
+      "value": "0.31 µg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Có chứa tôm, cua.",
+    "Nên sử dụng ngay khi mở bao bì.",
+    "Không sử dụng khi sản phẩm có dấu hiệu bất thường như bao bì hở, ẩm mốc.",
+    "Phù hợp cho đối tượng từ 3 tuổi."
+  ],
+  "allergen_final": {
+    "contains": [
+      "giáp_xác",
+      "nhuyễn_thể"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "giáp_xác",
+      "nhuyễn_thể"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2,
+      "unclassified": 1,
+      "child_supervision": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": "20/03/26",
+  "expiry_date": "20/06/27",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Bột mì",
+    "đường",
+    "trứng"
+  ],
+  "additive": [
+    "hương liệu vani tổng hợp"
+  ],
+  "warning": [
+    "Không sử dụng khi sản phẩm hết hạn dùng"
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "367 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "4,84 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "81,1 g"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "50,3 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "2,62 g"
+    },
+    {
+      "name": "Natri",
+      "value": "174 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "300 g",
+  "mfg_date": "18/05/26",
+  "expiry_date": "18/09/26"
+}

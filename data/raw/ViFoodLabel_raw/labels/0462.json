@@ -1,0 +1,89 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước mía [85.6%]",
+    "sơ ri [10%]",
+    "tắc [4.3%]",
+    "muối [0.1%]"
+  ],
+  "additive": [],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "4 Khẩu phần mỗi hộp",
+      "value": "4 servings per container"
+    },
+    {
+      "name": "Mỗi khẩu phần",
+      "value": "250mL"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "180"
+    },
+    {
+      "name": "Chất béo toàn phần",
+      "value": "0g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "0g"
+    },
+    {
+      "name": "Chất béo trans",
+      "value": "0g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0mg"
+    },
+    {
+      "name": "Na-tri",
+      "value": "100mg"
+    },
+    {
+      "name": "Carbohydrate toàn phần",
+      "value": "42g"
+    },
+    {
+      "name": "Chất xơ",
+      "value": "0g"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "41g"
+    },
+    {
+      "name": "Đường thêm vào",
+      "value": "0g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2g"
+    },
+    {
+      "name": "Vitamin D",
+      "value": "0mcg"
+    },
+    {
+      "name": "Sắt",
+      "value": "2.2mg"
+    },
+    {
+      "name": "Can-xi",
+      "value": "40mg"
+    },
+    {
+      "name": "Ka-li",
+      "value": "140mg"
+    },
+    {
+      "name": "Vitamin C",
+      "value": "135mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

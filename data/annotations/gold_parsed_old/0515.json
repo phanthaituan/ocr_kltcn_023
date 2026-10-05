@@ -1,0 +1,95 @@
+{
+  "image_id": "0515",
+  "product_name": "THỰC PHẨM BỔ SUNG: SOLITE BÁNH BÔNG LAN TẦNG KEM PHÔ MAI",
+  "gold_ingredients_raw": [
+    "Trứng (21,7%)",
+    "bột mì",
+    "dầu thực vật (dầu nành, dầu cọ)",
+    "đường",
+    "mạch nha",
+    "shortening",
+    "bột phô mai (3,6%)",
+    "tinh bột bắp",
+    "sữa tươi",
+    "calci carbonat",
+    "muối i-ốt"
+  ],
+  "gold_additives_raw": [
+    "chất làm ẩm (420(ii), 422, 420(i))",
+    "chất nhũ hóa (471, 477, 475, 322(i), 1520, 491, 470(i))",
+    "chất ổn định (1422, 466, 415)",
+    "chất tạo xốp (450(i), 500(ii), 503(ii))",
+    "chất điều chỉnh độ acid (575, 330)",
+    "chất bảo quản (281, 202)",
+    "hương liệu tự nhiên"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "420 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "4,8 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "41,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "21,5 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "26 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "10,5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "420 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "200 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa lúa mì, trứng, sữa, đậu nành."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

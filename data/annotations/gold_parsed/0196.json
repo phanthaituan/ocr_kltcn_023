@@ -1,0 +1,93 @@
+{
+  "image_id": "0196",
+  "product_name": "Dorayaki",
+  "gold_ingredients_raw": [
+    "Trứng gà (24,5 %)",
+    "xốt sô cô la (22,1 %)",
+    "bột mì",
+    "đường",
+    "dầu thực vật",
+    "mạch nha",
+    "cồn thực phẩm",
+    "sữa (0,4 %)",
+    "nguyên liệu thực phẩm (bột bánh 04, BQ Liquid)",
+    "muối"
+  ],
+  "gold_additives_raw": [
+    "chất làm ẩm (422, 420(ii))",
+    "chất ổn định (1442)",
+    "chất tạo xốp (bakemate, 500(ii))",
+    "hương liệu tổng hợp (vani)",
+    "hương liệu giống tự nhiên (bơ)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "320 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "6,5 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "40,3 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "24,6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "14,7 g"
+    },
+    {
+      "name": "Natri",
+      "value": "293,3 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm chứa trứng, bột mì, sữa.",
+    "Dùng ngay khi mở gói sản phẩm.",
+    "Sản phẩm được đóng gói có chứa gói hút oxy bên trong, không được ăn."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "trứng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "sữa",
+      "trứng"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "trứng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "unclassified": 1,
+      "desiccant_or_misc": 1
+    }
+  },
+  "origin": "Nhật Bản",
+  "net_weight": "5 gói",
+  "mfg_date": "Xem “NSX” trên bao bì.",
+  "expiry_date": "Xem “HSD” trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,38 @@
+# Dữ liệu thô lớn (183MB ảnh) - sẽ version bằng DVC/Git LFS sau (Bước 0.12)
+data/raw/ViFoodLabel_raw/images/
+data/raw/kb/foodon/*
+data/raw/kb/openfoodfacts/*
+!data/raw/kb/foodon/.gitkeep
+!data/raw/kb/openfoodfacts/.gitkeep
+
+# Artifacts sinh ra từ code: FAISS index, model weights
+artifacts/*
+!artifacts/faiss_index/
+artifacts/faiss_index/*
+!artifacts/faiss_index/.gitkeep
+*.faiss
+*.bin
+*.pt
+*.safetensors
+
+# Môi trường / bí mật
+.env
+*.key
+.venv/
+venv/
+.vscode/
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# File rác NTFS khi copy từ Windows sang WSL
+*:Zone.Identifier
+
+#Archive
+data/archive
+
+# OS metadata
+.DS_Store
+Thumbs.db

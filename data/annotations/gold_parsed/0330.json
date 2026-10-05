@@ -1,0 +1,85 @@
+{
+  "image_id": "0330",
+  "product_name": "Mứt Sệt Chanh Dây",
+  "gold_ingredients_raw": [
+    "Trái Chanh Dây (22%)",
+    "đường mía",
+    "nước",
+    "muối"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (415, 466, 1422)",
+    "chất điều chỉnh độ acid (330)",
+    "chất bảo quản (202)",
+    "hương liệu chanh dây tổng hợp",
+    "màu thực phẩm tổng hợp (160a(i))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Serving size / Khẩu phần",
+      "value": "25 g"
+    },
+    {
+      "name": "Servings per container / Số khẩu phần: khoảng",
+      "value": "12"
+    },
+    {
+      "name": "Calories / Năng lượng",
+      "value": "52 kcal"
+    },
+    {
+      "name": "Total Fat / Tổng chất béo",
+      "value": "0.03 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0 mg"
+    },
+    {
+      "name": "Sodium / Natri",
+      "value": "5 mg"
+    },
+    {
+      "name": "Carbohydrate / Carbohydrate",
+      "value": "12.8 g"
+    },
+    {
+      "name": "Total Sugars / Tổng đường",
+      "value": "12.3 g"
+    },
+    {
+      "name": "Protein / Chất đạm",
+      "value": "0.06 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có thành phần trái cây tươi, màu sắc có thể thay đổi là hiện tượng bình thường.",
+    "Không sử dụng sản phẩm khi hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "unclassified": 1,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì",
+  "expiry_date": "Xem trên bao bì",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

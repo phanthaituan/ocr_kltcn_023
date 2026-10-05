@@ -1,0 +1,113 @@
+{
+  "image_id": "0278",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Sữa 41% (nước, sữa bò tươi, bột sữa, chất béo sữa)",
+    "nước",
+    "đường kính",
+    "thạch dừa (5%)",
+    "chất béo thực vật",
+    "mạch nha",
+    "bột cacao",
+    "chiết xuất từ lá mạch môn (7 g/l)",
+    "vitamin và khoáng chất (K2-MK7, A, D3, B1, B3, B6, tricalci phosphat)",
+    "choline"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (INS 418, INS 466)",
+    "hương liệu tổng hợp (hương sôcôla) và tự nhiên (chiết xuất từ cỏ ngọt)",
+    "chất điều chỉnh độ acid (INS 339 (iii))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "14 Kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2,4"
+    },
+    {
+      "name": "Chất béo",
+      "value": "3,2"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "27,2"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "21,3"
+    },
+    {
+      "name": "Canxi",
+      "value": "122,4"
+    },
+    {
+      "name": "Natri",
+      "value": "59,5"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "234,6"
+    },
+    {
+      "name": "Vitamin B3",
+      "value": "2,21"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "273,7"
+    },
+    {
+      "name": "Choline",
+      "value": "54,4"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "323"
+    },
+    {
+      "name": "Vitamin D3",
+      "value": "37,4"
+    },
+    {
+      "name": "Vitamin K2",
+      "value": "8,84"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa sữa, gluten, thạch dừa.",
+    "Miếng thạch dừa nhỏ, cẩn thận tránh gây hóc, đặc biệt ở trẻ em."
+  ],
+  "allergen_final": {
+    "contains": [
+      "dừa",
+      "gluten",
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "dừa",
+      "gluten",
+      "sữa"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

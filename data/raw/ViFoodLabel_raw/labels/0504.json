@@ -1,0 +1,57 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Bột mì",
+    "dầu thực vật tinh luyện",
+    "đường",
+    "mạch nha",
+    "0.1% rong biển",
+    "bột whey",
+    "shortening",
+    "muối",
+    "gelatin",
+    "dầu mè"
+  ],
+  "additive": [
+    "chất làm ẩm (420(i), 422)",
+    "chất tạo xốp (500(ii), 503(ii), 341(ii))",
+    "hương liệu (rong biển) tổng hợp",
+    "chất nhũ hóa (322(i))",
+    "chất điều vị (621)",
+    "chất xử lý bột (223, 1101(i))"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm khi đã hết hạn sử dụng.",
+    "Sản phẩm có chứa: gluten, sữa và đậu nành."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "481 kcal"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "62 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "23 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "25 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "7.0 g"
+    },
+    {
+      "name": "Natri",
+      "value": "563 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "12 tháng trước ngày hết HSD",
+  "expiry_date": "In trên bao bì."
+}

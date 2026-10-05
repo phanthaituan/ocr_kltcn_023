@@ -1,0 +1,91 @@
+{
+  "image_id": "0318",
+  "product_name": "THỰC PHẨM BỔ SUNG: BÁNH CRACKER AFC DINH DƯỠNG VỊ CỐM NON MÒNG GIÒN",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "dầu thực vật (dầu cọ)",
+    "đường",
+    "chất xơ yến mạch ((13,8%), (có chứa gluten (yến mạch)))",
+    "mạch nha",
+    "muối",
+    "calci carbonat",
+    "men"
+  ],
+  "gold_additives_raw": [
+    "hương liệu tổng hợp (bánh cốm)",
+    "chất tạo xốp (503(ii), 500(ii), 450(i))",
+    "chất xử lý bột (1101(i), 223)",
+    "chất tạo màu tổng hợp (102, 133)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Energy",
+      "value": "480 kcal"
+    },
+    {
+      "name": "Protein",
+      "value": "6,4 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "60,6 g"
+    },
+    {
+      "name": "Total Sugars",
+      "value": "8,7 g"
+    },
+    {
+      "name": "Dietary fibre",
+      "value": "6,1 g"
+    },
+    {
+      "name": "Total Fat",
+      "value": "23,5 g"
+    },
+    {
+      "name": "Saturated Fat",
+      "value": "10,4 g"
+    },
+    {
+      "name": "Sodium",
+      "value": "419 mg"
+    },
+    {
+      "name": "Calcium",
+      "value": "260 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa: sữa, lúa mì. Sản phẩm có thể chứa đậu nành."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ]
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

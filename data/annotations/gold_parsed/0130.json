@@ -1,0 +1,96 @@
+{
+  "image_id": "0130",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Nước",
+    "sữa từ sữa bột (nước, bột sữa) (18%)",
+    "đường",
+    "nước ép trái cây (4%)",
+    "thạch dừa Nata De Coco (3,5%)",
+    "vitamin (B3, B1, B6)"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định: 1442, 440, 452(i)",
+    "chất điều chỉnh độ axit: 270, 330",
+    "hương liệu dâu giống tự nhiên",
+    "chất tạo ngọt tự nhiên (960a)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "83 (6%) kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0,9 (2%) g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "0,5 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "17,6 (9%) g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "16,2 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0,9 (4%) g"
+    },
+    {
+      "name": "Natri",
+      "value": "54 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "36 (6%) mg"
+    },
+    {
+      "name": "Phốt pho",
+      "value": "63 (13%) mg"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "144 (21%) mcg"
+    },
+    {
+      "name": "Vitamin B2",
+      "value": "90 (11%) mcg"
+    },
+    {
+      "name": "Vitamin B3",
+      "value": "1,8 (23%) mg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "126 (25%) mcg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

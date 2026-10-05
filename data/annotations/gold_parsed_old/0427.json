@@ -1,0 +1,90 @@
+{
+  "image_id": "0427",
+  "product_name": "Donut Hotteok Phô mai Mozzarella",
+  "gold_ingredients_raw": [
+    "Bột trộn sẵn bánh hotteok 38,1% [bột mì, chất làm dày (1440, 1420), đậu nành, bột gạo, đường, muối, bột sữa, bột béo thực vật, chất tạo xốp (575, 500(ii), 450(i), 341(i)), đường dextrose, phẩm màu tổng hợp (160a(iii))]",
+    "Nhân phô mai mozzarella 29,9% (phô mai mozzarella 60%, nước, đường, sữa bột béo, khoai lang, tinh bột khoai tây, muối, hương liệu phô mai tổng hợp)",
+    "Nước",
+    "Bột nếp",
+    "Đường",
+    "Shortening",
+    "Men khô",
+    "Đậu nành"
+  ],
+  "gold_additives_raw": [
+    "Chất làm dày (1440, 1420)",
+    "Chất tạo xốp (575, 500(ii), 450(i), 341(i))",
+    "Phẩm màu tổng hợp (160a(iii))",
+    "Hương liệu phô mai tổng hợp"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "313 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "8,56 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "34,1 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "8,55 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "15,4 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "5,19 g"
+    },
+    {
+      "name": "Natri",
+      "value": "386 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Có chứa lúa mì (gluten), đậu nành, sữa.",
+    "Được sản xuất chung dây chuyền sản xuất các sản phẩm có chứa trứng, cá, giáp xác, động vật thân mềm."
+  ],
+  "allergen_final": {
+    "contains": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Đường",
+    "bột bí đao (3%)",
+    "hạt chia (2%)",
+    "bột trà (1%)"
+  ],
+  "additive": [
+    "hương liệu tổng hợp (hương bí đao)",
+    "phẩm màu tổng hợp (INS 150d)",
+    "chất tạo ngọt tổng hợp (INS 951)"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm hết hạn."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "396 Kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0,50 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "97,4 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "86,7 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0,34 g"
+    },
+    {
+      "name": "Natri",
+      "value": "95,1 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

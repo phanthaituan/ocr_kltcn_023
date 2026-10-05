@@ -1,0 +1,65 @@
+{
+  "product_name": "Rong Biển Kẹp Hạt",
+  "ingredient": [
+    "Hạt điều (35%)",
+    "hạt bí xanh (25%)",
+    "cơm gạo lứt (19%)",
+    "hạnh nhân cắt lát (8%)",
+    "mật ong (5%)",
+    "đậu mè, rong biển (5%)",
+    "chiết xuất đậu nành lên men",
+    "muối biển"
+  ],
+  "additive": [
+    "chất làm dày (tự nhiên) (gum Arabic)"
+  ],
+  "warning": [
+    "Sản phẩm chứa hạt và rong biển."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng/Total calories",
+      "value": "516 kcal"
+    },
+    {
+      "name": "Chất đạm/Protein",
+      "value": "18.3g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "71.7g"
+    },
+    {
+      "name": "Chất béo tổng/Total Fat",
+      "value": "34.3g"
+    },
+    {
+      "name": "Chất béo chuyển hóa/Trans fat",
+      "value": "0"
+    },
+    {
+      "name": "Chất xơ/Dietary",
+      "value": "9.05g"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "0.03mg"
+    },
+    {
+      "name": "Sắt/Iron",
+      "value": "5.28mg"
+    },
+    {
+      "name": "Magie/Magnesium",
+      "value": "269mg"
+    },
+    {
+      "name": "Natri/Sodium",
+      "value": "150mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì."
+}

@@ -1,0 +1,86 @@
+{
+  "image_id": "0142",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Nước",
+    "Dầu đậu nành",
+    "Nước tương",
+    "Giấm",
+    "Mè (3.65%)",
+    "Muối thực phẩm",
+    "Đường",
+    "Siro fructose bắp",
+    "Dầu mè (0.6%)",
+    "Lòng đỏ trứng gà",
+    "Chiết xuất hạt mù tạt"
+  ],
+  "gold_additives_raw": [
+    "Chất điều vị (621, 635)",
+    "Chất làm dày (415)",
+    "Hương liệu mè giống tự nhiên",
+    "Chất tạo ngọt nhân tạo (955)",
+    "Chất chống oxy hóa (385)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "164 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2.1g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "4.4g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "4.4g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "15.1g"
+    },
+    {
+      "name": "Natri (Na)",
+      "value": "1765mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm này sử dụng nguyên liệu chứa các thành phần có thể gây dị ứng: Đậu nành, Lúa mì, Mè, Trứng.",
+    "Trứng sử dụng trong thành phần của sản phẩm là trứng đã được thanh trùng (đã qua xử lý nhiệt)."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "hạt_vừng",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "hạt_vừng",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam\nDưới sự giám sát của Tập đoàn Kewpie, Tokyo, Nhật Bản",
+  "net_weight": "180 ml",
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "image_id": "0188",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Nước dừa tươi (98%)",
+    "đường"
+  ],
+  "gold_additives_raw": [
+    "hương liệu tự nhiên",
+    "chất chống oxy hóa (300)",
+    "chất điều chỉnh độ acid (330)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "15,2 kcal"
+    },
+    {
+      "name": "CARBOHYDRAT",
+      "value": "3,8 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ",
+      "value": "3,6 g"
+    },
+    {
+      "name": "ĐƯỜNG BỔ SUNG THÊM",
+      "value": "1,6 g"
+    },
+    {
+      "name": "CHẤT ĐẠM",
+      "value": "<0,5 g"
+    },
+    {
+      "name": "CHẤT BÉO",
+      "value": "<0,5 g"
+    },
+    {
+      "name": "NATRI",
+      "value": "15,7 mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": "Sản phẩm của Công ty CP Sữa Việt Nam.\nSản xuất tại Việt Nam/ Made in Vietnam.",
+  "net_weight": null,
+  "mfg_date": "12 tháng trước HSD",
+  "expiry_date": "Xem trên hộp",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "image_id": "0538",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Dịch trích từ đậu nành hạt (50%)",
+    "nước",
+    "đường (5,8%)",
+    "muối ăn"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (471, 407, 500(ii))",
+    "hương liệu giống tự nhiên dùng cho thực phẩm"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "50 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2,5 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "1,4 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "6,7 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "6,5 g"
+    },
+    {
+      "name": "Chất xơ",
+      "value": "220 mg"
+    },
+    {
+      "name": "Natri",
+      "value": "28 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa đậu nành."
+  ],
+  "allergen_final": {
+    "contains": [
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": "06/06/2026",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

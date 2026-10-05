@@ -1,0 +1,47 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước",
+    "đường",
+    "ớt (25 %)",
+    "muối iod (NaCl, KIO3)",
+    "cà chua",
+    "tỏi"
+  ],
+  "additive": [
+    "chất ổn định (1422)",
+    "chất bảo quản (211)",
+    "chất điều vị (621)",
+    "chất điều chỉnh độ acid (260)",
+    "phẩm màu tổng hợp (110)"
+  ],
+  "warning": [
+    "Người dị ứng với các thành phần trên cần lưu ý khi sử dụng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng (Energy)",
+      "value": "97,5 kcal"
+    },
+    {
+      "name": "Chất đạm (Protein)",
+      "value": "0,94 g"
+    },
+    {
+      "name": "Carbohydrat (Carbohydrate)",
+      "value": "22,8 g"
+    },
+    {
+      "name": "Chất béo (Total Fat)",
+      "value": "0,286 g"
+    },
+    {
+      "name": "Natri (Sodium)",
+      "value": "1811 mg"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": "10 g",
+  "mfg_date": null,
+  "expiry_date": null
+}

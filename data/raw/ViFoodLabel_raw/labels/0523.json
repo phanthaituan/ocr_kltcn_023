@@ -1,0 +1,102 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Sữa dừa (58.5%)",
+    "Nước dừa (35%)",
+    "Đường",
+    "Bột ca cao (1.5%)"
+  ],
+  "additive": [
+    "Chất ổn định (460(i), 466, 415)",
+    "Hương sô cô la tự nhiên",
+    "Chất nhũ hóa (435)",
+    "Chất điều chỉnh độ acid (500(i))"
+  ],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Khẩu phần",
+      "value": "330 ml"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "230"
+    },
+    {
+      "name": "Béo tổng",
+      "value": "12g 15%"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "12g 60%"
+    },
+    {
+      "name": "Chất béo dạng trans",
+      "value": "0g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0mg 0%"
+    },
+    {
+      "name": "Sodium",
+      "value": "135mg 6%"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "29g 11%"
+    },
+    {
+      "name": "Chất xơ",
+      "value": "0g 0%"
+    },
+    {
+      "name": "Đường",
+      "value": "21g"
+    },
+    {
+      "name": "Bao gồm 16g đường bổ sung",
+      "value": "32%"
+    },
+    {
+      "name": "Protein",
+      "value": "2g"
+    },
+    {
+      "name": "Vitamin D",
+      "value": "0mcg 0%"
+    },
+    {
+      "name": "Calcium",
+      "value": "20mg 2%"
+    },
+    {
+      "name": "Iron",
+      "value": "0.7mg 4%"
+    },
+    {
+      "name": "Potassium",
+      "value": "470mg 10%"
+    },
+    {
+      "name": "Phosphorus",
+      "value": "70mg 6%"
+    },
+    {
+      "name": "Magnesium",
+      "value": "50mg 10%"
+    },
+    {
+      "name": "Polyphenol",
+      "value": "201mg"
+    },
+    {
+      "name": "Acid lauric",
+      "value": "6.0g"
+    }
+  ],
+  "origin": "PRODUCED IN BEN TRE, VIETNAM",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

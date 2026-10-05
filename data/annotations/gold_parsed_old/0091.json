@@ -1,0 +1,241 @@
+{
+  "image_id": "0091",
+  "product_name": null,
+  "gold_ingredients_raw": [],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "83,0 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3,20 g"
+    },
+    {
+      "name": "Whey",
+      "value": "0,64 g"
+    },
+    {
+      "name": "Casein",
+      "value": "2,56 g"
+    },
+    {
+      "name": "Lysin",
+      "value": "213 mg"
+    },
+    {
+      "name": "Leucin",
+      "value": "267 mg"
+    },
+    {
+      "name": "Isoleucin",
+      "value": "150 mg"
+    },
+    {
+      "name": "Valin",
+      "value": "172 mg"
+    },
+    {
+      "name": "Arginin",
+      "value": "105 mg"
+    },
+    {
+      "name": "Histidin",
+      "value": "80,7 mg"
+    },
+    {
+      "name": "Phenylalanin",
+      "value": "142 mg"
+    },
+    {
+      "name": "Tyrosin",
+      "value": "111 mg"
+    },
+    {
+      "name": "Threonin",
+      "value": "130 mg"
+    },
+    {
+      "name": "Methionin",
+      "value": "82,0 mg"
+    },
+    {
+      "name": "Tryptophan",
+      "value": "41,0 mg"
+    },
+    {
+      "name": "Cystin",
+      "value": "28,7 mg"
+    },
+    {
+      "name": "Axit glutamic",
+      "value": "549 mg"
+    },
+    {
+      "name": "Axit aspartic",
+      "value": "221 mg"
+    },
+    {
+      "name": "Glycin",
+      "value": "56,2 mg"
+    },
+    {
+      "name": "Alanin",
+      "value": "97,6 mg"
+    },
+    {
+      "name": "Prolin",
+      "value": "287 mg"
+    },
+    {
+      "name": "Serin",
+      "value": "161 mg"
+    },
+    {
+      "name": "Chất béo",
+      "value": "3,40 g"
+    },
+    {
+      "name": "Linoleic acid",
+      "value": "188 mg"
+    },
+    {
+      "name": "Oleic acid",
+      "value": "1003 mg"
+    },
+    {
+      "name": "Tổng axit b/ không no (Omega 3, 6, 9)",
+      "value": "1205 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "9,90 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "9,40 g"
+    },
+    {
+      "name": "Taurin",
+      "value": "7,97 mg"
+    },
+    {
+      "name": "Cholin",
+      "value": "8,26 mg"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "177 IU"
+    },
+    {
+      "name": "Vitamin D3",
+      "value": "48,3 IU"
+    },
+    {
+      "name": "Vitamin E",
+      "value": "1,29 IU"
+    },
+    {
+      "name": "Vitamin K1",
+      "value": "3,18 µg"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "84,0 µg"
+    },
+    {
+      "name": "Vitamin B2",
+      "value": "153 µg"
+    },
+    {
+      "name": "Niacin",
+      "value": "775 µg"
+    },
+    {
+      "name": "Axit pantothenic",
+      "value": "320 µg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "89,1 µg"
+    },
+    {
+      "name": "Axit folic",
+      "value": "22,1 µg"
+    },
+    {
+      "name": "Vitamin B12",
+      "value": "0,36 µg"
+    },
+    {
+      "name": "Biotin",
+      "value": "4,80 µg"
+    },
+    {
+      "name": "Natri",
+      "value": "46,3 mg"
+    },
+    {
+      "name": "Kali",
+      "value": "149 mg"
+    },
+    {
+      "name": "Clo",
+      "value": "112 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "160 mg"
+    },
+    {
+      "name": "Phốt pho",
+      "value": "111 mg"
+    },
+    {
+      "name": "Magiê",
+      "value": "12,9 mg"
+    },
+    {
+      "name": "Kẽm",
+      "value": "0,49 mg"
+    },
+    {
+      "name": "Mangan",
+      "value": "84,4 µg"
+    },
+    {
+      "name": "I-ốt",
+      "value": "7,05 µg"
+    },
+    {
+      "name": "Selen",
+      "value": "1,93 µg"
+    },
+    {
+      "name": "Postbiotic (Lợi khuẩn Lactobacillus lactis Plasma)",
+      "value": "3,4 tỷ tế bào"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": false,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "image_id": "0249",
+  "product_name": "MONCHA PREMIUM TEALEAF",
+  "gold_ingredients_raw": [
+    "Bột kem béo thực vật (Syro glucoza, chất béo thực vật đã được hydro hóa, chất ổn định [340(ii)], chất nhũ hóa (472e), chất chống đông vón (551))",
+    "đường",
+    "bột sữa gầy 45CP (dầu dừa, đường, đạm whey, khoáng chất) (20%)",
+    "maltodextrin",
+    "Sữa tạo bọt (Syro glucose, dầu thực vật (dầu dừa đã được hydro hóa hoàn toàn), bột sữa, chất ổn định [340(ii)], chất nhũ hóa [481(i)], chất chống đông vón (551))",
+    "bột trà xanh matcha (7%)",
+    "muối (0.5%)"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định [340(ii)]",
+    "chất nhũ hóa (472e)",
+    "chất chống đông vón (551)",
+    "hương liệu xoài tổng hợp (0.46 %)",
+    "màu tổng hợp dùng trong thực phẩm (0.04 %)"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa sữa.",
+    "Cảnh báo:Không sử dụng cho những người có dị ứng với các thành phần của sản phẩm.",
+    "Không sử dụng sản phẩm đã hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "dừa",
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "sữa"
+    ],
+    "inferred_from_ingredient_additive": [
+      "dừa",
+      "sữa"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "generic_allergy_reference": 1,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "NSX và HSD: Xem trên bao bì",
+  "expiry_date": "NSX và HSD: Xem trên bao bì",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

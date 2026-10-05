@@ -1,0 +1,56 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Bánh gạo bắp 42,7% (bắp, gạo, dầu cọ)",
+    "đường làm bánh (đường tinh luyện, bột bắp)",
+    "rong biển 17,8%",
+    "dầu cọ",
+    "dextrose",
+    "maltodextrin",
+    "muối",
+    "hỗn hợp calci lactat và calci gluconat 0,01%"
+  ],
+  "additive": [
+    "hương liệu nước tương giống tự nhiên",
+    "chất điều vị (621)"
+  ],
+  "warning": [
+    "Có chứa đậu nành, lúa mì (gluten), tôm.",
+    "Được sản xuất chung dây chuyền sản xuất các sản phẩm có chứa cá, sữa.",
+    "Không sử dụng sản phẩm khi đã hết hạn sử dụng hoặc dị ứng với các thành phần trên."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "28 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0,7 g"
+    },
+    {
+      "name": "Natri",
+      "value": "37 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "4,49 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "1,88 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0,7 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "0,28 g"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì."
+}

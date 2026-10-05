@@ -1,0 +1,63 @@
+{
+  "image_id": "0559",
+  "product_name": "Bột Rau Câu Dẻo",
+  "gold_ingredients_raw": [
+    "Bột làm thạch [Chất làm dày: Carrageenan (chiết xuất từ rau câu) (INS 407), bột konjac (từ khoai nưa) (INS 425), gôm xanthan (INS 415), chất ổn định: kali clorid (INS 508), trikali citrate (INS 332(ii)), glucose, muối sấy]"
+  ],
+  "gold_additives_raw": [
+    "Chất làm dày: Carrageenan (chiết xuất từ rau câu) (INS 407)",
+    "bột konjac (từ khoai nưa) (INS 425)",
+    "gôm xanthan (INS 415)",
+    "chất ổn định: kali clorid (INS 508), trikali citrate (INS 332(ii))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "14,8 - 27,6 kcal/100 g"
+    },
+    {
+      "name": "Chất đạm (N*6,25)",
+      "value": "0,5 - 0,92 g/100 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "3,22 - 5,98 g/100 g"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "2,48 - 4,62 g/100 g"
+    },
+    {
+      "name": "Natri (Na)",
+      "value": "713 - 1323 mg/100 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm đã hết hạn."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "In trên bao bì",
+  "expiry_date": "18 tháng (kể từ ngày sản xuất)",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

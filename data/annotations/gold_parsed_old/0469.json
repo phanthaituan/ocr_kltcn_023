@@ -1,0 +1,107 @@
+{
+  "image_id": "0469",
+  "product_name": "BÁNH CON CÁ BÓNG BANG MOCHI CỐM XANH ĐẬU ĐỎ",
+  "gold_ingredients_raw": [
+    "Trứng (21,7%)",
+    "Đường",
+    "Bột mì",
+    "Shortening thực vật (có chứa chất nhũ hóa (471))",
+    "Nhân đậu đỏ (3,7%)",
+    "Dầu thực vật",
+    "Chiết xuất đậu đỏ dạng bột (2,1%)",
+    "Bột sữa dừa (1,7%)",
+    "Chất béo thực vật (chứa chất nhũ hóa (492, 322(i)))",
+    "Maltodextrin",
+    "Cồn thực phẩm",
+    "Mạch nha isomalto oligo",
+    "Mạch nha glucose",
+    "Hỗn hợp cốm dạng bột (0,5%)",
+    "Bột sữa gầy",
+    "Tinh bột gạo nếp",
+    "Bột lòng trắng trứng",
+    "Muối",
+    "Bột sữa nguyên kem",
+    "Muối i-ốt"
+  ],
+  "gold_additives_raw": [
+    "Chất tạo ngọt tự nhiên (964)",
+    "Chất nhũ hóa (471)",
+    "Chất ổn định (1442, 415, 1440)",
+    "Chất làm ẩm (420(ii), 422, 1520)",
+    "Chất nhũ hóa (492, 322(i))",
+    "Chất nhũ hóa (471, 477, 475, 322(i), 491, 470(i))",
+    "Chất tạo xốp (575, 500(ii), 450(i), 341(i), 341(ii))",
+    "Hương liệu tổng hợp (đậu đỏ, lá dứa, cốm, dừa, vani)",
+    "Chất tạo màu tự nhiên (150a, 120, 141(ii))",
+    "Hương liệu giống tự nhiên (hương bánh)",
+    "Chất xử lý bột (1100(iii))",
+    "Chất tạo màu tổng hợp (102, 160a(i), 133)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "111 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "4,2 g"
+    },
+    {
+      "name": "Natri",
+      "value": "73 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "16,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "7 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,6 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm không dùng cho người dị ứng với các thành phần sau: trứng, lúa mì, sữa, đậu nành và có thể chứa cá.",
+    "Không sử dụng sản phẩm khi đã hết hạn hoặc có dấu hiệu mốc hay hư hỏng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "nhuyễn_thể"
+    ],
+    "may_contain": [
+      "cá",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ]
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "cá",
+      "gluten",
+      "nhuyễn_thể",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "145 g (5 gói x 29 g)",
+  "mfg_date": "Được in trên bao bì (ngày/tháng/năm).",
+  "expiry_date": "06 tháng kể từ ngày sản xuất.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

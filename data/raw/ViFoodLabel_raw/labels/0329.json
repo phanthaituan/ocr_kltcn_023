@@ -1,0 +1,50 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Đường",
+    "bột kem không sữa",
+    "maltodextrin",
+    "sữa bột gầy 10 %",
+    "bột trà 6 % (trà xanh Thái Nguyên 3 %)",
+    "muối",
+    "dầu cọ"
+  ],
+  "additive": [
+    "hương tổng hợp (hương trà, hương sữa)",
+    "chất chống đông vón (Dioxyd silic vô định hình)",
+    "chất tạo ngọt tổng hợp (Acesulfam kali)"
+  ],
+  "warning": [
+    "Sản phẩm không dành cho người nhạy cảm với sữa và gluten."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "57 ~ 99 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "≥ 0,5 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "≤ 2,5 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "< 18 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "≤ 15,5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "≤ 75 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

@@ -1,0 +1,121 @@
+{
+  "image_id": "0119",
+  "product_name": "BÁNH QUE POCKY SỮA HOKKAIDO",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "đường",
+    "dầu thực vật hydro hóa hoàn toàn (dầu hạt cọ, dầu cọ, dầu hạt cải) (đậu nành)",
+    "sữa bột nguyên kem (9%)",
+    "đường lactose (sữa)",
+    "inulin (2%)",
+    "shortening (dầu cọ hydro hóa hoàn toàn)",
+    "bột mì nguyên cám (2%)",
+    "khoáng chất (calci) (2%)",
+    "chiết xuất mạch nha (lúa mì, lúa mạch, lúa mạch đen, yến mạch)",
+    "bột sữa hokkaido (0,7%)",
+    "muối",
+    "men"
+  ],
+  "gold_additives_raw": [
+    "chất làm dày (tinh bột biến tính (distarch phosphate (INS 1412)))",
+    "chất nhũ hóa (este của propylene glycol với acid béo (INS 477))",
+    "chất chống oxy hóa (tocopherol concentrate (dạng hỗn hợp) (INS 307b))",
+    "hương liệu nhân tạo (hương sữa, hương bơ, hương sữa hokkaido, hương vani)",
+    "chất nhũ hóa (lecithin) (INS 322(i))",
+    "chất tạo xốp (natri hydro carbonat (INS 500(ii)))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "195 kcal (315 kJ)"
+    },
+    {
+      "name": "Năng lượng từ chất béo",
+      "value": "76 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "8,4 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "7,2 g"
+    },
+    {
+      "name": "Chất béo dạng trans",
+      "value": "0 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "2 mg"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2,9 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "26,9 g"
+    },
+    {
+      "name": "Xơ thực phẩm",
+      "value": "2,8 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "14,1 g"
+    },
+    {
+      "name": "Natri",
+      "value": "60 mg"
+    },
+    {
+      "name": "Calcium",
+      "value": "268 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm chứa nguyên liệu có nguồn gốc từ lúa mì, gluten, sữa, đậu nành, lúa mạch, lúa mạch đen và yến mạch.",
+    "Được sản xuất tại cơ sở có sử dụng hạnh nhân."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "hạt_cây",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "hạt_cây",
+      "sữa",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "hạt_cây",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": "Thái Lan",
+  "net_weight": "40 g",
+  "mfg_date": "xem MFG DATE trên bao bì.",
+  "expiry_date": "15 tháng kể từ ngày sản xuất, xem USE BY DATE trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

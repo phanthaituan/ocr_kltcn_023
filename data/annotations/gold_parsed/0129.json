@@ -1,0 +1,38 @@
+{
+  "image_id": "0129",
+  "product_name": "THỰC PHẨM BỔ SUNG SỮA TƯƠI CÓ ĐƯỜNG BỔ SUNG SỮA NON META FRESH",
+  "gold_ingredients_raw": [
+    "Sữa bò tươi nguyên chất (96%)",
+    "Sucrose (3.8%)",
+    "Sữa non (Colostrum) (100 mg/l)"
+  ],
+  "gold_additives_raw": [
+    "Chất ổn định (460(i), 406, 407, 471)",
+    "Hương giống tự nhiên dùng cho thực phẩm"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": false
+  }
+}

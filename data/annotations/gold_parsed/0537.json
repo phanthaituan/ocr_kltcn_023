@@ -1,0 +1,81 @@
+{
+  "image_id": "0537",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Nước",
+    "sữa hoàn toàn từ sữa bò tươi tách béo (40%)",
+    "đường (sucrose, fructose)",
+    "lợi khuẩn Lactobacillus paracasei (TH-L.casei, TH.paracasei)"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (440)",
+    "hương liệu tự nhiên (hương dâu)",
+    "màu tự nhiên (chất chiết xuất từ quả lý chua đen, màu củ cải đỏ)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "58,4 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,2 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "12,9 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "12,7 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "< 0,5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "20 mg"
+    },
+    {
+      "name": "Calci",
+      "value": "40 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa sữa.",
+    "Không dùng cho trẻ dưới 1 tuổi."
+  ],
+  "allergen_final": {
+    "contains": [
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "sữa"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "sữa"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "child_supervision": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "45 ngày trước hạn sử dụng",
+  "expiry_date": "Xem trên bao bì",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

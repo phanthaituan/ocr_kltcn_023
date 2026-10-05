@@ -1,0 +1,70 @@
+{
+  "product_name": "THỨC UỐNG TỪ SỮA CHUA LÊN MEN TỰ NHIÊN HƯƠNG NHO CÓ THẠCH",
+  "ingredient": [
+    "Sữa lên men tự nhiên (59%) (nước, sữa bò tươi, sữa bột, chất béo sữa, men Streptococcus và Lactobacillus)",
+    "nước",
+    "đường",
+    "thạch dừa (5%) (thạch dừa, đường, chất điều chỉnh độ acid (INS 330))",
+    "xiro fructose",
+    "chiết xuất từ trái dành dành",
+    "vitamin (B1, B3, B6)"
+  ],
+  "additive": [
+    "chất điều chỉnh độ acid (INS 330)",
+    "chất xơ hòa tan",
+    "chất ổn định (INS 466, INS 418)",
+    "hương liệu tổng hợp (hương nho) và tự nhiên (chiết xuất từ lá cỏ ngọt)",
+    "chất điều chỉnh acid (INS 270)",
+    "phẩm màu tự nhiên (INS 120)"
+  ],
+  "warning": [
+    "Sản phẩm có chứa sữa, thạch dừa.",
+    "Miếng thạch dừa nhỏ, cẩn thận tránh gây hóc, đặc biệt ở trẻ em."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "68,9 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,1 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0,5 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "15 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "14,7 g"
+    },
+    {
+      "name": "Natri",
+      "value": "35 mg"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "100 µg"
+    },
+    {
+      "name": "Vitamin B3",
+      "value": "1000 µg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "140 µg"
+    },
+    {
+      "name": "Chất xơ hòa tan",
+      "value": "0,22 g"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

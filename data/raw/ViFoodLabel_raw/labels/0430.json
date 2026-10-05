@@ -1,0 +1,63 @@
+{
+  "product_name": "BÁNH GOUTE MÈ GIÒN TAN",
+  "ingredient": [
+    "Bột mì",
+    "Đường",
+    "Dầu dừa",
+    "Shortening từ động vật và thực vật",
+    "Cơm dừa sấy",
+    "Hạt mè trắng (2,9%)",
+    "Bột whey",
+    "Sữa bột nguyên kem",
+    "Chất béo thực vật (có chứa chất điều chỉnh độ acid (260), chất tạo màu tự nhiên (160a(iii)))",
+    "Muối i-ốt",
+    "Đường dextrose",
+    "Gia vị muối (có chứa chất điều vị (621))",
+    "Hỗn hợp bột ngũ cốc",
+    "Bột phô mai (có chứa chất ổn định (339(iii)), chất ổn định (415), chất xử lý bột (223))"
+  ],
+  "additive": [
+    "Chất tạo xốp (503(ii), 500(ii))",
+    "Chất điều chỉnh độ acid (260)",
+    "Chất tạo màu tự nhiên (160a(iii))",
+    "Chất điều vị (621)",
+    "Chất ổn định (341(iii))",
+    "Hương liệu tổng hợp (dừa, sữa)",
+    "Chất ổn định (339(iii))",
+    "Chất ổn định (415)",
+    "Chất xử lý bột (223)"
+  ],
+  "warning": [
+    "Sản phẩm không dùng cho người dị ứng với các thành phần sau: lúa mì, sữa, sulfit và có thể chứa đậu nành, yến mạch."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "512 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "7,3 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "62,9 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "29,7 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "25,1 g"
+    },
+    {
+      "name": "Natri",
+      "value": "320 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Được in trên bao bì (ngày/tháng/năm).",
+  "expiry_date": null
+}

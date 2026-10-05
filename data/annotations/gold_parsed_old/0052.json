@@ -1,0 +1,45 @@
+{
+  "image_id": "0052",
+  "product_name": "Dùng kèm gói Trà sữa",
+  "gold_ingredients_raw": [
+    "Nước",
+    "đường",
+    "fructose"
+  ],
+  "gold_additives_raw": [
+    "chất làm dày (425, 407, 410, 418, 401)",
+    "chất tạo màu tự nhiên Caramen nhóm I (150a)",
+    "chất ổn định (332(ii), 508)",
+    "hương liệu tổng hợp",
+    "chất điều chỉnh độ acid (327, 330, 296, 331(iii))",
+    "chất bảo quản (202)",
+    "chất tạo ngọt tổng hợp Acesulfam kali (950)"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Nhai kỹ trước khi nuốt",
+    "Trẻ em dưới 11 tuổi nên ăn dưới sự giám sát của người lớn."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "child_supervision": 2
+    }
+  },
+  "origin": "Việt Nam.",
+  "net_weight": "30 g",
+  "mfg_date": "18 tháng trước HSD",
+  "expiry_date": "Xem trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

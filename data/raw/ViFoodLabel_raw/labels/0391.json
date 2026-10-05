@@ -1,0 +1,69 @@
+{
+  "product_name": "NƯỚC UỐNG ĐIỆN GIẢI REVIVE",
+  "ingredient": [
+    "Nước bão hòa CO2",
+    "đường sucrose và dextrose",
+    "Vitamin B3, B6, B12"
+  ],
+  "additive": [
+    "chất điều chỉnh độ acid (330, 331(iii), 340(ii))",
+    "chất điện giải (NaCl)",
+    "chất nhũ hóa (414, 1450, 445(iii))",
+    "hương liệu tổng hợp",
+    "chất bảo quản (211, 202, 385)",
+    "chất tạo ngọt tổng hợp (Acesulfam Kali 950)"
+  ],
+  "warning": [
+    "Không dùng sản phẩm quá hạn sử dụng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng/ Energy (kcal)",
+      "value": "40"
+    },
+    {
+      "name": "Chất đạm/ Protein (g)",
+      "value": "0"
+    },
+    {
+      "name": "Chất béo/ Fat (g)",
+      "value": "0"
+    },
+    {
+      "name": "Chất béo bão hòa/ Sat. Fat (g)",
+      "value": "0"
+    },
+    {
+      "name": "Carbohydrate (g)",
+      "value": "10"
+    },
+    {
+      "name": "Đường tổng/ Total sugars (g)",
+      "value": "10"
+    },
+    {
+      "name": "Natri/ Sodium (mg)",
+      "value": "92"
+    },
+    {
+      "name": "Kali/ Potassium (mg)",
+      "value": "28"
+    },
+    {
+      "name": "Vitamin B3 (mg)",
+      "value": "3,2"
+    },
+    {
+      "name": "Vitamin B6 (mg)",
+      "value": "0,32"
+    },
+    {
+      "name": "Vitamin B12 (µg)",
+      "value": "0,4"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "NSX: trước HSD 6 tháng",
+  "expiry_date": "HSD: Xem ở nắp hoặc thân chai"
+}

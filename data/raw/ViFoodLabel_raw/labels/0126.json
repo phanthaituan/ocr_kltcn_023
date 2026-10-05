@@ -1,0 +1,54 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Vảy khoai tây (48%)",
+    "dầu thực vật (cọ)",
+    "bột gia vị phô mai",
+    "tinh bột khoai tây",
+    "tinh bột bắp",
+    "đường",
+    "muối"
+  ],
+  "additive": [
+    "chất làm dày (1412)",
+    "chất nhũ hoá (471)"
+  ],
+  "warning": [
+    "Sản phẩm có chứa sữa.",
+    "Sản phẩm có thể chứa đậu nành, mè, lúa mì, cá, giáp xác."
+  ],
+  "nutrition": [
+    {
+      "name": "Energy / Năng lượng",
+      "value": "502 kcal"
+    },
+    {
+      "name": "Protein / Chất đạm",
+      "value": "5,5 g"
+    },
+    {
+      "name": "Carbohydrate / Carbohydrat",
+      "value": "58,5 g"
+    },
+    {
+      "name": "Total Sugars / Đường tổng số",
+      "value": "5,6 g"
+    },
+    {
+      "name": "Total Fat / Chất béo",
+      "value": "27,3 g"
+    },
+    {
+      "name": "Saturated Fat / Chất béo bão hòa",
+      "value": "13,3 g"
+    },
+    {
+      "name": "Sodium / Natri",
+      "value": "419 mg"
+    }
+  ],
+  "origin": "Malaysia",
+  "net_weight": "60 g",
+  "mfg_date": "xem dưới đáy hộp",
+  "expiry_date": "xem dưới đáy hộp"
+}

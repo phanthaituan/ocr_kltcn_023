@@ -1,0 +1,6 @@
+ins_code,e_number,variants_seen,frequency,example_strings,substance_name,adi_status,adi_value_mg_per_kg_bw,source,notes
+621,E621,621,179,"(621) | (621, 631, 627) | (621, 635)",Monosodium glutamate (Bột ngọt),Not specified,,JECFA,"Được JECFA xếp vào nhóm không giới hạn liều lượng hàng ngày. Tuy nhiên một số người nhạy cảm có thể bị triệu chứng mỏi gáy (hội chứng nhà hàng Trung Hoa)."
+330,E330,330,164,"chất điều chỉnh độ acid (330) | chất điều chỉnh độ acid (270, 330)",Citric acid (Acid citric),Not specified,,JECFA,"An toàn tuyệt đối, là acid hữu cơ tự nhiên có trong trái cây họ cam chanh."
+500,E500,"500(i); 500(ii)",149,"chất tạo xốp (500(ii), 503(ii))",Sodium carbonates (Natri carbonat),Not specified,,JECFA,"Bột nở/muối nở (baking soda) rất phổ biến và an toàn."
+202,E202,202,68,"(202) | (202, 211) | (211, 202)",Potassium sorbate (Kali sorbat),Specified,25,JECFA,"Chất bảo quản chống nấm mốc. Giới hạn ADI là 25 mg/kg thể trọng/ngày."
+211,E211,211,38,"(211) | (202, 211) | (211, 202)",Sodium benzoate (Natri benzoat),Specified,5,JECFA,"Chất bảo quản. Giới hạn khá khắt khe (5 mg/kg). Lưu ý: khi kết hợp với Vitamin C (Ascorbic acid) trong môi trường nhiệt độ cao có thể sinh ra Benzene."

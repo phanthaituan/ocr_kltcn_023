@@ -1,0 +1,46 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Kombucha 96% (nước, đường, con giống Scoby, trà xanh, trà đen)",
+    "nước ép vải 2.8%",
+    "nước ép kiwi 1%"
+  ],
+  "additive": [
+    "chất ổn định (440)",
+    "chất tạo ngọt được chiết xuất từ cây cỏ ngọt tự nhiên (960a)",
+    "màu thực phẩm tổng hợp (129)"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm quá hạn."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "19 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0g"
+    },
+    {
+      "name": "Natri",
+      "value": "0mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "4.7g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "4.4g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0g"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "250 ml",
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "Xem trên bao bì."
+}

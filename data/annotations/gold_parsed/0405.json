@@ -1,0 +1,94 @@
+{
+  "image_id": "0405",
+  "product_name": "PONNIE XÚC XÍCH DINH DƯỠNG THỊT HEO",
+  "gold_ingredients_raw": [
+    "Thịt (thịt heo (263 g/kg), thịt gà)",
+    "Nước",
+    "Đạm đậu nành",
+    "Đường",
+    "Muối",
+    "Bột tỏi",
+    "Đạm thịt heo",
+    "Nước cốt bò",
+    "Bột lòng đỏ trứng",
+    "Chiết xuất nấm men",
+    "Tiêu",
+    "Bột cần tây (0,9 g/kg)",
+    "Hạt nêm"
+  ],
+  "gold_additives_raw": [
+    "Chất ổn định (1414, 451(i))",
+    "Chất điều vị (621, 635)",
+    "Hương liệu giống tự nhiên",
+    "Chất chống oxy hóa (316)",
+    "Phẩm màu tổng hợp (127)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Chất đạm",
+      "value": "10,8 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "11,6 g"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "201 kcal"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "1,9 g"
+    },
+    {
+      "name": "Natri",
+      "value": "625,8 mg"
+    },
+    {
+      "name": "Chất béo",
+      "value": "12,4 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm chứa các nguyên liệu có nguồn gốc từ đậu nành, trứng, cần tây, thủy sản.",
+    "Không sử dụng sản phẩm khi bao bì bị rách, hư hỏng hoặc hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "cần_tây",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "cần_tây",
+      "trứng",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "cần_tây",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Ngày sản xuất (NSX): xem trên bao bì",
+  "expiry_date": "Hạn sử dụng (HSD): xem trên bao bì",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "product_name": "CÀ PHÊ SỮA HÒA TAN KẾT HỢP RANG XAY VINACAFÉ SPECIAL",
+  "ingredient": [
+    "Bột kem thực vật",
+    "đường",
+    "cà phê hòa tan 12 %",
+    "maltodextrin",
+    "bột kem sữa 5 %",
+    "bột cà phê rang xay(*) 0,4 %",
+    "muối",
+    "bột ca cao"
+  ],
+  "additive": [
+    "chất tạo màu (150a) tự nhiên",
+    "hương liệu (tổng hợp, tự nhiên, giống tự nhiên)",
+    "chất làm dày (466)",
+    "chất điều chỉnh độ acid (500(ii))",
+    "chất tạo ngọt (950) tổng hợp"
+  ],
+  "warning": [
+    "Sản phẩm chứa nguyên liệu có nguồn gốc từ sữa, đậu nành và ngũ cốc chứa gluten."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "106,3 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,0 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "16,8 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "3,9 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "10,0 g"
+    },
+    {
+      "name": "Natri",
+      "value": "74,9 mg"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": "xem trên bao bì",
+  "expiry_date": "xem trên bao bì"
+}

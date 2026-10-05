@@ -1,0 +1,68 @@
+{
+  "image_id": "0087",
+  "product_name": "Sữa yến mạch Koita",
+  "gold_ingredients_raw": [
+    "Nước",
+    "yến mạch (11%)",
+    "dầu hướng dương",
+    "muối biển"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "0,049 kcal (2%)"
+    },
+    {
+      "name": "Chất béo",
+      "value": "1,4g (2%) trong đó chất béo bão hòa 0,3g (2%)"
+    },
+    {
+      "name": "natri",
+      "value": "32mg (1%)"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "8,4g (3%) trong đó chất xơ <0,5g (<2%)"
+    },
+    {
+      "name": "đường tổng số",
+      "value": "3,2g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0,7g (1%)"
+    }
+  ],
+  "gold_warning_raw": [
+    "Có chứa yến mạch (gluten).",
+    "Không thích hợp cho trẻ sơ sinh trừ khi có sự tư vấn y tế."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "unclassified": 1
+    }
+  },
+  "origin": "Ý",
+  "net_weight": "1L/hộp",
+  "mfg_date": "Xem “PROD” trên bao bì sản phẩm",
+  "expiry_date": "Xem “EXP” trên bao bì sản phẩm",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

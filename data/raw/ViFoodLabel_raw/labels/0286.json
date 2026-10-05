@@ -1,0 +1,48 @@
+{
+  "product_name": "Tương ớt SIÊU CAY",
+  "ingredient": [
+    "ớt (60%)",
+    "nước",
+    "đường",
+    "muối iod (NaCl, KIO3)",
+    "tỏi"
+  ],
+  "additive": [
+    "chất ổn định (1422, 415)",
+    "chất điều chỉnh độ acid (260)",
+    "chất điều vị (621)"
+  ],
+  "warning": [
+    "Người dị ứng với các thành phần trên cần lưu ý khi sử dụng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng (Energy)",
+      "value": "98 kcal"
+    },
+    {
+      "name": "Chất đạm (Protein)",
+      "value": "1,4 g"
+    },
+    {
+      "name": "Carbohydrat (Carbohydrate)",
+      "value": "20,8 g"
+    },
+    {
+      "name": "Chất béo (Total fat)",
+      "value": "1,03 g"
+    },
+    {
+      "name": "Natri (Sodium)",
+      "value": "2060 mg"
+    },
+    {
+      "name": "Đường tổng số (Total sugars)",
+      "value": "17,4 g"
+    }
+  ],
+  "origin": null,
+  "net_weight": "330 g",
+  "mfg_date": null,
+  "expiry_date": null
+}

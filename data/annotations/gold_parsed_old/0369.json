@@ -1,0 +1,93 @@
+{
+  "image_id": "0369",
+  "product_name": "THANH NGŨ CỐC NO BRAND",
+  "gold_ingredients_raw": [
+    "Hạnh nhân 23%",
+    "sữa việt quất khô (việt quất, đường, nước ép việt quất cô đặc, dầu hướng dương)",
+    "hạt điều rang 10%",
+    "ngô cốc bắp 10%",
+    "bắp 9%",
+    "đường",
+    "muối",
+    "mật ong",
+    "đường oligossaccharide",
+    "đậu phộng rang 9,1%",
+    "mật gạo",
+    "mạch nha",
+    "nhỏ khô",
+    "đường oligossaccharide",
+    "kem sữa",
+    "đường",
+    "tảo cô đặc",
+    "bơ đã chế biến"
+  ],
+  "gold_additives_raw": [
+    "chất làm dày INS414"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "145 kcal"
+    },
+    {
+      "name": "natri",
+      "value": "30 mg"
+    },
+    {
+      "name": "carbohydrat",
+      "value": "17 g"
+    },
+    {
+      "name": "đường tổng số",
+      "value": "7 g"
+    },
+    {
+      "name": "chất béo",
+      "value": "7 g"
+    },
+    {
+      "name": "chất béo bão hòa",
+      "value": "1,2 g"
+    },
+    {
+      "name": "chất đạm",
+      "value": "3 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm này được sản xuất theo dây chuyền với các sản phẩm có sử dụng từ quả đào, cà chua, axit lưu huỳnh, quả óc chó, hạt thông.",
+    "Sản phẩm có chứa sữa, đậu phộng, đậu nành, hạnh nhân"
+  ],
+  "allergen_final": {
+    "contains": [
+      "hạt_cây",
+      "sữa",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "hạt_cây",
+      "sữa",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": "Hàn quốc",
+  "net_weight": "120 g (30g x 4 gói) / hộp",
+  "mfg_date": "12 tháng trước hạn sử dụng",
+  "expiry_date": "xem trên bao bì (năm. tháng. ngày)",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

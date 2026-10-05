@@ -1,0 +1,62 @@
+{
+  "image_id": "0484",
+  "product_name": "BỘT RAU CÂU",
+  "gold_ingredients_raw": [
+    "Bột làm thạch: [Chất làm dày: (Carrageenan (từ rong biển) (INS 407), bột konjac (từ khoai nưa) (INS 425), gôm xanthan (INS 415)), chất ổn định: Kali clorid (INS 508), chất chống đông vón: dioxyd silic vô định hình (INS 551), glucose]"
+  ],
+  "gold_additives_raw": [
+    "Chất làm dày: Carrageenan (từ rong biển) (INS 407)",
+    "Chất làm dày: bột konjac (từ khoai nưa) (INS 425)",
+    "Chất làm dày: gôm xanthan (INS 415)",
+    "Chất ổn định: Kali clorid (INS 508)",
+    "Chất chống đông vón: dioxyd silic vô định hình (INS 551)",
+    "Carrageenan compound powder (Compound thickener): [Chất làm dày carrageenan (INS 407) (40%), chất điều chỉnh độ acid sodium citrate (INS 331(iii)) (23%), chất làm dày (konjac gum (INS 425) (22%), potassium chloride (INS 508) (10%), xanthan gum (INS 415) (5%))]"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "50,7 - 94,3 kcal/100 g"
+    },
+    {
+      "name": "Protein (N*6,25)",
+      "value": "0,29 - 0,55 g/100 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "12,4 - 23 g/100 g"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "12,1 - 22,5 g/100 g"
+    },
+    {
+      "name": "Natri (Na)",
+      "value": "2274 - 4222 mg/100 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm đã hết hạn."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Sản xuất tại: CHI NHÁNH CÔNG TY TNHH THƯƠNG MẠI VÀ SẢN XUẤT THỰC PHẨM TÂN VIỆT A",
+  "net_weight": null,
+  "mfg_date": "Ngày sản xuất: in trên bao bì",
+  "expiry_date": "Hạn sử dụng: 18 tháng (kể từ ngày sản xuất )",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

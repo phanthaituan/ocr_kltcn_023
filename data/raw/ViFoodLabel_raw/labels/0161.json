@@ -1,0 +1,60 @@
+{
+  "product_name": "XÚC XÍCH HEO CAO BỒI NHÂN PHÔ MAI VỊ BẮP",
+  "ingredient": [
+    "Thịt (thịt gà, thịt heo)",
+    "nước",
+    "phô mai vị bắp (130,4 g/kg)",
+    "đường",
+    "đạm đậu nành",
+    "muối",
+    "bột chiên xù",
+    "bột gia vị Maiswurst",
+    "bột sữa gầy",
+    "bột tỏi",
+    "bột lòng đỏ trứng",
+    "chiết xuất nấm men",
+    "hạt nêm",
+    "bột cần tây (0,2 g/kg)",
+    "phẩm màu tổng hợp"
+  ],
+  "additive": [
+    "chất ổn định (1414, 451(i), 407a)",
+    "hương liệu tổng hợp",
+    "chất điều vị (621)",
+    "chất chống oxy hóa (316)",
+    "phẩm màu tổng hợp (127)"
+  ],
+  "warning": [
+    "Sản phẩm chứa các nguyên liệu có nguồn gốc từ sữa, đậu nành, cần tây, thủy sản, gluten của ngũ cốc và lúa mì, trứng."
+  ],
+  "nutrition": [
+    {
+      "name": "Chất đạm/ Protein (g)",
+      "value": "9,5"
+    },
+    {
+      "name": "Chất béo/ Total fat (g)",
+      "value": "14,4"
+    },
+    {
+      "name": "Carbohydrat/ Carbohydrate (g)",
+      "value": "12"
+    },
+    {
+      "name": "Đường tổng số/ Total sugars (g)",
+      "value": "2,8"
+    },
+    {
+      "name": "Natri/ Sodium (mg)",
+      "value": "540,7"
+    },
+    {
+      "name": "Năng lượng/ Energy (kcal)",
+      "value": "217"
+    }
+  ],
+  "origin": null,
+  "net_weight": "384 g (12 cây x 32 g)",
+  "mfg_date": null,
+  "expiry_date": null
+}

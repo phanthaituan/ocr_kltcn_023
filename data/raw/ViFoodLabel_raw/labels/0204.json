@@ -1,0 +1,51 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước cốt dừa XIM (92,9%)",
+    "Nước",
+    "Dầu dừa tinh luyện",
+    "Đường",
+    "Xơ thực vật",
+    "Muối"
+  ],
+  "additive": [
+    "Chất ổn định (1400, 1442, 415)",
+    "Hương liệu dừa tổng hợp",
+    "Hương liệu dừa giống tự nhiên",
+    "Chất nhũ hóa (435)",
+    "Chất điều chỉnh độ acid (500(ii))"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm hết hạn sử dụng, hoặc có dấu hiệu hư hỏng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "137 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,2 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "3,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "3,6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "13,1 g"
+    },
+    {
+      "name": "Natri",
+      "value": "37 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "18 tháng kể từ ngày sản xuất."
+}

@@ -1,0 +1,55 @@
+{
+  "product_name": "BỎNG NGÔ VỊ KEM",
+  "ingredient": [
+    "bỏng ngô (30.5%)",
+    "dầu cọ",
+    "đường trắng",
+    "xiro mạch nha"
+  ],
+  "additive": [
+    "phụ gia thực phẩm (phospholipids)",
+    "chât tạo màu tổng hợp (beta-caroten 160a(i))",
+    "hương liệu thực phẩm nhân tạo"
+  ],
+  "warning": [
+    "sản phẩm có chứa thành phần gây dị ứng: ngô"
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "505 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3,1 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "73 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "19,8 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "22,2 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "10,8 g"
+    },
+    {
+      "name": "Chất béo chuyển hóa",
+      "value": "0 g"
+    },
+    {
+      "name": "Natri",
+      "value": "0 mg"
+    }
+  ],
+  "origin": "Trung Quốc",
+  "net_weight": "260 g / chai",
+  "mfg_date": "xem trên bao bì sản phẩm (ngày/tháng/năm)",
+  "expiry_date": "12 tháng kể từ ngày sản xuất"
+}

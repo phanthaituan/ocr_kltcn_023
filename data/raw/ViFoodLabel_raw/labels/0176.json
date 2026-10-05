@@ -1,0 +1,52 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Sữa tươi hữu cơ (100%)"
+  ],
+  "additive": [],
+  "warning": [
+    "Không dùng cho trẻ dưới 1 tuổi."
+  ],
+  "nutrition": [
+    {
+      "name": "NĂNG LƯỢNG/ ENERGY",
+      "value": "62,8 kcal"
+    },
+    {
+      "name": "CHẤT BÉO/ TOTAL FAT",
+      "value": "3,6 g"
+    },
+    {
+      "name": "CHẤT ĐẠM/ PROTEIN",
+      "value": "3,1 g"
+    },
+    {
+      "name": "CARBOHYDRAT/ CARBOHYDRATE",
+      "value": "4,5 g"
+    },
+    {
+      "name": "CALCI/ CALCIUM",
+      "value": "110 mg"
+    },
+    {
+      "name": "PHOSPHO/ PHOSPHORUS",
+      "value": "90 mg"
+    },
+    {
+      "name": "NATRI/ SODIUM",
+      "value": "40 mg"
+    },
+    {
+      "name": "VITAMIN B2",
+      "value": "110 µg"
+    },
+    {
+      "name": "VITAMIN B12",
+      "value": "0,2 µg"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam/ Made in Vietnam.",
+  "net_weight": null,
+  "mfg_date": "08 tháng trước HSD.",
+  "expiry_date": "HSD: Xem trên hộp."
+}

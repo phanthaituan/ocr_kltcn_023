@@ -1,0 +1,44 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Cá bống (95 %)",
+    "đường",
+    "muối (5 %)"
+  ],
+  "additive": [],
+  "warning": [
+    "Không sử dụng đối với người có khả năng mẫn cảm hoặc dị ứng với các thành phần trong sản phẩm.",
+    "Không dùng sản phẩm có màu sắc, mùi vị bất thường, sản phẩm hết hạn sử dụng.",
+    "Gói hút ẩm/ gói hút oxy trong sản phẩm không được ăn, để xa tầm tay trẻ em."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "301 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "36,9 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "34,9 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "1,5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "1969 mg"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "30,8 g"
+    }
+  ],
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": "70 g",
+  "mfg_date": "20/01/2026",
+  "expiry_date": "20/01/2027"
+}

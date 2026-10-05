@@ -1,0 +1,117 @@
+{
+  "image_id": "0293",
+  "product_name": "RICHY KENJU - NOUGAT CREAM CRACKER",
+  "gold_ingredients_raw": [
+    "Wheat flour",
+    "vegetable oil",
+    "sugar",
+    "glucose syrup",
+    "whole milk powder (5.4%)",
+    "glucose",
+    "non – dairy creamer",
+    "vegetable butter",
+    "salt",
+    "gelatin",
+    "corn starch",
+    "yeast extract",
+    "potato starch (0.2%)",
+    "yeast",
+    "dried spring onion (0.16%)",
+    "vegetable fat powder"
+  ],
+  "gold_additives_raw": [
+    "humectant (INS 420(ii))",
+    "leavening agents (INS 503(ii), INS 500(ii), INS 450(i))",
+    "emulsifier (INS 322(i))",
+    "artificial flavorings (onion, vanilla)",
+    "antioxidant (INS 223)",
+    "flavour enhancers (INS 627, INS 631)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Serving size",
+      "value": "100g"
+    },
+    {
+      "name": "Calories",
+      "value": "430"
+    },
+    {
+      "name": "Total Fat",
+      "value": "15g"
+    },
+    {
+      "name": "Saturated Fat",
+      "value": "7g"
+    },
+    {
+      "name": "Trans Fat",
+      "value": "0g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "less than 5mg"
+    },
+    {
+      "name": "Sodium",
+      "value": "600mg"
+    },
+    {
+      "name": "Total Carbohydrate",
+      "value": "65g"
+    },
+    {
+      "name": "Dietary Fiber",
+      "value": "2g"
+    },
+    {
+      "name": "Total Sugars",
+      "value": "21g"
+    },
+    {
+      "name": "Includes 12g Added Sugar",
+      "value": "12g"
+    },
+    {
+      "name": "Protein",
+      "value": "10g"
+    },
+    {
+      "name": "Vitamin D",
+      "value": "0mcg"
+    },
+    {
+      "name": "Calcium",
+      "value": "110mg"
+    },
+    {
+      "name": "Iron",
+      "value": "0.7mg"
+    },
+    {
+      "name": "Potassium",
+      "value": "240mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": null,
+  "net_weight": "279 g (9.84 oz) (15.5 g x 18 packs)",
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

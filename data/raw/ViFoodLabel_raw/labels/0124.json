@@ -1,0 +1,62 @@
+{
+"product_name": null,
+  "ingredient": [
+    "GLUCOSE SYRUP (FROM CORN)",
+    "SUGAR",
+    "WATER",
+    "GELATIN",
+    "CONCENTRATED PEACH JUICE",
+    "COCONUT OIL",
+    "AGAR"
+  ],
+  "additive": [
+    "SORBITOL",
+    "CITRIC ACID",
+    "ARTIFICIAL FLAVOR",
+    "MALIC ACID",
+    "GLYCEROL",
+    "PECTIN",
+    "CARNAUBA WAX",
+    "SODIUM CITRATE",
+    "TITANIUM DIOXIDE",
+    "FD&C RED 40"
+  ],
+"warning": [
+  "ALLERGEN INFORMATION: MAY CONTAIN MILK AND SOY.",
+  "CAUTION: SMALL OBJECTS SUCH AS HARD AND SOFT CANDIES MAY INADVERTENTLY BECOME LODGED IN THE THROAT."
+],
+  "nutrition": [
+    {
+      "name": "Calories",
+      "value": "100"
+    },
+    {
+      "name": "Total Fat",
+      "value": "0g"
+    },
+    {
+      "name": "Sodium",
+      "value": "10mg"
+    },
+    {
+      "name": "Total Carbohydrate",
+      "value": "24g"
+    },
+    {
+      "name": "Total Sugars",
+      "value": "17g"
+    },
+    {
+      "name": "Includes Added Sugars",
+      "value": "17g"
+    },
+    {
+      "name": "Protein",
+      "value": "2g"
+    }
+  ],
+  "origin": "P.R.C.",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

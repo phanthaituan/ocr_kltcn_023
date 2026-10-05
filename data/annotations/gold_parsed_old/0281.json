@@ -1,0 +1,90 @@
+{
+  "image_id": "0281",
+  "product_name": "BÁNH SOCOLA PIE OREO",
+  "gold_ingredients_raw": [
+    "Đường",
+    "mạch nha",
+    "bột mì",
+    "dầu thực vật (dầu cọ)",
+    "trứng gà",
+    "bột cacao (6,3%)",
+    "dextroza",
+    "gelatin",
+    "muối"
+  ],
+  "gold_additives_raw": [
+    "chất làm ẩm (422, 420(ii), 420(i))",
+    "chất nhũ hóa (475, 322(i), 471, 492, 1520, 491, 470(ii))",
+    "chất tạo xốp (450(i), 500(ii))",
+    "chất ổn định (1442, 415)",
+    "hương liệu tổng hợp",
+    "chất điều chỉnh độ acid (330)",
+    "chất bảo quản (202)",
+    "chất điều vị (1104)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Energy/ Năng lượng",
+      "value": "418 kcal"
+    },
+    {
+      "name": "Protein/ Chất đạm",
+      "value": "5,8 g"
+    },
+    {
+      "name": "Carbohydrate/ Carbohydrat",
+      "value": "58,3 g"
+    },
+    {
+      "name": "Total Sugars/ Đường tổng số",
+      "value": "32,8 g"
+    },
+    {
+      "name": "Total Fat/ Chất béo",
+      "value": "18 g"
+    },
+    {
+      "name": "Saturated Fat/ Chất béo bão hòa",
+      "value": "13,5 g"
+    },
+    {
+      "name": "Sodium/ Natri",
+      "value": "261 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa: lúa mì, trứng, sữa, đậu nành."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": null,
+  "net_weight": "168 g (6 gói x 28 g)",
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

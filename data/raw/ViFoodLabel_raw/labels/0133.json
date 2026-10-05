@@ -1,0 +1,55 @@
+{
+  "product_name": "CHẢ RAM TÔM",
+  "ingredient": [
+    "Tôm (35%)",
+    "bánh tráng phơi sương",
+    "thịt heo",
+    "đường",
+    "hành tím",
+    "muối i-ốt",
+    "hạt nêm",
+    "tiêu đen"
+  ],
+  "additive": [
+    "chất điều vị [621]",
+    "chất bảo quản (262(i), 260)"
+  ],
+  "warning": [
+    "Không dùng sản phẩm có vị chua.",
+    "Không dùng sản phẩm hết hạn sử dụng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "274 Kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "7,86 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "29,2 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "5,72 g"
+    },
+    {
+      "name": "Chất béo, trong đó:",
+      "value": "14,0 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "5,90 g"
+    },
+    {
+      "name": "Natri",
+      "value": "319 mg"
+    }
+  ],
+  "origin": "VIỆT NAM",
+  "net_weight": "200 g",
+  "mfg_date": "12 tháng kể từ ngày sản xuất.",
+  "expiry_date": "Xem trên bao bì."
+}

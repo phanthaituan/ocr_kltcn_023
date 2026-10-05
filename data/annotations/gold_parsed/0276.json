@@ -1,0 +1,59 @@
+{
+  "image_id": "0276",
+  "product_name": "Sữa Yến Mạch Vị Nguyên Bản OATSIDE",
+  "gold_ingredients_raw": [
+    "Sữa yến mạch 96.7% (nước, yến mạch)",
+    "dầu hạt cải",
+    "khoáng chất calci carbonat",
+    "muối",
+    "hỗn hợp vitamin (E, B3, B1, B6, B12)",
+    "vitamin D"
+  ],
+  "gold_additives_raw": [
+    "chất điều chỉnh độ acid dikali hydro phosphat INS 340(ii)"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Sản phẩm có thể chứa gluten.",
+    "Được sản xuất trên thiết bị chế biến đậu nành, các loại hạt, sản phẩm sữa."
+  ],
+  "allergen_final": {
+    "contains": [
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": [
+      "gluten"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "sữa",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [
+      "gluten"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": "Thái Lan",
+  "net_weight": null,
+  "mfg_date": "12 tháng trước HSD",
+  "expiry_date": "Xem trên bao bì",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

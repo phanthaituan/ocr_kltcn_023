@@ -1,0 +1,34 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Nước mắm cốt",
+    "Nước mắm cốt cá hồi (20%)",
+    "nước",
+    "muối",
+    "đường",
+    "chiết xuất nấm men",
+    "đầu cá hồi*"
+  ],
+  "additive": [
+    "chất điều vị (635)",
+    "chất điều chỉnh acid (330)",
+    "hương liệu (tổng hợp, giống tự nhiên)"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm nếu dị ứng với các thành phần có trong sản phẩm."
+  ],
+  "nutrition": [
+    {
+      "name": "Hàm lượng nitơ tổng số",
+      "value": "từ 20-24 g"
+    },
+    {
+      "name": "Hàm lượng nitơ axit amin so với nitơ tổng số",
+      "value": "≥ 50 %"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "500 ml",
+  "mfg_date": "26 01 26 L1",
+  "expiry_date": "26 01 27 11:33"
+}

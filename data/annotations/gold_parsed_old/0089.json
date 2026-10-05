@@ -1,0 +1,185 @@
+{
+  "image_id": "0089",
+  "product_name": null,
+  "gold_ingredients_raw": [],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "86,3 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3,13 g"
+    },
+    {
+      "name": "Lysin",
+      "value": "199 mg"
+    },
+    {
+      "name": "Leucin",
+      "value": "268 mg"
+    },
+    {
+      "name": "Isoleucin",
+      "value": "104 mg"
+    },
+    {
+      "name": "Valin",
+      "value": "154 mg"
+    },
+    {
+      "name": "Arginin",
+      "value": "87,2 mg"
+    },
+    {
+      "name": "Histidin",
+      "value": "63,7 mg"
+    },
+    {
+      "name": "Phenylalanin",
+      "value": "133 mg"
+    },
+    {
+      "name": "Threonin",
+      "value": "127 mg"
+    },
+    {
+      "name": "Methionin",
+      "value": "66,1 mg"
+    },
+    {
+      "name": "Chất béo",
+      "value": "4,09 g"
+    },
+    {
+      "name": "DHA",
+      "value": "3,51 mg"
+    },
+    {
+      "name": "Tổng axit béo không no (Omega 3, 6, 9)",
+      "value": "1100 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "9,00 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "8,30 g"
+    },
+    {
+      "name": "Chất xơ hòa tan (FOS/Inulin)",
+      "value": "0,60 g"
+    },
+    {
+      "name": "HMO (2'-FL)",
+      "value": "20,7 mg"
+    },
+    {
+      "name": "Cholin",
+      "value": "6,28 mg"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "220 IU"
+    },
+    {
+      "name": "Vitamin D3",
+      "value": "85,6 IU"
+    },
+    {
+      "name": "Vitamin E",
+      "value": "1,23 IU"
+    },
+    {
+      "name": "Vitamin K1",
+      "value": "3,79 µg"
+    },
+    {
+      "name": "Vitamin K2 (MK-7)",
+      "value": "4,94 µg"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "95,4 µg"
+    },
+    {
+      "name": "Vitamin B2",
+      "value": "199 µg"
+    },
+    {
+      "name": "Niacin",
+      "value": "786 µg"
+    },
+    {
+      "name": "Axit pantothenic",
+      "value": "348 µg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "97,4 µg"
+    },
+    {
+      "name": "Axit folic",
+      "value": "16,8 µg"
+    },
+    {
+      "name": "Natri",
+      "value": "30,7 mg"
+    },
+    {
+      "name": "Kali",
+      "value": "124 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "87,7 mg"
+    },
+    {
+      "name": "Phốt pho",
+      "value": "103 mg"
+    },
+    {
+      "name": "Magiê",
+      "value": "9,49 mg"
+    },
+    {
+      "name": "Kẽm",
+      "value": "0,77 mg"
+    },
+    {
+      "name": "I-ốt",
+      "value": "9,74 µg"
+    },
+    {
+      "name": "Selen",
+      "value": "2,13 µg"
+    },
+    {
+      "name": "Lợi khuẩn Postbiotic Lactococcus lactis Plasma",
+      "value": "9.38 tỷ tế bào"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": false,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

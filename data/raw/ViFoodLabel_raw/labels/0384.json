@@ -1,0 +1,88 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Bột mì",
+    "chất béo thực vật (dầu cọ)",
+    "đường",
+    "maltodextrin",
+    "bột phô mai (2%)",
+    "bột sữa whey",
+    "sữa bột",
+    "tinh bột (sắn, bắp)",
+    "muối",
+    "chất bổ sung (calci carbonat)",
+    "đường lactose",
+    "bơ (chất béo sữa)",
+    "rau sấy khô"
+  ],
+  "additive": [
+    "chất tạo xốp (503(ii))",
+    "(500(ii))",
+    "(450(i))",
+    "chất nhũ hóa (322(i))",
+    "chất điều vị (621)",
+    "hương liệu tổng hợp (phô mai)",
+    "enzim protease"
+  ],
+  "warning": [
+    "Đối tượng sử dụng: 2 tuổi trở lên."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "97 kcal (406 kJ)"
+    },
+    {
+      "name": "Protein",
+      "value": "1.2 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "4.8 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "2.6 g"
+    },
+    {
+      "name": "Chất béo không bão hòa đơn",
+      "value": "1.4 g"
+    },
+    {
+      "name": "Chất béo không bão hòa đa",
+      "value": "0.7 g"
+    },
+    {
+      "name": "Chất béo trans",
+      "value": "0.0 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "12.0 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "5.0 g"
+    },
+    {
+      "name": "Chất xơ",
+      "value": "0.5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "89 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "70 mg"
+    }
+  ],
+  "origin": "URC VIETNAM",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

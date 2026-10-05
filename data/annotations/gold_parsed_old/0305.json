@@ -1,0 +1,111 @@
+{
+  "image_id": "0305",
+  "product_name": "BÁNH QUE POCKY HƯƠNG VỊ HOA HỒNG",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "Đường",
+    "dầu thực vật hydro hóa hoàn toàn (dầu nhân cọ, dầu cọ, dầu hạt cải) (đậu nành)",
+    "sữa bột nguyên kem 9% (đậu nành)",
+    "đường lactose (sữa)",
+    "shortening (dầu cọ hydro hóa hoàn toàn, chất nhũ hóa (este của propylene glycol với acid béo), chất chống oxy hóa (tocopherol concentrat (dạng hỗn hợp)))",
+    "chất xơ inulin",
+    "bột mì nguyên cám",
+    "chiết xuất mạch nha (lúa mì, lúa mạch, lúa mạch đen, yến mạch)",
+    "muối",
+    "bột quả mâm xôi 0,2%",
+    "Chứa kem hương vị hoa hồng 47%"
+  ],
+  "gold_additives_raw": [
+    "chất làm dày (distarch phosphate)",
+    "chất nhũ hóa (este của propylene glycol với acid béo)",
+    "chất chống oxy hóa (tocopherol concentrat (dạng hỗn hợp))",
+    "hương liệu (hương hoa hồng, hương vanilla) tự nhiên",
+    "chất nhũ hóa (lecithin) (đậu nành)",
+    "chất tạo màu (carmine, beet red) tự nhiên",
+    "chất điều chỉnh độ acid (acid malic (DL-))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "160 kcal (690 kJ)"
+    },
+    {
+      "name": "Năng lượng từ chất béo",
+      "value": "64 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "6,8 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "5,6 g"
+    },
+    {
+      "name": "Chất béo dạng trans",
+      "value": "0 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "2 mg"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2,4 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "22,3 g"
+    },
+    {
+      "name": "Xơ thực phẩm",
+      "value": "2,5 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "10,6 g"
+    },
+    {
+      "name": "Natri",
+      "value": "45 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm chứa nguyên liệu có nguồn gốc từ lúa mì, gluten, sữa, đậu nành, lúa mạch, lúa mạch đen và yến mạch.",
+    "Được sản xuất tại cơ sở sử dụng hạnh nhân."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "hạt_cây",
+      "nhuyễn_thể",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "hạt_cây",
+      "nhuyễn_thể",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": "Thái Lan",
+  "net_weight": "33 g",
+  "mfg_date": "xem “MFG DATE” trên bao bì",
+  "expiry_date": "12 tháng kể từ ngày sản xuất, xem “USE BY DATE” trên bao bì",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "image_id": "0468",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Nước",
+    "Đường",
+    "Taurine (1000 mg)",
+    "Mật ong (500 mg)",
+    "Caffein (80 mg)",
+    "Inositol (50 mg)",
+    "Vitamin B3 (20 mg)",
+    "Vitamin B6 (4 mg)",
+    "Vitamin B2 (3,2 mg)",
+    "Vitamin B1 (0,5 mg)"
+  ],
+  "gold_additives_raw": [
+    "Chất điều chỉnh độ acid (330, 331(iii))",
+    "Hương liệu tổng hợp",
+    "Chất bảo quản (211)",
+    "Màu caramel tự nhiên (150d)",
+    "Chất tạo ngọt tự nhiên (960a)",
+    "Chất điều vị (621)",
+    "Chất chống oxy hóa (310)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "178 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "< 0,05 g"
+    },
+    {
+      "name": "Natri",
+      "value": "216 mg"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "< 1,5 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "43,0 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "40,5 g"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "0,5 mg"
+    },
+    {
+      "name": "Vitamin B2",
+      "value": "3,2 mg"
+    },
+    {
+      "name": "Vitamin B3",
+      "value": "20 mg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "4 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm không phù hợp với người dị ứng với caffein, người bị bệnh tiểu đường, phụ nữ mang thai và trẻ em."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "250 ml",
+  "mfg_date": "Xem dưới đáy lon.",
+  "expiry_date": "Xem dưới đáy lon.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "image_id": "0062",
+  "product_name": "PÖNNIE",
+  "gold_ingredients_raw": [
+    "Thịt thăn heo 200 g",
+    "dầu cọ",
+    "nước mắm 11,4 g",
+    "đường",
+    "chất xơ từ lúa mì",
+    "hành tím",
+    "tiêu"
+  ],
+  "gold_additives_raw": [
+    "chất điều vị (621)",
+    "hương liệu giống tự nhiên",
+    "chất chống oxy hóa (316)",
+    "D-xylose"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng (kcal)",
+      "value": "449"
+    },
+    {
+      "name": "Chất đạm (g)",
+      "value": "46"
+    },
+    {
+      "name": "Carbohydrat (g)",
+      "value": "10"
+    },
+    {
+      "name": "Đường tổng số (g)",
+      "value": "8,6"
+    },
+    {
+      "name": "Chất béo (g)",
+      "value": "25"
+    },
+    {
+      "name": "Natri (mg)",
+      "value": "1364,7"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm chứa các nguyên liệu có nguồn gốc từ lúa mì và thủy sản."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "xem trên bao bì",
+  "expiry_date": "06 tháng kể từ ngày sản xuất",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

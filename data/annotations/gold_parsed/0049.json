@@ -1,0 +1,75 @@
+{
+  "image_id": "0049",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Tinh bột sắn",
+    "chả cua (4.18% : cá, thịt, gà, mỡ heo, bột cua (7%), đạm thịt, chiết xuất nấm men, monoq glutamat (621), đạm đậu nành, dầu thực vật (vitamin E), màu paprika tự nhiên, chất tạo màu tổng hợp (carmin (120)))",
+    "trứng",
+    "bắp",
+    "hành hương",
+    "ngò rí",
+    "chiết xuất hải sản",
+    "muối",
+    "đường",
+    "bột gia vị",
+    "tiêu",
+    "aminotide"
+  ],
+  "gold_additives_raw": [
+    "mononatri glutamat (621)",
+    "dầu thực vật (vitamin E)",
+    "chất tạo màu tổng hợp (carmin (120))",
+    "hương gà luộc",
+    "chất làm dày (gôm Arabic (414))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Calories",
+      "value": "350 kcal"
+    },
+    {
+      "name": "Total Fat",
+      "value": "5.5 g"
+    },
+    {
+      "name": "Total Carbohydrate",
+      "value": "55 g"
+    },
+    {
+      "name": "Protein",
+      "value": "17 g"
+    },
+    {
+      "name": "Calcium",
+      "value": "140 mg"
+    },
+    {
+      "name": "Iron",
+      "value": "1.8 mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

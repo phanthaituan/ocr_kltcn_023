@@ -1,0 +1,71 @@
+{
+  "image_id": "0562",
+  "product_name": "BÁNH TRỨNG SÔ-CÔ-LA",
+  "gold_ingredients_raw": [
+    "Đế bánh 60% (bột mì, bơ thực vật, nước, trứng gà 3%, sô cô la 2%, muối, đường)",
+    "kem sữa tươi",
+    "đường",
+    "trứng gà 5%",
+    "sô cô la 3%"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "407 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "6.23 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "37.2 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "13.6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "25.9 g"
+    },
+    {
+      "name": "Natri",
+      "value": "205 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không phù hợp cho người bị dị ứng với các thành phần trên."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "trứng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "gluten",
+      "sữa",
+      "trứng"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "VIỆT NAM",
+  "net_weight": null,
+  "mfg_date": "Vui lòng xem trên bao bì.",
+  "expiry_date": "Vui lòng xem trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

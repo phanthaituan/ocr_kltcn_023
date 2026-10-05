@@ -1,0 +1,73 @@
+{
+  "image_id": "0251",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "NƯỚC",
+    "ĐƯỜNG",
+    "CHẤT BÉO THỰC VẬT",
+    "MẠCH NHA",
+    "SỮA BỘT",
+    "NƯỚC CỐT DÂU (1%)"
+  ],
+  "gold_additives_raw": [
+    "CHẤT NHŨ HÓA (471, 412, 466, 407, 322(i))",
+    "CHẤT ĐIỀU CHỈNH ĐỘ ACID (330)",
+    "MÀU TỰ NHIÊN (120)",
+    "HƯƠNG LIỆU TỔNG HỢP DÙNG CHO THỰC PHẨM"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "165 kcal"
+    },
+    {
+      "name": "CHẤT ĐẠM",
+      "value": "2,1 g"
+    },
+    {
+      "name": "CHẤT BÉO",
+      "value": "8,0 g"
+    },
+    {
+      "name": "CARBOHYDRAT",
+      "value": "21,2 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ",
+      "value": "18,0 g"
+    },
+    {
+      "name": "NATRI",
+      "value": "24,4 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "CÓ CHỨA SỮA."
+  ],
+  "allergen_final": {
+    "contains": [
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "sữa"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "SẢN XUẤT TẠI VIỆT NAM",
+  "net_weight": null,
+  "mfg_date": "NSX: 02 NĂM TRƯỚC HSD.",
+  "expiry_date": "HSD: XEM TRÊN BAO BÌ.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

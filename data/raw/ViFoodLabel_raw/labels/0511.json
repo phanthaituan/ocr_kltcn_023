@@ -1,0 +1,46 @@
+{
+  "product_name": "Mì Ý sốt kem cá hồi",
+  "ingredient": [
+    "Gói mì Ý: 60% (mỳ Ý Spaghetti: 97,4%, dầu thực vật, muối, i-ốt)",
+    "gói xốt kem cá hồi: 40% (nước, xốt mayonnaise, cá hồi: 13,6%, kem sữa tươi: 4,9%, bơ lạt, dầu thực vật, đường tinh luyện, phô mai, phụ gia thực phẩm (chất ổn định (INS 1414, INS 415), hương phô mai tổng hợp, hương sữa giống tự nhiên), hạt nêm, tỏi, muối i-ốt, tiêu, lá kinh giới, lá xạ hương)"
+  ],
+  "additive": [
+    "chất ổn định (INS 1414, INS 415)",
+    "hương phô mai tổng hợp",
+    "hương sữa giống tự nhiên"
+  ],
+  "warning": [
+    "Không dùng sản phẩm hết hạn sử dụng.",
+    "Nguyên liệu từ cá hồi có thể còn sót lại một ít xương, nên khi ăn cần chú ý."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "245 - 455 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "7,0 - 13,0 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "21,7 - 40,3 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "13,2 - 24,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "3,0 - 5,5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "475 - 881 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "28/04/2026",
+  "expiry_date": "28/10/2027"
+}

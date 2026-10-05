@@ -1,0 +1,148 @@
+{
+  "image_id": "0421",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Ngũ cốc (68,4%) [lúa mì nguyên cám (34%) - có chứa gluten, bột lúa mì (32%) - có chứa gluten, bột ngô]",
+    "Đường",
+    "Chiết xuất mạch nha lúa mạch - có chứa gluten và tinh bột sắn",
+    "Bột cacao giảm béo",
+    "Các khoáng chất [calci carbonat, sắt nguyên tố (khử hydrogen)]",
+    "Dầu cọ",
+    "Muối iốt (natri clorid, kali iodat)",
+    "Các vitamin (B3, B5, B6, B2, B9)"
+  ],
+  "gold_additives_raw": [
+    "Chất ổn định trinatri phosphat",
+    "Hương liệu tự nhiên",
+    "Chất chống oxy hóa 307b - có chứa đậu nành"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "1573 kJ (372 kcal)"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "8.0 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "76.5 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "26.5 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "2.5 g"
+    },
+    {
+      "name": "Saturated Fatty Acids",
+      "value": "1.0 g"
+    },
+    {
+      "name": "Monounsaturated Fatty Acids",
+      "value": "0.5 g"
+    },
+    {
+      "name": "Polyunsaturated Fatty Acids",
+      "value": "0.5 g"
+    },
+    {
+      "name": "Trans Fatty Acids",
+      "value": "0.0 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0.0 mg"
+    },
+    {
+      "name": "Dietary Fibre",
+      "value": "5.5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "180 mg"
+    },
+    {
+      "name": "Vitamin B2 (Riboflavin)",
+      "value": "1.2 mg"
+    },
+    {
+      "name": "Vitamin B3 (Niacin)",
+      "value": "15.0 mg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "1.5 mg"
+    },
+    {
+      "name": "Vitamin B9",
+      "value": "150 µg"
+    },
+    {
+      "name": "Folate",
+      "value": "250 µg DFE"
+    },
+    {
+      "name": "Vitamin B5",
+      "value": "4.5 mg"
+    },
+    {
+      "name": "Calci",
+      "value": "500 mg"
+    },
+    {
+      "name": "Sắt",
+      "value": "11.0 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa gluten, đậu nành và có thể chứa sữa và các hạt.",
+    "Không sử dụng cho người dị ứng với các thành phần của sản phẩm.",
+    "Thích hợp dùng cho trẻ từ 4 tuổi trở lên."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "ngô",
+      "nhuyễn_thể",
+      "đậu_nành"
+    ],
+    "may_contain": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ]
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [
+      "gluten",
+      "ngô",
+      "nhuyễn_thể",
+      "đậu_nành"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "generic_allergy_reference": 1,
+      "child_supervision": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "product_name": "Trà Hòa Tan Vị Vải Hạt Chia",
+  "ingredient": [
+    "Đường",
+    "hạt chia đen (organic) (9 %)",
+    "trà tinh chế (0,5 %)",
+    "muối"
+  ],
+  "additive": [
+    "chất điều chỉnh độ acid (INS 330)",
+    "hương liệu vải tổng hợp",
+    "phẩm màu tổng hợp (INS 150d)",
+    "chất tạo ngọt tổng hợp (INS 950)"
+  ],
+  "warning": [
+    "Nên sử dụng ngay sau khi pha",
+    "Không dùng sản phẩm hết hạn sử dụng",
+    "Không sử dụng cho người có dị ứng với các thành phần của sản phẩm"
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "403 Kcal"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "94,30 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "2,08 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,67 g"
+    },
+    {
+      "name": "Natri",
+      "value": "211,10 mg"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "89,90 g"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "xem trên nhãn sản phẩm",
+  "expiry_date": "18 tháng kể từ NSX"
+}

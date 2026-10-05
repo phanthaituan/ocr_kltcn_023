@@ -1,0 +1,35 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Bột mì 88%",
+    "hỗn hợp củ cải đỏ và củ dền 12%"
+  ],
+  "additive": [],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "363 kcal"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "73,61 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "12,76 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "< 3 g"
+    },
+    {
+      "name": "Natri",
+      "value": "< 150 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

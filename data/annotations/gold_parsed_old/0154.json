@@ -1,0 +1,90 @@
+{
+  "image_id": "0154",
+  "product_name": "Smile Egg Cake",
+  "gold_ingredients_raw": [
+    "Eggs (minimum addition ≥30%)",
+    "Wheat Flour",
+    "Egg Yolk- Flavored Salad Dressing (minimum addition ≥15%)",
+    "White Granulated Sugar",
+    "Edible Vegetable Oil",
+    "Shortening",
+    "Edible Salt (additional, if distinct from above)"
+  ],
+  "gold_additives_raw": [
+    "Trehalose",
+    "Sorbitol Solution 420(i)",
+    "Compound Emulsifier [Hydroxypropyl Distarch Phosphate 1442, Disodium Dihydrogen Pyrophosphate 450(i), Sodium Bicarbonate 500(ii), Canxi Cacbonat 170(i), Mono- and Diglycerides of Fatty Acids 471, Sodium Stearoyl Lactylate 481(i), Xanthan Gum 415, Guar Gum 412, Starch, Soy Protein Powder, Egg White Powder, Edible Salt]",
+    "Hydroxypropyl Distarch Phosphate 1442",
+    "Disodium Dihydrogen Pyrophosphate 450(i)",
+    "Sodium Bicarbonate 500(ii)",
+    "Mono- and Diglycerides of Fatty Acids 471",
+    "Sodium Stearoyl Lactylate 481(i)",
+    "Xanthan Gum 415",
+    "Guar Gum 412",
+    "Compound Emulsifier and Moisture Retention Agent [Mono-and Diglycerides of Fatty Acids 471, Propylene Glycol 1520, Polyglycerol Esters of Fatty Acids 475, Glycerin 422, Sorbitan Monostearate 491, Propylene Glycol Esters of Fatty Acids 477, Potassium Stearate, Water]",
+    "Mono-and Diglycerides of Fatty Acids 471",
+    "Propylene Glycol 1520",
+    "Polyglycerol Esters of Fatty Acids 475",
+    "Glycerin 422",
+    "Sorbitan Monostearate 491",
+    "Propylene Glycol Esters of Fatty Acids 477",
+    "Potassium Stearate",
+    "Hydroxypropyl Distarch Phosphate 1442 (additional, if distinct from above)",
+    "Compound Leavening Agent [Disodium Dihydrogen Pyrophosphate 450(i), Sodium Bicarbonate 500(ii), Canxi Cacbonat 170(i), xanthan gum 415, corn starch]",
+    "Disodium Dihydrogen Pyrophosphate 450(i)",
+    "Sodium Bicarbonate 500(ii)",
+    "Canxi Cacbonat 170(i)",
+    "xanthan gum 415",
+    "Citric Acids 330",
+    "glucono - lactone 575",
+    "potassium sorbate 202",
+    "Food Flavorings"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "ENERGY",
+      "value": "1549kJ"
+    },
+    {
+      "name": "PROTEIN",
+      "value": "5.5g"
+    },
+    {
+      "name": "FAT",
+      "value": "21.7g"
+    },
+    {
+      "name": "-Trans Fatty Acids",
+      "value": "0g"
+    },
+    {
+      "name": "CARBOHYDRATE",
+      "value": "38.4g"
+    },
+    {
+      "name": "SODIUM",
+      "value": "383mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": "PRODUCT OF CHINA",
+  "net_weight": null,
+  "mfg_date": "PRO DATE:(DD/MM/YYYY)",
+  "expiry_date": "EXP DATE:(DD/MM/YYYY)",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

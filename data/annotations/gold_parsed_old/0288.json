@@ -1,0 +1,120 @@
+{
+  "image_id": "0288",
+  "product_name": "PLAIN CRACKERS",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "dầu thực vật (như sau): ((dầu cọ không hydro hoá), (dầu hạt cải hydro hoá toàn phần))",
+    "bơ",
+    "muối",
+    "chiết xuất mạch nha",
+    "bột mạch nha",
+    "men",
+    "bột Miso",
+    "chất điều hoà bột (như sau): ((tinh bột ngô), (amoni clorid (chất xử lý bột)), (Calci carbonat (chất xử lý bột)))"
+  ],
+  "gold_additives_raw": [
+    "chất tạo xốp (Natri hydro carbonat)",
+    "amoni clorid",
+    "Calci carbonat"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Kích thước khẩu phần ăn/Serving Size",
+      "value": "26 g (1 gói/Packet)"
+    },
+    {
+      "name": "Khẩu phần ăn cho gói/No. of Servings per container/pack",
+      "value": "2"
+    },
+    {
+      "name": "Năng lượng/Calories (kcal)",
+      "value": "117"
+    },
+    {
+      "name": "Năng lượng từ chất béo/Calories from Fat",
+      "value": "29"
+    },
+    {
+      "name": "Chất béo/Total Fat (g)",
+      "value": "3"
+    },
+    {
+      "name": "Chất béo bão hòa/Saturated Fat (g)",
+      "value": "2"
+    },
+    {
+      "name": "Chất béo chuyển thể/Trans Fat (g)",
+      "value": "0"
+    },
+    {
+      "name": "Cholesterol (mg)",
+      "value": "1"
+    },
+    {
+      "name": "Natri/Sodium (mg)",
+      "value": "135"
+    },
+    {
+      "name": "Carbohydrat/Total Carbohydrates (g)",
+      "value": "20"
+    },
+    {
+      "name": "Chất xơ/Dietary Fiber (g)",
+      "value": "0"
+    },
+    {
+      "name": "Đường/Sugar (g)",
+      "value": "0"
+    },
+    {
+      "name": "Chất đạm/Total Protein (g)",
+      "value": "3"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng cho người bị mẫn cảm với bất cứ thành phần nào của sản phẩm.",
+    "Chứa ngũ cốc chứa gluten (lúa mì, lúa mạch), sữa và đậu nành",
+    "Có thể chứa hạt vừng",
+    "Không sử dụng cho người bị mẫn cảm với bất cứ thành phần nào của sản phẩm"
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "ngô",
+      "nhuyễn_thể",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": [
+      "hạt_vừng"
+    ]
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "hạt_vừng",
+      "nhuyễn_thể",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [
+      "gluten",
+      "ngô"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 2,
+      "named_allergy": 2
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

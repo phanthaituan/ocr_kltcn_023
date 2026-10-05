@@ -1,0 +1,147 @@
+{
+  "image_id": "0576",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "SUGAR",
+    "VEGETABLE OIL (PALM, SUNFLOWER, SHEA, HYDROGENATED PALM KERNEL, HYDROGENATED CANOLA, PALM KERNEL)",
+    "WHEAT FLOUR",
+    "CHOCOLATE",
+    "MILK",
+    "LACTOSE",
+    "SWEETENED CONDENSED MILK",
+    "NONFAT MILK",
+    "CREAM",
+    "HIGH FRUCTOSE GLUCOSE SYRUP (CORN, POTATO, SWEET POTATO)",
+    "COCOA BUTTER",
+    "MALT EXTRACT",
+    "SALT",
+    "YEAST"
+  ],
+  "gold_additives_raw": [
+    "HYDROGENATED PALM KERNEL",
+    "HYDROGENATED CANOLA",
+    "EMULSIFIERS (SOY LECITHIN, POLYGLYCEROL ESTERS OF FATTY ACIDS, SUCROSE ESTERS OF FATTY ACIDS, POLYGLYCEROL ESTERS OF INTERESTERIFIED RICINOLEIC ACID)",
+    "SOY LECITHIN",
+    "POLYGLYCEROL ESTERS OF FATTY ACIDS",
+    "SUCROSE ESTERS OF FATTY ACIDS",
+    "POLYGLYCEROL ESTERS OF INTERESTERIFIED RICINOLEIC ACID",
+    "LEAVENING (SODIUM BICARBONATE)",
+    "SODIUM BICARBONATE",
+    "ARTIFICIAL FLAVORS"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Calories",
+      "value": "110"
+    },
+    {
+      "name": "Total Fat",
+      "value": "7g"
+    },
+    {
+      "name": "Sat. Fat",
+      "value": "4g"
+    },
+    {
+      "name": "Trans Fat",
+      "value": "0g"
+    },
+    {
+      "name": "Cholest.",
+      "value": "0mg"
+    },
+    {
+      "name": "Sodium",
+      "value": "45mg"
+    },
+    {
+      "name": "Total Carb.",
+      "value": "12g"
+    },
+    {
+      "name": "Dietary Fiber",
+      "value": "2g"
+    },
+    {
+      "name": "Total Sugars",
+      "value": "7g"
+    },
+    {
+      "name": "Includes 7g Added Sugars",
+      "value": "14%"
+    },
+    {
+      "name": "Protein",
+      "value": "2g"
+    },
+    {
+      "name": "Vit. D",
+      "value": "0mcg"
+    },
+    {
+      "name": "Calcium",
+      "value": "30mg"
+    },
+    {
+      "name": "Iron",
+      "value": "0.6mg"
+    },
+    {
+      "name": "Potas.",
+      "value": "90mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "CONTAINS COCONUT, MILK, SHEANUT, SOY, WHEAT.",
+    "MAY CONTAIN ALMOND, EGG."
+  ],
+  "allergen_final": {
+    "contains": [
+      "dừa",
+      "gluten",
+      "hạt_cây",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": [
+      "trứng"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "dừa",
+      "gluten",
+      "hạt_cây",
+      "sữa",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [
+      "hạt_cây",
+      "trứng"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "dừa",
+      "gluten",
+      "hạt_cây",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": "PRODUCT OF JAPAN",
+  "net_weight": null,
+  "mfg_date": "11NOV26",
+  "expiry_date": "L V11125",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

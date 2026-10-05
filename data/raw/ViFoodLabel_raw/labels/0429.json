@@ -1,0 +1,59 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Khoai tây (68.7%)",
+    "Dầu ăn (với chất chống oxy hóa (320, 321))",
+    "Đường",
+    "Maltodextrin",
+    "Gia vị nguyên bản (1.3%)",
+    "Chiết xuất nấm men",
+    "Bột whey",
+    "Muối i-ốt",
+    "Đạm thực vật thủy phân"
+  ],
+  "additive": [
+    "Chất chống oxy hóa (320, 321)"
+  ],
+  "warning": [
+    "Thông tin dị ứng: Sản phẩm có chứa lúa mì, đậu nành và sữa.",
+    "Sản phẩm được sản xuất trên cùng thiết bị và/hoặc trên dây chuyền chế biến các sản phẩm có thành phần gây dị ứng như: hải sản, trứng, yến mạch và đậu phộng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "150 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "8 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "3 g"
+    },
+    {
+      "name": "Natri",
+      "value": "105 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "17 g"
+    },
+    {
+      "name": "Chất xơ",
+      "value": "2 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "Ít hơn 1 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3 g"
+    }
+  ],
+  "origin": null,
+  "net_weight": "108 g",
+  "mfg_date": "010426A41A",
+  "expiry_date": "6 tháng kể từ ngày sản xuất"
+}

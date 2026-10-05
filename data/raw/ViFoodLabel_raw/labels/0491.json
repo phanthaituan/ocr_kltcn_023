@@ -1,0 +1,78 @@
+{
+  "product_name": "THANH CUA CHIÊN GIÒN",
+  "ingredient": [
+    "Thanh cua đông lạnh 97%",
+    "lá cà ri 2%",
+    "đậu 1%"
+  ],
+  "additive": [],
+  "warning": [
+    "Sản phẩm không dùng cho người dị ứng với các thành phần sau: cá, lúa mì, đậu tương, trứng."
+  ],
+  "nutrition": [
+    {
+      "name": "Calories",
+      "value": "170"
+    },
+    {
+      "name": "Total Fat",
+      "value": "10g"
+    },
+    {
+      "name": "Saturated Fat",
+      "value": "4g"
+    },
+    {
+      "name": "Trans Fat",
+      "value": "0g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "5mg"
+    },
+    {
+      "name": "Sodium",
+      "value": "430mg"
+    },
+    {
+      "name": "Total Carbohydrate",
+      "value": "15g"
+    },
+    {
+      "name": "Dietary Fiber",
+      "value": "0g"
+    },
+    {
+      "name": "Total Sugars",
+      "value": "2g"
+    },
+    {
+      "name": "includes Added Sugars",
+      "value": "0g"
+    },
+    {
+      "name": "Protein",
+      "value": "4g"
+    },
+    {
+      "name": "Vitamin D",
+      "value": "0mcg"
+    },
+    {
+      "name": "Calcium",
+      "value": "0mg"
+    },
+    {
+      "name": "Iron",
+      "value": "0.4mg"
+    },
+    {
+      "name": "Potassium",
+      "value": "0mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": "30g",
+  "mfg_date": "09 01 2026",
+  "expiry_date": "08 01 2027"
+}

@@ -1,0 +1,51 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Sữa tươi (96,03%)",
+    "Đường (3,8%)"
+  ],
+  "additive": [
+    "Chất ổn định (471, 407, 412)"
+  ],
+  "warning": [
+    "Sản phẩm có chứa sữa."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "74.9 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3.1 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "3.3 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "8.2 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "8.2 g"
+    },
+    {
+      "name": "Natri",
+      "value": "32.2 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "112 mg"
+    },
+    {
+      "name": "Photpho",
+      "value": "86.9 mg"
+    }
+  ],
+  "origin": "Úc.",
+  "net_weight": null,
+  "mfg_date": "Xem MFD/EXP trên bao bì.",
+  "expiry_date": "Xem MFD/EXP trên bao bì."
+}

@@ -1,0 +1,80 @@
+{
+  "image_id": "0107",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Sô-cô-la compound trắng 86,49% (đường, béo thực vật, bột sữa, chất nhũ hoá (INS 492, INS 322(i)), hương liệu tổng hợp (vani))",
+    "bánh quy sôcôla kem vani Cream-O 13,51% (bột mì, đường, chất béo thực vật, đường glucoza, bột sữa, bột cacao (3%), cacao khối (2%), mạch nha, muối iốt, bột lòng đỏ trứng, chất tạo xốp (INS 500(ii), INS 503(ii)), tinh bột bắp, chất nhũ hoá (INS 322(i)), hương liệu tổng hợp (vani), phẩm màu tổng hợp (INS 150d))"
+  ],
+  "gold_additives_raw": [
+    "chất nhũ hoá (INS 492, INS 322(i))",
+    "hương liệu tổng hợp (vani)",
+    "chất tạo xốp (INS 500(ii), INS 503(ii))",
+    "chất nhũ hoá (INS 322(i))",
+    "hương liệu tổng hợp (vani)",
+    "phẩm màu tổng hợp (INS 150d)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "574 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3,38 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "49,4 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "44,9 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "40,3 g"
+    },
+    {
+      "name": "Natri",
+      "value": "91,1 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm nếu dị ứng với thành phần có trong sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "ngô",
+      "sữa",
+      "trứng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "gluten",
+      "ngô",
+      "sữa",
+      "trứng"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "17/01/26",
+  "expiry_date": "17/01/27",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

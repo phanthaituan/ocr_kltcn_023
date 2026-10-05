@@ -1,0 +1,58 @@
+{
+  "product_name": "Pizza Manna",
+  "ingredient": [
+    "Đế pizza 53.4% (Bột mì 59.3%, nước, trứng gà, đường, bơ thực vật - BOS, dầu thực vật, muối, men khô (Saccharomyces cerevisiae))",
+    "phô mai - Pizza topping 22.9%",
+    "phô mai kem 7.3%",
+    "cà chua",
+    "sữa tươi không đường",
+    "cà rốt",
+    "cà chua dạng sệt",
+    "hành tây",
+    "đường muối",
+    "bột sữa",
+    "tỏi",
+    "dầu thực vật",
+    "lá kinh giới - oregano"
+  ],
+  "additive": [
+    "men khô (Saccharomyces cerevisiae)"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm khi có dấu hiệu hư hỏng hoặc hết hạn sử dụng."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "266 Kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "11.5 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "35.2 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "4.1 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "8.8 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "3.7 g"
+    },
+    {
+      "name": "Natri",
+      "value": "312 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

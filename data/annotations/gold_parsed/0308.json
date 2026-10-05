@@ -1,0 +1,72 @@
+{
+  "image_id": "0308",
+  "product_name": "CÀ PHÊ HÒA TAN NESCAFÉ VỊ RANG ĐẬM",
+  "gold_ingredients_raw": [
+    "Đường",
+    "bột kem pha cà phê (có chứa sữa - contain milk)",
+    "cà phê hòa tan Robusta và Arabica (12 %)",
+    "muối i-ốt"
+  ],
+  "gold_additives_raw": [
+    "hương liệu giống tự nhiên",
+    "chất điều chỉnh độ acid 500(ii)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "436 kcal"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "75 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "55 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3,6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "14 g"
+    },
+    {
+      "name": "Natri",
+      "value": "482 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không dùng cho người dị ứng với các thành phần của sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "sữa"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam bởi Công ty TNHH Nestlé Việt Nam",
+  "net_weight": "736 g (46 gói x 16 g)",
+  "mfg_date": "15 tháng trước hạn sử dụng",
+  "expiry_date": "xem trên bao bì",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

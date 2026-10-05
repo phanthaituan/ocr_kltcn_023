@@ -1,0 +1,58 @@
+{
+  "product_name": "SỮA ĐẬU NÀNH ĐEN VÀ 9 LOẠI NGŨ CỐC 5K PRICE",
+  "ingredient": [
+    "Sữa đậu nành nguyên chất 66% (chất rắn đậu nành 7% trở lên, đậu nành)",
+    "nước tinh khiết",
+    "đường trắng",
+    "bột 9 loại ngũ cốc đen 0,8% (lúa mạch đen 30%, gạo đen 29,5%, gạo nếp cẩm 29,2%, đậu đen hạt nhỏ 10%, đậu đen xanh lòng 0,5%, đậu đen hạt to 0,5%, đậu adzuki 0,1%, mạch đắng 0,1%, hạt mè đen 0,1%)",
+    "bột đậu đen nhuyễn 0.37% (bột đậu đen 25% (đậu đen))",
+    "muối tinh luyện"
+  ],
+  "additive": [
+    "chất điều chỉnh độ acid (INS 170(i))",
+    "chất nhũ hóa (INS 322(i))",
+    "hương liệu tổng hợp",
+    "chất làm dày (INS 407)"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm đã hết hạn sử dụng."
+  ],
+  "nutrition": [
+    {
+        "name":"Giá trị dinh dưỡng",
+        "value" : "190ml"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "87 Kcal"
+    },
+    {
+      "name": "natri",
+      "value": "130 mg"
+    },
+    {
+      "name": "carbohydrat",
+      "value": "12 g"
+    },
+    {
+      "name": "đường tổng số",
+      "value": "7 g"
+    },
+    {
+      "name": "chất béo",
+      "value": "2,6 g"
+    },
+    {
+      "name": "chất béo bão hòa",
+      "value": "0,5 g"
+    },
+    {
+      "name": "chất đạm",
+      "value": "4 g"
+    }
+  ],
+  "origin": "Hàn Quốc",
+  "net_weight": "3,04 L (16 hộp x 190 ml), 190 ml",
+  "mfg_date": "12 tháng trước hạn sử dụng",
+  "expiry_date": "Xem trên bao bì sản phẩm. (năm.tháng.ngày)"
+}

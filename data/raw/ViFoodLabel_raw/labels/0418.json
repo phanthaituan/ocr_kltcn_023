@@ -1,0 +1,48 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Đường",
+    "Vảy ngũ cốc 33% (bột mì, glucose syrup, bột đậu nành, chiết xuất mầm lúa mạch, đường, tinh bột bắp, dextrose, bột nếp, bột gạo, fructose syrup, chất ổn định (1414), muối, hương liệu tổng hợp)",
+    "Bột kem thực vật (glucose syrup, dầu thực vật, chiết xuất mầm lúa mạch, protein sữa, chất ổn định (340(ii), 452(i)), chất nhũ hóa (471, 472e), chất chống đông vón (551))"
+  ],
+  "additive": [
+    "Chất ổn định (1414)",
+    "Hương liệu tổng hợp",
+    "Chất ổn định (340(ii), 452(i))",
+    "Chất nhũ hóa (471, 472e)",
+    "Chất chống đông vón (551)"
+  ],
+  "warning": [
+    "Sản phẩm chứa các nguyên liệu có nguồn gốc từ lúa mạch, sữa, lúa mì, đậu nành."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "449 kcal"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "79,9 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "4,9 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "12,2 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "42,8 g"
+    },
+    {
+      "name": "Natri",
+      "value": "385 mg"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "12 tháng."
+}

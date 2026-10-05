@@ -1,0 +1,87 @@
+{
+  "image_id": "0203",
+  "product_name": "BÁNH SNACK O’STAR VỊ TẢO BIỂN",
+  "gold_ingredients_raw": [
+    "KHOAI TÂY 60%",
+    "DẦU THỰC VẬT",
+    "BỘT GIA VỊ TẢO BIỂN 5,5% (ĐƯỜNG, MUỐI, CHẤT ĐIỀU VỊ (621, 951, 627, 631), BỘT BÒ SỮA, MALTODEXTRIN, BỘT WHEY, HƯƠNG LIỆU (TỰ NHIÊN, GIỐNG TỰ NHIÊN), TẢO BIỂN 2,5%, CHẤT ĐIỀU CHỈNH ĐỘ ACID (262(i), 330), MẠCH NHA GLUCOSE, CHẤT CHỐNG ĐÔNG VÓN (551, 341(iii)), CHẤT ỔN ĐỊNH (1450), CHẤT TẠO MÀU TỰ NHIÊN (160c(i)), CHẤT TẠO MÀU TỔNG HỢP (150c))."
+  ],
+  "gold_additives_raw": [
+    "CHẤT ĐIỀU VỊ (621, 951, 627, 631)",
+    "HƯƠNG LIỆU (TỰ NHIÊN, GIỐNG TỰ NHIÊN)",
+    "CHẤT ĐIỀU CHỈNH ĐỘ ACID (262(i), 330)",
+    "CHẤT CHỐNG ĐÔNG VÓN (551, 341(iii))",
+    "CHẤT ỔN ĐỊNH (1450)",
+    "CHẤT TẠO MÀU TỰ NHIÊN (160c(i))",
+    "CHẤT TẠO MÀU TỔNG HỢP (150c)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "540 kcal"
+    },
+    {
+      "name": "CHẤT ĐẠM",
+      "value": "7 g"
+    },
+    {
+      "name": "CARBOHYDRAT",
+      "value": "56 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ",
+      "value": "3 g"
+    },
+    {
+      "name": "CHẤT BÉO",
+      "value": "31 g"
+    },
+    {
+      "name": "CHẤT BÉO BÃO HÒA",
+      "value": "15 g"
+    },
+    {
+      "name": "NATRI",
+      "value": "480 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "SẢN PHẨM CÓ CHỨA CÁC THÀNH PHẦN DỊ ỨNG SAU: SỮA, LÚA MÌ, ĐẬU NÀNH, CÁ VÀ CÓ THỂ CHỨA TRỨNG, TÔM, QUẢ HẠCH."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ]
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "VIỆT NAM",
+  "net_weight": null,
+  "mfg_date": "ĐƯỢC IN TRÊN BAO BÌ (NGÀY/THÁNG/NĂM).",
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "product_name": "Tipo Bánh Cookies Matcha",
+  "ingredient": [
+    "Bột mì",
+    "Đường",
+    "Bơ",
+    "Shortening",
+    "Trứng gà",
+    "Maltodextrin",
+    "Bột trà xanh matcha (0,49%)",
+    "Muối",
+    "Chiết xuất trái dành dành"
+  ],
+  "additive": [
+    "Chất tạo xốp (450(i), 500(ii), 341(i))",
+    "Chất nhũ hóa (322(i))",
+    "Hương liệu tổng hợp (Vani, Trà)",
+    "Chất tạo màu tổng hợp (133)"
+  ],
+  "warning": [
+    "Không sử dụng sản phẩm khi hết hạn sử dụng."
+  ],
+  "nutrition": [
+    {
+      "name": "Tổng calo",
+      "value": "517"
+    },
+    {
+      "name": "Calo từ chất béo",
+      "value": "240"
+    },
+    {
+      "name": "Tổng chất béo",
+      "value": "27 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "15 g"
+    },
+    {
+      "name": "Natri",
+      "value": "287 mg"
+    },
+    {
+      "name": "Tổng Carbohydrate",
+      "value": "62 g"
+    },
+    {
+      "name": "Đường",
+      "value": "22 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "7,6 g"
+    }
+  ],
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "xem trên bao bì.",
+  "expiry_date": "xem trên bao bì."
+}

@@ -1,0 +1,114 @@
+{
+  "image_id": "0145",
+  "product_name": "BÁNH HARD TACK NO BRAND",
+  "gold_ingredients_raw": [
+    "Bánh: Bột mì",
+    "đường",
+    "mỡ trừu (dầu cọ)",
+    "gạo",
+    "bột kem thực vật",
+    "tinh bột ngô",
+    "đường glucose",
+    "muối tinh chế",
+    "sữa",
+    "đậu nành",
+    "axit sunfuro",
+    "Kẹo: Đường"
+  ],
+  "gold_additives_raw": [
+    "chất điều chỉnh độ acid (INS 330)",
+    "chất điều chỉnh độ acid (INS 331(iii))",
+    "chất chống oxy hóa (INS 222)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "430 kcal"
+    },
+    {
+      "name": "chất đạm",
+      "value": "9 g"
+    },
+    {
+      "name": "cacbohydrate",
+      "value": "79 g"
+    },
+    {
+      "name": "chất béo",
+      "value": "8 g"
+    },
+    {
+      "name": "chất béo bão hòa",
+      "value": "3.7 g"
+    },
+    {
+      "name": "đường tổng số",
+      "value": "15 g"
+    },
+    {
+      "name": "natri",
+      "value": "420 mg"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "20 kcal"
+    },
+    {
+      "name": "chất đạm",
+      "value": "0 g"
+    },
+    {
+      "name": "cacbohydrate",
+      "value": "5 g"
+    },
+    {
+      "name": "chất béo",
+      "value": "0 g"
+    },
+    {
+      "name": "đường tổng số",
+      "value": "5 g"
+    },
+    {
+      "name": "natri",
+      "value": "0 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm này được sản xuất trên cùng thiết bị sản xuất giống với các sản phẩm sử dụng trứng, tam giác mạch, đậu phộng, thịt lợn, óc chó, thịt gà, thịt bò, hạt thông, đậu, cà chua, mực.",
+    "Không sử dụng sản phẩm đã hết hạn sử dụng"
+  ],
+  "allergen_final": {
+    "contains": [
+      "hạt_cây",
+      "nhuyễn_thể",
+      "trứng",
+      "đậu_phộng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "hạt_cây",
+      "nhuyễn_thể",
+      "trứng",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Hàn Quốc",
+  "net_weight": "215 g (210 g bánh + 5 g kẹo) / gói",
+  "mfg_date": "12 tháng trước hạn sử dụng",
+  "expiry_date": "Xem mặt trước bao bì sản phẩm (năm, tháng, ngày)",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

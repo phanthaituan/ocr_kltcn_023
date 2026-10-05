@@ -1,0 +1,46 @@
+{
+  "product_name": "CẨM THÀNH",
+  "ingredient": [
+    "Hạt điều 99,27%",
+    "muối 0,73%"
+  ],
+  "additive": [],
+  "warning": [
+    "Không sử dụng sản phẩm hết hạn hoặc có dấu hiệu hư hỏng.",
+    "Người dị ứng với các thành phần của sản phẩm."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "530 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "18,5 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "38,9 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "- g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "33,4 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "- g"
+    },
+    {
+      "name": "Natri",
+      "value": "71,9 mg"
+    }
+  ],
+  "origin": "SẢN XUẤT TẠI VIỆT NAM",
+  "net_weight": null,
+  "mfg_date": "10/12/2025",
+  "expiry_date": "10/12/2026"
+}

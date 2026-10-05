@@ -1,0 +1,95 @@
+{
+  "image_id": "0010",
+  "product_name": "BÁNH MINI HÌNH TRÁI TIM CHOCOCHIP NO BRAND",
+  "gold_ingredients_raw": [
+    "Bột mì (lúa mì)",
+    "Đường trắng",
+    "choco chip 15% (đường trắng, dầu thực vật, nguyên liệu cacao: bột cacao)",
+    "shortening (mỡ bò, dầu cọ)",
+    "trứng",
+    "mạch nha",
+    "sữa đặc",
+    "muối",
+    "bột phô mai",
+    "chất béo sữa khan"
+  ],
+  "gold_additives_raw": [
+    "chất tạo màu tổng hợp INS150a"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "214 kcal"
+    },
+    {
+      "name": "Natri",
+      "value": "130 mg"
+    },
+    {
+      "name": "carbohydrat",
+      "value": "28 g"
+    },
+    {
+      "name": "đường tổng số",
+      "value": "12 g"
+    },
+    {
+      "name": "chất béo",
+      "value": "10 g"
+    },
+    {
+      "name": "chất béo bão hòa",
+      "value": "5 g"
+    },
+    {
+      "name": "chất đạm",
+      "value": "3 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm này được sản xuất theo dây chuyền với các sản phẩm có sử dụng từ cua, thịt heo, thịt gà, quả đào, tôm, mực ống, động vật có vỏ (con hào, con trai), cá chua, quả óc chó, đậu phộng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "cá",
+      "giáp_xác",
+      "hạt_cây",
+      "nhuyễn_thể",
+      "đậu_phộng"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [
+      "cá",
+      "giáp_xác",
+      "hạt_cây",
+      "nhuyễn_thể",
+      "đậu_phộng"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "cá",
+      "giáp_xác",
+      "hạt_cây",
+      "nhuyễn_thể",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "Hàn Quốc",
+  "net_weight": "252 g / hộp",
+  "mfg_date": "Xem trên bao bì (năm.tháng.ngày).",
+  "expiry_date": "Xem trên bao bì (năm.tháng.ngày).",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

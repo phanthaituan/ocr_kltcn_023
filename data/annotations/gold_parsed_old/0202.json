@@ -1,0 +1,96 @@
+{
+  "image_id": "0202",
+  "product_name": "BÁNH ỐNG VỊ DÂU NO BRAND",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "đường",
+    "dầu thực vật [dầu cọ, chất nhũ hóa (INS 471), chất chống oxy hóa (INS 307b)]",
+    "bột sữa",
+    "đường glucose",
+    "đường maltodextrin",
+    "tinh bột ngô (có thể bao gồm ngô biến đổi gen)",
+    "chất xơ lúa mì",
+    "muối tinh chế",
+    "hỗn hợp dầu tây 0,0475% (dầu tây 100%)"
+  ],
+  "gold_additives_raw": [
+    "chất nhũ hóa (INS 471)",
+    "chất chống oxy hóa (INS 307b)",
+    "chất nhũ hóa [INS 322(i) từ đậu nành, INS 492]",
+    "chất điều chỉnh độ acid (INS 330, INS 296, INS 331(iii))",
+    "hương liệu nhân tạo",
+    "chất nhũ hóa (INS 1520)",
+    "chất tạo màu nhân tạo 2 loại: phẩm màu (INS 120, INS 127)",
+    "chất tạo màu nhân tạo: phẩm màu (102)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "555 kcal"
+    },
+    {
+      "name": "Natri",
+      "value": "210 mg"
+    },
+    {
+      "name": "carbohydrat",
+      "value": "78 g"
+    },
+    {
+      "name": "đường tổng số",
+      "value": "38 g"
+    },
+    {
+      "name": "chất béo",
+      "value": "23 g"
+    },
+    {
+      "name": "chất béo bão hòa",
+      "value": "12 g"
+    },
+    {
+      "name": "chất đạm",
+      "value": "9 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Có chứa lúa mì, sữa, đậu nành.",
+    "Không sử dụng sản phẩm đã hết hạn sử dụng.",
+    "Sản phẩm này được sản xuất trên hệ thống sản xuất cùng với các sản phẩm sử dụng trứng, đậu phộng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Indonesia",
+  "net_weight": "115 g / hộp",
+  "mfg_date": "12 tháng trước hạn sử dụng",
+  "expiry_date": "xem trên bao bì (EXP: năm/tháng/ngày)",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

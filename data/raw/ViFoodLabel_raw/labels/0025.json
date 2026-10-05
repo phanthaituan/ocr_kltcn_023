@@ -1,0 +1,54 @@
+{
+  "product_name": "KẸO DẺO BOOM VỊ NHO",
+  "ingredient": [
+    "Đường",
+    "Mạch nha",
+    "Maltose",
+    "Gelatin",
+    "Nước ép nho cô đặc (5,0%)",
+    "Nước ép cà rốt đen cô đặc"
+  ],
+  "additive": [
+    "Chất làm dày (1200, 1442, 440)",
+    "Chất điều chỉnh độ acid (330, 334, 296)",
+    "Hương liệu tổng hợp (nho)",
+    "Chất làm bóng (903, 901)"
+  ],
+  "warning": [
+    "Trẻ em cần có sự giám sát của người lớn khi ăn."
+  ],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "90 kcal"
+    },
+    {
+      "name": "Tổng Carbohydrate",
+      "value": "20 g"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "17 g"
+    },
+    {
+      "name": "Đường thêm vào",
+      "value": "17 g"
+    },
+    {
+      "name": "Tổng chất béo",
+      "value": "0 g"
+    },
+    {
+      "name": "Natri",
+      "value": "0 mg"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2 g"
+    }
+  ],
+  "origin": "VIỆT NAM",
+  "net_weight": "52,5 g",
+  "mfg_date": "Được in trên bao bì(Ngày/Tháng/Năm).",
+  "expiry_date": "12 tháng kể từ ngày sản xuất."
+}

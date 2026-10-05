@@ -1,0 +1,56 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "Bột mì",
+    "19% trứng (gà)",
+    "Chất béo thực vật (shortening, dầu olein tinh luyện)",
+    "Đường",
+    "Mạch nha",
+    "Sữa tách béo",
+    "Tinh bột bắp",
+    "Nước",
+    "Muối"
+  ],
+  "additive": [
+    "Chất giữ ẩm (422, 420(i))",
+    "Chất nhũ hóa (475)",
+    "Chất tạo xốp (500(iii))",
+    "Vanilla",
+    "Chất làm dày (415)",
+    "Chất điều chỉnh độ acid (330, 270)",
+    "Chất bảo quản (202)",
+    "Hương liệu (cốm, sữa, chanh, bơ) tổng hợp",
+    "Phẩm màu tổng hợp (160a(i), 133)"
+  ],
+  "warning": [],
+  "nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "461 kcal"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "48 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "28 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "22 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "5.4 g"
+    },
+    {
+      "name": "Natri",
+      "value": "223 mg"
+    }
+  ],
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null
+}

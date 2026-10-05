@@ -1,0 +1,101 @@
+{
+  "product_name": null,
+  "ingredient": [
+    "SUGAR",
+    "VEGETABLE OIL (PALM, SUNFLOWER, SHEA, HYDROGENATED PALM KERNEL, HYDROGENATED CANOLA, PALM KERNEL)",
+    "WHEAT FLOUR",
+    "CHOCOLATE",
+    "MILK",
+    "LACTOSE",
+    "SWEETENED CONDENSED MILK",
+    "NONFAT MILK",
+    "CREAM",
+    "HIGH FRUCTOSE GLUCOSE SYRUP (CORN, POTATO, SWEET POTATO)",
+    "COCOA BUTTER",
+    "MALT EXTRACT",
+    "SALT",
+    "YEAST"
+  ],
+  "additive": [
+    "HYDROGENATED PALM KERNEL",
+    "HYDROGENATED CANOLA",
+    "EMULSIFIERS (SOY LECITHIN, POLYGLYCEROL ESTERS OF FATTY ACIDS, SUCROSE ESTERS OF FATTY ACIDS, POLYGLYCEROL ESTERS OF INTERESTERIFIED RICINOLEIC ACID)",
+    "SOY LECITHIN",
+    "POLYGLYCEROL ESTERS OF FATTY ACIDS",
+    "SUCROSE ESTERS OF FATTY ACIDS",
+    "POLYGLYCEROL ESTERS OF INTERESTERIFIED RICINOLEIC ACID",
+    "LEAVENING (SODIUM BICARBONATE)",
+    "SODIUM BICARBONATE",
+    "ARTIFICIAL FLAVORS"
+  ],
+  "warning": [
+    "CONTAINS COCONUT, MILK, SHEANUT, SOY, WHEAT.",
+    "MAY CONTAIN ALMOND, EGG."
+  ],
+  "nutrition": [
+    {
+      "name": "Calories",
+      "value": "110"
+    },
+    {
+      "name": "Total Fat",
+      "value": "7g"
+    },
+    {
+      "name": "Sat. Fat",
+      "value": "4g"
+    },
+    {
+      "name": "Trans Fat",
+      "value": "0g"
+    },
+    {
+      "name": "Cholest.",
+      "value": "0mg"
+    },
+    {
+      "name": "Sodium",
+      "value": "45mg"
+    },
+    {
+      "name": "Total Carb.",
+      "value": "12g"
+    },
+    {
+      "name": "Dietary Fiber",
+      "value": "2g"
+    },
+    {
+      "name": "Total Sugars",
+      "value": "7g"
+    },
+    {
+      "name": "Includes 7g Added Sugars",
+      "value": "14%"
+    },
+    {
+      "name": "Protein",
+      "value": "2g"
+    },
+    {
+      "name": "Vit. D",
+      "value": "0mcg"
+    },
+    {
+      "name": "Calcium",
+      "value": "30mg"
+    },
+    {
+      "name": "Iron",
+      "value": "0.6mg"
+    },
+    {
+      "name": "Potas.",
+      "value": "90mg"
+    }
+  ],
+  "origin": "PRODUCT OF JAPAN",
+  "net_weight": null,
+  "mfg_date": "11NOV26",
+  "expiry_date": "L V11125"
+}
