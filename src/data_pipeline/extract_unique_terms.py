@@ -96,10 +96,10 @@ def main():
         writer.writerows(rows)
 
     print(f"\nĐã ghi {len(rows)} dòng vào {args.out_path}")
-    print("\nTop 15 ingredient xuất hiện nhiều nhất:")
+    print("\n15 ingredient xuất hiện nhiều nhất:")
     for term, count in ingredient_counter.most_common(15):
         print(f"  {term}: {count}")
-    print("\nTop 15 additive xuất hiện nhiều nhất:")
+    print("\n15 additive xuất hiện nhiều nhất:")
     for term, count in additive_counter.most_common(15):
         print(f"  {term}: {count}")
 

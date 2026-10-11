@@ -1,0 +1,2 @@
+﻿engine,n_images,failed,ins_recall_micro,ins_recall_macro,ing_exact,ing_nodiac,ing_fuzzy,warn_exact,warn_nodiac,warn_fuzzy,sec_per_image,vram_mb
+easyocr,60,0,66.4,69.8,46.3,65.8,65.8,10.7,28.0,28.0,2.22,1700

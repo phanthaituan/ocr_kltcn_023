@@ -36,3 +36,6 @@ data/archive
 # OS metadata
 .DS_Store
 Thumbs.db
+
+#PLANS
+plan_docs/

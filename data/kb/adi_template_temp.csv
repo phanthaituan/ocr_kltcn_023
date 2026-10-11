@@ -1,8 +1,8 @@
 ins_code,e_number,variants_seen,frequency,example_strings,substance_name,adi_status,adi_value_mg_per_kg_bw,source,notes
-621,E621,621,179,"(621) | (621, 631, 627) | (621, 635)",,,,,
-330,E330,330,164,"chất điều chỉnh độ acid (330) | chất điều chỉnh độ acid (270, 330) | chất điều chỉnh độ acid (ins 330)",,,,,
-500,E500,500(i); 500(ii); 500(iii),149,"chất tạo xốp (500(ii), 503(ii)) | chất tạo xốp (575, 500(ii)) | chất điều chỉnh độ acid (500(ii))",,,,,
-322,E322,322; 322(i); 322(ii),125,"(322(i)) | (322(i), 476) | (ins 322(i))",,,,,
+621,E621,621,179,"(621) | (621, 631, 627) | (621, 635)", Monosodium glutamate (Bột ngọt),,,,
+330,E330,330,164,"chất điều chỉnh độ acid (330) | chất điều chỉnh độ acid (270, 330) | chất điều chỉnh độ acid (ins 330)", Acid Citric (axit chanh),,,,
+500,E500,500(i); 500(ii); 500(iii),149,"chất tạo xốp (500(ii), 503(ii)) | chất tạo xốp (575, 500(ii)) | chất điều chỉnh độ acid (500(ii))", Natri Cacbonat (Sodium carbonate),,,,
+322,E322,322; 322(i); 322(ii),125,"(322(i)) | (322(i), 476) | (ins 322(i))", Lecithin,,,,
 471,E471,471,123,"(471) | (471, 407, 412) | (477, 471, 322(i), 475, 491, 470(i))",,,,,
 415,E415,415; 415(i),101,"(1442, 415) | chất làm dày (415) | (415)",,,,,
 407,E407,407,73,"(471, 407, 412) | chất làm dày (1200, 440, 1442, 407) | (460(i), 466, 407, 339(ii))",,,,,
