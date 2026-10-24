@@ -7,6 +7,32 @@
     "GELATIN",
     "DẦU THỰC VẬT"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sirô glucoza",
+      "raw": "SIRÔ GLUCOZA",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "ĐƯỜNG",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gelatin",
+      "raw": "GELATIN",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "DẦU THỰC VẬT",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "CHẤT LÀM DÀY (1404)",
     "CHẤT ĐIỀU CHỈNH ĐỘ ACID (330)",
@@ -14,7 +40,7 @@
     "CHẤT LÀM BÓNG (903, 901)",
     "CHẤT TẠO MÀU TỔNG HỢP (129, 102, 133, 110)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "NĂNG LƯỢNG",
       "value": "331,9 kcal"
@@ -43,6 +69,13 @@
   "gold_warning_raw": [
     "SẢN PHẨM CÓ THỂ CHỨA SỮA. CÓ THỂ KHÔNG ĐỦ TẤT CẢ CÁC HƯƠNG TRONG MỘT GÓI."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": [
@@ -73,6 +106,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

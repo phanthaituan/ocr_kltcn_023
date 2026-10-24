@@ -1,0 +1,74 @@
+{
+  "image_id": "0176",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Sữa tươi hữu cơ (100%)"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "NĂNG LƯỢNG/ ENERGY",
+      "value": "62,8 kcal"
+    },
+    {
+      "name": "CHẤT BÉO/ TOTAL FAT",
+      "value": "3,6 g"
+    },
+    {
+      "name": "CHẤT ĐẠM/ PROTEIN",
+      "value": "3,1 g"
+    },
+    {
+      "name": "CARBOHYDRAT/ CARBOHYDRATE",
+      "value": "4,5 g"
+    },
+    {
+      "name": "CALCI/ CALCIUM",
+      "value": "110 mg"
+    },
+    {
+      "name": "PHOSPHO/ PHOSPHORUS",
+      "value": "90 mg"
+    },
+    {
+      "name": "NATRI/ SODIUM",
+      "value": "40 mg"
+    },
+    {
+      "name": "VITAMIN B2",
+      "value": "110 µg"
+    },
+    {
+      "name": "VITAMIN B12",
+      "value": "0,2 µg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không dùng cho trẻ dưới 1 tuổi."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "child_supervision": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam/ Made in Vietnam.",
+  "net_weight": null,
+  "mfg_date": "08 tháng trước HSD.",
+  "expiry_date": "HSD: Xem trên hộp.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

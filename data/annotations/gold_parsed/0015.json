@@ -10,6 +10,50 @@
     "Bột phô mai (1%) (chứa Sữa bột, chất rắn phô mai)",
     "Muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "Dầu thực vật (chứa chất chống oxy hóa TBHQ (INS 319))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột whey",
+      "raw": "Bột whey",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "Maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột phô mai",
+      "raw": "Bột phô mai (1%) (chứa Sữa bột, chất rắn phô mai)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất chống oxy hóa TBHQ (INS 319)",
     "Hương liệu sữa tổng hợp (chứa chất rắn sữa)",
@@ -19,11 +63,18 @@
     "Chất điều chỉnh độ acid Acid Lactid (INS 270)",
     "Phẩm màu Carmine tự nhiên (INS 120)"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Sản phẩm có chứa bột mì, bột whey, sữa, phô mai, đậu nành.",
     "Sản phẩm có thể chứa trứng, hạt phi và đậu phộng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -67,6 +118,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

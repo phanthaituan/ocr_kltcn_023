@@ -11,6 +11,56 @@
     "creamer đặc có đường",
     "lá chanh 800 mg/kg"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước cốt chanh",
+      "raw": "nước cốt chanh 126 g/kg",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối 100 g/kg",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ớt xiêm xanh",
+      "raw": "ớt xiêm xanh 68 g/kg",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dextrose",
+      "raw": "dextrose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "creamer đặc có đường",
+      "raw": "creamer đặc có đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lá chanh",
+      "raw": "lá chanh 800 mg/kg",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (621)",
     "chất ổn định (1442, 440)",
@@ -18,7 +68,7 @@
     "hương liệu tự nhiên",
     "chất tạo màu (102, 133) tổng hợp"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "223,5 kcal"
@@ -47,6 +97,13 @@
   "gold_warning_raw": [
     "Sản phẩm chứa nguyên liệu có nguồn gốc từ sữa, đậu nành."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "sữa",
@@ -79,6 +136,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

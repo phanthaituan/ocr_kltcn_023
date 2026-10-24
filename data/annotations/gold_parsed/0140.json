@@ -17,6 +17,92 @@
     "nước lê cô đặc",
     "tiêu"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xi rô bắp cao fructose",
+      "raw": "xi rô bắp cao fructose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước tương",
+      "raw": "nước tương (nước, đậu nành khử béo, lúa mì, muối)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành tây",
+      "raw": "hành tây",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tỏi",
+      "raw": "tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu hào",
+      "raw": "dầu hào",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mật ong",
+      "raw": "mật ong",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị ớt đỏ",
+      "raw": "gia vị ớt đỏ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước mắm",
+      "raw": "nước mắm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gia vị ngũ vị hương 2%",
+      "raw": "bột gia vị ngũ vị hương 2%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước lê cô đặc",
+      "raw": "nước lê cô đặc",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tiêu",
+      "raw": "tiêu",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm dày (1422, 415)",
     "chất điều vị (621)",
@@ -25,7 +111,7 @@
     "phẩm màu tổng hợp (150a)",
     "phẩm màu tự nhiên [160c(i)]"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "147 kcal"
@@ -54,6 +140,13 @@
   "gold_warning_raw": [
     "Không dùng sản phẩm khi có dấu hiệu hư hỏng hoặc sản phẩm hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -77,6 +170,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

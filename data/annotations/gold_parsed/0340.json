@@ -8,16 +8,55 @@
     "muối",
     "dextrin"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột kem thực vật",
+      "raw": "Bột kem thực vật (sữa, đậu nành, sữa tách béo)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường trắng",
+      "raw": "đường trắng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trà xanh 6%",
+      "raw": "trà xanh 6%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dextrin",
+      "raw": "dextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Silic dioxide (INS 551)",
     "Glycine (INS 640)",
     "Trisodium citrate (INS 331(iii))",
     "hương liệu tổng hợp"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Không sử dụng sản phẩm khi đã hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -41,6 +80,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

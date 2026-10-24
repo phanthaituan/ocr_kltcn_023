@@ -25,6 +25,140 @@
     "BỘT XỬ LÝ BỘT",
     "HỖN HỢP BỘT CACAO VÀ BƠ CACAO"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "ĐƯỜNG",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng",
+      "raw": "TRỨNG",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "BỘT MÌ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nhân đậu đỏ 4,2%",
+      "raw": "NHÂN ĐẬU ĐỎ 4,2%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "DẦU THỰC VẬT",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sô - cô - la sữa nguyên chất 2,1%",
+      "raw": "SÔ - CÔ - LA SỮA NGUYÊN CHẤT 2,1%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "kem sữa đánh tiệt trùng",
+      "raw": "KEM SỮA ĐÁNH TIỆT TRÙNG",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "CHẤT BÉO THỰC VẬT",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "MALTODEXTRIN",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột nguyên kem",
+      "raw": "SỮA BỘT NGUYÊN KEM",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cồn thực phẩm",
+      "raw": "CỒN THỰC PHẨM",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha isomalto oligo",
+      "raw": "MẠCH NHA ISOMALTO OLIGO",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "bột sữa dừa",
+      "raw": "BỘT SỮA DỪA",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cacao",
+      "raw": "BỘT CACAO",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột béo",
+      "raw": "SỮA BỘT BÉO",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột lòng trắng trứng",
+      "raw": "BỘT LÒNG TRẮNG TRỨNG",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "MUỐI",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột gạo",
+      "raw": "TINH BỘT GẠO",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột kem sữa",
+      "raw": "BỘT KEM SỮA",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "MUỐI I-ỐT",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "bột xử lý bột",
+      "raw": "BỘT XỬ LÝ BỘT",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp bột cacao và bơ cacao",
+      "raw": "HỖN HỢP BỘT CACAO VÀ BƠ CACAO",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "CHẤT TẠO NGỌT TỰ NHIÊN (964)",
     "CHẤT NHŨ HÓA (471)",
@@ -38,7 +172,7 @@
     "HƯƠNG LIỆU GIỐNG TỰ NHIÊN (BÁNH MÌ)",
     "CHẤT NHŨ HÓA (476)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "388 kcal"
@@ -67,6 +201,32 @@
   "gold_warning_raw": [
     "SẢN PHẨM CHỨA CÁC THÀNH PHẦN DỊ ỨNG: TRỨNG, LÚA MÌ, SỮA, ĐẬU NÀNH VÀ CÓ THỂ CHỨA CÁ."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "muối i-ốt",
+      "mạch nha isomalto oligo"
+    ],
+    "nutritional_categories": [
+      "fiber_prebiotic",
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "mạch nha isomalto oligo",
+        "raw": "MẠCH NHA ISOMALTO OLIGO",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      },
+      {
+        "name": "muối i-ốt",
+        "raw": "MUỐI I-ỐT",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": [
@@ -108,6 +268,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

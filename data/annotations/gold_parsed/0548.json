@@ -9,16 +9,61 @@
     "muối",
     "cacao mass"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa dừa bến tre",
+      "raw": "bột sữa dừa Bến Tre (35%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ca cao",
+      "raw": "bột ca cao (25%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa béo",
+      "raw": "bột sữa béo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cacao mass",
+      "raw": "cacao mass",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều chỉnh độ acid (INS 331(iii))",
     "chất nhũ hóa (INS 322 (i))",
     "hương sô-cô-la tổng hợp",
     "hương vani tự nhiên"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Sản phẩm chứa nguyên liệu có nguồn gốc từ sữa, đậu nành."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "sữa",
@@ -51,6 +96,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

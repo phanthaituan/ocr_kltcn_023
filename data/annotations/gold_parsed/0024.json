@@ -10,6 +10,50 @@
     "glucose",
     "muối tinh"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "gạo japonica 51%",
+      "raw": "Gạo Japonica 51%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột khoai tây",
+      "raw": "tinh bột khoai tây",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gia vị phô mai ngô 6%",
+      "raw": "bột gia vị phô mai ngô 6% (đường, bột kem, bột phô mai 15%, glucose, muối, hương tổng hợp, chất chống đông vón (551), chất điều vị (631, 627), dầu thực vật, chất tạo màu tự nhiên (100(ii), 160c(i)), chất tạo ngọt tổng hợp (951))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "glucose",
+      "raw": "glucose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối tinh",
+      "raw": "muối tinh",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "hương tổng hợp",
     "chất chống đông vón (551)",
@@ -19,7 +63,7 @@
     "chất chống oxy hóa (319)",
     "chất điều chỉnh độ acid (330)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "241 Kcal"
@@ -51,6 +95,13 @@
     "Gói hút ẩm đóng kèm trong túi: Không ăn được, để xa tầm tay trẻ em.",
     "Không được mở, bỏ ngay vào thùng rác sau khi mở bao bì."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -87,6 +138,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

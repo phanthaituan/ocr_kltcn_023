@@ -1,0 +1,112 @@
+{
+  "image_id": "0048",
+  "product_name": "Peelerz Cummy mango",
+  "gold_ingredients_raw": [
+    "Glucose Syrup",
+    "Sugar",
+    "Water",
+    "Concentrated Mango Juice",
+    "Concentrated Apple Juice",
+    "Gelatin",
+    "Trehalose",
+    "Palm oil"
+  ],
+  "gold_additives_raw": [
+    "Humectant E422(Glycerol)",
+    "Acidity Regulators E330 (Citric Acid)",
+    "Thickener E440 (Pectin)",
+    "Artificial flavour (Mango flavor)",
+    "Acidity Regulators E296 (Malic Acid)",
+    "Acidity Regulators E331(iii)(Sodium Citrate)",
+    "Maltitol",
+    "Glazing Agent E903(Carnauba Wax)",
+    "Thickener E406 (Agar)",
+    "Acidity Regulators E452i (Sodium Polyphosphate)",
+    "Artificial colors: E171 Titanium Dioxide, E102 Tartrazine, E110 Sunset Yellow"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Calories",
+      "value": "92kcal"
+    },
+    {
+      "name": "Calories from Fat",
+      "value": "0kcal"
+    },
+    {
+      "name": "Total Fat",
+      "value": "0g"
+    },
+    {
+      "name": "Saturated fat",
+      "value": "0g"
+    },
+    {
+      "name": "Trans Fat",
+      "value": "0g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0mg"
+    },
+    {
+      "name": "Sodium",
+      "value": "9mg"
+    },
+    {
+      "name": "Total Carbohydrates",
+      "value": "22g"
+    },
+    {
+      "name": "Dietary Fiber",
+      "value": "0g"
+    },
+    {
+      "name": "Sugar",
+      "value": "16g"
+    },
+    {
+      "name": "Total Protein",
+      "value": "1g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Allergen Information: may contain milk, soy and sulphites.",
+    "WARNING: Choking Hazard."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "sữa",
+      "đậu_nành"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [
+      "sữa",
+      "đậu_nành"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "unclassified": 1
+    }
+  },
+  "origin": "PRODUCED IN P.R.C.",
+  "net_weight": null,
+  "mfg_date": "23/11/2025",
+  "expiry_date": "22/05/2027",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

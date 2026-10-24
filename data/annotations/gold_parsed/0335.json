@@ -18,6 +18,98 @@
     "MUỐI",
     "SẮT (III) PYROPHOSPHAT (0,04%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "trứng",
+      "raw": "TRỨNG (25,1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "BỘT MÌ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "ĐƯỜNG",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "DẦU THỰC VẬT",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chả bông gà",
+      "raw": "CHẢ BÔNG GÀ (RUỐC THỊT GÀ) (5,1%) (THỊT ỨC GÀ TƯƠI, ĐƯỜNG, CHẤT ĐIỀU VỊ (621), NƯỚC MẮM, NƯỚC TƯƠNG)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha glucose",
+      "raw": "MẠCH NHA GLUCOSE",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột lòng trắng trứng",
+      "raw": "BỘT LÒNG TRẮNG TRỨNG",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cồn thực phẩm",
+      "raw": "CỒN THỰC PHẨM",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha isomalto",
+      "raw": "MẠCH NHA ISOMALTO",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "calci carbonat",
+      "raw": "CALCI CARBONAT (0,44%)",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "bơ",
+      "raw": "BƠ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "MUỐI I-ỐT",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "đường thực vật lên men",
+      "raw": "ĐƯỜNG THỰC VẬT LÊN MEN",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "MUỐI",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sắt",
+      "raw": "SẮT (III) PYROPHOSPHAT (0,04%)",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    }
+  ],
   "gold_additives_raw": [
     "CHẤT ĐIỀU VỊ (621)",
     "CHẤT NHŨ HÓA (477, 471, 322(i), 475, 491, 470(i))",
@@ -27,7 +119,7 @@
     "CHẤT TẠO XỐP (575, 500(ii))",
     "CHẤT XỬ LÝ BỘT (1100(iii))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "390 kcal"
@@ -64,6 +156,38 @@
   "gold_warning_raw": [
     "SẢN PHẨM KHÔNG DÙNG CHO NGƯỜI DỊ ỨNG VỚI CÁC THÀNH PHẦN SAU: TRỨNG, LÚA MÌ, SỮA, CÁ VÀ ĐẬU NÀNH."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 3,
+    "nutritional_names": [
+      "calci carbonat",
+      "muối i-ốt",
+      "sắt"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "calci carbonat",
+        "raw": "CALCI CARBONAT (0,44%)",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "muối i-ốt",
+        "raw": "MUỐI I-ỐT",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "sắt",
+        "raw": "SẮT (III) PYROPHOSPHAT (0,04%)",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -105,6 +229,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

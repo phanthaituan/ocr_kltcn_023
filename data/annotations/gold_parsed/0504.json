@@ -13,6 +13,68 @@
     "gelatin",
     "dầu mè"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật tinh luyện",
+      "raw": "dầu thực vật tinh luyện",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha",
+      "raw": "mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "0.1% rong biển",
+      "raw": "0.1% rong biển",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột whey",
+      "raw": "bột whey",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "shortening",
+      "raw": "shortening",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gelatin",
+      "raw": "gelatin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu mè",
+      "raw": "dầu mè",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm ẩm (420(i), 422)",
     "chất tạo xốp (500(ii), 503(ii), 341(ii))",
@@ -21,7 +83,7 @@
     "chất điều vị (621)",
     "chất xử lý bột (223, 1101(i))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "481 kcal"
@@ -51,6 +113,13 @@
     "Không sử dụng sản phẩm khi đã hết hạn sử dụng.",
     "Sản phẩm có chứa: gluten, sữa và đậu nành."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -87,6 +156,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

@@ -10,13 +10,57 @@
     "muối i-ốt",
     "bột mật ong (0,07%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dextrose",
+      "raw": "dextrose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột chanh",
+      "raw": "bột chanh (1,2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất trà đen",
+      "raw": "chiết xuất trà đen (0,9%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin c",
+      "raw": "vitamin C (acid L-ascorbic) (0,3%)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "muối i-ốt",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "bột mật ong",
+      "raw": "bột mật ong (0,07%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều chỉnh độ acid (INS 330, INS 331(iii), INS 296)",
     "hương liệu tổng hợp (hương chanh, hương trà)",
     "màu tổng hợp (caramen nhóm IV - INS 150d)",
     "chất tạo ngọt tổng hợp (INS 950, INS 955)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng (Kcal)",
       "value": "54"
@@ -39,6 +83,32 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "muối i-ốt",
+      "vitamin c"
+    ],
+    "nutritional_categories": [
+      "mineral_trace",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "vitamin c",
+        "raw": "vitamin C (acid L-ascorbic) (0,3%)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "muối i-ốt",
+        "raw": "muối i-ốt",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -60,6 +130,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": false
   }
 }

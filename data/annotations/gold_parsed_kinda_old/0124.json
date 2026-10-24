@@ -1,0 +1,94 @@
+{
+  "image_id": "0124",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "GLUCOSE SYRUP (FROM CORN)",
+    "SUGAR",
+    "WATER",
+    "GELATIN",
+    "CONCENTRATED PEACH JUICE",
+    "COCONUT OIL",
+    "AGAR"
+  ],
+  "gold_additives_raw": [
+    "SORBITOL",
+    "CITRIC ACID",
+    "ARTIFICIAL FLAVOR",
+    "MALIC ACID",
+    "GLYCEROL",
+    "PECTIN",
+    "CARNAUBA WAX",
+    "SODIUM CITRATE",
+    "TITANIUM DIOXIDE",
+    "FD&C RED 40"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Calories",
+      "value": "100"
+    },
+    {
+      "name": "Total Fat",
+      "value": "0g"
+    },
+    {
+      "name": "Sodium",
+      "value": "10mg"
+    },
+    {
+      "name": "Total Carbohydrate",
+      "value": "24g"
+    },
+    {
+      "name": "Total Sugars",
+      "value": "17g"
+    },
+    {
+      "name": "Includes Added Sugars",
+      "value": "17g"
+    },
+    {
+      "name": "Protein",
+      "value": "2g"
+    }
+  ],
+  "gold_warning_raw": [
+    "ALLERGEN INFORMATION: MAY CONTAIN MILK AND SOY.",
+    "CAUTION: SMALL OBJECTS SUCH AS HARD AND SOFT CANDIES MAY INADVERTENTLY BECOME LODGED IN THE THROAT."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "sữa",
+      "đậu_nành"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [
+      "sữa",
+      "đậu_nành"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "unclassified": 1
+    }
+  },
+  "origin": "P.R.C.",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

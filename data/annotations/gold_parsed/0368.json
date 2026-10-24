@@ -16,6 +16,86 @@
     "Gelatin",
     "vảy rau mùi tây"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "shortening thực vật và động vật",
+      "raw": "Shortening thực vật và động vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ lạt 2,5%",
+      "raw": "Bơ lạt 2,5%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng",
+      "raw": "trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "muối i-ốt",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "mạch nha glucose",
+      "raw": "mạch nha glucose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gluten lúa mì",
+      "raw": "gluten lúa mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tỏi phi 0,7%",
+      "raw": "tỏi phi 0,7%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột chiết xuất nấm men",
+      "raw": "bột chiết xuất nấm men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gelatin",
+      "raw": "Gelatin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vảy rau mùi tây",
+      "raw": "vảy rau mùi tây",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất tạo xốp (503(ii), 500(ii), 341(i))",
     "hương liệu (giống tự nhiên tổng hợp)",
@@ -24,7 +104,7 @@
     "chất điều chỉnh độ acid (296)",
     "chất tạo màu tổng hợp (160a(i))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "NĂNG LƯỢNG",
       "value": "156 Kcal"
@@ -57,6 +137,24 @@
   "gold_warning_raw": [
     "SẢN PHẨM CÓ CHỨA CÁC THÀNH PHẦN DỊ ỨNG SAU: LÚA MÌ, SỮA, ĐẬU NÀNH, TRỨNG, SULFIT VÀ CÓ THỂ CHỨA TÔM, CÁ."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "muối i-ốt"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "muối i-ốt",
+        "raw": "muối i-ốt",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": [
@@ -104,6 +202,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

@@ -1,0 +1,74 @@
+{
+  "image_id": "0210",
+  "product_name": "BÁNH CUSTAS KEM TRỨNG",
+  "gold_ingredients_raw": [
+    "TRỨNG (22,3%)",
+    "BỘT MÌ",
+    "ĐƯỜNG",
+    "DẦU THỰC VẬT",
+    "CHẤT BÉO THỰC VẬT",
+    "MẠCH NHA MALTOSE",
+    "MẠCH NHA ISOMALTO OLIGO",
+    "BỘT SỮA NGUYÊN KEM",
+    "CỒN THỰC PHẨM",
+    "BỘT LÒNG ĐỎ TRỨNG (1%)",
+    "MALTODEXTRIN",
+    "MUỐI",
+    "MUỐI I-ỐT"
+  ],
+  "gold_additives_raw": [
+    "CHẤT LÀM ẨM (420(ii), 1520, 422)",
+    "CHẤT NHŨ HÓA (477, 471, 322(i), 475, 491, 470(i))",
+    "CHẤT ỔN ĐỊNH (170(i), 415)",
+    "CHẤT TẠO XỐP (575, 500(ii))",
+    "HƯƠNG LIỆU TỔNG HỢP (VANI, SỮA TRỨNG)",
+    "CHẤT TẠO MÀU TỔNG HỢP (160a(i))"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "SẢN PHẨM KHÔNG DÙNG CHO NGƯỜI DỊ ỨNG VỚI CÁC THÀNH PHẦN SAU: TRỨNG, LÚA MÌ, SỮA, ĐẬU NÀNH VÀ CÓ THỂ CHỨA CÁ."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "cá",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [
+      "cá",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "cá",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "VIỆT NAM",
+  "net_weight": null,
+  "mfg_date": "NGÀY SẢN XUẤT (NSX): ĐƯỢC IN TRÊN BAO BÌ (NGÀY/ THÁNG/ NĂM).",
+  "expiry_date": "HẠN SỬ DỤNG: 10 THÁNG KỂ TỪ NGÀY SẢN XUẤT.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

@@ -12,6 +12,62 @@
     "tỏi",
     "gừng"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "khoai tây 61,5%",
+      "raw": "Khoai tây 61,5%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gói gia vị biển nori 7%",
+      "raw": "gói gia vị Biển Nori 7% (maltodextrin, đường, chất điều vị 621, 635)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "muối I-ốt",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "tảo biển 0,7%",
+      "raw": "tảo biển 0,7%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột nước tương",
+      "raw": "bột nước tương",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tôm",
+      "raw": "tôm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tỏi",
+      "raw": "tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gừng",
+      "raw": "gừng",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị 621, 635",
     "hương liệu giống tự nhiên",
@@ -19,7 +75,7 @@
     "chất tạo ngọt tổng hợp 951",
     "chất khí đóng gói 941"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "160 kcal"
@@ -53,6 +109,24 @@
     "Sản phẩm có chứa nguyên liệu từ đậu nành và tôm.",
     "Không phù hợp với người dị ứng chất tạo ngọt."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "muối i-ốt"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "muối i-ốt",
+        "raw": "muối I-ốt",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "giáp_xác",
@@ -88,6 +162,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

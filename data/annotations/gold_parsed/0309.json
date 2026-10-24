@@ -11,13 +11,63 @@
     "đường",
     "muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột tăng cường dinh dưỡng 59,85%",
+      "raw": "Bột tăng cường dinh dưỡng 59,85% (bột mì, sắt khử 0.00005%, kẽm oxit 0.00003%, axit folic 0.0000025%, Vitamin B1 0.0000025%, Vitamin B2 0.0000004%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đậu cọ",
+      "raw": "đậu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dừa khô 3.11%",
+      "raw": "dừa khô 3.11%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mè 2.89%",
+      "raw": "mè 2.89%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột tách béo",
+      "raw": "sữa bột tách béo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều chỉnh độ axit (INS503 (ii), INS500(ii))",
     "hương liệu tổng hợp (hương dừa, sữa, vani)",
     "chất nhũ hoá INS322(i)",
     "chất xử lý bột INS1101 (i)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "180 kcal"
@@ -51,6 +101,13 @@
     "Sản phẩm có chứa lúa mì, đậu nành, trứng, sữa.",
     "Sản phẩm này được sản xuất theo dây chuyền với các sản phẩm có sử dụng từ sữa, đậu phộng, axit sunfuro."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -95,6 +152,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

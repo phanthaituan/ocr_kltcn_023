@@ -10,12 +10,56 @@
     "bột tỏi",
     "rong biển (0.38%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đậu hà lan",
+      "raw": "Đậu hà lan (55%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sợi gia vị rong biển",
+      "raw": "bột sợi gia vị rong biển",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột tỏi",
+      "raw": "bột tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "rong biển",
+      "raw": "rong biển (0.38%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (1451, 414, 500ii)",
     "chất điều vị (621, 950)",
     "hương liệu tổng hợp (hương rong biển)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng (Kcal)",
       "value": "397"
@@ -50,6 +94,13 @@
     "Sử dụng sản phẩm trước hạn sử dụng.",
     "không sử dụng khi bao bì không còn nguyên vẹn."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten"
@@ -80,6 +131,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

@@ -16,6 +16,86 @@
     "chất tạo ngọt tổng hợp (950)",
     "chiết xuất tự nhiên của ớt 0,02%"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp tỏi ớt lên men 10,7%",
+      "raw": "hỗn hợp tỏi ớt lên men 10,7% [nước, ớt 14,6%, tỏi, đường, chất điều chỉnh độ acid (330)]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp tempe bột mì",
+      "raw": "hỗn hợp tempe bột mì (tempe bột mì, nước, muối 7%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị ớt 6%",
+      "raw": "gia vị ớt 6% (bột ớt, nước, muối 13%, hành tây, tỏi)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất làm dày",
+      "raw": "chất làm dày (1422, 415)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối 2%",
+      "raw": "muối 2%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ớt 0,8%",
+      "raw": "ớt 0,8%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất điều vị",
+      "raw": "chất điều vị (621)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất điều chỉnh độ acid",
+      "raw": "chất điều chỉnh độ acid (330)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất bảo quản",
+      "raw": "chất bảo quản (202)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất tạo ngọt tổng hợp",
+      "raw": "chất tạo ngọt tổng hợp (950)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất tự nhiên của ớt 0,02%",
+      "raw": "chiết xuất tự nhiên của ớt 0,02%",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều chỉnh độ acid (330)",
     "chất làm dày (1422, 415)",
@@ -23,7 +103,7 @@
     "chất bảo quản (202)",
     "chất tạo ngọt tổng hợp (950)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "101 kcal"
@@ -50,6 +130,13 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -71,6 +158,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": false
   }
 }

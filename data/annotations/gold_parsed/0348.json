@@ -8,10 +8,42 @@
     "gelatine",
     "men Streptococcus thermophilus và Lactobacillus bulgaricus"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa",
+      "raw": "Sữa (sữa tươi, nước, bột sữa, chất béo thực vật) (78%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà chua",
+      "raw": "cà chua (12%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gelatine",
+      "raw": "gelatine",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "men streptococcus thermophilus và lactobacillus bulgaricus",
+      "raw": "men Streptococcus thermophilus và Lactobacillus bulgaricus",
+      "nutritional": true,
+      "nutritional_category": "probiotic"
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (1422, 471)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Calories (kcal)",
       "value": "491"
@@ -62,6 +94,24 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "men streptococcus thermophilus và lactobacillus bulgaricus"
+    ],
+    "nutritional_categories": [
+      "probiotic"
+    ],
+    "items": [
+      {
+        "name": "men streptococcus thermophilus và lactobacillus bulgaricus",
+        "raw": "men Streptococcus thermophilus và Lactobacillus bulgaricus",
+        "nutritional": true,
+        "nutritional_category": "probiotic"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -83,6 +133,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": false
   }
 }

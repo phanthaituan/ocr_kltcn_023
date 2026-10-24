@@ -1,0 +1,15 @@
+{
+  "image_id": "0119",
+  "gold_ins_additive": [
+    "1412",
+    "307b",
+    "322",
+    "477",
+    "500"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "hương liệu nhân tạo (hương sữa, hương bơ, hương sữa hokkaido, hương vani)"
+  ],
+  "ins_parser_version": "1.1"
+}

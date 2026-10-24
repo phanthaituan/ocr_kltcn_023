@@ -12,12 +12,68 @@
     "bột gia vị thịt heo",
     "D-xylose"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "cá tra 85%",
+      "raw": "Cá tra 85%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gluten lúa mì",
+      "raw": "gluten lúa mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành tím",
+      "raw": "hành tím",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "surimi hỗn hợp 1%",
+      "raw": "surimi hỗn hợp 1% (cá đồng, cá mối)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tỏi",
+      "raw": "tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gia vị thịt heo",
+      "raw": "bột gia vị thịt heo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "d-xylose",
+      "raw": "D-xylose",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định [1412, 450(iii)]",
     "chất điều vị (621, 635)",
     "chất bảo quản (200)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "190 kcal"
@@ -49,6 +105,13 @@
     "Sau khi mở bao bì phải được lưu trữ trong ngăn mát tủ lạnh.",
     "Thời gian tối đa không quá 24 giờ."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -97,6 +160,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

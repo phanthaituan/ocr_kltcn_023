@@ -23,6 +23,128 @@
     "sữa",
     "đậu nành và thịt heo"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xì rô glucose",
+      "raw": "xì rô glucose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mỡ trừu",
+      "raw": "mỡ trừu (dầu cọ)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mứt trái cây 6,45%",
+      "raw": "mứt trái cây 6,45% (dâu tây 30%, đường, xì rô glucose, quả mâm xôi 11,15%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ",
+      "raw": "dầu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng",
+      "raw": "trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ca cao 2,69%",
+      "raw": "bột ca cao 2,69%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường lactose",
+      "raw": "đường lactose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa",
+      "raw": "bột sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ethanol",
+      "raw": "ethanol",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gelatin",
+      "raw": "gelatin (heo)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối tinh luyện",
+      "raw": "muối tinh luyện",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột ngô",
+      "raw": "tinh bột ngô (có thể chứa ngô biến đổi gen)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cacao khối 0,13%",
+      "raw": "cacao khối 0,13%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thịt heo",
+      "raw": "thịt heo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "có chứa lúa mì",
+      "raw": "có chứa lúa mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng",
+      "raw": "trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa",
+      "raw": "sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đậu nành và thịt heo",
+      "raw": "đậu nành và thịt heo",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất tạo ngọt nhân tạo (INS 420(i))",
     "chất điều chỉnh độ acid 2 loại [INS 503(ii), INS 500(ii)]",
@@ -31,7 +153,7 @@
     "phẩm màu (120, INS 164)",
     "chất làm dày (INS 415)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "407 Kcal"
@@ -66,6 +188,13 @@
     "Không sử dụng sản phẩm đã hết hạn sử dụng.",
     "Sản phẩm này được sản xuất trên thiết bị sản xuất cùng với các sản phẩm sử dụng thị bò"
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -106,6 +235,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

@@ -27,6 +27,152 @@
     "bột gia vị hương vị hải sản",
     "gừng sợi đỏ"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ",
+      "raw": "dầu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột khoai mì",
+      "raw": "tinh bột khoai mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dịch chiết xuất từ gà",
+      "raw": "dịch chiết xuất từ gà",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước tương",
+      "raw": "nước tương",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột kem",
+      "raw": "Bột kem",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối ớt",
+      "raw": "muối ớt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bắp cải sấy",
+      "raw": "bắp cải sấy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng sấy",
+      "raw": "trứng sấy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà rốt sấy",
+      "raw": "cà rốt sấy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị",
+      "raw": "gia vị (tỏi, gừng, tiêu, hành, ớt)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột chiết xuất thịt",
+      "raw": "bột chiết xuất thịt (heo, gà)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành lá sấy",
+      "raw": "hành lá sấy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đạm thực vật thủy phân",
+      "raw": "đạm thực vật thủy phân (đậu nành)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột nước tương",
+      "raw": "bột nước tương",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột tôm",
+      "raw": "bột tôm (2,57 g/kg)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mực",
+      "raw": "bột mực (1,95 g/kg)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất nấm men",
+      "raw": "chiết xuất nấm men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ",
+      "raw": "dầu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột hải sản",
+      "raw": "bột hải sản (0,12 g/kg)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gia vị hương vị hải sản",
+      "raw": "bột gia vị hương vị hải sản",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gừng sợi đỏ",
+      "raw": "gừng sợi đỏ",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (621, 627, 631)",
     "chất điều chỉnh độ acid (501(i), 452(i), 500(i), 339(i), 330, 451(i), 450(iii), 300)",
@@ -45,7 +191,7 @@
     "chất tạo màu tổng hợp (160a(i))",
     "chất chống oxy hóa (307b)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "303 Kcal"
@@ -78,6 +224,13 @@
   "gold_warning_raw": [
     "Sản phẩm này có chứa bột mì, mực, đậu nành, trứng, tôm, sữa, cá, mè, bạch tuộc, cua."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -128,6 +281,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

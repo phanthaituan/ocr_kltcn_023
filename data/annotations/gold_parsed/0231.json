@@ -6,8 +6,28 @@
     "sữa",
     "6 vitamin và các loại khoáng chất thiết yếu"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "chiết xuất từ lúa mạch",
+      "raw": "chiết xuất từ lúa mạch",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa",
+      "raw": "sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "6 vitamin và các loại khoáng chất thiết yếu",
+      "raw": "6 vitamin và các loại khoáng chất thiết yếu",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "490 kcal"
@@ -70,6 +90,24 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "6 vitamin và các loại khoáng chất thiết yếu"
+    ],
+    "nutritional_categories": [
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "6 vitamin và các loại khoáng chất thiết yếu",
+        "raw": "6 vitamin và các loại khoáng chất thiết yếu",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -91,6 +129,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": false
   }
 }

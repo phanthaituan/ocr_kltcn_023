@@ -5,8 +5,22 @@
     "95% Thịt bò nhập khẩu từ Úc",
     "5% gia vị (đường, muối, ớt, tỏi, sả, cà ri, ngũ vị hương)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "95% thịt bò nhập khẩu từ úc",
+      "raw": "95% Thịt bò nhập khẩu từ Úc",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "5% gia vị",
+      "raw": "5% gia vị (đường, muối, ớt, tỏi, sả, cà ri, ngũ vị hương)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "370 kcal"
@@ -41,6 +55,13 @@
     "Không sử dụng sản phẩm khi đã hết hạn sử dụng.",
     "Trong sản phẩm có gói hút ẩm không ăn được."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -66,6 +87,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

@@ -9,12 +9,50 @@
     "đường",
     "gia vị thảo mộc (hồi, trần bì, sả, nghệ)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "chân gà rút xương",
+      "raw": "Chân gà rút xương (75%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ớt",
+      "raw": "ớt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị thảo mộc",
+      "raw": "gia vị thảo mộc (hồi, trần bì, sả, nghệ)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (INS621, INS635)",
     "chất điều chỉnh độ acid (INS260)",
     "chất bảo quản (INS234)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "128 kcal"
@@ -47,6 +85,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm quá hạn hoặc sản phẩm có dấu hiệu hư hỏng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -70,6 +115,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

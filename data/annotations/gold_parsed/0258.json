@@ -9,6 +9,44 @@
     "bột cà phê rang xay (0,35 %)",
     "muối ăn"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột kem thực vật",
+      "raw": "Bột kem thực vật (52 %) (siro glucose, dầu nhân cọ, chất khô từ sữa (7,5%) (whey protein, natri caseinat), chất ổn định (340(ii), 451(i)), chất nhũ hóa (471, 481(i)), chất chống đông vón (551), chất tạo màu tổng hợp Beta-caroten 160a(i))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà phê hòa tan",
+      "raw": "cà phê hòa tan (13 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường dextrose",
+      "raw": "đường dextrose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cà phê rang xay",
+      "raw": "bột cà phê rang xay (0,35 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối ăn",
+      "raw": "muối ăn",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (340(ii), 451(i))",
     "chất nhũ hóa (471, 481(i))",
@@ -19,7 +57,7 @@
     "chất điều chỉnh độ acid 500(ii)",
     "chất tạo ngọt tổng hợp Acesulfam kali (950)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "133 kcal"
@@ -49,6 +87,13 @@
     "Sản phẩm có chứa sữa.",
     "Không dùng cho người dị ứng với các thành phần của sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -81,6 +126,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

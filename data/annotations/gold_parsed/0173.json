@@ -7,8 +7,34 @@
     "óc chó (18%)",
     "mắc ca (15%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "hạt điều",
+      "raw": "Hạt điều (43%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hanh nhân",
+      "raw": "hanh nhân (24%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "óc chó",
+      "raw": "óc chó (18%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mắc ca",
+      "raw": "mắc ca (15%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "665 kcal"
@@ -38,6 +64,13 @@
     "Sản phẩm có chứa hạt và có thể chứa đạm lúa mì.",
     "Không dùng sản phẩm đã hết hạn sử dụng, hoặc có dấu hiệu hư hỏng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": [
@@ -68,6 +101,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

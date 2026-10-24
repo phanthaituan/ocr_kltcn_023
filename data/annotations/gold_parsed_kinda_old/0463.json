@@ -1,0 +1,85 @@
+{
+  "image_id": "0463",
+  "product_name": "SNACK KHOAI TÂY KARAMUCHO STRONG LÁT DÀY - VỊ CAY ĐẶC BIỆT",
+  "gold_ingredients_raw": [
+    "Khoai tây 59,0%",
+    "Dầu thực vật",
+    "Bột gia vị cay 6,0% (đường, bột rau, muối, chất điều vị (INS 621, INS 627, INS 508, INS 631), maltodextrin, gia vị và thảo mộc (tiêu trắng, ớt đỏ), bột nước tương, chất điều chỉnh độ acid (INS 330, INS 331(iii)), chất chống đông vón (INS 551), phẩm màu tự nhiên (INS 160c(ii)), phẩm màu tổng hợp (INS 150c), chất tạo ngọt tổng hợp (INS 951), chất làm dày (INS 339(iii)))"
+  ],
+  "gold_additives_raw": [
+    "Chất điều vị (INS 621, INS 627, INS 508, INS 631)",
+    "Chất điều chỉnh độ acid (INS 330, INS 331(iii))",
+    "Chất chống đông vón (INS 551)",
+    "Phẩm màu tự nhiên (INS 160c(ii))",
+    "Phẩm màu tổng hợp (INS 150c)",
+    "Chất tạo ngọt tổng hợp (INS 951)",
+    "Chất làm dày (INS 339(iii))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "537 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "8,2 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "51,1 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "3,4 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "33,3 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "14,5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "549,4 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm không phù hợp cho người dị ứng với gluten, đậu nành."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "In trên bao bì.",
+  "expiry_date": "8 tháng kể từ ngày sản xuất.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

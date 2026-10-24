@@ -6,6 +6,26 @@
     "Kẹo dẻo Boom vị nho: Đường, mạch nha maltose, gelatin, chất làm dày (1200, 1442, 440), nước ép nho cô đặc (5,0%), chất điều chỉnh độ acid (330, 334, 296), hương liệu tổng hợp (nho), nước ép cà rốt đen cô đặc, chất làm bóng (903, 901)",
     "Kẹo dẻo Boom hương dâu: Đường, mạch nha maltose, gelatin, chất làm dày (1200, 1442, 440), nước ép táo cô đặc (4,9%), chất điều chỉnh độ acid (330, 334, 296), hương liệu tổng hợp (dâu), chất làm bóng (903, 901), chất tạo màu tự nhiên (141(i), 100(i)), chất tạo màu tổng hợp (129)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "kẹo dẻo boom vị đào: đường, mạch nha maltose, gelatin, chất làm dày",
+      "raw": "Kẹo dẻo Boom vị đào: Đường, mạch nha maltose, gelatin, chất làm dày (1200, 1442, 440), nước ép đào cô đặc (5,0%), chất điều chỉnh độ acid (330, 334, 296), hương liệu tổng hợp và giống tự nhiên (đào), nước ép cà rốt đen cô đặc, chất làm bóng (903, 901)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "kẹo dẻo boom vị nho: đường, mạch nha maltose, gelatin, chất làm dày",
+      "raw": "Kẹo dẻo Boom vị nho: Đường, mạch nha maltose, gelatin, chất làm dày (1200, 1442, 440), nước ép nho cô đặc (5,0%), chất điều chỉnh độ acid (330, 334, 296), hương liệu tổng hợp (nho), nước ép cà rốt đen cô đặc, chất làm bóng (903, 901)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "kẹo dẻo boom hương dâu: đường, mạch nha maltose, gelatin, chất làm dày",
+      "raw": "Kẹo dẻo Boom hương dâu: Đường, mạch nha maltose, gelatin, chất làm dày (1200, 1442, 440), nước ép táo cô đặc (4,9%), chất điều chỉnh độ acid (330, 334, 296), hương liệu tổng hợp (dâu), chất làm bóng (903, 901), chất tạo màu tự nhiên (141(i), 100(i)), chất tạo màu tổng hợp (129)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất làm dày (1200, 1442, 440)",
     "Chất điều chỉnh độ acid (330, 334, 296)",
@@ -16,7 +36,7 @@
     "Chất tạo màu tự nhiên (141(i), 100(i))",
     "Chất tạo màu tổng hợp (129)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "340 kcal"
@@ -45,6 +65,13 @@
   "gold_warning_raw": [
     "Trẻ em cần có sự giám sát của người lớn khi ăn."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -68,6 +95,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

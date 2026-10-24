@@ -13,6 +13,68 @@
     "Muối I-ốt",
     "Bột Nước Tương"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột Mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu ăn",
+      "raw": "Dầu Ăn (với Chất Chống Oxy Hóa (320, 321))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột sắn",
+      "raw": "Tinh Bột Sắn",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột bắp",
+      "raw": "Tinh Bột Bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị cà chua",
+      "raw": "Gia Vị Cà Chua",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "khoai tây miếng",
+      "raw": "Khoai Tây Miếng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cà chua",
+      "raw": "Bột Cà Chua (3%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "Muối I-ốt",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "bột nước tương",
+      "raw": "Bột Nước Tương",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất Chống Oxy Hóa (320, 321)",
     "Chất Điều Vị (621)",
@@ -20,7 +82,7 @@
     "Màu Thực Phẩm Tự Nhiên (164)",
     "Màu Thực Phẩm Tổng Hợp (129)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "140 Kcal"
@@ -58,6 +120,24 @@
     "Sản phẩm có chứa Lúa Mì, Đậu Nành.",
     "Được sản xuất trên cùng thiết bị và/hoặc trên dây chuyền chế biến các sản phẩm có thành phần gây dị ứng như: Hải Sản, Sữa, Trứng, Yến Mạch và Đậu Phộng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "muối i-ốt"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "muối i-ốt",
+        "raw": "Muối I-ốt",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -105,6 +185,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

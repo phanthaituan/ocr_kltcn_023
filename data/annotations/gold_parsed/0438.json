@@ -9,10 +9,48 @@
     "Muối",
     "Dầu dừa tinh luyện"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đậu phộng",
+      "raw": "Đậu phộng (55%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước cốt dừa nguyên chất",
+      "raw": "Nước cốt dừa nguyên chất (7%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường tinh luyện",
+      "raw": "Đường tinh luyện",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu dừa tinh luyện",
+      "raw": "Dầu dừa tinh luyện",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Hương liệu tổng hợp"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "140 kcal"
@@ -78,6 +116,13 @@
     "Sản phẩm có chứa đậu phộng, bột mì (có thể chứa gluten).",
     "Xem thành phần in đậm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": [
@@ -111,6 +156,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

@@ -9,6 +9,44 @@
     "cao thịt gà",
     "gia vị thảo mộc, hồi"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "chân gà rút xương",
+      "raw": "Chân gà rút xương (95%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cao thịt gà",
+      "raw": "cao thịt gà",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị thảo mộc, hồi",
+      "raw": "gia vị thảo mộc, hồi",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (621)",
     "chiết xuất ớt (160c)",
@@ -16,7 +54,7 @@
     "chất điều chỉnh độ axit (330, 260)",
     "chất bảo quản (234, 211)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Tổng lượng Calo/ Calories",
       "value": "133 kcal"
@@ -47,6 +85,13 @@
     "Trong quá trình vận chuyển và lưu thông, bao bì sản phẩm có thể bị rách hoặc thủng, dẫn đến sản phẩm bị hỏng.",
     "Khi phát hiện sản phẩm lỗi, quý khách vui lòng mang sản phẩm đến nơi mua hàng để được hỗ trợ đổi trả theo quy định."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -70,6 +115,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

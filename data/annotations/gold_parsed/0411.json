@@ -15,12 +15,86 @@
     "Khoáng chất (kẽm sulfat)",
     "Bột dầu cá"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường 46%",
+      "raw": "Đường 46%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "Dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "Maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột whey",
+      "raw": "Bột whey",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa gầy",
+      "raw": "Bột sữa gầy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa béo",
+      "raw": "Bột sữa béo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lactose",
+      "raw": "Lactose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa nguyên kem",
+      "raw": "Bột sữa nguyên kem",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin",
+      "raw": "Vitamin (B3, E, A, B1, B6, B2, D3, B12)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "khoáng chất",
+      "raw": "Khoáng chất (kẽm sulfat)",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "bột dầu cá",
+      "raw": "Bột dầu cá",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    }
+  ],
   "gold_additives_raw": [
     "Chất ổn định dùng trong thực phẩm (341(iii), 1450, 460(i), 401, 466, 508)",
     "Hương liệu tự nhiên và tổng hợp dùng trong thực phẩm",
     "Màu tổng hợp dùng trong thực phẩm (beta-caroten) 160a(i)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "333 kcal"
@@ -93,6 +167,40 @@
   "gold_warning_raw": [
     "Có chứa thành phần từ sữa, cá và đậu nành."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 3,
+    "nutritional_names": [
+      "bột dầu cá",
+      "khoáng chất",
+      "vitamin"
+    ],
+    "nutritional_categories": [
+      "amino_omega_bioactive",
+      "mineral_trace",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "vitamin",
+        "raw": "Vitamin (B3, E, A, B1, B6, B2, D3, B12)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "khoáng chất",
+        "raw": "Khoáng chất (kẽm sulfat)",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "bột dầu cá",
+        "raw": "Bột dầu cá",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -128,6 +236,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

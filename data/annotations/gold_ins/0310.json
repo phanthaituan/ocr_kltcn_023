@@ -1,0 +1,18 @@
+{
+  "image_id": "0310",
+  "gold_ins_additive": [
+    "211",
+    "296",
+    "330",
+    "332",
+    "407",
+    "425",
+    "950",
+    "955"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "hương liệu giống tự nhiên (hương vải) [nature-identical flavour (lychee flavour)]"
+  ],
+  "ins_parser_version": "1.1"
+}

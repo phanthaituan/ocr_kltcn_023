@@ -5,10 +5,24 @@
     "Phôi cháo khô (27g): Gạo (100%).",
     "Gói xốt (45g): Nước hầm xương, thịt tôm (25%), cà rốt (8%), trứng gà (5%), bột gạo (2%), bột năng (1%), dầu ăn dinh dưỡng cho trẻ nhãn hiệu Kiddy, Calcium carbonate, đường, muối, chất điều vị (INS 621)."
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "phôi cháo khô",
+      "raw": "Phôi cháo khô (27g): Gạo (100%).",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gói xốt",
+      "raw": "Gói xốt (45g): Nước hầm xương, thịt tôm (25%), cà rốt (8%), trứng gà (5%), bột gạo (2%), bột năng (1%), dầu ăn dinh dưỡng cho trẻ nhãn hiệu Kiddy, Calcium carbonate, đường, muối, chất điều vị (INS 621).",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (INS 621)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "89,6 - 166,4 Kcal/72g"
@@ -27,6 +41,13 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -48,6 +69,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": false
   }
 }

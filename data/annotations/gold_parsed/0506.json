@@ -10,11 +10,55 @@
     "rượu",
     "đường"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đậu nành",
+      "raw": "Đậu nành (60%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "môn sữa",
+      "raw": "môn sữa (20%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ớt tươi",
+      "raw": "ớt tươi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "rượu",
+      "raw": "rượu",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (INS 621, INS 627, INS 631)",
     "chất bảo quản (INS 281)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Khẩu phần",
       "value": "100 g"
@@ -47,6 +91,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm khi có hiện tượng mốc đen."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -70,6 +121,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

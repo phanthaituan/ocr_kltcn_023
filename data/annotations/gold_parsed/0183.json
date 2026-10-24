@@ -10,11 +10,55 @@
     "dầu thực vật",
     "muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đậu phộng",
+      "raw": "Đậu phộng (70%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường tinh luyện",
+      "raw": "đường tinh luyện",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tỏi",
+      "raw": "tỏi (4.5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ớt",
+      "raw": "ớt (3%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mè",
+      "raw": "mè",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "hương liệu tổng hợp (hương tỏi tổng hợp, hương ớt tổng hợp)",
     "chất điều vị (627, 631)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Serving size",
       "value": "28 g"
@@ -79,6 +123,13 @@
   "gold_warning_raw": [
     "Sản phẩm có chứa đậu phộng, mè."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "hạt_vừng",
@@ -111,6 +162,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

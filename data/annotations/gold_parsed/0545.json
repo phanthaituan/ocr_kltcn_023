@@ -7,6 +7,32 @@
     "Bột nước ép đào 2.1% [nước ép đào (50% đào / từ Hàn Quốc), chất ổn định Dextrin INS 1400]",
     "Bột chiết xuất trà đen Uva [chiết xuất trà đen cô đặc (chất rắn 15%) (từ Sri Lanka), chất ổn định Dextrin INS 1400]"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột whey protein 20%",
+      "raw": "Bột Whey protein 20% (từ Mỹ) [bột whey protein isolate, chất ổn định lecithin INS 322]",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    },
+    {
+      "name": "bột kombucha 5%",
+      "raw": "Bột kombucha 5% [kombucha trà đen (dịch chiết trà đen (từ Sri Lanka), chất ổn định Dextrin INS 1400, chất xơ hòa tan Fructooligosaccharides, probiotic (từ Canada), men), chất ổn định Dextrin INS 1400]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột nước ép đào 2.1%",
+      "raw": "Bột nước ép đào 2.1% [nước ép đào (50% đào / từ Hàn Quốc), chất ổn định Dextrin INS 1400]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột chiết xuất trà đen uva",
+      "raw": "Bột chiết xuất trà đen Uva [chiết xuất trà đen cô đặc (chất rắn 15%) (từ Sri Lanka), chất ổn định Dextrin INS 1400]",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định lecithin INS 322",
     "chất ổn định Dextrin INS 1400",
@@ -16,10 +42,28 @@
     "chất điều vị Erythritol INS 968",
     "chất tạo ngọt Sucralose INS 955"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Những người có cơ địa đặc biệt, dị ứng, phụ nữ mang thai, cho con bú, hoặc đang điều trị bệnh nên kiểm tra thành phần trước khi sử dụng"
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "bột whey protein 20%"
+    ],
+    "nutritional_categories": [
+      "isolated_protein"
+    ],
+    "items": [
+      {
+        "name": "bột whey protein 20%",
+        "raw": "Bột Whey protein 20% (từ Mỹ) [bột whey protein isolate, chất ổn định lecithin INS 322]",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -47,6 +91,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

@@ -7,10 +7,36 @@
     "muối 0.5%",
     "ớt 0.5%"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "xoài 95%",
+      "raw": "Xoài 95%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường 3.9%",
+      "raw": "đường 3.9%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối 0.5%",
+      "raw": "muối 0.5%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ớt 0.5%",
+      "raw": "ớt 0.5%",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất bảo quản (INS 220) 0.1%"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "330"
@@ -39,6 +65,13 @@
   "gold_warning_raw": [
     "Không dùng sản phẩm hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -62,6 +95,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

@@ -8,12 +8,44 @@
     "muối iod (NaCl, KIO3)",
     "tỏi"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "ớt",
+      "raw": "ớt (60%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối iod",
+      "raw": "muối iod (NaCl, KIO3)",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "tỏi",
+      "raw": "tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (1422, 415)",
     "chất điều chỉnh độ acid (260)",
     "chất điều vị (621)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng (Energy)",
       "value": "98 kcal"
@@ -42,6 +74,24 @@
   "gold_warning_raw": [
     "Người dị ứng với các thành phần trên cần lưu ý khi sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "muối iod"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "muối iod",
+        "raw": "muối iod (NaCl, KIO3)",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -65,6 +115,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

@@ -1,0 +1,113 @@
+{
+  "image_id": "0252",
+  "product_name": "BANH MÌ HOA CÚC NGÀN LỚP - FE'STA",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "Bơ thẻ thực vật",
+    "Bơ thơm",
+    "Đường",
+    "Trứng",
+    "Men",
+    "Bột sữa béo",
+    "Xi-rô ngô",
+    "Muối",
+    "Gluten từ lúa mì",
+    "Cồn thực phẩm"
+  ],
+  "gold_additives_raw": [
+    "Chất làm ẩm (420(ii), 422)",
+    "Chất nhũ hóa (477, 471, 481(i), 322(i))",
+    "Chất bảo quản (282, 211)",
+    "Hương liệu tổng hợp (Bơ, Vani)",
+    "Chất xử lý bột (1100(i), 1100(iii))",
+    "Chất chống oxy hóa (300, 304)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "403 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "9,24 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "50,87 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "21,5 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "17,7 g"
+    },
+    {
+      "name": "Natri",
+      "value": "272 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Bên trong có khí Nitơ để bảo quản.",
+    "Không sử dụng sản phẩm đã hết hạn.",
+    "Thành phần sản phẩm có chứa: Lúa mì, trứng, sữa, đậu nành.",
+    "Sản phẩm có thể chứa cá, mè, hạnh nhân, động vật giáp xác."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": [
+      "cá",
+      "giáp_xác",
+      "hạt_cây",
+      "hạt_vừng"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [
+      "cá",
+      "giáp_xác",
+      "hạt_cây",
+      "hạt_vừng"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "hạt_cây",
+      "hạt_vừng",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "storage_instruction": 1,
+      "expiry_usage": 1,
+      "named_allergy": 2
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": "120 g (3 gói x 40 g).",
+  "mfg_date": "45 ngày trước hạn sử dụng.",
+  "expiry_date": "Xem trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

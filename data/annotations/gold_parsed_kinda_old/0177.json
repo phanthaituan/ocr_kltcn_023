@@ -1,0 +1,67 @@
+{
+  "image_id": "0177",
+  "product_name": "CHIN-SU",
+  "gold_ingredients_raw": [
+    "Nước",
+    "đường",
+    "cà chua dạng sệt 15.8 g/kg",
+    "muối",
+    "bột hành tây"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (142, 415)",
+    "chất điều chỉnh độ acid (260, 330)",
+    "chất bảo quản (202)",
+    "hương liệu giống tự nhiên",
+    "chất chống oxy hóa (223)",
+    "chất điều vị (635)",
+    "chất tạo ngọt (960a) tự nhiên",
+    "chất tạo màu (129) tổng hợp"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Chất đạm/Protein",
+      "value": "1,1g"
+    },
+    {
+      "name": "Carbohydrat/Carbohydrate",
+      "value": "23 g"
+    },
+    {
+      "name": "Năng lượng/ Energy",
+      "value": "96,4 kcal"
+    },
+    {
+      "name": "Natri/Sodium",
+      "value": "1144mg"
+    },
+    {
+      "name": "Đường tổng số/ Total Sugars",
+      "value": "19,6g"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "xem trên bao bì",
+  "expiry_date": "09 tháng kể từ ngày sản xuất",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

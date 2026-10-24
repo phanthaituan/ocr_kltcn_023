@@ -16,6 +16,86 @@
     "muối",
     "cồn thực phẩm"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "trứng gà",
+      "raw": "Trứng gà (23%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật (dầu cọ)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha",
+      "raw": "mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "shortening",
+      "raw": "shortening",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xi rô fructoza",
+      "raw": "xi rô fructoza",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột nguyên chất",
+      "raw": "sữa bột nguyên chất",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa tươi",
+      "raw": "sữa tươi (1,1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ",
+      "raw": "bơ (1,1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột tách béo",
+      "raw": "sữa bột tách béo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cồn thực phẩm",
+      "raw": "cồn thực phẩm",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm ẩm (420(i), 422)",
     "chất nhũ hóa (475, 471, 1520, 322(i), 477, 491, 470(i))",
@@ -27,7 +107,7 @@
     "chất tạo màu tổng hợp (160a(ii))",
     "hương liệu tổng hợp (sữa, bơ sữa, bơ, vani)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "430 kcal"
@@ -60,6 +140,13 @@
   "gold_warning_raw": [
     "Sản phẩm có chứa trứng, sữa, lúa mì, đậu nành."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -98,6 +185,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

@@ -10,17 +10,68 @@
     "tinh bột bắp",
     "muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật không hydro hóa",
+      "raw": "dầu thực vật không hydro hóa (dầu cọ - chứa chất chống oxi hóa TBHQ (319))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cacao",
+      "raw": "bột cacao (3,9%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sirô fructose",
+      "raw": "sirô fructose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột bắp",
+      "raw": "tinh bột bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "TBHQ (319)",
     "chất tạo xốp (500(ii), 503(ii))",
     "chất nhũ hóa (322(i))",
     "hương liệu vani giống tự nhiên"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "sản phẩm có chứa lúa mì và đậu nành",
     "Sản phẩm có thể chứa sữa và đậu phộng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -61,6 +112,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

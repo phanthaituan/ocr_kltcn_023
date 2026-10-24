@@ -5,13 +5,27 @@
     "Bánh gạo: Gạo (85%), muối, nước",
     "Gói sốt: Đường, đường ngô (HFCS), tương ớt Gochujang, tỏi, cà chua cô đặc, chất điều vị (INS 621, INS 631, INS 627), muối, cồn thực phẩm, ớt, chất làm dày (INS 1422, INS 415), vừng, chất tạo màu tự nhiên (INS 160c(ii)), chiết xuất hải sản (mực, tôm, cá), chiết xuất hành, chất điều chỉnh độ acid (INS 330), bột vi khuẩn lactic lên men, maltodextrin, chiết xuất Yucca"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bánh gạo: gạo",
+      "raw": "Bánh gạo: Gạo (85%), muối, nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gói sốt: đường, đường ngô",
+      "raw": "Gói sốt: Đường, đường ngô (HFCS), tương ớt Gochujang, tỏi, cà chua cô đặc, chất điều vị (INS 621, INS 631, INS 627), muối, cồn thực phẩm, ớt, chất làm dày (INS 1422, INS 415), vừng, chất tạo màu tự nhiên (INS 160c(ii)), chiết xuất hải sản (mực, tôm, cá), chiết xuất hành, chất điều chỉnh độ acid (INS 330), bột vi khuẩn lactic lên men, maltodextrin, chiết xuất Yucca",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất điều vị (INS 621, INS 631, INS 627)",
     "Chất làm dày (INS 1422, INS 415)",
     "Chất tạo màu tự nhiên (INS 160c(ii))",
     "Chất điều chỉnh độ acid (INS 330)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "175,4 ~ 263,1 kcal"
@@ -41,6 +55,13 @@
     "Không sử dụng cho người dị ứng với bất kỳ thành phần nào của sản phẩm.",
     "Sản phẩm có chứa gói hút oxy. Không ăn gói này."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -80,6 +101,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

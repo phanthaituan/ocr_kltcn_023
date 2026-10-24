@@ -1,0 +1,18 @@
+{
+  "image_id": "0368",
+  "gold_ins_additive": [
+    "1100",
+    "160a",
+    "223",
+    "296",
+    "341",
+    "500",
+    "503"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "hương liệu (giống tự nhiên tổng hợp)",
+    "hương liệu giống tự nhiên (hương bánh mì)"
+  ],
+  "ins_parser_version": "1.1"
+}

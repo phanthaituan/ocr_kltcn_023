@@ -11,11 +11,61 @@
     "xirô đường đen (2 %)",
     "hỗn hợp vitamin và khoáng chất (vitamin A, D3, B1, B3, B5, B6, kẽm oxy, tricali citrat, natri polyphosphat)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa tươi",
+      "raw": "sữa tươi (40 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thạch dừa",
+      "raw": "thạch dừa (5 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột kem thực vật",
+      "raw": "bột kem thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xirô glucose",
+      "raw": "xirô glucose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xirô đường đen",
+      "raw": "xirô đường đen (2 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp vitamin và khoáng chất",
+      "raw": "hỗn hợp vitamin và khoáng chất (vitamin A, D3, B1, B3, B5, B6, kẽm oxy, tricali citrat, natri polyphosphat)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [
     "hương liệu tổng hợp",
     "chất ổn định (407, 418(i), 466)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "77,5 kcal"
@@ -77,6 +127,24 @@
     "Có chứa sữa.",
     "Không dùng cho người mẫn cảm với thành phần sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "hỗn hợp vitamin và khoáng chất"
+    ],
+    "nutritional_categories": [
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "hỗn hợp vitamin và khoáng chất",
+        "raw": "hỗn hợp vitamin và khoáng chất (vitamin A, D3, B1, B3, B5, B6, kẽm oxy, tricali citrat, natri polyphosphat)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "dừa",
@@ -111,6 +179,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

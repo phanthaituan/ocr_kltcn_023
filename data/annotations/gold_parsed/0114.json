@@ -14,6 +14,74 @@
     "nước ướp thịt",
     "bột gia vị heo plus 0.2%"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "thịt gà",
+      "raw": "Thịt gà",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước đá",
+      "raw": "nước đá",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đạm đậu nành",
+      "raw": "đạm đậu nành",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    },
+    {
+      "name": "tinh bột bắp",
+      "raw": "tinh bột bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị",
+      "raw": "gia vị (đường, muối)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột lòng trắng trứng",
+      "raw": "bột lòng trắng trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột whey",
+      "raw": "bột whey",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất xơ từ lúa mì",
+      "raw": "chất xơ từ lúa mì",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "nước ướp thịt",
+      "raw": "nước ướp thịt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gia vị heo plus 0.2%",
+      "raw": "bột gia vị heo plus 0.2%",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (1420, 420(i))",
     "chất nhũ hóa (451(i), 450(i), 407)",
@@ -26,7 +94,7 @@
     "chất giữ màu (250)",
     "phẩm màu erythrosin tổng hợp (127)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng (kcal)",
       "value": "184"
@@ -61,6 +129,32 @@
     "Sản phẩm có chứa: Nguyên liệu có nguồn gốc từ đậu nành, trứng, lúa mì, sữa.",
     "Khi vỏ ngoài cây xúc xích bị rách hoặc thủng thì tuyệt đối không được sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "chất xơ từ lúa mì",
+      "đạm đậu nành"
+    ],
+    "nutritional_categories": [
+      "fiber_prebiotic",
+      "isolated_protein"
+    ],
+    "items": [
+      {
+        "name": "đạm đậu nành",
+        "raw": "đạm đậu nành",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      },
+      {
+        "name": "chất xơ từ lúa mì",
+        "raw": "chất xơ từ lúa mì",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -108,6 +202,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

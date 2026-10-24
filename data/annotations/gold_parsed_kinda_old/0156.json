@@ -1,0 +1,133 @@
+{
+  "image_id": "0156",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Wheat Flour",
+    "Sugar",
+    "Vegetable Oil (contains Antioxidant TBHQ (E319))",
+    "Whey Powder",
+    "Cheese Powder (contains Flavour Enhancer (Monosodium L-Glutamate (E621) and Disodium 5'-ribonucleotides (E635))",
+    "Maltodextrin",
+    "Corn Starch",
+    "Synthetic Milk Flavour (contains Milk Solids)",
+    "Salt",
+    "Vitamin (A, B1, B2, B6, B12)"
+  ],
+  "gold_additives_raw": [
+    "Antioxidant TBHQ (E319)",
+    "Flavour Enhancer (Monosodium L-Glutamate (E621) and Disodium 5'-ribonucleotides (E635))",
+    "Synthetic Colour (Ponceau 4R (E124) and Sunset Yellow FCF (E110)",
+    "Antioxidant Tocopherol (E307a))",
+    "Synthetic Milk Flavour",
+    "Emulsifier Soy Lecithin (E322)",
+    "Raising Agent Sodium Bicarbonate (E500(ii))",
+    "Antioxidant Ascorbic Acid (E300)",
+    "Flavour Enhancer Monosodium L-Glutamate (E621)",
+    "Synthetic Colour Sunset Yellow FCF (E110)",
+    "Acidity Regulator (E330)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "8 servings per container",
+      "value": "8 khẩu phần mỗi hộp"
+    },
+    {
+      "name": "Serving size/ Khẩu phần",
+      "value": "15 g"
+    },
+    {
+      "name": "Calories/ Năng lượng",
+      "value": "70"
+    },
+    {
+      "name": "Total Fat/ Tổng chất béo",
+      "value": "2.5 g 4%"
+    },
+    {
+      "name": "Sat. Fat/ Chất béo bão hòa",
+      "value": "1 g 6%"
+    },
+    {
+      "name": "Trans Fat/ Chất béo chuyển hóa",
+      "value": "0 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0 mg 0%"
+    },
+    {
+      "name": "Sodium/ Natri",
+      "value": "65 mg 3%"
+    },
+    {
+      "name": "Total Carbohydrate/ Tổng Carbohydrat",
+      "value": "11 g 4%"
+    },
+    {
+      "name": "Total Sugars/ Tổng đường",
+      "value": "4 g"
+    },
+    {
+      "name": "Includes 2 g Added Sugars",
+      "value": "Bao gồm 2 g đường thêm 5%"
+    },
+    {
+      "name": "Protein less than/ Chất đạm",
+      "value": "1 g"
+    },
+    {
+      "name": "Vit. A/ Vitamin A",
+      "value": "220 mcg 25%"
+    },
+    {
+      "name": "Vit. B2/ Vitamin B2",
+      "value": "0.33 mg 25%"
+    },
+    {
+      "name": "Vit. B1/ Vitamin B1",
+      "value": "0.29 mg 25%"
+    }
+  ],
+  "gold_warning_raw": [
+    "May also contain : Egg, Hazelnut, and Peanut.",
+    "DO NOT ACCEPT IF PACKAGING IS DAMAGED."
+  ],
+  "allergen_final": {
+    "contains": [
+      "hạt_cây",
+      "trứng",
+      "đậu_phộng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "hạt_cây",
+      "trứng",
+      "đậu_phộng"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "hạt_cây",
+      "trứng",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "unclassified": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

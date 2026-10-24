@@ -13,12 +13,74 @@
     "nước mắm",
     "muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ đậu phộng",
+      "raw": "bơ đậu phộng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ngô",
+      "raw": "bột ngô",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột bắp",
+      "raw": "tinh bột bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất đạm đậu nành",
+      "raw": "chất đạm đậu nành",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    },
+    {
+      "name": "gia vị tôm",
+      "raw": "gia vị tôm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước mắm",
+      "raw": "nước mắm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (621)",
     "chất tạo xốp (500ii, 503ii)",
     "chất chống oxy hóa (320)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Khẩu phần",
       "value": "100g"
@@ -57,6 +119,24 @@
     "Trong xưởng sản xuất sản phẩm này có sản xuất các sản phẩm có liên quan đến: Sữa, tôm, cá.",
     "Gói hút ẩm để trong bao bì không ăn được, lưu ý để xa tầm tay của trẻ em."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "chất đạm đậu nành"
+    ],
+    "nutritional_categories": [
+      "isolated_protein"
+    ],
+    "items": [
+      {
+        "name": "chất đạm đậu nành",
+        "raw": "chất đạm đậu nành",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -99,6 +179,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

@@ -1,0 +1,93 @@
+{
+  "image_id": "0436",
+  "product_name": "LẨU CẦM TAY OMACHI - MÌ HƯƠNG VỊ LẨU NGHÊU NẤM RONG BIỂN",
+  "gold_ingredients_raw": [
+    "Vắt mì: Bột mì, dầu cọ, tinh bột khoai mì, chất ổn định (1420, 500(i), 422, 500(ii)), muối, tinh bột khoai tây, nước mắm, chất điều vị (621), chất làm ẩm (452(i), 451(i)), gluten lúa mì, chiết xuất nấm men, chất chống oxy hóa (307c, 320, 321, 330), chiết xuất lá dành dành, chất tạo màu (100(i)) tổng hợp",
+    "Súp: Đường, chất điều vị (621, 635, 364(ii)), muối, bột gia vị nghêu 148 g/kg, nấm đông cô sấy 26 g/kg, bột kem thực vật, bắp sấy, chiết xuất nấm men, rong biển sấy 79 g/kg, chả hương cua sấy, nghêu sấy 6,3 g/kg, ớt sấy, hành lá sấy, dầu cọ, tinh bột khoai mì, bột chiết xuất sườn heo, tỏi, bột chiết xuất hàu, sả, nước tương, nước mắm, hương liệu (giống tự nhiên, tổng hợp), tôm khô, gừng, bột ớt, bột gừng, chất xơ lúa mì, dầu mè, bột nước mắm, hành tím, chất chống đông vón (551), ớt, bột tôm, bột tiêu, chất tạo màu (150d) tổng hợp, chất chống oxy hóa (320, 321)"
+  ],
+  "gold_additives_raw": [
+    "Chất ổn định (1420, 500(i), 422, 500(ii))",
+    "Chất điều vị (621)",
+    "Chất làm ẩm (452(i), 451(i))",
+    "Chất chống oxy hóa (307c, 320, 321, 330)",
+    "Chất tạo màu (100(i)) tổng hợp",
+    "Chất điều vị (621, 635, 364(ii))",
+    "Hương liệu (giống tự nhiên, tổng hợp)",
+    "Chất chống đông vón (551)",
+    "Chất tạo màu (150d) tổng hợp",
+    "Chất chống oxy hóa (320, 321)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "271,3 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "6,9 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "40,0 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "3,9 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "9,3 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "4,4 g"
+    },
+    {
+      "name": "Natri",
+      "value": "1308 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm chứa các nguyên liệu có nguồn gốc từ lúa mì, thủy sản, trứng, sữa, đậu nành."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "63 g",
+  "mfg_date": "Xem trên bao bì.",
+  "expiry_date": "06 tháng kể từ ngày sản xuất.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

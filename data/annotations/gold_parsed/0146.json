@@ -10,12 +10,56 @@
     "vitamin (B6, B12, acid folic)",
     "khoáng chất (calci carbonat)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước, sữa hoàn toàn từ sữa bò tươi",
+      "raw": "Nước, sữa hoàn toàn từ sữa bò tươi (17%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường hfcs",
+      "raw": "đường HFCS",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước ép táo cô đặc",
+      "raw": "nước ép táo cô đặc",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước ép dâu cô đặc",
+      "raw": "nước ép dâu cô đặc (4 g/L)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin",
+      "raw": "vitamin (B6, B12, acid folic)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "khoáng chất",
+      "raw": "khoáng chất (calci carbonat)",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (440)",
     "chất điều chỉnh độ acid (330)",
     "hương liệu tự nhiên"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "60,6 kcal"
@@ -57,6 +101,32 @@
     "Phù hợp cho trẻ từ 2 tuổi trở lên.",
     "Sản phẩm có chứa sữa."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "khoáng chất",
+      "vitamin"
+    ],
+    "nutritional_categories": [
+      "mineral_trace",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "vitamin",
+        "raw": "vitamin (B6, B12, acid folic)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "khoáng chất",
+        "raw": "khoáng chất (calci carbonat)",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -87,6 +157,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

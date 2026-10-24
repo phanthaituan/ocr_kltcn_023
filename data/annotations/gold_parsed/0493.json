@@ -10,12 +10,56 @@
     "Lactobacillus paracasei (LCASEI 431™)",
     "vitamin D3"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột tách béo",
+      "raw": "sữa bột tách béo (3,3%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xiro fructoza",
+      "raw": "xiro fructoza",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xiro glucose",
+      "raw": "xiro glucose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lactobacillus paracasei",
+      "raw": "Lactobacillus paracasei (LCASEI 431™)",
+      "nutritional": true,
+      "nutritional_category": "probiotic"
+    },
+    {
+      "name": "vitamin d3",
+      "raw": "vitamin D3",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (405, 466)",
     "màu tự nhiên (141(ii), 100(i))",
     "hương liệu (hương dưa gang) tổng hợp dùng cho thực phẩm"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "66,4 kcal"
@@ -49,6 +93,32 @@
     "Có chứa sữa.",
     "Không dùng cho trẻ dưới 1 tuổi."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "lactobacillus paracasei",
+      "vitamin d3"
+    ],
+    "nutritional_categories": [
+      "probiotic",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "lactobacillus paracasei",
+        "raw": "Lactobacillus paracasei (LCASEI 431™)",
+        "nutritional": true,
+        "nutritional_category": "probiotic"
+      },
+      {
+        "name": "vitamin d3",
+        "raw": "vitamin D3",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -79,6 +149,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

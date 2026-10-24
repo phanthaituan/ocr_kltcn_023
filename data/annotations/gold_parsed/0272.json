@@ -17,13 +17,99 @@
     "vitamin và khoáng chất (sắt, vitamin B3, vitamin B1, vitamin B2, acid folic)",
     "Chứa kem hương vị sôcôla 53%"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật hydro hóa hoàn toàn",
+      "raw": "dầu thực vật hydro hóa hoàn toàn (dầu nhân cọ, dầu cọ, dầu hạt cải) (đậu nành)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ca cao 8%",
+      "raw": "bột ca cao 8%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột gầy 3%",
+      "raw": "sữa bột gầy 3%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì nguyên cám 2%",
+      "raw": "bột mì nguyên cám 2%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "shortening",
+      "raw": "shortening (dầu cọ hydro hóa hoàn toàn)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất mạch nha",
+      "raw": "chiết xuất mạch nha (lúa mì, lúa mạch, lúa mạch đen, yến mạch)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ca cao nguyên chất 1%",
+      "raw": "ca cao nguyên chất 1%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "men",
+      "raw": "men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ",
+      "raw": "bơ (sữa)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin và khoáng chất",
+      "raw": "vitamin và khoáng chất (sắt, vitamin B3, vitamin B1, vitamin B2, acid folic)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "chứa kem hương vị sôcôla 53%",
+      "raw": "Chứa kem hương vị sôcôla 53%",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất nhũ hóa (este của propylen glycol với acid béo)",
     "chất chống oxy hóa (tocopherol concentrat (dạng hỗn hợp))",
     "chất nhũ hóa (lecithin) (đậu nành)",
     "hương liệu tổng hợp"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "182 kcal"
@@ -58,6 +144,24 @@
     "Được sản xuất tại cơ sở có sử dụng đậu phộng, hạnh nhân.",
     "Người từ 4 tuổi trở lên"
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "vitamin và khoáng chất"
+    ],
+    "nutritional_categories": [
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "vitamin và khoáng chất",
+        "raw": "vitamin và khoáng chất (sắt, vitamin B3, vitamin B1, vitamin B2, acid folic)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -100,6 +204,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

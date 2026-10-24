@@ -13,12 +13,74 @@
     "Bột Sữa Tách Béo",
     "Muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột lúa mì",
+      "raw": "Bột Lúa Mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ",
+      "raw": "Bơ (Từ Sữa) (17,16%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "Dầu Thực Vật (Dầu Dừa - chứa Chất Chống Oxy Hóa (INS307b))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sirô glucose",
+      "raw": "Sirô Glucose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng",
+      "raw": "Trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dừa sấy",
+      "raw": "Dừa Sấy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nho khô không hạt",
+      "raw": "Nho Khô Không Hạt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa tách béo",
+      "raw": "Bột Sữa Tách Béo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất Chống Oxy Hóa (INS307b)",
     "Chất Tạo Xốp (INS503(ii))",
     "Hương Liệu Nhân Tạo (Vani)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng Lượng",
       "value": "507 kcal"
@@ -64,6 +126,13 @@
     "Sản phẩm có chứa Lúa Mì, Trứng và Sữa.",
     "Không khuyến khích sử dụng cho người bị tiểu đường và dị ứng với thành phần sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "dừa",
@@ -106,6 +175,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

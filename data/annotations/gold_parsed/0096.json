@@ -12,6 +12,62 @@
     "Muối",
     "Bột cacao (0,09%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì (34,242%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "Chất béo thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "Maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột whey",
+      "raw": "Bột whey",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột ngô",
+      "raw": "Tinh bột ngô (3%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cà phê",
+      "raw": "Bột cà phê (0,25%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cacao",
+      "raw": "Bột cacao (0,09%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất chống oxy hóa: dl-alpha Tocopherol",
     "Chất nhũ hóa: Lecithin đậu nành",
@@ -19,7 +75,7 @@
     "Chất tạo màu tổng hợp: Caramen nhóm I (caramen nguyên chất)",
     "Hương liệu tổng hợp (cà phê trắng (0,1%) và Vanilla (0,008%))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "70 kcal"
@@ -49,6 +105,13 @@
     "Có chứa lúa mì, đậu nành và sữa.",
     "Có thể chứa trứng và đậu phộng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -92,6 +155,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

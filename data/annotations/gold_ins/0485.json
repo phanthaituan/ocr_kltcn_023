@@ -1,0 +1,16 @@
+{
+  "image_id": "0485",
+  "gold_ins_additive": [
+    "120",
+    "270",
+    "319",
+    "322",
+    "500"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Hương liệu sữa tổng hợp (chứa chất rắn sữa)",
+    "Hương liệu dâu tổng hợp"
+  ],
+  "ins_parser_version": "1.1"
+}

@@ -15,6 +15,80 @@
     "tiêu",
     "aminotide"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "tinh bột sắn",
+      "raw": "Tinh bột sắn",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chả cua",
+      "raw": "chả cua (4.18% : cá, thịt, gà, mỡ heo, bột cua (7%), đạm thịt, chiết xuất nấm men, monoq glutamat (621), đạm đậu nành, dầu thực vật (vitamin E), màu paprika tự nhiên, chất tạo màu tổng hợp (carmin (120)))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng",
+      "raw": "trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bắp",
+      "raw": "bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành hương",
+      "raw": "hành hương",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ngò rí",
+      "raw": "ngò rí",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất hải sản",
+      "raw": "chiết xuất hải sản",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gia vị",
+      "raw": "bột gia vị",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tiêu",
+      "raw": "tiêu",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "aminotide",
+      "raw": "aminotide",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "mononatri glutamat (621)",
     "dầu thực vật (vitamin E)",
@@ -22,7 +96,7 @@
     "hương gà luộc",
     "chất làm dày (gôm Arabic (414))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Calories",
       "value": "350 kcal"
@@ -49,6 +123,13 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -70,6 +151,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": false
   }
 }

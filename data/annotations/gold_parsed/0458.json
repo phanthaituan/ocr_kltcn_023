@@ -11,6 +11,56 @@
     "Nước cốt dừa",
     "Vitamin C"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "trái cây",
+      "raw": "Trái cây (quýt, đào vàng, dứa, đào trắng) (29%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xi-rô ngô fructose cao",
+      "raw": "Xi-rô ngô fructose cao (sản xuất trong nước)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước ép táo",
+      "raw": "Nước ép táo (4%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "rượu tây",
+      "raw": "Rượu tây",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thạch aga",
+      "raw": "Thạch aga",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước cốt dừa",
+      "raw": "Nước cốt dừa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin c",
+      "raw": "Vitamin C",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [
     "Chất tạo gel carrageenan (INS 407)",
     "Gôm gellan (INS 418)",
@@ -18,7 +68,7 @@
     "Hương liệu (quýt, đào vàng, dứa, đào trắng) tự nhiên",
     "Chất làm rắn chắc (calci lactat (INS 327))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "98 kcal"
@@ -50,6 +100,24 @@
     "Có trường hợp vẫn còn sót lại một phần vỏ, thịt của trái cây.",
     "Không dùng quá 02 trong một ngày cho trẻ từ 4 đến 9 tuổi."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "vitamin c"
+    ],
+    "nutritional_categories": [
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "vitamin c",
+        "raw": "Vitamin C",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -75,6 +143,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

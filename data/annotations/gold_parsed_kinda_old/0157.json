@@ -1,0 +1,68 @@
+{
+  "image_id": "0157",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Nước dừa tươi (93%)",
+    "đường",
+    "nước tắc (1,6%)"
+  ],
+  "gold_additives_raw": [
+    "hương liệu tự nhiên",
+    "chất điều chỉnh độ acid (332(ii), 330)",
+    "chất chống oxy hóa (300)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "36 kcal"
+    },
+    {
+      "name": "CARBOHYDRAT",
+      "value": "9 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ",
+      "value": "6,6 g"
+    },
+    {
+      "name": "ĐƯỜNG BỔ SUNG THÊM",
+      "value": "5,5 g"
+    },
+    {
+      "name": "CHẤT ĐẠM",
+      "value": "<0,5 g"
+    },
+    {
+      "name": "CHẤT BÉO",
+      "value": "<0,5 g"
+    },
+    {
+      "name": "NATRI",
+      "value": "15 mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": "Sản phẩm của Công ty CP Sữa Việt Nam.\\n10 Tân Trào, Phường Tân Phú, Quận 7,\\nTP. Hồ Chí Minh.",
+  "net_weight": null,
+  "mfg_date": "12 tháng trước HSD.",
+  "expiry_date": "Xem trên hộp.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

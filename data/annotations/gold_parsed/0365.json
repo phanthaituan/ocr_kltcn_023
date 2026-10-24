@@ -14,12 +14,80 @@
     "Rượu nấu ăn",
     "Rong biển (0,9%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "gạo",
+      "raw": "Gạo (59,0%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ",
+      "raw": "Dầu cọ (có chất chống oxy hóa (319))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp gia vị",
+      "raw": "Hỗn hợp gia vị(Bột gia vị hải sản,CHiết xuất nấm men,chất làm dày(440),tinh bột khoai tây,muối,chất làm dày(466))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột nếp",
+      "raw": "Bột nếp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột sắn",
+      "raw": "Tinh bột sắn",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước tương",
+      "raw": "Nước tương (Nước,đậu nành,lúa mì,Muối)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị cá ngừ bonito",
+      "raw": "Gia vị cá ngừ Bonito(1.4%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "rượu nấu ăn",
+      "raw": "Rượu nấu ăn",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "rong biển",
+      "raw": "Rong biển (0,9%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm dày (440)",
     "chất làm dày (466)",
     "chất chống oxy hóa (319)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng (Energy)",
       "value": "498 kcal"
@@ -52,6 +120,13 @@
   "gold_warning_raw": [
     "Sản phẩm này có chứa các thành phần làm từ đậu nành, lúa mì, cá ngừ và cá mòi."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -87,6 +162,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

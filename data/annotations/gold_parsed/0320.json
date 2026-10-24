@@ -6,8 +6,28 @@
     "đường (44,2%)",
     "lactoza"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa",
+      "raw": "Sữa (55,5%) (nước, sữa bột, chất béo sữa, whey bột, sữa tươi)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường (44,2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lactoza",
+      "raw": "lactoza",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng/ Energy",
       "value": "325 kcal"
@@ -41,6 +61,13 @@
     "Có chứa sữa.",
     "Không dùng cho người dị ứng với các thành phần của sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -73,6 +100,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

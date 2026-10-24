@@ -1,0 +1,16 @@
+{
+  "image_id": "0518",
+  "gold_ins_additive": [
+    "100",
+    "102",
+    "322",
+    "551",
+    "621"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Synthetic Butter Flavour",
+    "Synthetic Flavour (Durian, Palm Sugar, Vanilla)"
+  ],
+  "ins_parser_version": "1.1"
+}

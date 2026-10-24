@@ -17,17 +17,129 @@
     "cà phê 0,2%",
     "muối tự nhiên"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sô cô la tổng hợp 20%",
+      "raw": "Sô cô la tổng hợp 20% [đường, dầu cọ stearin chế biến, dầu đậu nành, bột ca cao, bột whey]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột whey protein 19%",
+      "raw": "bột whey protein 19% (whey protein phân lập, chất nhũ hóa (INS 322(i)) (từ đậu nành))",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    },
+    {
+      "name": "fructo oligosaccharide",
+      "raw": "fructo oligosaccharide",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "kem sữa",
+      "raw": "kem sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sản phẩm đậu nành chế biến 8%",
+      "raw": "sản phẩm đậu nành chế biến 8%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạnh nhân 8%",
+      "raw": "hạnh nhân 8%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sản phẩm oligosaccharide chế biến",
+      "raw": "sản phẩm oligosaccharide chế biến (mạch nha, isomalto oligosaccharide, đường fructose)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ngũ cốc 4%",
+      "raw": "ngũ cốc 4%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "oligosaccharide",
+      "raw": "oligosaccharide",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sản phẩm đường chế biến",
+      "raw": "sản phẩm đường chế biến",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ thực vật",
+      "raw": "dầu cọ thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ca cao",
+      "raw": "bột ca cao",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà phê 0,2%",
+      "raw": "cà phê 0,2%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối tự nhiên",
+      "raw": "muối tự nhiên",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất nhũ hoá (INS322(i))",
     "chất làm dày (INS 414)",
     "hương liệu cà phê tổng hợp"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Có chứa đậu nành, sữa, lúa mì.",
     "Sản phẩm này được sản xuất trên hệ thống sản xuất các sản phẩm có sử dụng đậu phộng, óc chó, trứng, thịt heo, thịt gà, thịt bò, mực, axit sunfuro.",
     "Không sử dụng sản phẩm đã hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "bột whey protein 19%",
+      "fructo oligosaccharide"
+    ],
+    "nutritional_categories": [
+      "fiber_prebiotic",
+      "isolated_protein"
+    ],
+    "items": [
+      {
+        "name": "bột whey protein 19%",
+        "raw": "bột whey protein 19% (whey protein phân lập, chất nhũ hóa (INS 322(i)) (từ đậu nành))",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      },
+      {
+        "name": "fructo oligosaccharide",
+        "raw": "fructo oligosaccharide",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -76,6 +188,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

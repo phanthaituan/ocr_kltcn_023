@@ -10,8 +10,52 @@
     "Dầu ăn (olein, đậu nành tinh luyện)",
     "Dầu điều"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bánh tráng",
+      "raw": "Bánh tráng (67%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột phô mai",
+      "raw": "Bột phô mai (3,5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "khô gà",
+      "raw": "Khô gà",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ớt",
+      "raw": "Ớt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối tôm",
+      "raw": "Muối tôm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu ăn",
+      "raw": "Dầu ăn (olein, đậu nành tinh luyện)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu điều",
+      "raw": "Dầu điều",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "391 kcal"
@@ -44,6 +88,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm quá hạn sử dụng hoặc sản phẩm có dấu hiệu hư hỏng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -67,6 +118,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

@@ -7,14 +7,47 @@
     "nước mắm",
     "dầu ăn tinh luyện (dầu olein, dầu đậu nành, dầu hạt cải tinh luyện)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nạc heo",
+      "raw": "Nạc heo (87 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước mắm",
+      "raw": "nước mắm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu ăn tinh luyện",
+      "raw": "dầu ăn tinh luyện (dầu olein, dầu đậu nành, dầu hạt cải tinh luyện)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (621)"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Không sử dụng sản phẩm có dấu hiệu hư hỏng, bất thường.",
     "Không sử dụng cho người dị ứng hoặc mẫn cảm với những thành phần có trong sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -45,6 +78,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

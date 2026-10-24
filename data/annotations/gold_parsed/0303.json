@@ -18,6 +18,98 @@
     "tiêu",
     "lá húng quế"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đế bánh",
+      "raw": "Đế bánh (Bột mì, nước, shortening, muối, men Saccharomyces cerevisiae)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xúc xích",
+      "raw": "xúc xích",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "phô mai",
+      "raw": "phô mai (100 g/kg)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thịt bò",
+      "raw": "thịt bò (80 g/kg)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thịt heo",
+      "raw": "thịt heo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành tây",
+      "raw": "hành tây",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ớt chuông",
+      "raw": "ớt chuông",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà chua cô đặc",
+      "raw": "cà chua cô đặc",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột hành tây",
+      "raw": "bột hành tây",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột tỏi",
+      "raw": "bột tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tiêu",
+      "raw": "tiêu",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lá húng quế",
+      "raw": "lá húng quế",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm dày (1422, 415)",
     "chất điều chỉnh độ acid (330)",
@@ -25,7 +117,7 @@
     "chất tạo ngọt tổng hợp (955)",
     "màu thực phẩm tổng hợp (129)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "257.0 Kcal"
@@ -55,6 +147,13 @@
     "Sản phẩm có chứa thành phần: Gluten (Bột mì), sữa (phô mai), đậu nành - trứng - cá - sữa - cần tây (xúc xích).",
     "Không sử dụng khi bao bì bị rách, gói sản phẩm bị phồng, hư hỏng, có mùi lạ, khi đã hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -100,6 +199,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

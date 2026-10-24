@@ -11,12 +11,62 @@
     "muối",
     "bột năng"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đậu phộng",
+      "raw": "Đậu phộng (52%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gia vị tôm tái chanh",
+      "raw": "bột gia vị tôm tái chanh (5,8%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu olein tinh luyện",
+      "raw": "dầu olein tinh luyện",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "non dairy creamer",
+      "raw": "non dairy creamer",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột năng",
+      "raw": "bột năng",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (INS 1440)",
     "chất làm dày (INS 500(ii), INS 414)",
     "hương liệu tổng hợp (hương Tôm Yum)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng (kcal)",
       "value": "397 ÷ 595"
@@ -50,6 +100,13 @@
     "Sản phẩm có chứa đậu phộng, bột mì, sữa.",
     "Sử dụng sản phẩm trước hạn sử dụng, không sử dụng khi bao bì không còn nguyên vẹn."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -86,6 +143,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

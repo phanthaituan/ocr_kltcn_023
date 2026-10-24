@@ -1,0 +1,32 @@
+{
+  "image_id": "0505",
+  "gold_ins_additive": [
+    "101",
+    "1210",
+    "150d",
+    "160c",
+    "164",
+    "202",
+    "211",
+    "260",
+    "307b",
+    "319",
+    "320",
+    "330",
+    "364",
+    "405",
+    "415",
+    "451",
+    "452",
+    "500",
+    "621",
+    "627",
+    "631",
+    "950"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "hương liệu tổng hợp dùng cho thực phẩm (hương thịt, hương nấm)"
+  ],
+  "ins_parser_version": "1.1"
+}

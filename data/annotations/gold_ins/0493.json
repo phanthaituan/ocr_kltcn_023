@@ -1,0 +1,16 @@
+{
+  "image_id": "0493",
+  "gold_ins_additive": [
+    "100",
+    "141",
+    "405",
+    "466"
+  ],
+  "gold_ins_in_ingredient": [
+    "431"
+  ],
+  "additives_without_code": [
+    "hương liệu (hương dưa gang) tổng hợp dùng cho thực phẩm"
+  ],
+  "ins_parser_version": "1.1"
+}

@@ -10,11 +10,55 @@
     "Đường",
     "Muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "vẩy khoai tây",
+      "raw": "Vẩy khoai tây (48%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "Dầu thực vật (cọ)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gia vị phô mai",
+      "raw": "Bột gia vị phô mai",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột khoai tây",
+      "raw": "Tinh bột khoai tây",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột bắp",
+      "raw": "Tinh bột bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất làm dày (1412)",
     "Chất nhũ hóa (471)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "502 kcal"
@@ -48,6 +92,13 @@
     "Sản phẩm có chứa sữa.",
     "Sản phẩm có thể chứa đậu nành, mè, lúa mì, cá, giáp xác."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -94,6 +145,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

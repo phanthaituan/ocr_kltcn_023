@@ -23,6 +23,128 @@
     "muối i-ốt",
     "bột nghệ"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "gạo",
+      "raw": "Gạo (85%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường ngô",
+      "raw": "đường ngô (HFCS)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành",
+      "raw": "hành",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tỏi",
+      "raw": "tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "phô mai",
+      "raw": "phô mai (4,5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cồn thực phẩm",
+      "raw": "cồn thực phẩm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vừng",
+      "raw": "vừng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ớt",
+      "raw": "ớt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành lá",
+      "raw": "hành lá",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột vi khuẩn lactic lên men",
+      "raw": "bột vi khuẩn lactic lên men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất yucca",
+      "raw": "chiết xuất Yucca",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vắt mì: bột mì",
+      "raw": "Vắt mì: Bột mì (95%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng tươi",
+      "raw": "trứng tươi (3,5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "muối i-ốt",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "bột nghệ",
+      "raw": "bột nghệ",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm dày (INS1422, INS415)",
     "chất điều vị (INS621, INS631, INS627)",
@@ -32,7 +154,7 @@
     "chất ổn định (INS405)",
     "chất tạo màu tự nhiên (INS160a(ii))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "189,6 ~ 284,4 kcal"
@@ -62,6 +184,24 @@
     "Không sử dụng cho người dị ứng với bất kì thành phần nào của sản phẩm.",
     "chứa gói hút oxy. Không ăn gói này"
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "muối i-ốt"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "muối i-ốt",
+        "raw": "muối i-ốt",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -97,6 +237,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

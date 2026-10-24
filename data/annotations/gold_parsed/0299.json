@@ -13,10 +13,72 @@
     "muối",
     "tiêu đen"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước hầm xương",
+      "raw": "Nước hầm xương (nước, xương heo)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đậu xanh",
+      "raw": "đậu xanh",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gạo",
+      "raw": "gạo (6,4%) (Japonica, nếp cái hoa vàng)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thịt sườn heo",
+      "raw": "thịt sườn heo (1,76%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu hướng dương",
+      "raw": "dầu hướng dương",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước mắm",
+      "raw": "nước mắm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành tím",
+      "raw": "hành tím",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tổ yến",
+      "raw": "tổ yến (0,18%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tiêu đen",
+      "raw": "tiêu đen",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (621)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "151,8 kcal"
@@ -42,6 +104,13 @@
     "Không sử dụng khi sản phẩm có dấu hiệu hư hỏng, hết hạn sử dụng hoặc khi bị dị ứng với các thành phần của sản phẩm.",
     "Sản phẩm có thể chứa miếng sụn heo."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá"
@@ -70,6 +139,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

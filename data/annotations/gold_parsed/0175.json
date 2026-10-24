@@ -14,12 +14,80 @@
     "chất xơ hòa tan (1)",
     "Lactobacillus plantarum L-137 (2) (23,4 mg/l)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa lên men tự nhiên",
+      "raw": "Sữa lên men tự nhiên (46 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bò tươi",
+      "raw": "sữa bò tươi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa",
+      "raw": "bột sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo sữa",
+      "raw": "chất béo sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "men streptococcus và lactobacillus",
+      "raw": "men Streptococcus và Lactobacillus",
+      "nutritional": true,
+      "nutritional_category": "probiotic"
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường tinh luyện",
+      "raw": "đường tinh luyện",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha",
+      "raw": "mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất xơ hòa tan",
+      "raw": "chất xơ hòa tan (1)",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "lactobacillus plantarum l-137",
+      "raw": "Lactobacillus plantarum L-137 (2) (23,4 mg/l)",
+      "nutritional": true,
+      "nutritional_category": "probiotic"
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (INS 466, INS 440)",
     "hương liệu tổng hợp (hương kem dâu)",
     "phẩm màu tự nhiên (INS 120)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng (kcal)",
       "value": "74"
@@ -52,6 +120,39 @@
   "gold_warning_raw": [
     "Sản phẩm có chứa sữa."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 3,
+    "nutritional_names": [
+      "chất xơ hòa tan",
+      "lactobacillus plantarum l-137",
+      "men streptococcus và lactobacillus"
+    ],
+    "nutritional_categories": [
+      "fiber_prebiotic",
+      "probiotic"
+    ],
+    "items": [
+      {
+        "name": "men streptococcus và lactobacillus",
+        "raw": "men Streptococcus và Lactobacillus",
+        "nutritional": true,
+        "nutritional_category": "probiotic"
+      },
+      {
+        "name": "chất xơ hòa tan",
+        "raw": "chất xơ hòa tan (1)",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      },
+      {
+        "name": "lactobacillus plantarum l-137",
+        "raw": "Lactobacillus plantarum L-137 (2) (23,4 mg/l)",
+        "nutritional": true,
+        "nutritional_category": "probiotic"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -81,6 +182,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

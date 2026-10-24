@@ -16,6 +16,86 @@
     "muối",
     "men"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật hydro hóa hoàn toàn",
+      "raw": "dầu thực vật hydro hóa hoàn toàn (dầu hạt cọ, dầu cọ, dầu hạt cải) (đậu nành)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột nguyên kem",
+      "raw": "sữa bột nguyên kem (9%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường lactose",
+      "raw": "đường lactose (sữa)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "inulin",
+      "raw": "inulin (2%)",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "shortening",
+      "raw": "shortening (dầu cọ hydro hóa hoàn toàn)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì nguyên cám",
+      "raw": "bột mì nguyên cám (2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "khoáng chất",
+      "raw": "khoáng chất (calci) (2%)",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "chiết xuất mạch nha",
+      "raw": "chiết xuất mạch nha (lúa mì, lúa mạch, lúa mạch đen, yến mạch)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa hokkaido",
+      "raw": "bột sữa hokkaido (0,7%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "men",
+      "raw": "men",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm dày (tinh bột biến tính (distarch phosphate (INS 1412)))",
     "chất nhũ hóa (este của propylene glycol với acid béo (INS 477))",
@@ -24,7 +104,7 @@
     "chất nhũ hóa (lecithin) (INS 322(i))",
     "chất tạo xốp (natri hydro carbonat (INS 500(ii)))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "195 kcal (315 kJ)"
@@ -78,6 +158,32 @@
     "Sản phẩm chứa nguyên liệu có nguồn gốc từ lúa mì, gluten, sữa, đậu nành, lúa mạch, lúa mạch đen và yến mạch.",
     "Được sản xuất tại cơ sở có sử dụng hạnh nhân."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "inulin",
+      "khoáng chất"
+    ],
+    "nutritional_categories": [
+      "fiber_prebiotic",
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "inulin",
+        "raw": "inulin (2%)",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      },
+      {
+        "name": "khoáng chất",
+        "raw": "khoáng chất (calci) (2%)",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -116,6 +222,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

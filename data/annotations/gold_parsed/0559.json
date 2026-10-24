@@ -4,13 +4,21 @@
   "gold_ingredients_raw": [
     "Bột làm thạch [Chất làm dày: Carrageenan (chiết xuất từ rau câu) (INS 407), bột konjac (từ khoai nưa) (INS 425), gôm xanthan (INS 415), chất ổn định: kali clorid (INS 508), trikali citrate (INS 332(ii)), glucose, muối sấy]"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột làm thạch",
+      "raw": "Bột làm thạch [Chất làm dày: Carrageenan (chiết xuất từ rau câu) (INS 407), bột konjac (từ khoai nưa) (INS 425), gôm xanthan (INS 415), chất ổn định: kali clorid (INS 508), trikali citrate (INS 332(ii)), glucose, muối sấy]",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất làm dày: Carrageenan (chiết xuất từ rau câu) (INS 407)",
     "bột konjac (từ khoai nưa) (INS 425)",
     "gôm xanthan (INS 415)",
     "chất ổn định: kali clorid (INS 508), trikali citrate (INS 332(ii))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "14,8 - 27,6 kcal/100 g"
@@ -35,6 +43,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm đã hết hạn."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -58,6 +73,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

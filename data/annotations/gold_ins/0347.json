@@ -1,0 +1,16 @@
+{
+  "image_id": "0347",
+  "gold_ins_additive": [],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "DL - alpha - tocopheryl acetat",
+    "Thiamin mononitrat",
+    "Pyridoxin hydrochlorid",
+    "Cholecalciferol",
+    "Cyanocobalamin",
+    "Chất chống đông vón (Dioxyd silic, Magnesi stearat)",
+    "Chất nhũ hóa (Hydroxypropyl methyl cellulose, Calci carboxymethyl cellulose, Ester của polyglycerol với các acid béo)",
+    "Chất tạo màu tổng hợp (Titan dioxyd)"
+  ],
+  "ins_parser_version": "1.1"
+}

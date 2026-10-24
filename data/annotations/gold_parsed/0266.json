@@ -14,6 +14,74 @@
     "Sữa Bột Gầy",
     "Dầu Bơ Khan"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "gạo japonica",
+      "raw": "Gạo Japonica (58%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu ăn",
+      "raw": "Dầu Ăn (với Chất Chống Oxy Hóa 320, 321)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa dừa",
+      "raw": "Bột Sữa Dừa (4.6%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột khoai mì",
+      "raw": "Tinh Bột Khoai Mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "Muối I-ốt",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "bột kem không sữa",
+      "raw": "Bột Kem Không Sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mật mía",
+      "raw": "Mật Mía",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha",
+      "raw": "Mạch Nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột gầy",
+      "raw": "Sữa Bột Gầy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu bơ khan",
+      "raw": "Dầu Bơ Khan",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất Chống Oxy Hóa 320, 321",
     "Maltodextrin",
@@ -21,7 +89,7 @@
     "Chất Điều Chỉnh Độ Acid (330)",
     "Hương Dừa Nướng Nhân Tạo"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "140 Kcal"
@@ -59,6 +127,24 @@
     "Sản phẩm có chứa Đậu Nành và Sữa.",
     "Được sản xuất trên cùng thiết bị và/hoặc trên dây chuyền chế biến các sản phẩm có thành phần gây dị ứng như: Lúa Mì, Hải Sản, Trứng, Yến Mạch và Đậu Phộng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "muối i-ốt"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "muối i-ốt",
+        "raw": "Muối I-ốt",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "sữa",
@@ -105,6 +191,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

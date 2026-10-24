@@ -1,0 +1,36 @@
+{
+  "image_id": "0469",
+  "gold_ins_additive": [
+    "102",
+    "1100",
+    "120",
+    "133",
+    "141",
+    "1440",
+    "1442",
+    "150a",
+    "1520",
+    "160a",
+    "322",
+    "341",
+    "415",
+    "420",
+    "422",
+    "450",
+    "470",
+    "471",
+    "475",
+    "477",
+    "491",
+    "492",
+    "500",
+    "575",
+    "964"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Hương liệu tổng hợp (đậu đỏ, lá dứa, cốm, dừa, vani)",
+    "Hương liệu giống tự nhiên (hương bánh)"
+  ],
+  "ins_parser_version": "1.1"
+}

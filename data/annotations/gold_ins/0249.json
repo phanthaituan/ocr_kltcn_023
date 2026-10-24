@@ -1,0 +1,16 @@
+{
+  "image_id": "0249",
+  "gold_ins_additive": [
+    "340",
+    "472e",
+    "551"
+  ],
+  "gold_ins_in_ingredient": [
+    "481"
+  ],
+  "additives_without_code": [
+    "hương liệu xoài tổng hợp (0.46 %)",
+    "màu tổng hợp dùng trong thực phẩm (0.04 %)"
+  ],
+  "ins_parser_version": "1.1"
+}

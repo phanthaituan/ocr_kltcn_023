@@ -8,10 +8,42 @@
     "bột kem không sữa",
     "maltodextrin"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "gạo lứt",
+      "raw": "Gạo lứt (45 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường cát trắng",
+      "raw": "đường cát trắng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt sen",
+      "raw": "hạt sen (10 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột kem không sữa",
+      "raw": "bột kem không sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "hương vani tổng hợp"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "381 kcal"
@@ -38,6 +70,13 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -59,6 +98,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": false
   }
 }

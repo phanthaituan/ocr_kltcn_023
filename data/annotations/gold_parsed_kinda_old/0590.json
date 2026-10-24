@@ -1,0 +1,109 @@
+{
+  "image_id": "0590",
+  "product_name": "BÁNH GẠO RICHY JINJU GOLD VỊ BÒ NƯỚNG TIÊU MỘT NẮNG",
+  "gold_ingredients_raw": [
+    "Gạo (63.7%)",
+    "Dầu thực vật",
+    "Đường",
+    "Tinh bột khoai tây",
+    "Gia vị bò nướng (2.25%)",
+    "Maltodextrin",
+    "Muối",
+    "Bột tiêu (0.32%)",
+    "Bột ớt"
+  ],
+  "gold_additives_raw": [
+    "Chất làm dày (1420)",
+    "Chất điều chỉnh độ acid (330)",
+    "Hương liệu tổng hợp (Bò)",
+    "Chất chống đông vón (551)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "479 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "5.03 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "72.17 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "12 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "18.7 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "8.18 g"
+    },
+    {
+      "name": "Natri",
+      "value": "582 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Thành phần sản phẩm có chứa: Trứng.",
+    "Sản phẩm có thể chứa sữa, đậu nành, lúa mì, mè, hạnh nhân, dừa, cá."
+  ],
+  "allergen_final": {
+    "contains": [
+      "trứng"
+    ],
+    "may_contain": [
+      "cá",
+      "dừa",
+      "gluten",
+      "hạt_cây",
+      "hạt_vừng",
+      "sữa",
+      "đậu_nành"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "trứng"
+    ],
+    "declared_may_contain": [
+      "cá",
+      "dừa",
+      "gluten",
+      "hạt_cây",
+      "hạt_vừng",
+      "sữa",
+      "đậu_nành"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "cá",
+      "dừa",
+      "gluten",
+      "hạt_cây",
+      "hạt_vừng",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": "134.4 g (4.74 oz) (8.4 g x 16 gói)",
+  "mfg_date": "Xem “PRO” trên bao bì.",
+  "expiry_date": "Xem “EXP” trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

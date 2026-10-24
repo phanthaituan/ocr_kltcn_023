@@ -1,0 +1,85 @@
+{
+  "image_id": "0019",
+  "product_name": "Chả Giò Hải Sản Mayo",
+  "gold_ingredients_raw": [
+    "Vỏ bột (53 %) (bột mì, nước, tinh bột khoai mì, men (saccharomyces cerevisiae), muối, dầu đậu nành tinh luyện, đường)",
+    "mayonnaise (19 %)",
+    "mực (12.9 %)",
+    "tôm (8.5 %)",
+    "hành tây",
+    "đường",
+    "tinh bột khoai mì",
+    "muối"
+  ],
+  "gold_additives_raw": [
+    "men (saccharomyces cerevisiae)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "184 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "6,8 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "26,1 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "4,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "2,2 g"
+    },
+    {
+      "name": "Natri",
+      "value": "555 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm không phù hợp với những người bị dị ứng với các thành phần trên.",
+    "Không dùng sản phẩm hết hạn sử dụng.",
+    "Không sử dụng sản phẩm có màu và mùi lạ bất thường."
+  ],
+  "allergen_final": {
+    "contains": [
+      "giáp_xác",
+      "gluten",
+      "nhuyễn_thể",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "giáp_xác",
+      "gluten",
+      "nhuyễn_thể",
+      "đậu_nành"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1,
+      "expiry_usage": 1,
+      "desiccant_or_misc": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "04. 05. 2026",
+  "expiry_date": "04. 11. 2027",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

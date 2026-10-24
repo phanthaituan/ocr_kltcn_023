@@ -11,10 +11,60 @@
     "tinh bột khoai mì",
     "muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "vỏ bột",
+      "raw": "Vỏ bột (53 %) (bột mì, nước, tinh bột khoai mì, men (saccharomyces cerevisiae), muối, dầu đậu nành tinh luyện, đường)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mayonnaise",
+      "raw": "mayonnaise (19 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mực",
+      "raw": "mực (12.9 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tôm",
+      "raw": "tôm (8.5 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành tây",
+      "raw": "hành tây",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột khoai mì",
+      "raw": "tinh bột khoai mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "men (saccharomyces cerevisiae)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "184 kcal"
@@ -45,6 +95,13 @@
     "Không dùng sản phẩm hết hạn sử dụng.",
     "Không sử dụng sản phẩm có màu và mùi lạ bất thường."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "giáp_xác",
@@ -80,6 +137,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

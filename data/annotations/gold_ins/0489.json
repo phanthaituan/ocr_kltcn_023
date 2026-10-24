@@ -1,0 +1,20 @@
+{
+  "image_id": "0489",
+  "gold_ins_additive": [
+    "296",
+    "304",
+    "307b",
+    "330",
+    "415",
+    "621",
+    "627",
+    "631",
+    "640",
+    "951"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "màu tự nhiên (paprika oleoresin)"
+  ],
+  "ins_parser_version": "1.1"
+}

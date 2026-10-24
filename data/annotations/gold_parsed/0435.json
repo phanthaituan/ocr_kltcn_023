@@ -8,8 +8,40 @@
     "3,6% chất béo sữa",
     "tối thiểu 8.5% sữa khô tách béo"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa bò hữu cơ nguyên kem",
+      "raw": "Sữa bò hữu cơ nguyên kem",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin a",
+      "raw": "vitamin A",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin d3",
+      "raw": "vitamin D3",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "3,6% chất béo sữa",
+      "raw": "3,6% chất béo sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tối thiểu 8.5% sữa khô tách béo",
+      "raw": "tối thiểu 8.5% sữa khô tách béo",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "67 calories (3%)"
@@ -63,6 +95,31 @@
     "Có chứa sữa.",
     "Không thích hợp cho trẻ sơ sinh trừ khi có chỉ định của bác sỹ"
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "vitamin a",
+      "vitamin d3"
+    ],
+    "nutritional_categories": [
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "vitamin a",
+        "raw": "vitamin A",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin d3",
+        "raw": "vitamin D3",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -93,6 +150,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

@@ -18,6 +18,98 @@
     "MUỐI I-ỐT",
     "PROTEIN SỮA"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "ĐƯỜNG",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "BỘT MÌ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha glucose",
+      "raw": "MẠCH NHA GLUCOSE",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "shortening thực vật",
+      "raw": "SHORTENING THỰC VẬT (CÓ CHỨA CHẤT NHŨ HÓA (471))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "CHẤT BÉO THỰC VẬT (CÓ CHỨA CHẤT NHŨ HÓA (492, 322(i)))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cacao",
+      "raw": "BỘT CACAO (4,8%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột nguyên kem",
+      "raw": "SỮA BỘT NGUYÊN KEM",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng",
+      "raw": "TRỨNG",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha isomalto oligo",
+      "raw": "MẠCH NHA ISOMALTO OLIGO",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "đường dextrose",
+      "raw": "ĐƯỜNG DEXTROSE",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gelatin",
+      "raw": "GELATIN",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "MUỐI",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp bột cacao và bơ ca cao",
+      "raw": "HỖN HỢP BỘT CACAO VÀ BƠ CA CAO (0,2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "MUỐI I-ỐT",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "protein sữa",
+      "raw": "PROTEIN SỮA",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    }
+  ],
   "gold_additives_raw": [
     "CHẤT NHŨ HÓA (471)",
     "CHẤT NHŨ HÓA (492, 322(i))",
@@ -26,7 +118,7 @@
     "HƯƠNG LIỆU TỔNG HỢP (VANI, SỮA)",
     "CHẤT NHŨ HÓA (322(i), 476)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "140 kcal"
@@ -56,6 +148,40 @@
     "SẢN PHẨM KHÔNG DÙNG CHO NGƯỜI DỊ ỨNG VỚI CÁC THÀNH PHẦN SAU: LÚA MÌ, SỮA, TRỨNG VÀ ĐẬU NÀNH.",
     "KHÔNG SỬ DỤNG SẢN PHẨM KHI ĐÃ HẾT HẠN HOẶC CÓ DẤU HIỆU MỐC HAY HƯ HỎNG."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 3,
+    "nutritional_names": [
+      "muối i-ốt",
+      "mạch nha isomalto oligo",
+      "protein sữa"
+    ],
+    "nutritional_categories": [
+      "fiber_prebiotic",
+      "isolated_protein",
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "mạch nha isomalto oligo",
+        "raw": "MẠCH NHA ISOMALTO OLIGO",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      },
+      {
+        "name": "muối i-ốt",
+        "raw": "MUỐI I-ỐT",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "protein sữa",
+        "raw": "PROTEIN SỮA",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -95,6 +221,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

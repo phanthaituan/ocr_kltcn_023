@@ -11,6 +11,56 @@
     "calci lactat",
     "vitamin (B6, A, D3, B12)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xi-rô glucoza",
+      "raw": "xi-rô glucoza",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột",
+      "raw": "sữa bột (20 g/l)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước táo ép cô đặc",
+      "raw": "nước táo ép cô đặc (7,4 g/l)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước cam ép cô đặc",
+      "raw": "nước cam ép cô đặc (5,3 g/l)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "calci lactat",
+      "raw": "calci lactat",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "vitamin",
+      "raw": "vitamin (B6, A, D3, B12)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [
     "chất béo sữa",
     "chất ổn định (440, 466)",
@@ -18,7 +68,7 @@
     "hương cam tổng hợp dùng cho thực phẩm",
     "chất chống oxy hóa (300)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "127 kcal"
@@ -68,6 +118,32 @@
     "Có chứa sữa.",
     "Không dùng cho trẻ dưới 2 tuổi."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "calci lactat",
+      "vitamin"
+    ],
+    "nutritional_categories": [
+      "mineral_trace",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "calci lactat",
+        "raw": "calci lactat",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "vitamin",
+        "raw": "vitamin (B6, A, D3, B12)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -98,6 +174,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

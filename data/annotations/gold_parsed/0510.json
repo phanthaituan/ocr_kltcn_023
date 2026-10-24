@@ -12,6 +12,62 @@
     "muối",
     "hỗn hợp calci lactat và calci gluconat 0,01%"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bánh gạo bắp 42,7%",
+      "raw": "Bánh gạo bắp 42,7% (bắp, gạo, dầu cọ)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường làm bánh",
+      "raw": "đường làm bánh (đường tinh luyện, bột bắp)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "rong biển 17,8%",
+      "raw": "rong biển 17,8%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ",
+      "raw": "dầu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị hương mực nướng cay 5,4%",
+      "raw": "gia vị hương mực nướng cay 5,4% [đường, bột hải sản (bột cá mối vạch, bột tôm), muối, chất điều vị (621, 640, 635), bột gia vị (bột me, bột tỏi, bột ớt), hương liệu mực nướng giống tự nhiên, maltodextrin, nhựa dầu ớt, chất chống đông vón (551, 341(iii)), phẩm màu tự nhiên (160c(i)), chất điều chỉnh độ acid (330), chất tạo ngọt tổng hợp (951, 955)]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dextrose",
+      "raw": "dextrose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp calci lactat và calci gluconat 0,01%",
+      "raw": "hỗn hợp calci lactat và calci gluconat 0,01%",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (621, 640, 635)",
     "hương liệu mực nướng giống tự nhiên",
@@ -21,7 +77,7 @@
     "chất tạo ngọt tổng hợp (951, 955)",
     "chất điều vị (621)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "28 kcal"
@@ -56,6 +112,24 @@
     "Được sản xuất chung dây chuyền sản xuất các sản phẩm có chứa đậu nành, lúa mì, sữa.",
     "Không sử dụng sản phẩm khi đã hết hạn sử dụng hoặc dị ứng với các thành phần trên."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "hỗn hợp calci lactat và calci gluconat 0,01%"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "hỗn hợp calci lactat và calci gluconat 0,01%",
+        "raw": "hỗn hợp calci lactat và calci gluconat 0,01%",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -111,6 +185,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

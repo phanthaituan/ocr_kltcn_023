@@ -13,6 +13,68 @@
     "ca cao khối 0,03%",
     "Có chứa lúa mì, đậu nành, sữa"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ hydro hóa",
+      "raw": "dầu cọ hydro hóa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ca cao 8,94%",
+      "raw": "bột ca cao 8,94%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột",
+      "raw": "tinh bột [tinh bột ngô (có thể bao gồm ngô biến đổi gen), tinh bột sắn]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối tinh chế",
+      "raw": "muối tinh chế",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cà phê",
+      "raw": "bột cà phê",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột nguyên kem",
+      "raw": "sữa bột nguyên kem",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ca cao khối 0,03%",
+      "raw": "ca cao khối 0,03%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "có chứa lúa mì, đậu nành, sữa",
+      "raw": "Có chứa lúa mì, đậu nành, sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất tạo xốp (INS 503(ii), INS 500(ii), INS 450(i))",
     "chất nhũ hóa (INS 322(i)) từ đậu nành",
@@ -20,7 +82,7 @@
     "hương liệu tổng hợp",
     "chất xử lý bột (INS 1101(i))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "1040 kcal"
@@ -54,6 +116,13 @@
     "Không sử dụng sản phẩm đã hết hạn sử dụng.",
     "Sản phẩm này được sản xuất trên thiết bị sản xuất cùng với các sản phẩm sử dụng đậu phộng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "đậu_phộng"
@@ -84,6 +153,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

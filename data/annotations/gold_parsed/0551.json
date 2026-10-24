@@ -14,15 +14,90 @@
     "glucose khan",
     "muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột gạo 56%",
+      "raw": "Bột gạo 56%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ",
+      "raw": "dầu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột bắp",
+      "raw": "bột bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột bắp",
+      "raw": "tinh bột bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị matcha 4,9%",
+      "raw": "gia vị matcha 4,9%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột nguyên chất 2,1%",
+      "raw": "sữa bột nguyên chất 2,1%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "whey bột",
+      "raw": "whey bột",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "glucose khan",
+      "raw": "glucose khan",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định [170(i)]"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Có chứa lúa mì (gluten), sữa.",
     "Được sản xuất chung dây chuyền sản xuất các sản phẩm có chứa trứng.",
     "Không sử dụng sản phẩm khi đã hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -61,6 +136,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

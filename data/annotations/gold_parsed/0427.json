@@ -11,13 +11,63 @@
     "Men khô",
     "Đậu nành"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột trộn sẵn bánh hotteok 38,1%",
+      "raw": "Bột trộn sẵn bánh hotteok 38,1% [bột mì, chất làm dày (1440, 1420), đậu nành, bột gạo, đường, muối, bột sữa, bột béo thực vật, chất tạo xốp (575, 500(ii), 450(i), 341(i)), đường dextrose, phẩm màu tổng hợp (160a(iii))]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nhân phô mai mozzarella 29,9%",
+      "raw": "Nhân phô mai mozzarella 29,9% (phô mai mozzarella 60%, nước, đường, sữa bột béo, khoai lang, tinh bột khoai tây, muối, hương liệu phô mai tổng hợp)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột nếp",
+      "raw": "Bột nếp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "shortening",
+      "raw": "Shortening",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "men khô",
+      "raw": "Men khô",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đậu nành",
+      "raw": "Đậu nành",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất làm dày (1440, 1420)",
     "Chất tạo xốp (575, 500(ii), 450(i), 341(i))",
     "Phẩm màu tổng hợp (160a(iii))",
     "Hương liệu phô mai tổng hợp"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "313 kcal"
@@ -51,6 +101,13 @@
     "Có chứa lúa mì (gluten), đậu nành, sữa.",
     "Được sản xuất chung dây chuyền sản xuất các sản phẩm có chứa trứng, cá, giáp xác, động vật thân mềm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -97,6 +154,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

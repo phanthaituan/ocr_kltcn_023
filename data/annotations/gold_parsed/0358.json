@@ -7,11 +7,37 @@
     "nước chanh 1,65% (thành phần pha trộn: 100% chanh)",
     "đường"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước tinh khiết",
+      "raw": "Nước tinh khiết",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "men kombucha 31,73%",
+      "raw": "men Kombucha 31,73% (nước tinh khiết, đường, trà đen, cao lương, nuôi cấy cộng sinh của vi khuẩn và nấm men Scoby)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước chanh 1,65%",
+      "raw": "nước chanh 1,65% (thành phần pha trộn: 100% chanh)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất tạo khí carbonic(INS 290)",
     "chất tạo ngọt nhân tạo(INS 955)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "16 Kcal"
@@ -44,6 +70,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm đã hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -67,6 +100,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

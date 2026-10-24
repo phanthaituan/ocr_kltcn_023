@@ -1,0 +1,18 @@
+{
+  "image_id": "0585",
+  "gold_ins_additive": [
+    "340",
+    "407",
+    "451",
+    "460",
+    "466",
+    "471"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "chất điều chỉnh độ axit",
+    "hương liệu tự nhiên (hương ngọt)",
+    "hương liệu giống tự nhiên (hương lúa mạch sôcôla, hương sôcôla, hương vani)"
+  ],
+  "ins_parser_version": "1.1"
+}

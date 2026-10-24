@@ -11,13 +11,63 @@
     "Sữa bột tách béo",
     "Cà phê (1%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa nguyên kem",
+      "raw": "Sữa nguyên kem (36,9%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xi rô glucose",
+      "raw": "Xi rô glucose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "Dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ",
+      "raw": "Bơ (sữa) (2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ca cao khối",
+      "raw": "Ca cao khối (3,6%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột tách béo",
+      "raw": "Sữa bột tách béo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà phê",
+      "raw": "Cà phê (1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Lecithin",
     "Mono và diglycerid của các acid béo",
     "Hương liệu nhân tạo: Hương vani",
     "Tinh dầu bạc hà"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "469 kcal"
@@ -50,6 +100,13 @@
   "gold_warning_raw": [
     "KHÔNG SỬ DỤNG CHO NGƯỜI BỊ MẪN CẢM VỚI BẤT CỨ THÀNH PHẦN NÀO CỦA SẢN PHẨM."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -77,6 +134,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

@@ -5,6 +5,20 @@
     "Sô-cô-la compound trắng 86,49% (đường, béo thực vật, bột sữa, chất nhũ hoá (INS 492, INS 322(i)), hương liệu tổng hợp (vani))",
     "bánh quy sôcôla kem vani Cream-O 13,51% (bột mì, đường, chất béo thực vật, đường glucoza, bột sữa, bột cacao (3%), cacao khối (2%), mạch nha, muối iốt, bột lòng đỏ trứng, chất tạo xốp (INS 500(ii), INS 503(ii)), tinh bột bắp, chất nhũ hoá (INS 322(i)), hương liệu tổng hợp (vani), phẩm màu tổng hợp (INS 150d))"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sô-cô-la compound trắng 86,49%",
+      "raw": "Sô-cô-la compound trắng 86,49% (đường, béo thực vật, bột sữa, chất nhũ hoá (INS 492, INS 322(i)), hương liệu tổng hợp (vani))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bánh quy sôcôla kem vani cream-o 13,51%",
+      "raw": "bánh quy sôcôla kem vani Cream-O 13,51% (bột mì, đường, chất béo thực vật, đường glucoza, bột sữa, bột cacao (3%), cacao khối (2%), mạch nha, muối iốt, bột lòng đỏ trứng, chất tạo xốp (INS 500(ii), INS 503(ii)), tinh bột bắp, chất nhũ hoá (INS 322(i)), hương liệu tổng hợp (vani), phẩm màu tổng hợp (INS 150d))",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất nhũ hoá (INS 492, INS 322(i))",
     "hương liệu tổng hợp (vani)",
@@ -13,7 +27,7 @@
     "hương liệu tổng hợp (vani)",
     "phẩm màu tổng hợp (INS 150d)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "574 kcal"
@@ -42,6 +56,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm nếu dị ứng với thành phần có trong sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -75,6 +96,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

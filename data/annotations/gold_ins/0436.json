@@ -1,0 +1,25 @@
+{
+  "image_id": "0436",
+  "gold_ins_additive": [
+    "100",
+    "1420",
+    "150d",
+    "307c",
+    "320",
+    "321",
+    "330",
+    "364",
+    "422",
+    "451",
+    "452",
+    "500",
+    "551",
+    "621",
+    "635"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Hương liệu (giống tự nhiên, tổng hợp)"
+  ],
+  "ins_parser_version": "1.1"
+}

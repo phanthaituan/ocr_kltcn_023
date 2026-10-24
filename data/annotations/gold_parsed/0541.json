@@ -11,6 +11,56 @@
     "bột sữa chế biến (bột sữa tách béo, bột whey permeate khử khoáng (sữa), bột whey (sữa), chất nhũ hóa (INS 471, INS 433), chất ổn định (INS 466, INS 412, INS 407, INS 410), 2 loại hương liệu nhân tạo (vani))",
     "muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "siro dâu 23,4%",
+      "raw": "siro dâu 23,4% (dâu 10,5%, đường, siro ngô, chất ổn định (INS 1442, INS 440), chất điều chỉnh độ acid (INS 330, INS 341(ii), INS 331(iii)), hương liệu nhân tạo, phẩm màu tự nhiên (INS 162i))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bánh quy 9,5%",
+      "raw": "bánh quy 9,5% (bột lúa mì, tinh bột ngô, chất xơ lúa mì, dầu cọ, đường, bột nở [chất điều chỉnh độ acid (INS 450(i), INS 341(ii)), tinh bột ngô, chất tạo xốp (INS 500(ii))], muối, hỗn hợp công thức (nước, chất làm ẩm (INS 420(i)), chất nhũ hóa (INS 471, INS 322(i) (đậu nành), INS 473, INS 491, INS 477)), chất làm rắn chắc (INS 526), phẩm màu tự nhiên (INS 160a(iv)))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu dừa",
+      "raw": "dầu dừa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "siro ngô",
+      "raw": "siro ngô",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa chế biến",
+      "raw": "bột sữa chế biến (bột sữa tách béo, bột whey permeate khử khoáng (sữa), bột whey (sữa), chất nhũ hóa (INS 471, INS 433), chất ổn định (INS 466, INS 412, INS 407, INS 410), 2 loại hương liệu nhân tạo (vani))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (INS 1442, INS 440)",
     "chất điều chỉnh độ acid (INS 330, INS 341(ii), INS 331(iii))",
@@ -28,7 +78,7 @@
     "2 loại hương liệu nhân tạo (sữa)",
     "phẩm màu tổng hợp (INS 102, INS 110)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "200 kcal"
@@ -66,6 +116,13 @@
     "Thành phần có chứa lúa mì (gluten), đậu nành và sữa.",
     "Có thể chứa trứng, đậu phộng, yến mạch (gluten), các loại hạt cây (hạnh nhân, dừa, hạt phỉ, óc chó, hạt điều)."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -116,6 +173,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

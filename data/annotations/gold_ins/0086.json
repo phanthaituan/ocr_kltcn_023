@@ -1,0 +1,19 @@
+{
+  "image_id": "0086",
+  "gold_ins_additive": [
+    "120",
+    "141",
+    "341",
+    "450",
+    "481",
+    "500",
+    "503",
+    "953",
+    "960a"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "hương liệu (khoai lang, dừa, vani) tổng hợp"
+  ],
+  "ins_parser_version": "1.1"
+}

@@ -1,0 +1,31 @@
+{
+  "image_id": "0127",
+  "gold_ins_additive": [
+    "1422",
+    "150a",
+    "1520",
+    "160a",
+    "170",
+    "322",
+    "415",
+    "420",
+    "422",
+    "470",
+    "471",
+    "473",
+    "475",
+    "476",
+    "477",
+    "491",
+    "500",
+    "575"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "CHẤT BÉO THỰC VẬT",
+    "HƯƠNG LIỆU TỔNG HỢP (KEM PHÔ MAI, CÀ PHÊ, SỬA CHUA, VANI)",
+    "HƯƠNG LIỆU GIỐNG TỰ NHIÊN (CÀ PHÊ, PHÔ MAI)",
+    "HƯƠNG LIỆU TỰ NHIÊN (KEM)"
+  ],
+  "ins_parser_version": "1.1"
+}

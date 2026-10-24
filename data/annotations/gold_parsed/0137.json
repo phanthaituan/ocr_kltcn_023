@@ -9,13 +9,51 @@
     "bột đậu đen nhuyễn 0.37% (bột đậu đen 25% (đậu đen))",
     "muối tinh luyện"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa đậu nành nguyên chất 66%",
+      "raw": "Sữa đậu nành nguyên chất 66% (chất rắn đậu nành 7% trở lên, đậu nành)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước tinh khiết",
+      "raw": "nước tinh khiết",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường trắng",
+      "raw": "đường trắng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột 9 loại ngũ cốc đen 0,8%",
+      "raw": "bột 9 loại ngũ cốc đen 0,8% (lúa mạch đen 30%, gạo đen 29,5%, gạo nếp cẩm 29,2%, đậu đen hạt nhỏ 10%, đậu đen xanh lòng 0,5%, đậu đen hạt to 0,5%, đậu adzuki 0,1%, mạch đắng 0,1%, hạt mè đen 0,1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột đậu đen nhuyễn 0.37%",
+      "raw": "bột đậu đen nhuyễn 0.37% (bột đậu đen 25% (đậu đen))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối tinh luyện",
+      "raw": "muối tinh luyện",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều chỉnh độ acid (INS 170(i))",
     "chất nhũ hóa (INS 322(i))",
     "hương liệu tổng hợp",
     "chất làm dày (INS 407)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Giá trị dinh dưỡng",
       "value": "190ml"
@@ -52,6 +90,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm đã hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -75,6 +120,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

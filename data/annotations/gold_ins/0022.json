@@ -1,0 +1,15 @@
+{
+  "image_id": "0022",
+  "gold_ins_additive": [
+    "133",
+    "322",
+    "341",
+    "450",
+    "500"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Hương liệu tổng hợp (Vani, Trà)"
+  ],
+  "ins_parser_version": "1.1"
+}

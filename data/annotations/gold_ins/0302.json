@@ -1,0 +1,27 @@
+{
+  "image_id": "0302",
+  "gold_ins_additive": [
+    "1520",
+    "160a",
+    "202",
+    "304",
+    "322",
+    "330",
+    "415",
+    "420",
+    "422",
+    "450",
+    "470",
+    "471",
+    "475",
+    "477",
+    "491",
+    "500",
+    "575"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "hương liệu tổng hợp (bơ, trứng, vani)"
+  ],
+  "ins_parser_version": "1.1"
+}

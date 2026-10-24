@@ -12,12 +12,68 @@
     "bột Miso",
     "chất điều hoà bột (như sau): ((tinh bột ngô), (amoni clorid (chất xử lý bột)), (Calci carbonat (chất xử lý bột)))"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật (như sau): ((dầu cọ không hydro hoá), (dầu hạt cải hydro hoá toàn phần))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ",
+      "raw": "bơ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất mạch nha",
+      "raw": "chiết xuất mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mạch nha",
+      "raw": "bột mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "men",
+      "raw": "men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột miso",
+      "raw": "bột Miso",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất điều hoà bột",
+      "raw": "chất điều hoà bột (như sau): ((tinh bột ngô), (amoni clorid (chất xử lý bột)), (Calci carbonat (chất xử lý bột)))",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất tạo xốp (Natri hydro carbonat)",
     "amoni clorid",
     "Calci carbonat"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Kích thước khẩu phần ăn/Serving Size",
       "value": "26 g (1 gói/Packet)"
@@ -77,6 +133,13 @@
     "Có thể chứa hạt vừng",
     "Không sử dụng cho người bị mẫn cảm với bất cứ thành phần nào của sản phẩm"
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -122,6 +185,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

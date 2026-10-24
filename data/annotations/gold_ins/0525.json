@@ -1,0 +1,17 @@
+{
+  "image_id": "0525",
+  "gold_ins_additive": [
+    "1420",
+    "160a",
+    "551",
+    "621",
+    "635",
+    "955"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "HƯƠNG LIỆU TỔNG HỢP",
+    "HƯƠNG LIỆU TỔNG HỢP (NGÔ)"
+  ],
+  "ins_parser_version": "1.1"
+}

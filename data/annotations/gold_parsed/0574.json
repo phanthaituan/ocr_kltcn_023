@@ -8,11 +8,43 @@
     "ruốc thịt (0.5%)",
     "muối ăn"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường kính trắng",
+      "raw": "đường kính trắng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu oliu",
+      "raw": "dầu oliu",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ruốc thịt",
+      "raw": "ruốc thịt (0.5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối ăn",
+      "raw": "muối ăn",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất tạo xốp (INS 503(ii), INS 500(ii))",
     "hương liệu tổng hợp (Hương Sữa)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "425 kcal"
@@ -43,6 +75,13 @@
     "Không sử dụng sản phẩm khi quá hạn sử dụng.",
     "Khi cho trẻ nhỏ ăn cần có sự giám sát của người lớn."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -85,6 +124,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

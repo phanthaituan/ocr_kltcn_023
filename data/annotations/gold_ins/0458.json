@@ -1,0 +1,16 @@
+{
+  "image_id": "0458",
+  "gold_ins_additive": [
+    "296",
+    "327",
+    "330",
+    "331",
+    "407",
+    "418"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Hương liệu (quýt, đào vàng, dứa, đào trắng) tự nhiên"
+  ],
+  "ins_parser_version": "1.1"
+}

@@ -9,6 +9,44 @@
     "BỘT GIA VỊ NGÔ BƠ NGỌT 3,3% (ĐƯỜNG, BỘT SỮA, MUỐI, HƯƠNG LIỆU TỔNG HỢP, CHẤT ĐIỀU VỊ (621, 635), CHIẾT XUẤT NẤM MEN, CHẤT CHỐNG ĐÔNG VÓN (551), CHẤT TẠO NGỌT NHÂN TẠO (955))",
     "BỘT GIA VỊ MUỐI 1,7% (MUỐI, CHẤT ĐIỀU VỊ (621), MUỐI I-ỐT, HƯƠNG LIỆU TỔNG HỢP (NGÔ), HÀNH LÁ SẤY, CHẤT TẠO MÀU TỔNG HỢP (160a(i)))"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "gạo japonica 46,3%",
+      "raw": "GẠO JAPONICA 46,3%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "DẦU THỰC VẬT",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "ĐƯỜNG",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột khoai tây",
+      "raw": "TINH BỘT KHOAI TÂY",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gia vị ngô bơ ngọt 3,3%",
+      "raw": "BỘT GIA VỊ NGÔ BƠ NGỌT 3,3% (ĐƯỜNG, BỘT SỮA, MUỐI, HƯƠNG LIỆU TỔNG HỢP, CHẤT ĐIỀU VỊ (621, 635), CHIẾT XUẤT NẤM MEN, CHẤT CHỐNG ĐÔNG VÓN (551), CHẤT TẠO NGỌT NHÂN TẠO (955))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gia vị muối 1,7%",
+      "raw": "BỘT GIA VỊ MUỐI 1,7% (MUỐI, CHẤT ĐIỀU VỊ (621), MUỐI I-ỐT, HƯƠNG LIỆU TỔNG HỢP (NGÔ), HÀNH LÁ SẤY, CHẤT TẠO MÀU TỔNG HỢP (160a(i)))",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "CHẤT LÀM DÀY (1420)",
     "HƯƠNG LIỆU TỔNG HỢP",
@@ -19,7 +57,7 @@
     "HƯƠNG LIỆU TỔNG HỢP (NGÔ)",
     "CHẤT TẠO MÀU TỔNG HỢP (160a(i))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "490 kcal"
@@ -52,6 +90,13 @@
   "gold_warning_raw": [
     "SẢN PHẨM CÓ CHỨA: SỮA VÀ CÓ THỂ CHỨA ĐẬU NÀNH, LÚA MÌ, TÔM, CÁ."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": [
@@ -93,6 +138,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

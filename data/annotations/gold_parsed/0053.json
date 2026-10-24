@@ -12,6 +12,62 @@
     "Muối",
     "Cồn thực phẩm"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "trứng gà tươi",
+      "raw": "Trứng gà tươi (24.6%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "Dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chà bông gà",
+      "raw": "Chà bông gà (10.4%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "shortening",
+      "raw": "Shortening",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha",
+      "raw": "Mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cồn thực phẩm",
+      "raw": "Cồn thực phẩm",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất làm ẩm (420(ii), 422)",
     "Chất nhũ hóa (Pentacake 6305V, Pentacake gel 8100, Excelspone 900, 322(ii))",
@@ -20,12 +76,19 @@
     "Chất điều chỉnh độ acid (330)",
     "Chất tạo màu tổng hợp (160a(i))"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Bên trong có khí Nitơ để bảo quản.",
     "Không sử dụng sản phẩm đã hết hạn.",
     "Thành phần sản phẩm có chứa: Lúa mì, trứng, cá, đậu nành. Sản phẩm có thể chứa sữa, mè, hạnh nhân, dừa, động vật giáp xác."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -83,6 +146,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

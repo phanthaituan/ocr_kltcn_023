@@ -10,13 +10,57 @@
     "zinc gluconate",
     "hỗn hợp vitamin (B3, E)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa hoàn nguyên",
+      "raw": "sữa hoàn nguyên (19%) (nước, sữa bột nguyên kem, sữa bột tách béo)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước ép táo hoàn nguyên",
+      "raw": "nước ép táo hoàn nguyên (10%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "calcium lactate pentahydrate",
+      "raw": "calcium lactate pentahydrate",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "zinc gluconate",
+      "raw": "zinc gluconate",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "hỗn hợp vitamin",
+      "raw": "hỗn hợp vitamin (B3, E)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (466)",
     "chất điều chỉnh độ acid (338, 331(iii))",
     "hương liệu tổng hợp (hương bánh quy kem)",
     "chất tạo ngọt tổng hợp (950, 955)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "135,4 kcal"
@@ -64,6 +108,39 @@
     "Dành cho người từ 4 tuổi trở lên.",
     "Không sử dụng sản phẩm quá hạn."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 3,
+    "nutritional_names": [
+      "calcium lactate pentahydrate",
+      "hỗn hợp vitamin",
+      "zinc gluconate"
+    ],
+    "nutritional_categories": [
+      "mineral_trace",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "calcium lactate pentahydrate",
+        "raw": "calcium lactate pentahydrate",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "zinc gluconate",
+        "raw": "zinc gluconate",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "hỗn hợp vitamin",
+        "raw": "hỗn hợp vitamin (B3, E)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -98,6 +175,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

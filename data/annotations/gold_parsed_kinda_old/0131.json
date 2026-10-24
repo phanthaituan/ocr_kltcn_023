@@ -1,0 +1,76 @@
+{
+  "image_id": "0131",
+  "product_name": "RONG BIỂN NƯỚNG GENKAI VỊ BBQ",
+  "gold_ingredients_raw": [
+    "RONG BIỂN (32%)",
+    "ĐƯỜNG",
+    "BỘT GIA VỊ THỊT NƯỚNG (5%) (ĐƯỜNG, GIA VỊ (HÀNH TÂY, TỎI, ỚT, TIÊU ĐEN), MUỐI, HƯƠNG VỊ THỊT NƯỚNG (HƯƠNG VỊ TỔNG HỢP), BỘT NGỌT (INS 621), MALTODEXTRIN, BỘT NƯỚC TƯƠNG, ACID CITRIC (INS 330), HƯƠNG VỊ THỊT HUN KHÓI (HƯƠNG VỊ GIỐNG TỰ NHIÊN))",
+    "MUỐI"
+  ],
+  "gold_additives_raw": [
+    "HƯƠNG VỊ THỊT NƯỚNG (HƯƠNG VỊ TỔNG HỢP)",
+    "BỘT NGỌT (INS 621)",
+    "ACID CITRIC (INS 330)",
+    "HƯƠNG VỊ THỊT HUN KHÓI (HƯƠNG VỊ GIỐNG TỰ NHIÊN)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "309 kcal"
+    },
+    {
+      "name": "CHẤT ĐẠM",
+      "value": "18,1 g"
+    },
+    {
+      "name": "CARBOHYDRAT KHÔNG BAO GỒM XƠ",
+      "value": "53,6 g"
+    },
+    {
+      "name": "CHẤT BÉO TỔNG",
+      "value": "2,5 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG",
+      "value": "51,9 g"
+    },
+    {
+      "name": "NATRI",
+      "value": "1374 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "KHÔNG SỬ DỤNG SẢN PHẨM HẾT HẠN SỬ DỤNG HOẶC BỊ XÌ HƠI.",
+    "KHÔNG SỬ DỤNG NẾU DỊ ỨNG HOẶC MẪN CẢM VỚI BẤT KÌ THÀNH PHẦN NÀO CỦA SẢN PHẨM."
+  ],
+  "allergen_final": {
+    "contains": [
+      "rong_biển"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "rong_biển"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "expiry_usage": 1,
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "VIỆT NAM",
+  "net_weight": "15 g (6 gói x 2,5g)",
+  "mfg_date": "IN TRÊN BAO BÌ",
+  "expiry_date": "IN TRÊN BAO BÌ",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "image_id": "0064",
+  "gold_ins_additive": [
+    "1422",
+    "202",
+    "330",
+    "385",
+    "415",
+    "471",
+    "621",
+    "951"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "hương liệu tổng hợp (hương phô mai, hương sữa kem)"
+  ],
+  "ins_parser_version": "1.1"
+}

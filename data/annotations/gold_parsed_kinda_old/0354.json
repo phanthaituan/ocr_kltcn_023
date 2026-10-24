@@ -1,0 +1,72 @@
+{
+  "image_id": "0354",
+  "product_name": "CHIN-SU",
+  "gold_ingredients_raw": [
+    "Nước",
+    "ớt 117 g/kg",
+    "đường",
+    "muối",
+    "tỏi",
+    "cà chua cô đặc",
+    "dextrose",
+    "maltodextrin",
+    "chiết xuất 560 mg/kg",
+    "bột wasabi"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (1422, 415)",
+    "chất điều vị (621, 620, 635)",
+    "chất điều chỉnh độ acid (260, 330)",
+    "chất bảo quản (211, 202)",
+    "chất tạo ngọt (950, 951)",
+    "hương liệu tổng hợp",
+    "chất tạo màu (110, 124)",
+    "chất chống oxy hóa (223, 221, 300)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Chất đạm",
+      "value": "0,7 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "18,8 g"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "≥ 56,6 kcal"
+    },
+    {
+      "name": "Natri",
+      "value": "1810 mg"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "12,6 g"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": "xem trên bao bì",
+  "expiry_date": "09 tháng kể từ ngày sản xuất",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

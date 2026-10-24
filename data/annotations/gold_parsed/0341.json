@@ -9,6 +9,44 @@
     "bột chiên xù không trắng [bột mì, shortening, đường, men (Saccharomyces cerevisiae), muối, tinh bột bắp, chất xử lý bột (170i, 516, 300, 1100i)]",
     "Dầu cọ dùng để chiên sản phẩm"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột chiên",
+      "raw": "bột chiên [bột mì, đường, chất làm dày (1440, 415), chất tạo xốp (575, 500ii, 450i, 341), muối, bột sữa gầy, chất nhũ hóa (477, 471, 322i), hương liệu thực phẩm tổng hợp (vani), phẩm màu tự nhiên (101i)]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xúc xích 22,9%",
+      "raw": "xúc xích 22,9% [cá tra, mỡ heo, nước, thịt gà, chất ổn định (1412), nước đường bắp, nguyên liệu thực phẩm [chất ổn định (450iii), muối, chiết xuất gia vị các loại (bạch đậu khấu, ớt, đinh hương, paprika, húng tây) (trên chất nền dextrose), chất làm dày (412), dầu hạt cải, gluten lúa mì, bột sữa gầy, đường, nguyên liệu thực phẩm (đạm đậu nành, tinh bột khoai tây), bột giấm, muối, đạm đậu nành, chất xơ từ lúa mì, chất làm ẩm (450i, 450ii, 452ii, 452i), chiết xuất nấm men, hương liệu thịt gà tự nhiên, hương liệu khói tự nhiên, chất chống oxy hóa (316), phẩm màu tự nhiên (120)]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "phô mai 11,9%",
+      "raw": "phô mai 11,9% [sữa bò tươi, muối, chủng men Streptococcus thermophilus, enzyme chymosin, chất ổn định (calci clorid)]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột chiên xù không trắng",
+      "raw": "bột chiên xù không trắng [bột mì, shortening, đường, men (Saccharomyces cerevisiae), muối, tinh bột bắp, chất xử lý bột (170i, 516, 300, 1100i)]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ dùng để chiên sản phẩm",
+      "raw": "Dầu cọ dùng để chiên sản phẩm",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm dày (1440, 415)",
     "chất tạo xốp (575, 500ii, 450i, 341)",
@@ -25,7 +63,7 @@
     "chất ổn định (calci clorid)",
     "chất xử lý bột (170i, 516, 300, 1100i)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "303 kcal"
@@ -60,6 +98,13 @@
     "Không sử dụng cho người dị ứng hoặc mẫn cảm với các thành phần trong sản phẩm.",
     "Sản phẩm có chứa lúa mì (gluten), sữa, cá, đậu nành."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -107,6 +152,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

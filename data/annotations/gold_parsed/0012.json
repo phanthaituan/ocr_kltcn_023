@@ -14,17 +14,92 @@
     "Chứa sữa và dẫn xuất của đậu nành",
     "Có thể chứa lúa mì (gluten) và đậu phộng"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "xi rô glucose",
+      "raw": "Xi rô glucose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "Dầu thực vật (dầu hạt cọ hydro hóa, dầu cọ đã phân đoạn và hydro hóa, dầu đậu nành đã phân đoạn và hydro hóa hoặc dầu hạt cải đã phân đoạn và hydro hóa, dầu hướng dương)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa tách béo",
+      "raw": "Bột sữa tách béo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ",
+      "raw": "Bơ (3%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột nguyên kem",
+      "raw": "Sữa bột nguyên kem",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hương sữa chua tự nhiên",
+      "raw": "Hương sữa chua tự nhiên",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo bơ",
+      "raw": "Chất béo bơ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chứa sữa và dẫn xuất của đậu nành",
+      "raw": "Chứa sữa và dẫn xuất của đậu nành",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "có thể chứa lúa mì",
+      "raw": "Có thể chứa lúa mì (gluten) và đậu phộng",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Acid lactic",
     "Chất nhũ hóa: Lecithin, mono và diglycerid của các acid béo",
     "Hương liệu nhân tạo: hương sữa chua quả mọng",
     "Phẩm màu nhân tạo: Allura Red AC"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Thông tin cảnh báo: không sử dụng cho người bị mẫn cảm với bất cứ thành phần nào của sản phẩm.",
     "Có thể chứa lúa mì (gluten) và đậu phộng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -65,6 +140,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

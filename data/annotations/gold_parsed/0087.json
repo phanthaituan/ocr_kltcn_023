@@ -7,8 +7,34 @@
     "dầu hướng dương",
     "muối biển"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "yến mạch",
+      "raw": "yến mạch (11%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu hướng dương",
+      "raw": "dầu hướng dương",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối biển",
+      "raw": "muối biển",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "0,049 kcal (2%)"
@@ -38,6 +64,13 @@
     "Có chứa yến mạch (gluten).",
     "Không thích hợp cho trẻ sơ sinh trừ khi có sự tư vấn y tế."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten"
@@ -68,6 +101,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

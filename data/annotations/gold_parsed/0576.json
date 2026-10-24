@@ -17,6 +17,92 @@
     "SALT",
     "YEAST"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sugar",
+      "raw": "SUGAR",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vegetable oil",
+      "raw": "VEGETABLE OIL (PALM, SUNFLOWER, SHEA, HYDROGENATED PALM KERNEL, HYDROGENATED CANOLA, PALM KERNEL)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "wheat flour",
+      "raw": "WHEAT FLOUR",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chocolate",
+      "raw": "CHOCOLATE",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "milk",
+      "raw": "MILK",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lactose",
+      "raw": "LACTOSE",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sweetened condensed milk",
+      "raw": "SWEETENED CONDENSED MILK",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nonfat milk",
+      "raw": "NONFAT MILK",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cream",
+      "raw": "CREAM",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "high fructose glucose syrup",
+      "raw": "HIGH FRUCTOSE GLUCOSE SYRUP (CORN, POTATO, SWEET POTATO)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cocoa butter",
+      "raw": "COCOA BUTTER",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "malt extract",
+      "raw": "MALT EXTRACT",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "salt",
+      "raw": "SALT",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "yeast",
+      "raw": "YEAST",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "HYDROGENATED PALM KERNEL",
     "HYDROGENATED CANOLA",
@@ -29,7 +115,7 @@
     "SODIUM BICARBONATE",
     "ARTIFICIAL FLAVORS"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Calories",
       "value": "110"
@@ -95,6 +181,13 @@
     "CONTAINS COCONUT, MILK, SHEANUT, SOY, WHEAT.",
     "MAY CONTAIN ALMOND, EGG."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "dừa",
@@ -142,6 +235,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

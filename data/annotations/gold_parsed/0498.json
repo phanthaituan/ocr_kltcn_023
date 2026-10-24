@@ -14,12 +14,80 @@
     "steviol glycosid từ stevia",
     "vitamin (B1, B3, B6, D3, K2-MK7)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa 32 %",
+      "raw": "Sữa 32 % (nước, sữa bột gầy)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột kem thực vật",
+      "raw": "bột kem thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cacao",
+      "raw": "bột cacao",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất từ lúa mạch",
+      "raw": "chiết xuất từ lúa mạch (10 g/L)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tricalci phosphat",
+      "raw": "tricalci phosphat",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "chất tạọ ngọt tự nhiên",
+      "raw": "chất tạọ ngọt tự nhiên",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "steviol glycosid từ stevia",
+      "raw": "steviol glycosid từ stevia",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin",
+      "raw": "vitamin (B1, B3, B6, D3, K2-MK7)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (INS 460(i), INS 418, INS 466)",
     "hương liệu tổng hợp (hương sôcôla) và tự nhiên (chiết xuất từ lá cỏ ngọt)",
     "chất tạo ngọt tự nhiên steviol glycosid từ stevia"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "67,2 kcal"
@@ -72,6 +140,32 @@
   "gold_warning_raw": [
     "Sản phẩm có chứa sữa và gluten."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "tricalci phosphat",
+      "vitamin"
+    ],
+    "nutritional_categories": [
+      "mineral_trace",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "tricalci phosphat",
+        "raw": "tricalci phosphat",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "vitamin",
+        "raw": "vitamin (B1, B3, B6, D3, K2-MK7)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -104,6 +198,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

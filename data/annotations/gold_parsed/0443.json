@@ -21,6 +21,116 @@
     "Muối",
     "Bột than tre"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha",
+      "raw": "Mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "paste đậu trắng",
+      "raw": "Paste đậu trắng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa đặc",
+      "raw": "Sữa đặc",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ",
+      "raw": "Bơ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xi rô ngô",
+      "raw": "Xi rô ngô",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "kem sữa tươi",
+      "raw": "Kem sữa tươi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ca cao",
+      "raw": "Bột ca cao",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nhân sô-cô-la compound đen",
+      "raw": "Nhân sô-cô-la compound đen (1,2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột bắp",
+      "raw": "Bột bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "shortening",
+      "raw": "Shortening",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gelatin",
+      "raw": "Gelatin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nấm men saccharomyces cerevisiae",
+      "raw": "Nấm men Saccharomyces cerevisiae",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột đậu nành",
+      "raw": "Bột đậu nành",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột than tre",
+      "raw": "Bột than tre",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất tạo màu tổng hợp (150c)",
     "Chất điều chỉnh độ axit (500(i), 450(i), 341(i), 341(ii))",
@@ -29,7 +139,7 @@
     "Hương liệu tổng hợp (hương chocolate)",
     "Chất ổn định (407, 405)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "99 kcal"
@@ -65,6 +175,13 @@
     "Sản phẩm sau khi xé bao bì nên sử dụng ngay.",
     "Không sử dụng sản phẩm đã hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -109,6 +226,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

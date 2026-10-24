@@ -6,11 +6,31 @@
     "dầu thực vật",
     "hỗn hợp vitamin và khoáng chất (C (Natri-L-ascorbat), E (DL-alpha-tocopheryl acetat), B5 (D-pantothenat), B3 (Nicotinamid), A (Retinyl acetat), B2 (Riboflavin), B6 (Pyridoxin hydroclorid), B1 (Thiamin mononitrat), B9 (Acid pteroymonoglutamic), K1 (Phytomenadion), D3 (Cholecalciferol), Biotin (D-Biotin), B12 (Cyanocobalamin), Magnesi oxyd, Sắt (III) pyrophosphat, Kẽm sulfat, Kali iodid)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa 97,22%",
+      "raw": "Sữa 97,22% (nước, sữa bột, chất béo sữa)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp vitamin và khoáng chất",
+      "raw": "hỗn hợp vitamin và khoáng chất (C (Natri-L-ascorbat), E (DL-alpha-tocopheryl acetat), B5 (D-pantothenat), B3 (Nicotinamid), A (Retinyl acetat), B2 (Riboflavin), B6 (Pyridoxin hydroclorid), B1 (Thiamin mononitrat), B9 (Acid pteroymonoglutamic), K1 (Phytomenadion), D3 (Cholecalciferol), Biotin (D-Biotin), B12 (Cyanocobalamin), Magnesi oxyd, Sắt (III) pyrophosphat, Kẽm sulfat, Kali iodid)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (471, 407, 401, 412, 452)",
     "hương liệu (tổng hợp, giống tự nhiên, tự nhiên)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "133,8 kcal"
@@ -57,6 +77,24 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "hỗn hợp vitamin và khoáng chất"
+    ],
+    "nutritional_categories": [
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "hỗn hợp vitamin và khoáng chất",
+        "raw": "hỗn hợp vitamin và khoáng chất (C (Natri-L-ascorbat), E (DL-alpha-tocopheryl acetat), B5 (D-pantothenat), B3 (Nicotinamid), A (Retinyl acetat), B2 (Riboflavin), B6 (Pyridoxin hydroclorid), B1 (Thiamin mononitrat), B9 (Acid pteroymonoglutamic), K1 (Phytomenadion), D3 (Cholecalciferol), Biotin (D-Biotin), B12 (Cyanocobalamin), Magnesi oxyd, Sắt (III) pyrophosphat, Kẽm sulfat, Kali iodid)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -78,6 +116,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": false
   }
 }

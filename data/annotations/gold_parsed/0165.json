@@ -20,6 +20,110 @@
     "tiêu",
     "nước mắm"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "da bánh 55%",
+      "raw": "Da bánh 55%[nước, tinh bột khoai tây, tinh bột lúa mì, dầu cọ, trehalose, muối]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thịt",
+      "raw": "thịt (thịt heo, thịt gà)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "củ sắn",
+      "raw": "củ sắn",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đạm đậu nành",
+      "raw": "đạm đậu nành",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    },
+    {
+      "name": "cá tra",
+      "raw": "cá tra",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột bắp",
+      "raw": "tinh bột bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà rốt",
+      "raw": "cà rốt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột hương thịt",
+      "raw": "bột hương thịt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành tím",
+      "raw": "hành tím",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu mè",
+      "raw": "dầu mè",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tỏi",
+      "raw": "tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dextrose monohydrate",
+      "raw": "dextrose monohydrate",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gluten lúa mì",
+      "raw": "gluten lúa mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tiêu",
+      "raw": "tiêu",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước mắm",
+      "raw": "nước mắm",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm dày (1414, 1420)",
     "chất điều vị (621, 631, 627)",
@@ -27,7 +131,7 @@
     "chất làm ẩm (452i, 451i)",
     "hương liệu hải sản tự nhiên và giống tự nhiên"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "213 kcal"
@@ -59,6 +163,24 @@
     "Nên chế biến ngay sau khi mở bao bì, không tái đông sản phẩm.",
     "Không sử dụng cho người dị ứng hoặc mẫn cảm với các thành phần của sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "đạm đậu nành"
+    ],
+    "nutritional_categories": [
+      "isolated_protein"
+    ],
+    "items": [
+      {
+        "name": "đạm đậu nành",
+        "raw": "đạm đậu nành",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -117,6 +239,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

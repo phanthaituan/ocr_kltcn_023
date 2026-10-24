@@ -1,0 +1,24 @@
+{
+  "image_id": "0098",
+  "gold_ins_additive": [
+    "1420",
+    "260",
+    "307c",
+    "320",
+    "321",
+    "330",
+    "451",
+    "452",
+    "472e",
+    "500",
+    "621",
+    "635"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "hương liệu",
+    "hương liệu (hương tôm càng nướng tổng hợp)",
+    "nguyên liệu vitamin E acetate (DL-alpha-tocopheryl acetate)"
+  ],
+  "ins_parser_version": "1.1"
+}

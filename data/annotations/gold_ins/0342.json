@@ -1,0 +1,22 @@
+{
+  "image_id": "0342",
+  "gold_ins_additive": [
+    "1442",
+    "160a",
+    "202",
+    "260",
+    "270",
+    "307b",
+    "321",
+    "322",
+    "385",
+    "415",
+    "551",
+    "621"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "hương liệu tổng hợp (hương gạo rang)"
+  ],
+  "ins_parser_version": "1.1"
+}

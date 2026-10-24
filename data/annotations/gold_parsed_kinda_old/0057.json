@@ -1,0 +1,65 @@
+{
+  "image_id": "0057",
+  "product_name": "QUẢ ANH ĐÀO SẤY",
+  "gold_ingredients_raw": [
+    "Trái anh đào tươi (78%)",
+    "Đường"
+  ],
+  "gold_additives_raw": [
+    "Chất điều chỉnh độ Acid (330)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "303 kcal"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "75,4 g"
+    },
+    {
+      "name": "Béo tổng",
+      "value": "<0,3 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0,41 g"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "63,2 g"
+    },
+    {
+      "name": "Natri",
+      "value": "319 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm khi hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Thái Lan",
+  "net_weight": "200 g",
+  "mfg_date": "05/11/25",
+  "expiry_date": "05/05/27",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

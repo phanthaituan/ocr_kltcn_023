@@ -9,6 +9,44 @@
     "thạch dừa (2%)",
     "bột rau câu (1%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột",
+      "raw": "sữa bột",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cốt dừa",
+      "raw": "bột cốt dừa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thạch dừa",
+      "raw": "thạch dừa (2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột rau câu",
+      "raw": "bột rau câu (1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất làm dày (E407)",
     "Chất điều chỉnh độ acid (E330, E331(iii))",
@@ -18,10 +56,17 @@
     "Hương tổng hợp (sữa, sữa chua, vani, dâu, dứa, chuối, xoài, dưa tây, dừa, táo, mít, nho, ổi, chanh dây, măng cầu)",
     "hương cam tự nhiên"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Không dùng sản phẩm hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -45,6 +90,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

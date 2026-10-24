@@ -7,13 +7,39 @@
     "trà tinh chế (0,5 %)",
     "muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt chia đen",
+      "raw": "hạt chia đen (organic) (9 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trà tinh chế",
+      "raw": "trà tinh chế (0,5 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều chỉnh độ acid (INS 330)",
     "hương liệu vải tổng hợp",
     "phẩm màu tổng hợp (INS 150d)",
     "chất tạo ngọt tổng hợp (INS 950)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "403 Kcal"
@@ -44,6 +70,13 @@
     "Không dùng sản phẩm hết hạn sử dụng",
     "Không sử dụng cho người có dị ứng với các thành phần của sản phẩm"
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -69,6 +102,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

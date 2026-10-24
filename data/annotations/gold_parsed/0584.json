@@ -8,13 +8,45 @@
     "Vitamin B3",
     "Vitamin B6"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối iod",
+      "raw": "muối iod",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "vitamin b3",
+      "raw": "Vitamin B3",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin b6",
+      "raw": "Vitamin B6",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [
     "chất điều chỉnh độ axít (330, 331(iii), 340(i), 327)",
     "chất điều vị (518)",
     "chất chống oxy hóa (385)",
     "hương liệu bưởi tổng hợp"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "54 kcal"
@@ -49,6 +81,39 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 3,
+    "nutritional_names": [
+      "muối iod",
+      "vitamin b3",
+      "vitamin b6"
+    ],
+    "nutritional_categories": [
+      "mineral_trace",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "muối iod",
+        "raw": "muối iod",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "vitamin b3",
+        "raw": "Vitamin B3",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin b6",
+        "raw": "Vitamin B6",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -70,6 +135,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": false
   }
 }

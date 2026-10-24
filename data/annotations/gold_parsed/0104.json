@@ -19,6 +19,104 @@
     "Chiết xuất trái dành dành",
     "Maltodextrin"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng gà",
+      "raw": "Trứng gà",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "Dầu thực vật (Dầu cọ (có chứa chất chống oxy hóa (320, 321)), Dầu hướng dương)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha maltose",
+      "raw": "Mạch nha maltose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường dextrose",
+      "raw": "Đường dextrose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha glucose",
+      "raw": "Mạch nha glucose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa đặc có đường",
+      "raw": "Sữa đặc có đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột whey",
+      "raw": "Bột Whey",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột béo",
+      "raw": "Sữa bột béo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa chua",
+      "raw": "Bột sữa chua (0,3%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột ngô",
+      "raw": "Tinh bột ngô",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất trái dành dành",
+      "raw": "Chiết xuất trái dành dành",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "Maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất chống oxy hóa (320, 321)",
     "Chất làm ẩm (420(i), 422, 1520)",
@@ -32,7 +130,7 @@
     "Chất tạo màu tự nhiên (120)",
     "Chất tạo màu tổng hợp (160a(i))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Lượng dinh dưỡng được tính trên (Serving Size)",
       "value": "100 g"
@@ -73,6 +171,13 @@
   "gold_warning_raw": [
     "Thông tin cảnh báo: Không sử dụng sản phẩm khi hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -96,6 +201,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

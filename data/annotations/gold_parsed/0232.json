@@ -18,6 +18,98 @@
     "tiêu",
     "gừng"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nạc bò",
+      "raw": "Nạc bò (58%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nạc heo",
+      "raw": "nạc heo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thịt gà",
+      "raw": "thịt gà",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đạm sữa",
+      "raw": "đạm sữa",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    },
+    {
+      "name": "đạm đậu nành",
+      "raw": "đạm đậu nành",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    },
+    {
+      "name": "bột nguyên trứng",
+      "raw": "bột nguyên trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất xơ từ lúa mì",
+      "raw": "chất xơ từ lúa mì",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất xơ hòa tan",
+      "raw": "chất xơ hòa tan",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "dha",
+      "raw": "DHA",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    },
+    {
+      "name": "bột tỏi",
+      "raw": "bột tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tiêu",
+      "raw": "tiêu",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gừng",
+      "raw": "gừng",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (1422, 1412, 407)",
     "chất điều vị (621, 627, 631)",
@@ -27,7 +119,7 @@
     "chất giữ màu (250)",
     "phẩm màu tổng hợp (127)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "166 kcal"
@@ -65,6 +157,54 @@
     "Không sử dụng sản phẩm có dấu hiệu hư hỏng, bất thường.",
     "Không sử dụng cho người dị ứng hoặc mẫn cảm với những thành phần có trong sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 5,
+    "nutritional_names": [
+      "chất xơ hòa tan",
+      "chất xơ từ lúa mì",
+      "dha",
+      "đạm sữa",
+      "đạm đậu nành"
+    ],
+    "nutritional_categories": [
+      "amino_omega_bioactive",
+      "fiber_prebiotic",
+      "isolated_protein"
+    ],
+    "items": [
+      {
+        "name": "đạm sữa",
+        "raw": "đạm sữa",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      },
+      {
+        "name": "đạm đậu nành",
+        "raw": "đạm đậu nành",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      },
+      {
+        "name": "chất xơ từ lúa mì",
+        "raw": "chất xơ từ lúa mì",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      },
+      {
+        "name": "chất xơ hòa tan",
+        "raw": "chất xơ hòa tan",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      },
+      {
+        "name": "dha",
+        "raw": "DHA",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -99,6 +239,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

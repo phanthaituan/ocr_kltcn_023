@@ -8,6 +8,38 @@
     "nước",
     "củ hành"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "cà chua",
+      "raw": "Cà chua (70 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối iốt",
+      "raw": "muối iốt (NaCl, KIO3)",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "củ hành",
+      "raw": "củ hành",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (621)",
     "chất ổn định (1422)",
@@ -15,7 +47,7 @@
     "chất bảo quản (211)",
     "phẩm màu tổng hợp (129)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "101 kcal"
@@ -40,6 +72,24 @@
   "gold_warning_raw": [
     "Người dị ứng với các thành phần trên cần lưu ý khi sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "muối iốt"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "muối iốt",
+        "raw": "muối iốt (NaCl, KIO3)",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -63,6 +113,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

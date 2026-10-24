@@ -9,8 +9,46 @@
     "sơ ri [2%]",
     "Từ 97g trái cây tươi trong 100ml nectar."
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "quả ổi",
+      "raw": "quả ổi [27%]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường mía",
+      "raw": "đường mía",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chanh",
+      "raw": "chanh [3%]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sơ ri",
+      "raw": "sơ ri [2%]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "từ",
+      "raw": "Từ 97g trái cây tươi trong 100ml nectar.",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "100"
@@ -77,6 +115,13 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -98,6 +143,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": false
   }
 }

@@ -6,6 +6,26 @@
     "Vảy ngũ cốc 33% (bột mì, glucose syrup, bột đậu nành, chiết xuất mầm lúa mạch, đường, tinh bột bắp, dextrose, bột nếp, bột gạo, fructose syrup, chất ổn định (1414), muối, hương liệu tổng hợp)",
     "Bột kem thực vật (glucose syrup, dầu thực vật, chiết xuất mầm lúa mạch, protein sữa, chất ổn định (340(ii), 452(i)), chất nhũ hóa (471, 472e), chất chống đông vón (551))"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vảy ngũ cốc 33%",
+      "raw": "Vảy ngũ cốc 33% (bột mì, glucose syrup, bột đậu nành, chiết xuất mầm lúa mạch, đường, tinh bột bắp, dextrose, bột nếp, bột gạo, fructose syrup, chất ổn định (1414), muối, hương liệu tổng hợp)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột kem thực vật",
+      "raw": "Bột kem thực vật (glucose syrup, dầu thực vật, chiết xuất mầm lúa mạch, protein sữa, chất ổn định (340(ii), 452(i)), chất nhũ hóa (471, 472e), chất chống đông vón (551))",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất ổn định (1414)",
     "Hương liệu tổng hợp",
@@ -13,7 +33,7 @@
     "Chất nhũ hóa (471, 472e)",
     "Chất chống đông vón (551)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "449 kcal"
@@ -42,6 +62,13 @@
   "gold_warning_raw": [
     "Sản phẩm chứa các nguyên liệu có nguồn gốc từ lúa mạch, sữa, lúa mì, đậu nành."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -77,6 +104,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

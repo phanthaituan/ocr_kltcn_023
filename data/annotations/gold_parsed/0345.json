@@ -15,6 +15,80 @@
     "chất xơ lúa mì",
     "muối tinh chế"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật [dầu cọ, chất chống oxy hóa (INS 307C, INS 307b)]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa",
+      "raw": "bột sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột whey",
+      "raw": "bột whey",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường maltodextrin",
+      "raw": "đường maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột ngô",
+      "raw": "tinh bột ngô (có thể bao gồm ngô biến đổi gen)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường glucose",
+      "raw": "đường glucose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột trà xanh 1%",
+      "raw": "bột trà xanh 1%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột đậu nành",
+      "raw": "bột đậu nành",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất xơ lúa mì",
+      "raw": "chất xơ lúa mì",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "muối tinh chế",
+      "raw": "muối tinh chế",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất chống oxy hóa (INS 307C, INS 307b)",
     "INS 492",
@@ -23,7 +97,7 @@
     "chất nhũ hóa (INS 477)",
     "chất tạo màu nhân tạo 3 loại: phẩm màu (INS 150a, INS 102, INS 133)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "555 kcal"
@@ -57,6 +131,24 @@
     "CÓ CHỨA LÚA MÌ, SỮA, ĐẬU NÀNH",
     "Không sử dụng sản phẩm đã hết hạn sử dụng"
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "chất xơ lúa mì"
+    ],
+    "nutritional_categories": [
+      "fiber_prebiotic"
+    ],
+    "items": [
+      {
+        "name": "chất xơ lúa mì",
+        "raw": "chất xơ lúa mì",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -93,6 +185,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

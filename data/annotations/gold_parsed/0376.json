@@ -5,6 +5,62 @@
     "Gia vị tẩm ướp:ớt, xuyên tiêu (8%), muối, bột mì, mè trắng, bột gạo, tinh bột bắp, hành tây, tỏi, tiêu đen, chiết xuất nấm men,  gia vị hỗn hợp (1%), bột gia vị cà ri (0,5%), bột nguyên trứng",
     "Xốt chấm: Nước, đường, nước ép quýt, ớt, tỏi, muối,chiết xuất nấm men, nước mắm, "
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "gia vị tẩm ướp:ớt, xuyên tiêu",
+      "raw": "Gia vị tẩm ướp:ớt, xuyên tiêu (8%), muối, bột mì, mè trắng, bột gạo, tinh bột bắp, hành tây, tỏi, tiêu đen, chiết xuất nấm men,  gia vị hỗn hợp (1%), bột gia vị cà ri (0,5%), bột nguyên trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước ép quýt",
+      "raw": "nước ép quýt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ớt",
+      "raw": "ớt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tỏi",
+      "raw": "tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất nấm men",
+      "raw": "chiết xuất nấm men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước mắm",
+      "raw": "nước mắm",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất làm dày (INS 1422)",
     "chất điều vị (INS 621, INS 635)",
@@ -14,7 +70,7 @@
     "chất điều vị (INS 621)",
     "chất điều chỉnh độ acid (INS 514(ii), INS 260)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "288 kcal"
@@ -43,6 +99,13 @@
   "gold_warning_raw": [
     "Sản phẩm có chứa thành phần từ lúa mì, trứng, đậu nành, mè, cá."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -84,6 +147,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

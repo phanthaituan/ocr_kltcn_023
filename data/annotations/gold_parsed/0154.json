@@ -10,6 +10,50 @@
     "Shortening",
     "Edible Salt (additional, if distinct from above)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "eggs",
+      "raw": "Eggs (minimum addition ≥30%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "wheat flour",
+      "raw": "Wheat Flour",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "egg yolk- flavored salad dressing",
+      "raw": "Egg Yolk- Flavored Salad Dressing (minimum addition ≥15%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "white granulated sugar",
+      "raw": "White Granulated Sugar",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "edible vegetable oil",
+      "raw": "Edible Vegetable Oil",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "shortening",
+      "raw": "Shortening",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "edible salt",
+      "raw": "Edible Salt (additional, if distinct from above)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Trehalose",
     "Sorbitol Solution 420(i)",
@@ -40,7 +84,7 @@
     "potassium sorbate 202",
     "Food Flavorings"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "ENERGY",
       "value": "1549kJ"
@@ -67,6 +111,13 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -88,6 +139,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": false
   }
 }

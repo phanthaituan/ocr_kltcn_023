@@ -5,8 +5,22 @@
     "Cá bống (95 %)",
     "(đường, muối) (5 %)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "cá bống",
+      "raw": "Cá bống (95 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "(đường, muối) (5 %)",
+      "raw": "(đường, muối) (5 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "301 kcal"
@@ -37,6 +51,13 @@
     "Không dùng sản phẩm có màu sắc, mùi vị bất thường, sản phẩm hết hạn sử dụng.",
     "Gói hút ẩm/ gói hút oxy trong sản phẩm không được ăn, để xa tầm tay trẻ em."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá"
@@ -66,6 +87,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

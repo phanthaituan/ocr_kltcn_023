@@ -17,6 +17,92 @@
     "HỖN HỢP BỘT NGŨ CỐC",
     "BỘT PHÔ MAI (CÓ CHỨA CHẤT ỔN ĐỊNH (339(ii)))"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "BỘT MÌ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "ĐƯỜNG",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu dừa",
+      "raw": "DẦU DỪA",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "shortening từ động vật và thực vật",
+      "raw": "SHORTENING TỪ ĐỘNG VẬT VÀ THỰC VẬT",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cơm dừa sấy",
+      "raw": "CƠM DỪA SẤY",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt mè trắng",
+      "raw": "HẠT MÈ TRẮNG (2,9%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột whey",
+      "raw": "BỘT WHEY",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột nguyên kem",
+      "raw": "SỮA BỘT NGUYÊN KEM",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "CHẤT BÉO THỰC VẬT (CÓ CHỨA CHẤT ĐIỀU CHỈNH ĐỘ ACID (260))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "MUỐI I-ỐT",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "đường dextrose",
+      "raw": "ĐƯỜNG DEXTROSE",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị muối",
+      "raw": "GIA VỊ MUỐI (CÓ CHỨA CHẤT ĐIỀU VỊ (621), CHẤT ỔN ĐỊNH (341(iii)))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp bột ngũ cốc",
+      "raw": "HỖN HỢP BỘT NGŨ CỐC",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột phô mai",
+      "raw": "BỘT PHÔ MAI (CÓ CHỨA CHẤT ỔN ĐỊNH (339(ii)))",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "CHẤT TẠO XỐP (503(ii), 500(ii))",
     "CHẤT TẠO MÀU TỰ NHIÊN (160a(ii))",
@@ -25,7 +111,7 @@
     "CHẤT ỔN ĐỊNH (415)",
     "CHẤT XỬ LÝ BỘT (223)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "512 kcal"
@@ -54,6 +140,24 @@
   "gold_warning_raw": [
     "SẢN PHẨM KHÔNG DÙNG CHO NGƯỜI DỊ ỨNG VỚI CÁC THÀNH PHẦN SAU: LÚA MÌ, SỮA, SULFIT VÀ CÓ THỂ CHỨA ĐẬU NÀNH, YẾN MẠCH."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "muối i-ốt"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "muối i-ốt",
+        "raw": "MUỐI I-ỐT",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": [
@@ -92,6 +196,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

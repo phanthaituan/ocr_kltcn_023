@@ -16,6 +16,86 @@
     "muối",
     "đường glucose"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "lươn",
+      "raw": "Lươn (75 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sirup ngô",
+      "raw": "sirup ngô",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu đậu nành",
+      "raw": "dầu đậu nành",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước tương lên men",
+      "raw": "nước tương lên men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "knorr hạt nêm thịt thăn, xương ống & tủy",
+      "raw": "Knorr hạt nêm thịt thăn, xương ống & tủy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "giấm gạo",
+      "raw": "giấm gạo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước xốt hinode mirin sweet cooking sauce",
+      "raw": "Nước xốt Hinode Mirin Sweet Cooking Sauce",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất nấm men",
+      "raw": "Chiết xuất nấm men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường glucose",
+      "raw": "đường glucose",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (INS 621, INS 627, INS 631, INS 635)",
     "chất ổn định (INS 1422)",
@@ -25,7 +105,7 @@
     "chất tạo màu (gạo men đỏ) tự nhiên",
     "chất bảo quản (INS 202)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "KHẨU PHẦN",
       "value": "(100g)"
@@ -58,6 +138,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm khi có dấu hiệu hư hỏng hoặc hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -81,6 +168,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

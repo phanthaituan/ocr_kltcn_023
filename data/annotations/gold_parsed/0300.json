@@ -16,11 +16,91 @@
     "Dầu mè",
     "Muối ăn"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "27% hạt điều",
+      "raw": "27% Hạt điều",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "21% bí xanh",
+      "raw": "21% Bí xanh",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "16% gạo lứt nổ",
+      "raw": "16% Gạo lứt nổ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "8% nước",
+      "raw": "8% Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "6% hạt óc chó",
+      "raw": "6% Hạt óc chó",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "5.6% đường cát",
+      "raw": "5.6% Đường cát",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "5% mật ong",
+      "raw": "5% Mật ong",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "4.3% mè trắng",
+      "raw": "4.3% Mè trắng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "3% lá rong biển",
+      "raw": "3% Lá rong biển",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước tương",
+      "raw": "Nước tương",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha",
+      "raw": "Mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu mè",
+      "raw": "Dầu mè",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối ăn",
+      "raw": "Muối ăn",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất bảo quản INS 282",
     "Chất điều chỉnh độ acid INS 330"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng / Energy",
       "value": "529"
@@ -49,6 +129,13 @@
   "gold_warning_raw": [
     "Không dùng sản phẩm khi hết hạn, không ăn túi hút ẩm, hút oxy (nếu có) trong sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -72,6 +159,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

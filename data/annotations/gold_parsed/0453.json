@@ -13,10 +13,72 @@
     "Tinh bột sắn",
     "Dầu olein tinh luyện"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đậu phộng",
+      "raw": "Đậu phộng (60%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột bắp",
+      "raw": "Bột bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột bắp biến tính",
+      "raw": "Tinh bột bắp biến tính",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tỏi",
+      "raw": "Tỏi (1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ớt",
+      "raw": "Ớt (1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột sắn",
+      "raw": "Tinh bột sắn",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu olein tinh luyện",
+      "raw": "Dầu olein tinh luyện",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất điều vị (INS 621)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "541 kcal"
@@ -51,6 +113,13 @@
     "Sử dụng sản phẩm trước hạn sử dụng.",
     "Không sử dụng khi bao bì không còn nguyên vẹn."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -84,6 +153,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

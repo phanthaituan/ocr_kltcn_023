@@ -12,12 +12,68 @@
     "Vitamin D3",
     "Vitamin K2 MK-7"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "siro đường bắp",
+      "raw": "Siro đường bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa",
+      "raw": "Bột sữa (21 g/l)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước ép táo cô đặc",
+      "raw": "Nước ép táo cô đặc (5,2 g/l)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "Chất béo thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "l-arginine",
+      "raw": "L-Arginine (100 mg/l)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin d3",
+      "raw": "Vitamin D3",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin k2 mk-7",
+      "raw": "Vitamin K2 MK-7",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [
     "Chất ổn định (466, 418, 327, 471)",
     "Chất điều chỉnh độ acid (270, 330)",
     "Hương liệu tổng hợp dùng cho thực phẩm (hương táo)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "118 kcal"
@@ -58,6 +114,31 @@
   "gold_warning_raw": [
     "Không dùng cho trẻ dưới 1 tuổi."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "vitamin d3",
+      "vitamin k2 mk-7"
+    ],
+    "nutritional_categories": [
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "vitamin d3",
+        "raw": "Vitamin D3",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin k2 mk-7",
+        "raw": "Vitamin K2 MK-7",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -81,6 +162,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

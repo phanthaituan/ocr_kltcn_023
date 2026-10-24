@@ -1,0 +1,78 @@
+{
+  "image_id": "0047",
+  "product_name": "CHUPA CHUPS MINI CRAWLERS KẸO DẺO HƯƠNG TRÁI CÂY HỖN HỢP",
+  "gold_ingredients_raw": [
+    "SIRÔ GLUCOZA",
+    "ĐƯỜNG",
+    "GELATIN",
+    "DẦU THỰC VẬT"
+  ],
+  "gold_additives_raw": [
+    "CHẤT LÀM DÀY (1404)",
+    "CHẤT ĐIỀU CHỈNH ĐỘ ACID (330)",
+    "HƯƠNG LIỆU TỔNG HỢP - GIỐNG TỰ NHIÊN (CAM, DÂU, CHANH VÀNG, CHERRY, NHO, CHANH)",
+    "CHẤT LÀM BÓNG (903, 901)",
+    "CHẤT TẠO MÀU TỔNG HỢP (129, 102, 133, 110)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "331,9 kcal"
+    },
+    {
+      "name": "CHẤT ĐẠM",
+      "value": "6,3 g"
+    },
+    {
+      "name": "CARBOHYDRATE",
+      "value": "76,4 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ",
+      "value": "65,5 g"
+    },
+    {
+      "name": "CHẤT BÉO",
+      "value": "<0,5 g"
+    },
+    {
+      "name": "NATRI",
+      "value": "52,7 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "SẢN PHẨM CÓ THỂ CHỨA SỮA. CÓ THỂ KHÔNG ĐỦ TẤT CẢ CÁC HƯƠNG TRONG MỘT GÓI."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "sữa"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [
+      "sữa"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "sữa"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "unclassified": 1
+    }
+  },
+  "origin": "TRUNG QUỐC",
+  "net_weight": null,
+  "mfg_date": "18 THÁNG TRƯỚC HẠN SỬ DỤNG.",
+  "expiry_date": "XEM TRÊN BAO BÌ",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -8,6 +8,38 @@
     "Gelatin",
     "Hạt chia"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "mạch nha maltose",
+      "raw": "Mạch nha Maltose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước ép táo cô đặc",
+      "raw": "Nước ép táo cô đặc (8%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gelatin",
+      "raw": "Gelatin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt chia",
+      "raw": "Hạt chia",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất làm dày (1200, 440, 1442, 407)",
     "Chất làm ẩm (420(ii))",
@@ -16,7 +48,7 @@
     "Chất làm bóng (903, 901)",
     "Chất tạo màu tổng hợp (160a(ii))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "320 kcal"
@@ -50,6 +82,13 @@
     "Trẻ em cần có sự giám sát của người lớn khi ăn.",
     "Bảo quản sản phẩm ở nơi khô ráo thoáng mát, tránh ánh nắng trực tiếp và nhiệt độ trên 35°C."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -74,6 +113,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

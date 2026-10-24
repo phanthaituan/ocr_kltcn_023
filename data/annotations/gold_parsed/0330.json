@@ -7,6 +7,32 @@
     "nước",
     "muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "trái chanh dây",
+      "raw": "Trái Chanh Dây (22%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường mía",
+      "raw": "đường mía",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (415, 466, 1422)",
     "chất điều chỉnh độ acid (330)",
@@ -14,7 +40,7 @@
     "hương liệu chanh dây tổng hợp",
     "màu thực phẩm tổng hợp (160a(i))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Serving size / Khẩu phần",
       "value": "25 g"
@@ -56,6 +82,13 @@
     "Sản phẩm có thành phần trái cây tươi, màu sắc có thể thay đổi là hiện tượng bình thường.",
     "Không sử dụng sản phẩm khi hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -80,6 +113,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

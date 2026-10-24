@@ -1,0 +1,14 @@
+{
+  "image_id": "0334",
+  "gold_ins_additive": [],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Antioxidant TBHQ",
+    "Synthetic Flavour (contains Natural Colour Caramel IV Sulphite Ammonia Process)",
+    "Natural Colour Caramel IV Sulphite Ammonia Process",
+    "Emulsifier Soy Lecithin",
+    "Raising Agent",
+    "Antioxidant Tocopherol"
+  ],
+  "ins_parser_version": "1.1"
+}

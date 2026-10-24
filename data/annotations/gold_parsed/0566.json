@@ -6,13 +6,33 @@
     "trà xanh (6 g/l)",
     "lương phấn thảo"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trà xanh",
+      "raw": "trà xanh (6 g/l)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lương phấn thảo",
+      "raw": "lương phấn thảo",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất chống oxi hóa (300)",
     "hương liệu tự nhiên",
     "chất điều chỉnh độ acid (500(ii))",
     "chất tạo ngọt tự nhiên (960d)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "1,2 kcal"
@@ -39,6 +59,13 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -60,6 +87,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": false
   }
 }

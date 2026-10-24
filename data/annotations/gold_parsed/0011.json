@@ -6,13 +6,33 @@
     "đường (đường kính trắng, đường gluco)",
     "dầu thực vật"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột đậu xanh",
+      "raw": "Bột đậu xanh (35%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường (đường kính trắng, đường gluco)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "hương liệu khoai môn tổng hợp",
     "hương liệu vani tổng hợp",
     "phẩm màu tổng hợp Allura red AC (INS 129)",
     "phẩm màu tổng hợp Brilliant blue FCF (INS 133)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "484,6 Kcal"
@@ -41,6 +61,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm khi hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -64,6 +91,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

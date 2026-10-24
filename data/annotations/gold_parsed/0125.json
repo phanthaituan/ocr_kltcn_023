@@ -16,8 +16,88 @@
     "lá kinh giới",
     "tiêu"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đế bánh 55%",
+      "raw": "Đế bánh 55% (bột mì, nước, muối, men)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà chua 21%",
+      "raw": "cà chua 21%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "phô mai 20%",
+      "raw": "phô mai 20% (sữa bò, muối, enzyme đông sữa, khuẩn sữa)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu oliu",
+      "raw": "dầu oliu",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất men",
+      "raw": "chiết xuất men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột tỏi",
+      "raw": "bột tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lá quế tây",
+      "raw": "lá quế tây",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lá kinh giới",
+      "raw": "lá kinh giới",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tiêu",
+      "raw": "tiêu",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng (Energy)",
       "value": "231 kcal"
@@ -46,6 +126,13 @@
   "gold_warning_raw": [
     "Không phù hợp cho người bị dị ứng với các thành phần trên."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -75,6 +162,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

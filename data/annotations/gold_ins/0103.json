@@ -1,0 +1,31 @@
+{
+  "image_id": "0103",
+  "gold_ins_additive": [
+    "100",
+    "1442",
+    "150d",
+    "160c",
+    "202",
+    "211",
+    "321",
+    "330",
+    "364",
+    "405",
+    "412",
+    "415",
+    "451",
+    "466",
+    "500",
+    "501",
+    "621",
+    "627",
+    "631",
+    "640",
+    "951"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "hương liệu giống tự nhiên (hương hải sản, hương rau, hương chanh)"
+  ],
+  "ins_parser_version": "1.1"
+}

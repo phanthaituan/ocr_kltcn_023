@@ -5,8 +5,22 @@
     "Hạt điều (99,9 %)",
     "dầu thực vật"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "hạt điều",
+      "raw": "Hạt điều (99,9 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "616 kcal"
@@ -36,6 +50,13 @@
     "Không dùng sản phẩm hết hạn sử dụng.",
     "Không sử dụng đối với người có khả năng mẫn cảm hoặc dị ứng với các thành phần trong sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "hạt_cây"
@@ -64,6 +85,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

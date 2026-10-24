@@ -19,8 +19,106 @@
     "chất xơ hòa tan dạng FOS 0,2%",
     "DHA (Docosahexaenoic Acid) 0,025%"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước hầm xương",
+      "raw": "Nước hầm xương (nước, xương cá hồi)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gạo tấm 10%",
+      "raw": "gạo tấm 10%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thịt tôm 6%",
+      "raw": "thịt tôm 6%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "rau ngót 1%",
+      "raw": "rau ngót 1%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng gà 1%",
+      "raw": "trứng gà 1%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành lá",
+      "raw": "hành lá",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gấc",
+      "raw": "gấc",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cancium carbonate",
+      "raw": "Cancium carbonate",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin b1",
+      "raw": "Vitamin B1 (Thiamine Mononitrate)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin b6",
+      "raw": "Vitamin B6 (Pyridoxine Hydrochloride)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "folic acid",
+      "raw": "Folic Acid (N-Pteroyl-L-glutamic Acid)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "chất xơ hòa tan dạng fos 0,2%",
+      "raw": "chất xơ hòa tan dạng FOS 0,2%",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "dha",
+      "raw": "DHA (Docosahexaenoic Acid) 0,025%",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "Kcal/240g"
@@ -63,6 +161,54 @@
     "Không sử dụng sản phẩm nếu bao bì có dấu hiệu bị rách hoặc bị phồng.",
     "Sản phẩm này phù hợp cho trẻ từ 7 tháng tuổi trở lên và người lớn."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 5,
+    "nutritional_names": [
+      "chất xơ hòa tan dạng fos 0,2%",
+      "dha",
+      "folic acid",
+      "vitamin b1",
+      "vitamin b6"
+    ],
+    "nutritional_categories": [
+      "amino_omega_bioactive",
+      "fiber_prebiotic",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "vitamin b1",
+        "raw": "Vitamin B1 (Thiamine Mononitrate)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin b6",
+        "raw": "Vitamin B6 (Pyridoxine Hydrochloride)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "folic acid",
+        "raw": "Folic Acid (N-Pteroyl-L-glutamic Acid)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "chất xơ hòa tan dạng fos 0,2%",
+        "raw": "chất xơ hòa tan dạng FOS 0,2%",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      },
+      {
+        "name": "dha",
+        "raw": "DHA (Docosahexaenoic Acid) 0,025%",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -88,6 +234,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

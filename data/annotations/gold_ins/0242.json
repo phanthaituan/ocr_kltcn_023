@@ -1,0 +1,20 @@
+{
+  "image_id": "0242",
+  "gold_ins_additive": [
+    "160a",
+    "223",
+    "339",
+    "415",
+    "500",
+    "503"
+  ],
+  "gold_ins_in_ingredient": [
+    "260",
+    "341",
+    "621"
+  ],
+  "additives_without_code": [
+    "HƯƠNG LIỆU TỔNG HỢP (DỪA, SỮA)"
+  ],
+  "ins_parser_version": "1.1"
+}

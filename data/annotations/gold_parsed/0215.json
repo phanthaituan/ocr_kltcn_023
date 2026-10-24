@@ -6,6 +6,26 @@
     "đường",
     "muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm dày (407, 508, 425, 410)",
     "chất điều chỉnh độ axit (330, 331(iii))",
@@ -14,7 +34,7 @@
     "chất tạo ngọt tổng hợp (950, 955)",
     "màu thực phẩm tổng hợp (129, 110, 133, 150d)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Khẩu phần",
       "value": "30g"
@@ -51,6 +71,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm khi đã hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -74,6 +101,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

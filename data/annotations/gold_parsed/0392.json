@@ -6,8 +6,28 @@
     "dầu đậu nành (16%)",
     "nước muối (12%) (nước, muối)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "cá trích",
+      "raw": "Cá trích (72%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu đậu nành",
+      "raw": "dầu đậu nành (16%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước muối",
+      "raw": "nước muối (12%) (nước, muối)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "145 kcal"
@@ -37,6 +57,13 @@
     "Không dùng sản phẩm hết hạn sử dụng.",
     "Sản phẩm có chứa cá."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá"
@@ -67,6 +94,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

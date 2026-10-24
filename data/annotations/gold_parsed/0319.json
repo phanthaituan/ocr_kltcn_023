@@ -6,6 +6,26 @@
     "Đường",
     "Đường HFCS"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường hfcs",
+      "raw": "Đường HFCS",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất làm dày: INS 407, INS 425, INS 415",
     "Chất ổn định: INS 331(iii), INS 340(i)",
@@ -13,7 +33,7 @@
     "Chất chống tạo bọt: INS 900a",
     "Hương liệu tổng hợp: hương vải"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "88 kcal"
@@ -45,6 +65,13 @@
     "Vui lòng không chơi đùa khi đang ăn.",
     "Không dùng sản phẩm khi hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -70,6 +97,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

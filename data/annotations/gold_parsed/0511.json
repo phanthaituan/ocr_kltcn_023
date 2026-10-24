@@ -5,12 +5,26 @@
     "Gói mì Ý: 60% (mỳ Ý Spaghetti: 97,4%, dầu thực vật, muối, i-ốt)",
     "gói xốt kem cá hồi: 40% (nước, xốt mayonnaise, cá hồi: 13,6%, kem sữa tươi: 4,9%, bơ lạt, dầu thực vật, đường tinh luyện, phô mai, phụ gia thực phẩm (chất ổn định (INS 1414, INS 415), hương phô mai tổng hợp, hương sữa giống tự nhiên), hạt nêm, tỏi, muối i-ốt, tiêu, lá kinh giới, lá xạ hương)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "gói mì ý: 60%",
+      "raw": "Gói mì Ý: 60% (mỳ Ý Spaghetti: 97,4%, dầu thực vật, muối, i-ốt)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gói xốt kem cá hồi: 40%",
+      "raw": "gói xốt kem cá hồi: 40% (nước, xốt mayonnaise, cá hồi: 13,6%, kem sữa tươi: 4,9%, bơ lạt, dầu thực vật, đường tinh luyện, phô mai, phụ gia thực phẩm (chất ổn định (INS 1414, INS 415), hương phô mai tổng hợp, hương sữa giống tự nhiên), hạt nêm, tỏi, muối i-ốt, tiêu, lá kinh giới, lá xạ hương)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (INS 1414, INS 415)",
     "hương phô mai tổng hợp",
     "hương sữa giống tự nhiên"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "245 - 455 kcal"
@@ -40,6 +54,13 @@
     "Không dùng sản phẩm hết hạn sử dụng.",
     "Nguyên liệu từ cá hồi có thể còn sót lại một ít xương, nên khi ăn cần chú ý."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá"
@@ -70,6 +91,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

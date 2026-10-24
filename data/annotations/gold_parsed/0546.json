@@ -17,8 +17,94 @@
     "sữa bột tách kem 1.01%",
     "muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì 33.69%",
+      "raw": "Bột mì 33.69%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "kem thực vật 19.44%",
+      "raw": "kem thực vật 19.44%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "kem động vật 8.33%",
+      "raw": "kem động vật 8.33%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước 7.57%",
+      "raw": "nước 7.57%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng 7.01%",
+      "raw": "trứng 7.01%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường kính trắng 6.91%",
+      "raw": "đường kính trắng 6.91%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột kem phô mai 5.56%",
+      "raw": "bột kem phô mai 5.56%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ lạt 3.37%",
+      "raw": "bơ lạt 3.37%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp làm mềm bánh mỳ 2.36%",
+      "raw": "hỗn hợp làm mềm bánh mỳ 2.36% (nước, đường mạch nha, dầu thực vật, đường)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa tươi 1.75%",
+      "raw": "sữa tươi 1.75%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "men bánh mỳ 1.35%",
+      "raw": "men bánh mỳ 1.35%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "kem tươi động vật 1.04%",
+      "raw": "kem tươi động vật 1.04%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột tách kem 1.01%",
+      "raw": "sữa bột tách kem 1.01%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "341 kcal"
@@ -52,6 +138,13 @@
     "Không sử dụng khi bị dị ứng với các thành phần trên hoặc khi sản phẩm có dấu hiệu hư hỏng.",
     "Sản phẩm này không chứa các loại hạt/đậu."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -84,6 +177,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

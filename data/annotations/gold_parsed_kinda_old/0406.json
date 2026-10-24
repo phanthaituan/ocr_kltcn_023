@@ -1,0 +1,100 @@
+{
+  "image_id": "0406",
+  "product_name": "BÁNH SOCOLA OREO PIE PHIÊN BẢN RED VELVET (BÁNH NHUNG ĐỎ)",
+  "gold_ingredients_raw": [
+    "Đường",
+    "bột mì",
+    "mạch nha",
+    "dầu thực vật (dầu cọ)",
+    "trứng",
+    "bột cacao (4,2%)",
+    "dextroza",
+    "gelatin",
+    "muối i-ốt"
+  ],
+  "gold_additives_raw": [
+    "chất làm ẩm (422, 420(ii), 420(i))",
+    "chất nhũ hóa (475, 322(i), 471, 492, 1520, 491, 470(i))",
+    "hương liệu tổng hợp",
+    "chất tạo xốp (450(i), 500(ii))",
+    "chất ổn định (1442, 415)",
+    "chất tạo màu tổng hợp (150c, 129)",
+    "chất điều chỉnh độ acid (330)",
+    "chất bảo quản (202)",
+    "chất điều vị (1104)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "428 kcal"
+    },
+    {
+      "name": "Protein",
+      "value": "5 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "60,7 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "35,5 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "18,4 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "13,1 g"
+    },
+    {
+      "name": "Natri",
+      "value": "206 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Thông tin dị ứng: Sản phẩm có chứa: lúa mì, trứng, sữa, đậu nành.",
+    "Allergen information: Contains: wheat, egg, milk, soy."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

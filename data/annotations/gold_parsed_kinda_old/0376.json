@@ -1,0 +1,89 @@
+{
+  "image_id": "0376",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Gia vị tẩm ướp:ớt, xuyên tiêu (8%), muối, bột mì, mè trắng, bột gạo, tinh bột bắp, hành tây, tỏi, tiêu đen, chiết xuất nấm men,  gia vị hỗn hợp (1%), bột gia vị cà ri (0,5%), bột nguyên trứng",
+    "Xốt chấm: Nước, đường, nước ép quýt, ớt, tỏi, muối,chiết xuất nấm men, nước mắm, "
+  ],
+  "gold_additives_raw": [
+    "Chất làm dày (INS 1422)",
+    "chất điều vị (INS 621, INS 635)",
+    "chất tạo xốp (INS 500(ii))",
+    "hương liệu tổng hợp (hương gà)",
+    "Chất làm dày (INS 1422, INS 415)",
+    "chất điều vị (INS 621)",
+    "chất điều chỉnh độ acid (INS 514(ii), INS 260)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "288 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "7,20 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "47,2 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "17,1 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "6,09 g"
+    },
+    {
+      "name": "Natri",
+      "value": "2790 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa thành phần từ lúa mì, trứng, đậu nành, mè, cá."
+  ],
+  "allergen_final": {
+    "contains": [
+      "cá",
+      "gluten",
+      "hạt_vừng",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "cá",
+      "gluten",
+      "hạt_vừng",
+      "trứng",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "cá",
+      "gluten",
+      "hạt_vừng",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "Xuất xứ: Việt Nam",
+  "net_weight": null,
+  "mfg_date": "NSX: 02/02/2026",
+  "expiry_date": "HSD: 02/02/2027",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

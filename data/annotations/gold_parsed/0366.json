@@ -15,12 +15,86 @@
     "dầu cọ",
     "muối i-ốt (natri clorid, kali iodat)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "ngũ cốc",
+      "raw": "Ngũ cốc(68,4%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lúa mì nguyên cám",
+      "raw": "lúa mì nguyên cám (34%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột lúa mì",
+      "raw": "bột lúa mì (32%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ngô",
+      "raw": "bột ngô",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất mạch nha lúa mạch",
+      "raw": "chiết xuất mạch nha lúa mạch",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột béo",
+      "raw": "bột béo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột sắn",
+      "raw": "tinh bột sắn",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ca cao giảm béo",
+      "raw": "bột ca cao giảm béo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "các khoáng chất",
+      "raw": "các khoáng chất (calci carbonat, sắt nguyên tố (khử hydro))",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "dầu cọ",
+      "raw": "dầu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "muối i-ốt (natri clorid, kali iodat)",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (tri natri phosphat, INS339(iii))",
     "hương liệu tự nhiên",
     "chất chống oxy hóa (hỗn hợp tocopherol cô đặc (đậu nành))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Serving Size / Saiz Hidangan / Trên khẩu phần",
       "value": "25g"
@@ -115,6 +189,31 @@
     "Sản phẩm có chứa gluten, đậu nành và có thể chứa sữa và các hạt phỉ.",
     "Không dùng cho người dị ứng với các thành phần của sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "các khoáng chất",
+      "muối i-ốt"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "các khoáng chất",
+        "raw": "các khoáng chất (calci carbonat, sắt nguyên tố (khử hydro))",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "muối i-ốt",
+        "raw": "muối i-ốt (natri clorid, kali iodat)",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -161,6 +260,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

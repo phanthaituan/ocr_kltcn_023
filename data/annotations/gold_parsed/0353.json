@@ -16,6 +16,86 @@
     "bột ca cao (10,2%)",
     "NHÂN (13%): Glucose syrup"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bánh",
+      "raw": "BÁNH (58%): Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng",
+      "raw": "trứng (15,5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "glucose syrup",
+      "raw": "glucose syrup",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ca cao",
+      "raw": "bột ca cao (2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa gầy",
+      "raw": "bột sữa gầy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "muối I-ốt",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "lớp phủ",
+      "raw": "LỚP PHỦ (29%): Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật không hydro hóa",
+      "raw": "chất béo thực vật không hydro hóa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ca cao",
+      "raw": "bột ca cao (10,2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nhân",
+      "raw": "NHÂN (13%): Glucose syrup",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm ẩm (420ii, 422)",
     "chất tạo xốp (450i, 500ii)",
@@ -31,7 +111,7 @@
     "chất bảo quản (202)",
     "chất điều chỉnh độ acid (330)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "127 kcal"
@@ -60,6 +140,24 @@
   "gold_warning_raw": [
     "Thông tin dị ứng: Sản phẩm có chứa lúa mì, trứng, sữa, và đậu nành. Được sản xuất trên dây chuyền cùng sản xuất sản phẩm có chứa đậu phộng và hạt cây."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "muối i-ốt"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "muối i-ốt",
+        "raw": "muối I-ốt",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -103,6 +201,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

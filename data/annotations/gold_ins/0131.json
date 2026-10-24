@@ -1,0 +1,13 @@
+{
+  "image_id": "0131",
+  "gold_ins_additive": [
+    "330",
+    "621"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "HƯƠNG VỊ THỊT NƯỚNG (HƯƠNG VỊ TỔNG HỢP)",
+    "HƯƠNG VỊ THỊT HUN KHÓI (HƯƠNG VỊ GIỐNG TỰ NHIÊN)"
+  ],
+  "ins_parser_version": "1.1"
+}

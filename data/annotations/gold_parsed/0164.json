@@ -2,8 +2,9 @@
   "image_id": "0164",
   "product_name": null,
   "gold_ingredients_raw": [],
+  "gold_ingredients_parsed": [],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "79,9 kcal"
@@ -50,6 +51,13 @@
     "Không dùng cho trẻ dưới 1 tuổi.",
     "Không sử dụng sản phẩm khi hết hạn hoặc bao bì bị hở, phồng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -81,6 +89,7 @@
     "has_ingredient": false,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

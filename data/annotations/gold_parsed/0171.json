@@ -4,11 +4,19 @@
   "gold_ingredients_raw": [
     "Sữa tươi tách béo qua siêu vi lọc (99,7%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa tươi tách béo qua siêu vi lọc",
+      "raw": "Sữa tươi tách béo qua siêu vi lọc (99,7%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (460), (466)",
     "lactaza/lactase"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "NĂNG LƯỢNG/ ENERGY",
       "value": "44,3 kcal"
@@ -43,6 +51,13 @@
     "Không bổ sung đường sacaroza, không lactoza",
     "Không dùng cho trẻ dưới 1 tuổi."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -74,6 +89,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

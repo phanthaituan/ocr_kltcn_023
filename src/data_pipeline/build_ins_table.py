@@ -4,14 +4,19 @@ Từ unique_terms.csv -> tạo:
   1. adi_template.csv      : mỗi dòng 1 mã INS (base), kèm tần suất + ví dụ; các cột ADI để trống cho bạn điền
   2. additive_no_code.csv  : chuỗi additive KHÔNG có mã INS, kèm gợi ý phân loại
 
-Cách chạy:
-    python build_ins_table.py --terms unique_terms.csv --out_dir ins_tables [--keep_filled adi_da_dien.csv]
+Cách chạy (từ thư mục gốc project):
+    python src/data_pipeline/build_ins_table.py
+    # Hoặc tùy biến:
+    python src/data_pipeline/build_ins_table.py --terms data/interim/unique_terms.csv --out_dir data/kb [--keep_filled adi_da_dien.csv]
 """
 import re, csv, sys, argparse
 from collections import defaultdict
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from src.common.paths import UNIQUE_TERMS_CSV, KB_DIR
 from ins_parser import parse_ins
 
 FLAVOR_HINTS = ["hương", "vani", "flavour", "flavor", "aroma"]
@@ -20,9 +25,9 @@ FILL_COLS = ["substance_name", "adi_status", "adi_value_mg_per_kg_bw", "source",
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--terms", default="unique_terms.csv")
-    ap.add_argument("--out_dir", default="ins_tables")
-    ap.add_argument("--keep_filled", default="", help="file ADI cũ đã điền; giữ lại các cột đã điền theo ins_code")
+    ap.add_argument("--terms", default=str(UNIQUE_TERMS_CSV), help="File CSV chứa terms")
+    ap.add_argument("--out_dir", default=str(KB_DIR), help="Thư mục xuất kết quả")
+    ap.add_argument("--keep_filled", default="", help="File ADI cũ đã điền; giữ lại các cột đã điền theo ins_code")
     args = ap.parse_args()
     out_dir = Path(args.out_dir); out_dir.mkdir(exist_ok=True, parents=True)
 

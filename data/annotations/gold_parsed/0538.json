@@ -7,11 +7,37 @@
     "đường (5,8%)",
     "muối ăn"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "dịch trích từ đậu nành hạt",
+      "raw": "Dịch trích từ đậu nành hạt (50%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường (5,8%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối ăn",
+      "raw": "muối ăn",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (471, 407, 500(ii))",
     "hương liệu giống tự nhiên dùng cho thực phẩm"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "50 kcal"
@@ -48,6 +74,13 @@
   "gold_warning_raw": [
     "Sản phẩm có chứa đậu nành."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "đậu_nành"
@@ -77,6 +110,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

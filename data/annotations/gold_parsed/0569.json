@@ -6,13 +6,33 @@
     "chiết xuất trà đen (2,5%)",
     "vitamin C (INS 300)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột kombucha",
+      "raw": "Bột kombucha (7%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất trà đen",
+      "raw": "chiết xuất trà đen (2,5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin c",
+      "raw": "vitamin C (INS 300)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [
     "chất tạo ngọt tổng hợp Acesulfam kali (INS 950)",
     "sucralose (INS 955)",
     "chất điều chỉnh độ acid Trisodium citrate (INS 331(iii))",
     "hương liệu đào tổng hợp"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "346 kcal"
@@ -41,6 +61,24 @@
   "gold_warning_raw": [
     "Không dùng cho những người có dị ứng với các thành phần của sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "vitamin c"
+    ],
+    "nutritional_categories": [
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "vitamin c",
+        "raw": "vitamin C (INS 300)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -64,6 +102,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

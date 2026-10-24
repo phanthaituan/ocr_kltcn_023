@@ -14,13 +14,81 @@
     "taurin",
     "kẽm sulphat"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xiro fructoza",
+      "raw": "xiro fructoza",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thạch dừa",
+      "raw": "thạch dừa (50 g/l)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột",
+      "raw": "sữa bột (20 g/l)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước ép táo hoàn nguyên",
+      "raw": "nước ép táo hoàn nguyên (10 g/l)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "canxi lactat",
+      "raw": "canxi lactat",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "chất béo thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin",
+      "raw": "vitamin (K2, B1, B3, B5, B6, A, D3)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "taurin",
+      "raw": "taurin",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    },
+    {
+      "name": "kẽm sulphat",
+      "raw": "kẽm sulphat",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (466, 418(ii))",
     "chất điều chỉnh độ acid (270, 330)",
     "hương liệu giống tự nhiên (hương cam và hương ngọt)",
     "chất tạo màu tự nhiên (160b(iii))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "69,5 kcal"
@@ -87,6 +155,47 @@
     "Không dùng cho người mẫn cảm với thành phần sản phẩm.",
     "Đối tượng sử dụng: Sử dụng cho trẻ từ 3 tuổi trở lên."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 4,
+    "nutritional_names": [
+      "canxi lactat",
+      "kẽm sulphat",
+      "taurin",
+      "vitamin"
+    ],
+    "nutritional_categories": [
+      "amino_omega_bioactive",
+      "mineral_trace",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "canxi lactat",
+        "raw": "canxi lactat",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "vitamin",
+        "raw": "vitamin (K2, B1, B3, B5, B6, A, D3)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "taurin",
+        "raw": "taurin",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      },
+      {
+        "name": "kẽm sulphat",
+        "raw": "kẽm sulphat",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "dừa",
@@ -122,6 +231,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

@@ -11,12 +11,69 @@
     "bột tỏi",
     "muối hồng"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "hỗn hợp dầu thực vật",
+      "raw": "Hỗn hợp dầu thực vật (dầu ngô, dầu Ô Liu)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "rong biển hàn quốc",
+      "raw": "rong biển Hàn Quốc (22%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chà bông cá hồi",
+      "raw": "chà bông cá hồi (20%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất tôm",
+      "raw": "chiết xuất tôm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột tỏi",
+      "raw": "bột tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối hồng",
+      "raw": "muối hồng",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (INS621)",
     "hương liệu tự nhiên (hương hương thảo)"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -38,6 +95,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": false,
     "has_warning": false
   }
 }

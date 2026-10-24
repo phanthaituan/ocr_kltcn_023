@@ -23,6 +23,128 @@
     "Bột sữa nguyên kem",
     "Muối i-ốt"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "trứng",
+      "raw": "Trứng (21,7%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "shortening thực vật",
+      "raw": "Shortening thực vật (có chứa chất nhũ hóa (471))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nhân đậu đỏ",
+      "raw": "Nhân đậu đỏ (3,7%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "Dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất đậu đỏ dạng bột",
+      "raw": "Chiết xuất đậu đỏ dạng bột (2,1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa dừa",
+      "raw": "Bột sữa dừa (1,7%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "Chất béo thực vật (chứa chất nhũ hóa (492, 322(i)))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "Maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cồn thực phẩm",
+      "raw": "Cồn thực phẩm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha isomalto oligo",
+      "raw": "Mạch nha isomalto oligo",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "mạch nha glucose",
+      "raw": "Mạch nha glucose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp cốm dạng bột",
+      "raw": "Hỗn hợp cốm dạng bột (0,5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa gầy",
+      "raw": "Bột sữa gầy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột gạo nếp",
+      "raw": "Tinh bột gạo nếp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột lòng trắng trứng",
+      "raw": "Bột lòng trắng trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa nguyên kem",
+      "raw": "Bột sữa nguyên kem",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "Muối i-ốt",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    }
+  ],
   "gold_additives_raw": [
     "Chất tạo ngọt tự nhiên (964)",
     "Chất nhũ hóa (471)",
@@ -37,7 +159,7 @@
     "Chất xử lý bột (1100(iii))",
     "Chất tạo màu tổng hợp (102, 160a(i), 133)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "111 kcal"
@@ -67,6 +189,32 @@
     "Sản phẩm không dùng cho người dị ứng với các thành phần sau: trứng, lúa mì, sữa, đậu nành và có thể chứa cá.",
     "Không sử dụng sản phẩm khi đã hết hạn hoặc có dấu hiệu mốc hay hư hỏng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "muối i-ốt",
+      "mạch nha isomalto oligo"
+    ],
+    "nutritional_categories": [
+      "fiber_prebiotic",
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "mạch nha isomalto oligo",
+        "raw": "Mạch nha isomalto oligo",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      },
+      {
+        "name": "muối i-ốt",
+        "raw": "Muối i-ốt",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": [
@@ -109,6 +257,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

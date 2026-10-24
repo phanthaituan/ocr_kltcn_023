@@ -14,6 +14,74 @@
     "muối",
     "taurin"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa 41 %",
+      "raw": "Sữa 41 % (nước, sữa bột, chất béo sữa)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thạch dừa",
+      "raw": "thạch dừa (5 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xi rô glucose",
+      "raw": "xi rô glucose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất từ mầm lúa mạch",
+      "raw": "chiết xuất từ mầm lúa mạch (2 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "chất béo thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cacao",
+      "raw": "bột cacao (0.85 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin và khoáng chất",
+      "raw": "vitamin và khoáng chất (vitamin B1, B3, B5, B6, K2, A, D3, tricali citrat, tricalci phosphat, natri polyphosphat, kẽm oxyd)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "taurin",
+      "raw": "taurin",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    }
+  ],
   "gold_additives_raw": [
     "chất nhũ hóa (322(i))",
     "chất ổn định (418(ii))",
@@ -21,7 +89,7 @@
     "chất tạo ngọt tự nhiên steviol glycosid từ Stevia",
     "chất tạo ngọt tổng hợp sucralose"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "75,2 kcal"
@@ -92,6 +160,32 @@
     "Không sử dụng cho người mẫn cảm với thành phần sản phẩm.",
     "Đối tượng sử dụng: Sử dụng cho trẻ từ 3 tuổi trở lên."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "taurin",
+      "vitamin và khoáng chất"
+    ],
+    "nutritional_categories": [
+      "amino_omega_bioactive",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "vitamin và khoáng chất",
+        "raw": "vitamin và khoáng chất (vitamin B1, B3, B5, B6, K2, A, D3, tricali citrat, tricalci phosphat, natri polyphosphat, kẽm oxyd)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "taurin",
+        "raw": "taurin",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "dừa",
@@ -134,6 +228,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

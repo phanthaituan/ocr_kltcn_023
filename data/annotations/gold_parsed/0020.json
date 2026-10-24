@@ -6,11 +6,31 @@
     "nước",
     "đường tinh luyện"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "trái dâu tây 15%",
+      "raw": "Trái dâu tây 15%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường tinh luyện",
+      "raw": "đường tinh luyện",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất bảo quản Natri benzoate",
     "màu thực phẩm Ponceau 4R"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "110"
@@ -39,6 +59,13 @@
   "gold_warning_raw": [
     "Không dùng khi sản phẩm hết hạn hoặc có dấu hiệu hư hỏng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -62,6 +89,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

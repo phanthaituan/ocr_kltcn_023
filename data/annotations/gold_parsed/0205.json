@@ -17,6 +17,92 @@
     "protein sữa đã thủy phân",
     "bột whey"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha",
+      "raw": "mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng gà",
+      "raw": "trứng gà (13.4%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu nhân cọ đã hydro hóa",
+      "raw": "dầu nhân cọ đã hydro hóa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột kem không sữa",
+      "raw": "bột kem không sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa gầy",
+      "raw": "bột sữa gầy (2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gelatin",
+      "raw": "gelatin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột bắp",
+      "raw": "bột bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "protein sữa đã thủy phân",
+      "raw": "protein sữa đã thủy phân",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    },
+    {
+      "name": "bột whey",
+      "raw": "bột whey",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm ẩm (422, 420(ii))",
     "chất nhũ hóa (450(i), 471, 475, 477, 472e, 1520, 322(i), 415, 476, 492, 491, 470(ii))",
@@ -26,11 +112,29 @@
     "hương liệu tổng hợp (vani, sữa, bơ)",
     "chất ổn định (509)"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Thành phần sản phẩm có chứa: Bột mì, trứng, sữa và đậu nành.",
     "Được sản xuất trên dây chuyền sản xuất các loại bánh có thành phần chứa giáp xác, hạt cây và mè."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "protein sữa đã thủy phân"
+    ],
+    "nutritional_categories": [
+      "isolated_protein"
+    ],
+    "items": [
+      {
+        "name": "protein sữa đã thủy phân",
+        "raw": "protein sữa đã thủy phân",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -77,6 +181,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

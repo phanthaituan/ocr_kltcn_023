@@ -11,8 +11,58 @@
     "chiết xuất nấm men",
     "đường vàng"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "củ ngưu báng",
+      "raw": "Củ ngưu báng (20%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nấm đông cô",
+      "raw": "nấm đông cô",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà rốt",
+      "raw": "cà rốt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "miso",
+      "raw": "miso",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mầm lúa mì",
+      "raw": "mầm lúa mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất nấm men",
+      "raw": "chiết xuất nấm men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường vàng",
+      "raw": "đường vàng",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "11.3 Kcal"
@@ -70,6 +120,13 @@
     "Không sử dụng khi sản phẩm hết hạn sử dụng.",
     "Không sử dụng đối với người có khả năng mẫn cảm hoặc dị ứng với các thành phần trong sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten"
@@ -98,6 +155,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

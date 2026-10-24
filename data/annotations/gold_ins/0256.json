@@ -1,0 +1,18 @@
+{
+  "image_id": "0256",
+  "gold_ins_additive": [
+    "129",
+    "160c",
+    "164",
+    "320",
+    "321",
+    "322",
+    "330",
+    "471",
+    "500",
+    "621"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [],
+  "ins_parser_version": "1.1"
+}

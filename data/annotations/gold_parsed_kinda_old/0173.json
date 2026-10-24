@@ -1,0 +1,73 @@
+{
+  "image_id": "0173",
+  "product_name": "Trail Mix 4 nuts 4 loại hạt",
+  "gold_ingredients_raw": [
+    "Hạt điều (43%)",
+    "hanh nhân (24%)",
+    "óc chó (18%)",
+    "mắc ca (15%)"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "665 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "17,8 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "12,4 g"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "6,28 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "59,1 g"
+    },
+    {
+      "name": "Natri",
+      "value": "8,32 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa hạt và có thể chứa đạm lúa mì.",
+    "Không dùng sản phẩm đã hết hạn sử dụng, hoặc có dấu hiệu hư hỏng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "gluten"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [
+      "gluten"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "xem trên tem cân",
+  "mfg_date": "11/02/2026 607005",
+  "expiry_date": "11/02/2027 150",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

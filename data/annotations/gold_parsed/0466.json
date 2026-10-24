@@ -12,11 +12,67 @@
     "Muối ăn",
     "Si rô đường caramen"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "yến mạch cán dẹt",
+      "raw": "Yến mạch cán dẹt (25,29%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "shortening",
+      "raw": "Shortening (dầu cọ)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sô cô la viên",
+      "raw": "Sô cô la viên (9,2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ thực vật",
+      "raw": "Bơ thực vật (từ dầu cọ)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sô cô la",
+      "raw": "Bột sô cô la (1,23%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối ăn",
+      "raw": "Muối ăn",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "si rô đường caramen",
+      "raw": "Si rô đường caramen",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất tạo xốp (INS 503(i))",
     "Hương bơ tổng hợp"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "50 kcal"
@@ -82,6 +138,13 @@
     "Chứa ngũ cốc có chứa gluten, đậu nành và các dẫn xuất sữa.",
     "Quy trình tại cơ sở cũng chế biến trứng, hạt và quả hạch."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -120,6 +183,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

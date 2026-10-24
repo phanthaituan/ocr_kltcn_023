@@ -12,10 +12,66 @@
     "muối i-ốt",
     "tiêu"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gạo",
+      "raw": "gạo (7,5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thịt bò",
+      "raw": "thịt bò (4%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà rốt",
+      "raw": "cà rốt (3%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu nành",
+      "raw": "dầu nành",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gạo st25",
+      "raw": "gạo ST25 (1,5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đạm thực vật thủy phân",
+      "raw": "đạm thực vật thủy phân",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "muối i-ốt",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "tiêu",
+      "raw": "tiêu",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm dày (1442, 1422)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "≥ 58 Kcal"
@@ -46,6 +102,24 @@
     "Không dùng sản phẩm khi đã hết hạn sử dụng hoặc gói phồng to bất thường.",
     "Không đặt trực tiếp gói cháo vào lò vi sóng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "muối i-ốt"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "muối i-ốt",
+        "raw": "muối i-ốt",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -71,6 +145,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

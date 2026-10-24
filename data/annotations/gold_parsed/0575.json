@@ -15,6 +15,80 @@
     "Muối",
     "Tinh bột ngô"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "kem sữa",
+      "raw": "Kem sữa (27,3%) (Mạch nha maltose, Dầu cọ (Có chứa chất chống oxy hóa (320, 321)), Chất làm ẩm (420(i), 422), Sữa đặc có đường (2,5%), Đường dextrose, Nước, Chất nhũ hóa (322(i), 471), Hương liệu tổng hợp (Sữa), Chất điều chỉnh độ acid (330), Chất bảo quản (281))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng gà",
+      "raw": "Trứng gà",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "Dầu thực vật (Dầu cọ, Dầu hướng dương)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha glucose",
+      "raw": "Mạch nha glucose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường dextrose",
+      "raw": "Đường dextrose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha maltose",
+      "raw": "Mạch nha maltose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột whey",
+      "raw": "Bột whey (1,8%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột ngô",
+      "raw": "Tinh bột ngô",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất chống oxy hóa (320, 321)",
     "Chất làm ẩm (420(i), 422)",
@@ -29,7 +103,7 @@
     "Hương liệu tổng hợp (Bơ, Sữa)",
     "Chất tạo màu tổng hợp (160a(i))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Tổng calo",
       "value": "398"
@@ -66,6 +140,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm khi hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -89,6 +170,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

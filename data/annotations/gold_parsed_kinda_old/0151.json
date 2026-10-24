@@ -1,0 +1,108 @@
+{
+  "image_id": "0151",
+  "product_name": "BÁNH CUSTAS KEM TRỨNG",
+  "gold_ingredients_raw": [
+    "TRỨNG (22,3%)",
+    "BỘT MÌ",
+    "ĐƯỜNG",
+    "DẦU THỰC VẬT",
+    "CHẤT BÉO THỰC VẬT",
+    "MẠCH NHA MALTOSE",
+    "MẠCH NHA ISOMALTO OLIGO",
+    "BỘT SỮA NGUYÊN KEM",
+    "BỘT LÒNG ĐỎ TRỨNG (1%)",
+    "MUỐI",
+    "MUỐI I-ỐT",
+    "CHẤT TẠO MÙI TỔNG HỢP",
+    "BỘT LÒNG ĐỎ TRỨNG",
+    "CHẤT ĐINH"
+  ],
+  "gold_additives_raw": [
+    "CHẤT LÀM ẨM (420(ii), 1520, 422)",
+    "CHẤT NHŨ HÓA (477, 471, 322(i), 475, 491, 470(i))",
+    "CHẤT TẠO XỐP (575, 500(ii))",
+    "CỒN THỰC PHẨM",
+    "HƯƠNG LIỆU TỔNG HỢP (VANI)",
+    "MALTODEXTRIN",
+    "CHẤT ỔN ĐỊNH (1700, 415)",
+    "MUỐI-I-ỐT",
+    "CHẤT TẠO MÙNG",
+    "CHẤT TẠO MÙI TỔNG HỢP (160a(ii))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "102 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "5,7 g"
+    },
+    {
+      "name": "Natri",
+      "value": "36 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "11,3 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "6,1 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,4 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "SẢN PHẨM KHÔNG DÙNG CHO NGƯỜI DỊ ỨNG VỚI CÁC THÀNH PHẦN SAU: TRỨNG, LÚA MÌ, SỮA, ĐẬU NÀNH VÀ CÓ THỂ CHỨA CÁ.",
+    "HẠN SỬ DỤNG: 10 THÁNG KỂ TỪ NGÀY SẢN XUẤT.",
+    "DÙNG NGAY SAU KHI MỞ GÓI."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "cá",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [
+      "cá",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "cá",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "unclassified": 1,
+      "storage_instruction": 1
+    }
+  },
+  "origin": "VIỆT NAM",
+  "net_weight": "282 g (12 GÓI X 23,5 g)",
+  "mfg_date": "ĐƯỢC IN TRÊN BAO BÌ (NGÀY/THÁNG/NĂM).",
+  "expiry_date": "10 THÁNG KỂ TỪ NGÀY SẢN XUẤT.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

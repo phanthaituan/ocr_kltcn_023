@@ -1,0 +1,93 @@
+{
+  "image_id": "0226",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Sữa (93,4%) (nước, sữa bột, sữa tươi chuẩn hóa)",
+    "đường (3,5%)",
+    "dầu thực vật",
+    "chất xơ hòa tan (inulin)",
+    "vitamin (A, D3)"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (471, 407, 412)",
+    "hương liệu tổng hợp dùng cho thực phẩm"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "73,6 kcal"
+    },
+    {
+      "name": "CHẤT ĐẠM",
+      "value": "3,0 g"
+    },
+    {
+      "name": "CHẤT BÉO",
+      "value": "3,1 g"
+    },
+    {
+      "name": "CARBOHYDRAT",
+      "value": "8,4 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ",
+      "value": "8,3 g"
+    },
+    {
+      "name": "CHẤT XƠ HOÀ TAN",
+      "value": "140 mg"
+    },
+    {
+      "name": "NATRI",
+      "value": "39 mg"
+    },
+    {
+      "name": "CALCI",
+      "value": "100 mg"
+    },
+    {
+      "name": "VITAMIN A",
+      "value": "150 IU"
+    },
+    {
+      "name": "VITAMIN D3",
+      "value": "30 IU"
+    }
+  ],
+  "gold_warning_raw": [
+    "Có chứa sữa.",
+    "Dành cho người trên 3 tuổi."
+  ],
+  "allergen_final": {
+    "contains": [
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "sữa"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "sữa"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "child_supervision": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam.",
+  "net_weight": null,
+  "mfg_date": "08 tháng trước HSD.",
+  "expiry_date": "Xem trên bịch.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

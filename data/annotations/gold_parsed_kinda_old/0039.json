@@ -1,0 +1,79 @@
+{
+  "image_id": "0039",
+  "product_name": "Bánh quy giòn A-Taste nhiều hạt vị muối biển (A-Taste Multi-Grain Sea Salt Flavor)",
+  "gold_ingredients_raw": [
+    "Bột mì 35.8%",
+    "Dầu thực vật 16.5%",
+    "Cám lúa mì 14.6%",
+    "Trứng 4.7%",
+    "Tinh bột 4.1%",
+    "Bột lúa mạch 3%",
+    "Ngũ cốc 1.3%",
+    "Gạo lức đen 0.45%",
+    "Gạo nếp ngô 0.35%",
+    "Gạo lứt giòn 0.2%",
+    "Gạo lức yến mạch 0.2%",
+    "Gạo lứt khoai lang tím giòn 0.2%",
+    "Lợi khuẩn Lactobacillus (Số lượng > 2.2 tỷ/100g) 0.001%",
+    "Muối (Muối biển) 0.55%"
+  ],
+  "gold_additives_raw": [
+    "Chất tạo ngọt nhân tạo: Maltitol (INS 965 (i)) 17,35%",
+    "Chất ổn định: dextrin (INS 1400) 0.239%",
+    "Chất tạo xốp: Amoni hydro carbonat (INS 503(ii)) 0.1%",
+    "Chất tạo xốp: Natri hydro carbonat (INS 500 (ii)) 0.2%",
+    "Chất tạo xốp: Dicalci hydro phosphate (INS 341 (iii)) 0.05%",
+    "Chất điều chỉnh độ acid: Acid citric (INS 330) 0.01%",
+    "Hương liệu tự nhiên 0.1%"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Sản phẩm có bột mì, trứng, yến mạch, lúa mạch, và các sản phẩm liên quan đến lúa mạch.",
+    "Và dây chuyền này cũng được sử dụng sản xuất đậu phộng, hạt, sản phẩm từ sữa và đậu nành."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "trứng"
+    ],
+    "may_contain": [
+      "sữa",
+      "đậu_nành",
+      "đậu_phộng"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "trứng"
+    ],
+    "declared_may_contain": [
+      "sữa",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": "Trung Quốc",
+  "net_weight": "160 g",
+  "mfg_date": "Xem MFD (ngày/tháng/năm) trên bao bì ",
+  "expiry_date": "EXP (ngày/tháng/năm) trên bao bì",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

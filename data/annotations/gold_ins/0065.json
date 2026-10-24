@@ -1,0 +1,20 @@
+{
+  "image_id": "0065",
+  "gold_ins_additive": [
+    "133",
+    "211",
+    "296",
+    "327",
+    "330",
+    "331",
+    "407",
+    "508",
+    "955"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Hương tổng hợp (hương dưa lưới) 0,12%",
+    "Phẩm màu vàng chanh Lemon Yellow số 4"
+  ],
+  "ins_parser_version": "1.1"
+}

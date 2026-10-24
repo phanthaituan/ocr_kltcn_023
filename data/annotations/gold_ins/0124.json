@@ -1,0 +1,18 @@
+{
+  "image_id": "0124",
+  "gold_ins_additive": [],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "SORBITOL",
+    "CITRIC ACID",
+    "ARTIFICIAL FLAVOR",
+    "MALIC ACID",
+    "GLYCEROL",
+    "PECTIN",
+    "CARNAUBA WAX",
+    "SODIUM CITRATE",
+    "TITANIUM DIOXIDE",
+    "FD&C RED 40"
+  ],
+  "ins_parser_version": "1.1"
+}

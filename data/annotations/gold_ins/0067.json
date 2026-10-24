@@ -1,0 +1,17 @@
+{
+  "image_id": "0067",
+  "gold_ins_additive": [
+    "133",
+    "414",
+    "901",
+    "903",
+    "904",
+    "951"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Hương liệu bạc hà giống tự nhiên",
+    "Chất làm rắn chắc (Dicalci hydro phosphat)"
+  ],
+  "ins_parser_version": "1.1"
+}

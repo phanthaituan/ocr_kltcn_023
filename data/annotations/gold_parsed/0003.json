@@ -16,8 +16,88 @@
     "dầu canola",
     "muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "hạt bí",
+      "raw": "Hạt bí",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đậu phộng",
+      "raw": "đậu phộng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "yến mạch",
+      "raw": "yến mạch",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha",
+      "raw": "mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mè",
+      "raw": "mè",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt hướng dương",
+      "raw": "hạt hướng dương",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất xơ hòa tan",
+      "raw": "chất xơ hòa tan",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "nho khô",
+      "raw": "nho khô",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mơ khô",
+      "raw": "mơ khô",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gạo",
+      "raw": "gạo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu canola",
+      "raw": "dầu canola",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Calories-kcal",
       "value": "150"
@@ -54,6 +134,24 @@
   "gold_warning_raw": [
     "Sản phẩm có thể chứa vết các hạt khác, đậu nành, lúa mì và mù tạt."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "chất xơ hòa tan"
+    ],
+    "nutritional_categories": [
+      "fiber_prebiotic"
+    ],
+    "items": [
+      {
+        "name": "chất xơ hòa tan",
+        "raw": "chất xơ hòa tan",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": [
@@ -89,6 +187,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

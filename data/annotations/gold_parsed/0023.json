@@ -6,8 +6,28 @@
     "giả thịt (từ đậu nành)",
     "hỗn hợp protein sấy vị tôm (140 g/kg)."
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "gói rau: rau sấy",
+      "raw": "gói rau: Rau sấy (hành lá, đậu bắp, cà rốt)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "giả thịt",
+      "raw": "giả thịt (từ đậu nành)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp protein sấy vị tôm",
+      "raw": "hỗn hợp protein sấy vị tôm (140 g/kg).",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Giá trị năng lượng",
       "value": "375,7 kcal"
@@ -41,6 +61,13 @@
     "Sản phẩm có chứa: trứng, gluten lúa mì, đậu nành, cá, tôm, cua.",
     "Không sử dụng sản phẩm quá hạn hoặc bao bì không còn nguyên vẹn."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -83,6 +110,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

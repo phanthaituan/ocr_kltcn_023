@@ -9,15 +9,87 @@
     "Taurin",
     "Postbiotic (Lợi khuẩn Lactococcus lactis Plasma)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa",
+      "raw": "Sữa (93,9%) (Nước, Sữa bột, Chất béo sữa, Sữa Non (Colostrum) (100 mg/l))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sucrose",
+      "raw": "Sucrose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "béo thực vật",
+      "raw": "Béo thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp khoáng và vitamin",
+      "raw": "Hỗn hợp Khoáng và Vitamin (Tricanxi phosphat, Dinatri phosphat, Kali clorid, Natri clorid, Kali iodid, Magiê oxit, Natri selenit, Mangan sulfat, Kẽm oxit, Đồng sulfat, Retinyl acetat, Natri-L-ascorbat, DL-alpha tocopheryl acetat, Phylloquinon, Thiamin hydroclorid, Riboflavin, Niacinamid, Canxi-D-pantothenat, Pyridoxin hydroclorid, D-Biotin, Axit folic, Cyanocobalamin, Cholecalciferol)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "taurin",
+      "raw": "Taurin",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    },
+    {
+      "name": "postbiotic",
+      "raw": "Postbiotic (Lợi khuẩn Lactococcus lactis Plasma)",
+      "nutritional": true,
+      "nutritional_category": "probiotic"
+    }
+  ],
   "gold_additives_raw": [
     "Chất ổn định (466, 460(i), 407, 471)",
     "Hương liệu tổng hợp dùng cho thực phẩm",
     "Chất chống oxi hóa (Hỗn hợp Tocopherol)"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Không dùng cho trẻ dưới 1 tuổi."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 3,
+    "nutritional_names": [
+      "hỗn hợp khoáng và vitamin",
+      "postbiotic",
+      "taurin"
+    ],
+    "nutritional_categories": [
+      "amino_omega_bioactive",
+      "probiotic",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "hỗn hợp khoáng và vitamin",
+        "raw": "Hỗn hợp Khoáng và Vitamin (Tricanxi phosphat, Dinatri phosphat, Kali clorid, Natri clorid, Kali iodid, Magiê oxit, Natri selenit, Mangan sulfat, Kẽm oxit, Đồng sulfat, Retinyl acetat, Natri-L-ascorbat, DL-alpha tocopheryl acetat, Phylloquinon, Thiamin hydroclorid, Riboflavin, Niacinamid, Canxi-D-pantothenat, Pyridoxin hydroclorid, D-Biotin, Axit folic, Cyanocobalamin, Cholecalciferol)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "taurin",
+        "raw": "Taurin",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      },
+      {
+        "name": "postbiotic",
+        "raw": "Postbiotic (Lợi khuẩn Lactococcus lactis Plasma)",
+        "nutritional": true,
+        "nutritional_category": "probiotic"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -41,6 +113,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

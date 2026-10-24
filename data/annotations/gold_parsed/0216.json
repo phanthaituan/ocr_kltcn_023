@@ -15,6 +15,80 @@
     "sữa béo",
     "gluten"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xốt mayonnaise cay",
+      "raw": "xốt mayonnaise cay (13,7%) [dầu thực vật (cọ), đường, bơ tươi, bột lòng trắng trứng, muối, bột ớt, bột cốt dừa, dịch nước cốt chanh, chất điều chỉnh độ acid (330, 338), chất điều vị (621), hạt nêm, chất bảo quản (202), hạt điều màu]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chà bông gà / ruốc gà",
+      "raw": "chà bông gà / ruốc gà (3,1 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dextrose",
+      "raw": "dextrose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật (cọ)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước đường mạch ngô",
+      "raw": "nước đường mạch ngô",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "men",
+      "raw": "men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cồn thực phẩm",
+      "raw": "cồn thực phẩm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa béo",
+      "raw": "sữa béo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gluten",
+      "raw": "gluten",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều chỉnh độ acid (330, 338)",
     "chất điều vị (621)",
@@ -25,7 +99,7 @@
     "chất chống oxy hóa (300)",
     "chất xử lý bột [516, 1100(i)]"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "266 kcal"
@@ -62,6 +136,13 @@
   "gold_warning_raw": [
     "Thành phần có chứa bột mì, trứng, sữa, gluten và có thể chứa đậu nành, cá."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": [
@@ -103,6 +184,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

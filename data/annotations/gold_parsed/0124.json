@@ -10,6 +10,50 @@
     "COCONUT OIL",
     "AGAR"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "glucose syrup",
+      "raw": "GLUCOSE SYRUP (FROM CORN)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sugar",
+      "raw": "SUGAR",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "water",
+      "raw": "WATER",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gelatin",
+      "raw": "GELATIN",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "concentrated peach juice",
+      "raw": "CONCENTRATED PEACH JUICE",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "coconut oil",
+      "raw": "COCONUT OIL",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "agar",
+      "raw": "AGAR",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "SORBITOL",
     "CITRIC ACID",
@@ -22,7 +66,7 @@
     "TITANIUM DIOXIDE",
     "FD&C RED 40"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Calories",
       "value": "100"
@@ -56,6 +100,13 @@
     "ALLERGEN INFORMATION: MAY CONTAIN MILK AND SOY.",
     "CAUTION: SMALL OBJECTS SUCH AS HARD AND SOFT CANDIES MAY INADVERTENTLY BECOME LODGED IN THE THROAT."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": [
@@ -89,6 +140,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

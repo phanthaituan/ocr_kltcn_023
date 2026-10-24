@@ -1,0 +1,78 @@
+{
+  "image_id": "0279",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Da cá (80%)",
+    "gia vị trứng muối (18%)",
+    "bột ớt(0,4%)",
+    "dầu olein và dầu đậu nành tinh luyện",
+    "bơ thực vật"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "155 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "10,3 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "6,1 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "1,0 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "9,9 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "3,4 g"
+    },
+    {
+      "name": "Natri",
+      "value": "330 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm hết hạn, hư hỏng hoặc khi dị ứng với bất kì thành phần nào của sản phẩm"
+  ],
+  "allergen_final": {
+    "contains": [
+      "cá",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "cá",
+      "trứng",
+      "đậu_nành"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "Sản xuất tại: Hộ kinh doanh cơ sở Gia Thịnh",
+  "net_weight": "25 g",
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

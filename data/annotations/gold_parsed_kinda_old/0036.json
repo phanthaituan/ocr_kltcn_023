@@ -1,0 +1,76 @@
+{
+  "image_id": "0036",
+  "product_name": "PREMIUM EGG NOODLE",
+  "gold_ingredients_raw": [
+    "Bột mì (95%)",
+    "muối",
+    "trứng gà tươi (3,5%)"
+  ],
+  "gold_additives_raw": [
+    "Chất điều chỉnh độ axit: (INS 451(i), INS 500(i), INS 501(i))",
+    "Chất làm dày: (INS 405)",
+    "Chất điều vị: (INS 621, INS 627, INS 631)",
+    "Chất chống đông vón: (INS 551)",
+    "Màu tự nhiên: (INS 164, INS 160b(ii))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Hàm lượng béo (g)",
+      "value": "0.8 - 1.2"
+    },
+    {
+      "name": "Hàm lượng carbohydrate (g)",
+      "value": "58.8 - 88.2"
+    },
+    {
+      "name": "Hàm lượng protein (g)",
+      "value": "8.9 - 13.3"
+    },
+    {
+      "name": "Năng lượng (kcal)",
+      "value": "278 - 416"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng cho người dị ứng với các thành phần của sản phẩm",
+    "Sản phẩm có chứa gluten, trứng"
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "trứng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "trứng"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "trứng"
+    ],
+    "inferred_from_ingredient_additive": [
+      "gluten",
+      "trứng"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1,
+      "named_allergy": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

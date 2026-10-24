@@ -13,6 +13,68 @@
     "Vitamin B2 (3,2 mg)",
     "Vitamin B1 (0,5 mg)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "taurine",
+      "raw": "Taurine (1000 mg)",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    },
+    {
+      "name": "mật ong",
+      "raw": "Mật ong (500 mg)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "caffein",
+      "raw": "Caffein (80 mg)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "inositol",
+      "raw": "Inositol (50 mg)",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    },
+    {
+      "name": "vitamin b3",
+      "raw": "Vitamin B3 (20 mg)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin b6",
+      "raw": "Vitamin B6 (4 mg)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin b2",
+      "raw": "Vitamin B2 (3,2 mg)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin b1",
+      "raw": "Vitamin B1 (0,5 mg)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [
     "Chất điều chỉnh độ acid (330, 331(iii))",
     "Hương liệu tổng hợp",
@@ -22,7 +84,7 @@
     "Chất điều vị (621)",
     "Chất chống oxy hóa (310)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "178 kcal"
@@ -67,6 +129,60 @@
   "gold_warning_raw": [
     "Sản phẩm không phù hợp với người dị ứng với caffein, người bị bệnh tiểu đường, phụ nữ mang thai và trẻ em."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 6,
+    "nutritional_names": [
+      "inositol",
+      "taurine",
+      "vitamin b1",
+      "vitamin b2",
+      "vitamin b3",
+      "vitamin b6"
+    ],
+    "nutritional_categories": [
+      "amino_omega_bioactive",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "taurine",
+        "raw": "Taurine (1000 mg)",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      },
+      {
+        "name": "inositol",
+        "raw": "Inositol (50 mg)",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      },
+      {
+        "name": "vitamin b3",
+        "raw": "Vitamin B3 (20 mg)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin b6",
+        "raw": "Vitamin B6 (4 mg)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin b2",
+        "raw": "Vitamin B2 (3,2 mg)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin b1",
+        "raw": "Vitamin B1 (0,5 mg)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -90,6 +206,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

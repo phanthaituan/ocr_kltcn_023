@@ -11,8 +11,58 @@
     "ớt (1%)",
     "dầu điều (0,5%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "da heo",
+      "raw": "Da heo (83%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước mắm",
+      "raw": "nước mắm (7%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường (3,5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật (2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt nêm",
+      "raw": "hạt nêm (2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành lá",
+      "raw": "hành lá (1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ớt",
+      "raw": "ớt (1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu điều",
+      "raw": "dầu điều (0,5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "482.4 Kcal"
@@ -47,6 +97,13 @@
     "Không sử dụng cho người dị ứng với các thành phần của sản phẩm.",
     "Không sử dụng sản phẩm hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá"
@@ -75,6 +132,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

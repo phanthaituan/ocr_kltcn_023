@@ -1,0 +1,94 @@
+{
+  "image_id": "0064",
+  "product_name": "XỐT SALAD PHÔ MAI TRỨNG",
+  "gold_ingredients_raw": [
+    "Dầu đậu nành",
+    "nước",
+    "đường",
+    "giấm",
+    "bột phô mai (3%)",
+    "lòng đỏ trứng gà (3,5%)",
+    "bột kem tươi",
+    "xi-rô ngô",
+    "muối i-ốt",
+    "bột chanh",
+    "bột hành tây",
+    "chiết xuất nấm men",
+    "lá mùi tây"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (1422, 471, 415)",
+    "chất điều vị (621)",
+    "hương liệu tổng hợp (hương phô mai, hương sữa kem)",
+    "chất điều chỉnh độ axit (330)",
+    "chất bảo quản (202)",
+    "chất tạo ngọt tổng hợp (951)",
+    "chất chống oxi hóa (385)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "437 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "42,9 g"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "11,8 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0,77 g"
+    },
+    {
+      "name": "Natri",
+      "value": "883 mg"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "9,08 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không dùng cho người dị ứng với các thành phần của sản phẩm.",
+    "Không dùng sản phẩm khi đã hết hạn sử dụng hoặc có dấu hiệu ôi dầu."
+  ],
+  "allergen_final": {
+    "contains": [
+      "ngô",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "ngô",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "VIỆT NAM",
+  "net_weight": null,
+  "mfg_date": "08 tháng trước HSD",
+  "expiry_date": "Xem trên bao bì (ngày.tháng.năm)",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

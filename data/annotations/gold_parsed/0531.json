@@ -7,13 +7,46 @@
     "Milk Powder 10%",
     "Salt 2%"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "wheat flour 60%",
+      "raw": "Wheat Flour 60%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sugar 25%",
+      "raw": "Sugar 25%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "milk powder 10%",
+      "raw": "Milk Powder 10%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "salt 2%",
+      "raw": "Salt 2%",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Food Additive 3% (Raising Agent (INS 500(ii), INS 450(i)), Stabilizing Agent (INS 415(i)), Artificial Vanilla Extract)"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Do not eat raw batter."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -37,6 +70,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

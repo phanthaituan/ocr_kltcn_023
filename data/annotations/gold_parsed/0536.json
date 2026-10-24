@@ -9,12 +9,50 @@
     "khoáng chất (calci carbonat)",
     "men Streptococcus thermophilus và Lactobacillus bulgaricus"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa hoàn toàn từ sữa bò tươi",
+      "raw": "Sữa hoàn toàn từ sữa bò tươi (51%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin",
+      "raw": "vitamin (B6, B12, acid folic)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "khoáng chất",
+      "raw": "khoáng chất (calci carbonat)",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "men streptococcus thermophilus và lactobacillus bulgaricus",
+      "raw": "men Streptococcus thermophilus và Lactobacillus bulgaricus",
+      "nutritional": true,
+      "nutritional_category": "probiotic"
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (440)",
     "hương liệu tự nhiên (hương dâu - chuối - lúa mạch)",
     "màu tự nhiên (160b(ii), 120)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "68,4 kcal"
@@ -60,6 +98,40 @@
     "Sản phẩm có chứa sữa.",
     "Phù hợp cho trẻ từ 2 tuổi trở lên."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 3,
+    "nutritional_names": [
+      "khoáng chất",
+      "men streptococcus thermophilus và lactobacillus bulgaricus",
+      "vitamin"
+    ],
+    "nutritional_categories": [
+      "mineral_trace",
+      "probiotic",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "vitamin",
+        "raw": "vitamin (B6, B12, acid folic)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "khoáng chất",
+        "raw": "khoáng chất (calci carbonat)",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "men streptococcus thermophilus và lactobacillus bulgaricus",
+        "raw": "men Streptococcus thermophilus và Lactobacillus bulgaricus",
+        "nutritional": true,
+        "nutritional_category": "probiotic"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -90,6 +162,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

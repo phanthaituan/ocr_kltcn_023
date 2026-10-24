@@ -1,0 +1,77 @@
+{
+  "image_id": "0300",
+  "product_name": "Bánh Rong biển Kẹp Hạt",
+  "gold_ingredients_raw": [
+    "27% Hạt điều",
+    "21% Bí xanh",
+    "16% Gạo lứt nổ",
+    "8% Nước",
+    "6% Hạt óc chó",
+    "5.6% Đường cát",
+    "5% Mật ong",
+    "4.3% Mè trắng",
+    "3% Lá rong biển",
+    "Nước tương",
+    "Mạch nha",
+    "Dầu mè",
+    "Muối ăn"
+  ],
+  "gold_additives_raw": [
+    "Chất bảo quản INS 282",
+    "Chất điều chỉnh độ acid INS 330"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng / Energy",
+      "value": "529"
+    },
+    {
+      "name": "Chất đạm / Protein",
+      "value": "18 g"
+    },
+    {
+      "name": "Carbohydrat / Carbohydrate",
+      "value": "41 g"
+    },
+    {
+      "name": "Đường tổng / Sugars",
+      "value": "18 g"
+    },
+    {
+      "name": "Chất béo / Total Fat",
+      "value": "32 g"
+    },
+    {
+      "name": "Natri / Sodium",
+      "value": "216 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không dùng sản phẩm khi hết hạn, không ăn túi hút ẩm, hút oxy (nếu có) trong sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "100 g",
+  "mfg_date": "08/12/2025",
+  "expiry_date": "08/09/2026",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -12,6 +12,62 @@
     "muối",
     "hỗn hợp calci lactat và calci gluconat 0,5%"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "dầu cọ",
+      "raw": "Dầu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "rong biển 28,9%",
+      "raw": "rong biển 28,9%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chà bông cá hồi 12,4%",
+      "raw": "chà bông cá hồi 12,4% [cá hồi, thịt nạc gà, đường, nước mắm, hạt nêm, chiết xuất nấm men, muối, chất xơ, màu điều, bột tỏi, bột tiêu, phẩm màu tổng hợp (110, 120), chất bảo quản (202)]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường làm bánh",
+      "raw": "đường làm bánh",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu mè",
+      "raw": "dầu mè",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp calci lactat và calci gluconat 0,5%",
+      "raw": "hỗn hợp calci lactat và calci gluconat 0,5%",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    }
+  ],
   "gold_additives_raw": [
     "màu điều",
     "phẩm màu tổng hợp (110, 120)",
@@ -20,7 +76,7 @@
     "hương liệu tự nhiên",
     "hương liệu giống tự nhiên"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Số khẩu phần",
       "value": "3"
@@ -63,6 +119,24 @@
     "Được sản xuất chung dây chuyền sản xuất các sản phẩm có chứa đậu nành, sữa, giáp xác.",
     "Không sử dụng sản phẩm khi đã hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "hỗn hợp calci lactat và calci gluconat 0,5%"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "hỗn hợp calci lactat và calci gluconat 0,5%",
+        "raw": "hỗn hợp calci lactat và calci gluconat 0,5%",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -107,6 +181,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

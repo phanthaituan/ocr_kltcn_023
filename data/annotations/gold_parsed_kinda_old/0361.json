@@ -1,0 +1,89 @@
+{
+  "image_id": "0361",
+  "product_name": "BÁNH MÌ HOA CÚC NGĂN LỚP NAM VIỆT QUẤT - F’ESTA",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "Bơ thực vật (18.1%)",
+    "Đường",
+    "Trứng nguyên quả",
+    "Nam việt quất (4.3%)",
+    "Đường bắp",
+    "Men",
+    "Bột sữa béo",
+    "Gluten từ lúa mì",
+    "Muối",
+    "Cồn thực phẩm"
+  ],
+  "gold_additives_raw": [
+    "Chất làm ẩm (420(ii))",
+    "Chất nhũ hóa (471, 1400, 481(i), 477, 322(i))",
+    "Chất bảo quản (282, 200)",
+    "Hương liệu tổng hợp (Bơ, Vani)",
+    "Chất xử lý bột (1100(i), 1100(iii))",
+    "Chất chống oxy hóa (300, 304)"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Bên trong có khí Nitơ để bảo quản.",
+    "Thành phần sản phẩm có chứa: Lúa mì, trứng, sữa, đậu nành.",
+    "Sản phẩm có thể chứa mè, hạnh nhân, dừa, cá, động vật giáp xác."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": [
+      "cá",
+      "dừa",
+      "giáp_xác",
+      "hạt_cây",
+      "hạt_vừng"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [
+      "cá",
+      "dừa",
+      "giáp_xác",
+      "hạt_cây",
+      "hạt_vừng"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "cá",
+      "dừa",
+      "giáp_xác",
+      "gluten",
+      "hạt_cây",
+      "hạt_vừng",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "storage_instruction": 1,
+      "named_allergy": 2
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": "140 g (28 g x 5 gói)",
+  "mfg_date": "Xem “PRO”",
+  "expiry_date": "Xem “EXP”",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

@@ -7,13 +7,39 @@
     "5% bột sữa chua",
     "chất béo thực vật"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "35% bột sữa",
+      "raw": "35% Bột sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ cacao",
+      "raw": "bơ cacao",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "5% bột sữa chua",
+      "raw": "5% bột sữa chua",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "chất béo thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "maltitol (INS 965(i))",
     "chất nhũ hóa (lecithin đậu nành (INS 322(i), INS 476)",
     "hương liệu sữa chua tổng hợp",
     "hương liệu vanilla tự nhiên"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "494 kcal"
@@ -43,6 +69,13 @@
     "Sản phẩm có chứa sữa, đậu nành.",
     "Có thể chứa một lượng rất nhỏ thành phần các loại hạt trên cùng dây chuyền sản xuất."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "sữa",
@@ -76,6 +109,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

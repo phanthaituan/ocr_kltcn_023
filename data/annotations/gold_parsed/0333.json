@@ -10,12 +10,56 @@
     "vitamin(A, D3)",
     "kẽm sulphat"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa tươi",
+      "raw": "Sữa tươi (81%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước ép táo hoàn nguyên",
+      "raw": "nước ép táo hoàn nguyên",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất xơ thực phẩm",
+      "raw": "chất xơ thực phẩm (inulin)",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "men streptococcus thermophilus và lactobacillus bulgaricus",
+      "raw": "men Streptococcus thermophilus và Lactobacillus bulgaricus",
+      "nutritional": true,
+      "nutritional_category": "probiotic"
+    },
+    {
+      "name": "vitamin",
+      "raw": "vitamin(A, D3)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "kẽm sulphat",
+      "raw": "kẽm sulphat",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (466, 418(i), 412)",
     "chất điều chỉnh độ acid (270, 331(iii))",
     "hương liệu tự nhiên"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "99,8 kcal"
@@ -65,6 +109,48 @@
     "Có chứa sữa.",
     "Không sử dụng cho người mẫn cảm với thành phần của sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 4,
+    "nutritional_names": [
+      "chất xơ thực phẩm",
+      "kẽm sulphat",
+      "men streptococcus thermophilus và lactobacillus bulgaricus",
+      "vitamin"
+    ],
+    "nutritional_categories": [
+      "fiber_prebiotic",
+      "mineral_trace",
+      "probiotic",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "chất xơ thực phẩm",
+        "raw": "chất xơ thực phẩm (inulin)",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      },
+      {
+        "name": "men streptococcus thermophilus và lactobacillus bulgaricus",
+        "raw": "men Streptococcus thermophilus và Lactobacillus bulgaricus",
+        "nutritional": true,
+        "nutritional_category": "probiotic"
+      },
+      {
+        "name": "vitamin",
+        "raw": "vitamin(A, D3)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "kẽm sulphat",
+        "raw": "kẽm sulphat",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -97,6 +183,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

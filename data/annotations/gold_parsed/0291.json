@@ -6,6 +6,86 @@
     "Gia vị tẩm ướp: Chất làm dày (INS 1422, INS 1412, INS 1420), bột mì, bột gạo, muối, hành tây, tỏi, chiết xuất nấm men, tiêu đen, bột tạo xốp (INS 500(ii)), bột gia vị cà ri (1%), bột nguyên trứng, gia vị hỗn hợp (0,7%)",
     "Xốt chấm: Nước, đường, nước mắm, dầu thực vật, ớt, tỏi, muối, giấm, bột điều màu, chiết xuất thanh hương trà, chiết xuất hào"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "gia vị nấu cơm: dầu thực vật, đường, muối, nước, đạm thực vật thủy phân, bột thịt gà",
+      "raw": "Gia vị nấu cơm: Dầu thực vật, đường, muối, nước, đạm thực vật thủy phân, bột thịt gà (8%), gia vị hỗn hợp (4,9%), bột gà rì (1,2%), chiết xuất nấm men, hương liệu tổng hợp (hương gà), chiết xuất thanh hương trà, chiết xuất quả dành dành",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị tẩm ướp: chất làm dày",
+      "raw": "Gia vị tẩm ướp: Chất làm dày (INS 1422, INS 1412, INS 1420), bột mì, bột gạo, muối, hành tây, tỏi, chiết xuất nấm men, tiêu đen, bột tạo xốp (INS 500(ii)), bột gia vị cà ri (1%), bột nguyên trứng, gia vị hỗn hợp (0,7%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước mắm",
+      "raw": "nước mắm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ớt",
+      "raw": "ớt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tỏi",
+      "raw": "tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "giấm",
+      "raw": "giấm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột điều màu",
+      "raw": "bột điều màu",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất thanh hương trà",
+      "raw": "chiết xuất thanh hương trà",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất hào",
+      "raw": "chiết xuất hào",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "INS 621",
     "hương liệu tổng hợp (hương gà)",
@@ -16,7 +96,7 @@
     "INS 821",
     "INS 635"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "294 kcal"
@@ -46,6 +126,13 @@
     "Không sử dụng sản phẩm hết hạn",
     "Sản phẩm có chứa thành phần đậu nành, lúa mì, trứng, hào, cá."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -85,6 +172,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

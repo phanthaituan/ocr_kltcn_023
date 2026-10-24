@@ -8,10 +8,42 @@
     "dầu dừa được hydro hóa",
     "chiết xuất từ xoài (0,07%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột sắn",
+      "raw": "tinh bột sắn",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gừng",
+      "raw": "gừng (7,47%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu dừa được hydro hóa",
+      "raw": "dầu dừa được hydro hóa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất từ xoài",
+      "raw": "chiết xuất từ xoài (0,07%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "hương liệu xoài tổng hợp"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "15 kcal"
@@ -50,6 +82,13 @@
     "Chỉ sử dụng khi bao bì còn nguyên vẹn.",
     "Thận trọng khi sử dụng sản phẩm cho trẻ dưới 3 tuổi do có thể bị hóc những mảnh kẹo nhỏ."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "dừa"
@@ -81,6 +120,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

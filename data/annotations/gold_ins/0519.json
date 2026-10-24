@@ -1,0 +1,15 @@
+{
+  "image_id": "0519",
+  "gold_ins_additive": [
+    "160b",
+    "270",
+    "330",
+    "418",
+    "466"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "hương liệu giống tự nhiên (hương cam và hương ngọt)"
+  ],
+  "ins_parser_version": "1.1"
+}

@@ -15,12 +15,86 @@
     "phụ gia làm bánh (tinh bột, chất nhũ hóa (INS 472e), đường, chất chống oxy hóa (INS 300), chất xử lý bột (INS 1100(ii)))",
     "trứng"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì (29,19 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sô cô la compound hương matcha",
+      "raw": "sô cô la compound hương matcha (15,59 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sô cô la compound trắng",
+      "raw": "sô cô la compound trắng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ thực vật",
+      "raw": "bơ thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo dạng phết",
+      "raw": "chất béo dạng phết",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "men khô dùng liền",
+      "raw": "men khô dùng liền",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột trà xanh",
+      "raw": "bột trà xanh (1,25 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "kem làm mềm bánh",
+      "raw": "kem làm mềm bánh",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "phụ gia làm bánh",
+      "raw": "phụ gia làm bánh (tinh bột, chất nhũ hóa (INS 472e), đường, chất chống oxy hóa (INS 300), chất xử lý bột (INS 1100(ii)))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng",
+      "raw": "trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất nhũ hóa (INS 472e)",
     "chất chống oxy hóa (INS 300)",
     "chất xử lý bột (INS 1100(ii))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "547 kcal"
@@ -52,6 +126,13 @@
     "Để gói hút ẩm tránh xa tầm tay trẻ em.",
     "Các đốm trắng trên bề mặt sô cô la có thể xuất hiện do ảnh hưởng bởi nhiệt độ trong quá trình lưu thông. Hiện tượng này không ảnh hưởng đến chất lượng và an toàn của sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -93,6 +174,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

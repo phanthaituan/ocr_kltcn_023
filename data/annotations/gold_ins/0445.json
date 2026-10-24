@@ -1,0 +1,13 @@
+{
+  "image_id": "0445",
+  "gold_ins_additive": [],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Lecithin",
+    "Natural flavor",
+    "Colors (Blue 1 Lake, Yellow 6, Red 40, Yellow 5, Blue 1, Yellow 6 Lake, Red 40 Lake, Yellow 5 Lake, Blue 2 Lake, Blue 2)",
+    "Carnauba wax",
+    "Gum acacia"
+  ],
+  "ins_parser_version": "1.1"
+}

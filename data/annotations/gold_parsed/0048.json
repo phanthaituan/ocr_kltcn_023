@@ -11,6 +11,56 @@
     "Trehalose",
     "Palm oil"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "glucose syrup",
+      "raw": "Glucose Syrup",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sugar",
+      "raw": "Sugar",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "water",
+      "raw": "Water",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "concentrated mango juice",
+      "raw": "Concentrated Mango Juice",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "concentrated apple juice",
+      "raw": "Concentrated Apple Juice",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gelatin",
+      "raw": "Gelatin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trehalose",
+      "raw": "Trehalose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "palm oil",
+      "raw": "Palm oil",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Humectant E422(Glycerol)",
     "Acidity Regulators E330 (Citric Acid)",
@@ -24,7 +74,7 @@
     "Acidity Regulators E452i (Sodium Polyphosphate)",
     "Artificial colors: E171 Titanium Dioxide, E102 Tartrazine, E110 Sunset Yellow"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Calories",
       "value": "92kcal"
@@ -74,6 +124,13 @@
     "Allergen Information: may contain milk, soy and sulphites.",
     "WARNING: Choking Hazard."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": [
@@ -107,6 +164,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

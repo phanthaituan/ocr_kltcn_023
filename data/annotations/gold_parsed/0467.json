@@ -24,6 +24,134 @@
     "Vitamin B9",
     "Maltodextrin"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa",
+      "raw": "Sữa (35%) (nước, sữa bột nguyên kem, sữa bột gầy)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất ngũ cốc và lúa mạch",
+      "raw": "Chiết xuất ngũ cốc và lúa mạch (2,1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ca cao",
+      "raw": "Bột ca cao (1,1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "khoáng chất",
+      "raw": "Khoáng chất (tricalci phosphat, dicalci phosphat, magnesi carbonat, mangan (II) sulfat)",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "xi-rô glucose",
+      "raw": "Xi-rô glucose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột whey",
+      "raw": "Bột whey",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột kem không sữa",
+      "raw": "Bột kem không sữa (xi-rô glucose, dầu cọ hydro hóa, chất ổn định (340(ii)), chất caseinat, chất nhũ hóa (471), muối)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "Dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin e",
+      "raw": "Vitamin E",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin b3",
+      "raw": "Vitamin B3",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin a",
+      "raw": "Vitamin A",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "axit pantothenic",
+      "raw": "Axit pantothenic",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin b6",
+      "raw": "Vitamin B6",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin d",
+      "raw": "Vitamin D",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin b1",
+      "raw": "Vitamin B1",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin b12",
+      "raw": "Vitamin B12",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin b2",
+      "raw": "Vitamin B2",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin b9",
+      "raw": "Vitamin B9",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "Maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất ổn định (340(ii))",
     "Chất nhũ hóa (471)",
@@ -32,7 +160,7 @@
     "Hương liệu tự nhiên (hương ngọt)",
     "Hương liệu giống tự nhiên (hương lúa mạch, hương sôcôla, hương vani)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "130 kcal"
@@ -113,6 +241,95 @@
   "gold_warning_raw": [
     "Sản phẩm có chứa sữa và đậu nành."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 11,
+    "nutritional_names": [
+      "axit pantothenic",
+      "khoáng chất",
+      "vitamin a",
+      "vitamin b1",
+      "vitamin b12",
+      "vitamin b2",
+      "vitamin b3",
+      "vitamin b6",
+      "vitamin b9",
+      "vitamin d",
+      "vitamin e"
+    ],
+    "nutritional_categories": [
+      "mineral_trace",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "khoáng chất",
+        "raw": "Khoáng chất (tricalci phosphat, dicalci phosphat, magnesi carbonat, mangan (II) sulfat)",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "vitamin e",
+        "raw": "Vitamin E",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin b3",
+        "raw": "Vitamin B3",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin a",
+        "raw": "Vitamin A",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "axit pantothenic",
+        "raw": "Axit pantothenic",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin b6",
+        "raw": "Vitamin B6",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin d",
+        "raw": "Vitamin D",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin b1",
+        "raw": "Vitamin B1",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin b12",
+        "raw": "Vitamin B12",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin b2",
+        "raw": "Vitamin B2",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin b9",
+        "raw": "Vitamin B9",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "sữa",
@@ -145,6 +362,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

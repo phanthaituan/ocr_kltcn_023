@@ -4,12 +4,56 @@
   "gold_ingredients_raw": [
     "Ham (Cured with: Water, Salt, Sodium Phosphates, Sugar, Spices, Sodium Erythorbate, Sodium Nitrite)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "water",
+      "raw": "Water",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "salt",
+      "raw": "Salt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sodium phosphates",
+      "raw": "Sodium Phosphates",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sugar",
+      "raw": "Sugar",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "spices",
+      "raw": "Spices",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sodium erythorbate",
+      "raw": "Sodium Erythorbate",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sodium nitrite)",
+      "raw": "Sodium Nitrite)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Sodium Phosphates",
     "Sodium Erythorbate",
     "Sodium Nitrite"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Serving Size",
       "value": "56g"
@@ -76,6 +120,13 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -97,6 +148,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": false
   }
 }

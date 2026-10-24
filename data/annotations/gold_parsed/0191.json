@@ -4,10 +4,18 @@
   "gold_ingredients_raw": [
     "Bột bánh bao 75% (bột mì, đường, dầu nành tinh luyện, muối ăn, sữa, men), trứng vịt muối (9.20%), bơ (5.44%), đường, bột custard"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột bánh bao 75%",
+      "raw": "Bột bánh bao 75% (bột mì, đường, dầu nành tinh luyện, muối ăn, sữa, men), trứng vịt muối (9.20%), bơ (5.44%), đường, bột custard",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "màu thực phẩm tổng hợp INS 160(i)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng (Energy)",
       "value": "334 kcal"
@@ -36,6 +44,13 @@
   "gold_warning_raw": [
     "Không phù hợp cho người bị dị ứng với các thành phần trên."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -67,6 +82,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

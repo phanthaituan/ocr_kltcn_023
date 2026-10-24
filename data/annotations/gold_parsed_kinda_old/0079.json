@@ -1,0 +1,76 @@
+{
+  "image_id": "0079",
+  "product_name": "Pizza Phô Mai",
+  "gold_ingredients_raw": [
+    "Đế bánh (65 %) (bột mì, nước, dầu hạt cải, muối, men (Saccharomyces cerevisiae))",
+    "phô mai (35 %) (sữa bò, muối, enzyme đông sữa, khuẩn sữa, phẩm màu tổng hợp (INS 160a(i)))"
+  ],
+  "gold_additives_raw": [
+    "enzyme đông sữa",
+    "phẩm màu tổng hợp (INS 160a(i))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "273 kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "10.5 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "30.3 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "14.3 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "1.6 g"
+    },
+    {
+      "name": "Natri",
+      "value": "545 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm không phù hợp với những người bị dị ứng với các thành phần trên.",
+    "Không dùng sản phẩm hết hạn sử dụng.",
+    "Không sử dụng sản phẩm có màu và mùi lạ bất thường."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "gluten",
+      "sữa"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1,
+      "expiry_usage": 1,
+      "desiccant_or_misc": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "02.02.2026",
+  "expiry_date": "02.08.2027",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

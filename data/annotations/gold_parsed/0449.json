@@ -7,12 +7,38 @@
     "Dầu nành, đường 5%",
     "Muối i-ốt"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "cá 60%",
+      "raw": "Cá 60%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xốt cà chua 35%",
+      "raw": "Xốt cà chua 35%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu nành, đường 5%",
+      "raw": "Dầu nành, đường 5%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "Muối i-ốt",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    }
+  ],
   "gold_additives_raw": [
     "Chất làm dày (1442, 1414, 412)",
     "Chất điều vị (621)",
     "Màu thực phẩm Lycopen tổng hợp (160d(ii))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "69 kcal"
@@ -75,6 +101,24 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "muối i-ốt"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "muối i-ốt",
+        "raw": "Muối i-ốt",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -96,6 +140,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": false
   }
 }

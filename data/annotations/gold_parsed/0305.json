@@ -15,6 +15,80 @@
     "bột quả mâm xôi 0,2%",
     "Chứa kem hương vị hoa hồng 47%"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật hydro hóa hoàn toàn",
+      "raw": "dầu thực vật hydro hóa hoàn toàn (dầu nhân cọ, dầu cọ, dầu hạt cải) (đậu nành)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột nguyên kem 9%",
+      "raw": "sữa bột nguyên kem 9% (đậu nành)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường lactose",
+      "raw": "đường lactose (sữa)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "shortening",
+      "raw": "shortening (dầu cọ hydro hóa hoàn toàn, chất nhũ hóa (este của propylene glycol với acid béo), chất chống oxy hóa (tocopherol concentrat (dạng hỗn hợp)))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất xơ inulin",
+      "raw": "chất xơ inulin",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "bột mì nguyên cám",
+      "raw": "bột mì nguyên cám",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất mạch nha",
+      "raw": "chiết xuất mạch nha (lúa mì, lúa mạch, lúa mạch đen, yến mạch)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột quả mâm xôi 0,2%",
+      "raw": "bột quả mâm xôi 0,2%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chứa kem hương vị hoa hồng 47%",
+      "raw": "Chứa kem hương vị hoa hồng 47%",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm dày (distarch phosphate)",
     "chất nhũ hóa (este của propylene glycol với acid béo)",
@@ -24,7 +98,7 @@
     "chất tạo màu (carmine, beet red) tự nhiên",
     "chất điều chỉnh độ acid (acid malic (DL-))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "160 kcal (690 kJ)"
@@ -74,6 +148,24 @@
     "Sản phẩm chứa nguyên liệu có nguồn gốc từ lúa mì, gluten, sữa, đậu nành, lúa mạch, lúa mạch đen và yến mạch.",
     "Được sản xuất tại cơ sở sử dụng hạnh nhân."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "chất xơ inulin"
+    ],
+    "nutritional_categories": [
+      "fiber_prebiotic"
+    ],
+    "items": [
+      {
+        "name": "chất xơ inulin",
+        "raw": "chất xơ inulin",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -112,6 +204,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

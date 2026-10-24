@@ -10,6 +10,50 @@
     "Cheese Powder (1%) (contains Milk Powder, Cheese Solids)",
     "Salt"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "wheat flour",
+      "raw": "Wheat Flour",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sugar",
+      "raw": "Sugar",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vegetable oil",
+      "raw": "Vegetable Oil (contains Antioxidant TBHQ (E319))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "whey powder",
+      "raw": "Whey Powder",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "Maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cheese powder",
+      "raw": "Cheese Powder (1%) (contains Milk Powder, Cheese Solids)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "salt",
+      "raw": "Salt",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Antioxidant TBHQ (E319)",
     "Synthetic Milk Flavour (contains Milk Solids)",
@@ -19,7 +63,7 @@
     "Acidity Regulator Lactid Acid (E270)",
     "Natural Colour Carmine (E120)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Khẩu phần",
       "value": "15 g"
@@ -69,6 +113,13 @@
     "Allergen Information. For allergens, see ingredients in bold. May also contain Egg, Hazelnut and Peanut.",
     "DO NOT ACCEPT IF PACKAGING IS DAMAGED."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "hạt_cây",
@@ -105,6 +156,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

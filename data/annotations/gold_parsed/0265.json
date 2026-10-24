@@ -8,13 +8,45 @@
     "Hạt Mắc ca",
     "Có thể chứa một lượng rất nhỏ thành phần các loại hạt khác"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sô cô la sữa chua",
+      "raw": "Sô Cô La Sữa Chua (Bột sữa, Bơ cacao, Đường, Chất béo thực vật, Bột Sữa chua (5%), Chất nhũ hóa (Lecithin đậu nành (INS 322i), INS 476), Chất làm bóng (INS 414, INS 904))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt hạnh nhân",
+      "raw": "Hạt Hạnh nhân",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt điều",
+      "raw": "Hạt Điều",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt mắc ca",
+      "raw": "Hạt Mắc ca",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "có thể chứa một lượng rất nhỏ thành phần các loại hạt khác",
+      "raw": "Có thể chứa một lượng rất nhỏ thành phần các loại hạt khác",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất nhũ hóa (Lecithin đậu nành (INS 322i), INS 476)",
     "Chất làm bóng (INS 414, INS 904)",
     "Hương Sữa Chua Tổng Hợp",
     "Hương Vanilla Tự Nhiên"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "599 kcal"
@@ -45,6 +77,13 @@
     "Nhai kỹ trước khi nuốt.",
     "Lưu ý khi cho trẻ em dưới 3 tuổi sử dụng, có thể bị hóc khi sử dụng sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "hạt_cây",
@@ -77,6 +116,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

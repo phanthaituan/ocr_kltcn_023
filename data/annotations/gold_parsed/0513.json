@@ -2,8 +2,9 @@
   "image_id": "0513",
   "product_name": null,
   "gold_ingredients_raw": [],
+  "gold_ingredients_parsed": [],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "65 kcal"
@@ -84,6 +85,13 @@
   "gold_warning_raw": [
     "Sử dụng cho người trên 3 tuổi."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -107,6 +115,7 @@
     "has_ingredient": false,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

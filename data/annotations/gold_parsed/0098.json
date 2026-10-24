@@ -5,6 +5,62 @@
     "Vắt mì: Bột mì, dầu cọ, tinh bột khoai mì, muối, nước mắm, bột lòng đỏ trứng, chiết xuất trái dành dành, bột cari",
     "Súp: Dầu cọ, đường, muối, tỏi, ớt, đạm đậu nành, thơm, ngò gai, ngò om,bôt tôm, hành lá sấy, hành tím, hỗn hợp protein sấy vụn, cà chua bột, dưa chua (cải bẹ, hành tím, muối, đường, cà chua dạng sệt, ngò gai sấy, ớt sấy, nước cốt xương thịt (nước, xương heo, muối, thịt heo), bột tỏi, nước mắm, tôm khô, hành tây, chiết xuất nấm men, gạo, khổ mực, mắm ruốc, bột tiêu, hương liệu (hương tôm càng nướng tổng hợp), ruốc khô, bột chiết xuất sườn heo, me, nguyên liệu vitamin E acetate (DL-alpha-tocopheryl acetate), dầu hạt cải dầu, D-xylose, chiết xuất tự nhiên từ quả ớt"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ",
+      "raw": "dầu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột khoai mì",
+      "raw": "tinh bột khoai mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước mắm",
+      "raw": "nước mắm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột lòng đỏ trứng",
+      "raw": "bột lòng đỏ trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất trái dành dành",
+      "raw": "chiết xuất trái dành dành",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cari",
+      "raw": "bột cari",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "súp: dầu cọ, đường, muối, tỏi, ớt, đạm đậu nành, thơm, ngò gai, ngò om,bôt tôm, hành lá sấy, hành tím, hỗn hợp protein sấy vụn, cà chua bột, dưa chua",
+      "raw": "Súp: Dầu cọ, đường, muối, tỏi, ớt, đạm đậu nành, thơm, ngò gai, ngò om,bôt tôm, hành lá sấy, hành tím, hỗn hợp protein sấy vụn, cà chua bột, dưa chua (cải bẹ, hành tím, muối, đường, cà chua dạng sệt, ngò gai sấy, ớt sấy, nước cốt xương thịt (nước, xương heo, muối, thịt heo), bột tỏi, nước mắm, tôm khô, hành tây, chiết xuất nấm men, gạo, khổ mực, mắm ruốc, bột tiêu, hương liệu (hương tôm càng nướng tổng hợp), ruốc khô, bột chiết xuất sườn heo, me, nguyên liệu vitamin E acetate (DL-alpha-tocopheryl acetate), dầu hạt cải dầu, D-xylose, chiết xuất tự nhiên từ quả ớt",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (1420, 500(i), 500(ii))",
     "chất điều vị (621, 635)",
@@ -18,7 +74,7 @@
     "chất nhũ hóa (472e)",
     "chất chống oxy hóa (320, 321)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "361,1 kcal"
@@ -52,6 +108,24 @@
     "Sản phẩm chứa các nguyên liệu có nguồn gốc từ lúa mì, thủy sản, trứng, đậu nành",
     "Có thể chứa vết đậu phộng và hạt điều"
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "súp: dầu cọ, đường, muối, tỏi, ớt, đạm đậu nành, thơm, ngò gai, ngò om,bôt tôm, hành lá sấy, hành tím, hỗn hợp protein sấy vụn, cà chua bột, dưa chua"
+    ],
+    "nutritional_categories": [
+      "isolated_protein"
+    ],
+    "items": [
+      {
+        "name": "súp: dầu cọ, đường, muối, tỏi, ớt, đạm đậu nành, thơm, ngò gai, ngò om,bôt tôm, hành lá sấy, hành tím, hỗn hợp protein sấy vụn, cà chua bột, dưa chua",
+        "raw": "Súp: Dầu cọ, đường, muối, tỏi, ớt, đạm đậu nành, thơm, ngò gai, ngò om,bôt tôm, hành lá sấy, hành tím, hỗn hợp protein sấy vụn, cà chua bột, dưa chua (cải bẹ, hành tím, muối, đường, cà chua dạng sệt, ngò gai sấy, ớt sấy, nước cốt xương thịt (nước, xương heo, muối, thịt heo), bột tỏi, nước mắm, tôm khô, hành tây, chiết xuất nấm men, gạo, khổ mực, mắm ruốc, bột tiêu, hương liệu (hương tôm càng nướng tổng hợp), ruốc khô, bột chiết xuất sườn heo, me, nguyên liệu vitamin E acetate (DL-alpha-tocopheryl acetate), dầu hạt cải dầu, D-xylose, chiết xuất tự nhiên từ quả ớt",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -95,6 +169,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

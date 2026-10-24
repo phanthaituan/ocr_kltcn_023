@@ -1,0 +1,22 @@
+{
+  "image_id": "0090",
+  "gold_ins_additive": [
+    "1200",
+    "1442",
+    "160a",
+    "296",
+    "330",
+    "331",
+    "334",
+    "407",
+    "420",
+    "440",
+    "901",
+    "903"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Hương liệu giống tự nhiên và tổng hợp (chanh dây, nước ép cà rốt đen cô đặc)"
+  ],
+  "ins_parser_version": "1.1"
+}

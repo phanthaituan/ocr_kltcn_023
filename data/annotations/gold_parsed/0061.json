@@ -8,16 +8,66 @@
     "trà tinh chiết (1,4%)",
     "muối i-ốt"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "quả việt quất",
+      "raw": "quả việt quất (2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hoa atiso đỏ",
+      "raw": "hoa Atiso đỏ (hoa hibiscus) (2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trà tinh chiết",
+      "raw": "trà tinh chiết (1,4%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "muối i-ốt",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    }
+  ],
   "gold_additives_raw": [
     "chất điều chỉnh độ acid 330",
     "hương liệu tổng hợp (phúc bồn tử, chanh)(có chứa lecithin đậu nành, lúa mì - contain sky lecithin, wheat)",
     "chất tạo ngọt tổng hợp acesulfam kali"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Không sử dụng cho người dị ứng với các thành phần của sản phẩm.",
     "Những hạt nâu đen trong sản phẩm là thành phần tự nhiên từ nguyên liệu bột quả Việt Quất."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "muối i-ốt"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "muối i-ốt",
+        "raw": "muối i-ốt",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -48,6 +98,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

@@ -1,0 +1,21 @@
+{
+  "image_id": "0423",
+  "gold_ins_additive": [
+    "1414",
+    "250",
+    "262",
+    "316",
+    "331",
+    "420",
+    "450",
+    "451",
+    "621"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Hương phô mai tổng hợp",
+    "Hương thịt tổng hợp",
+    "Màu thực phẩm tự nhiên chiết xuất từ ớt"
+  ],
+  "ins_parser_version": "1.1"
+}

@@ -6,13 +6,33 @@
     "xi rô ngô (20%)",
     "lactose (dẫn xuất từ sữa) (18%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường (59%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xi rô ngô",
+      "raw": "xi rô ngô (20%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lactose",
+      "raw": "lactose (dẫn xuất từ sữa) (18%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Acid malic (DL-) (INS 296)",
     "hương liệu Cola nhân tạo",
     "phẩm màu tổng hợp: Caramen nhóm IV (caramen amoni sulfit) (INS 150d)",
     "chất tạo khí Carbonic: Carbon dioxide (INS 290)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "395 Kcal"
@@ -41,6 +61,13 @@
   "gold_warning_raw": [
     "Sản phẩm này có chứa chế phẩm từ sữa."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -70,6 +97,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

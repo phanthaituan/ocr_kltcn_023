@@ -21,13 +21,123 @@
     "nguyệt quế",
     "kinh giới"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "cà chua cắt hạt lựu",
+      "raw": "Cà chua cắt hạt lựu (26%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà chua cô đặc",
+      "raw": "cà chua cô đặc (16%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành tây",
+      "raw": "hành tây",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu nành",
+      "raw": "dầu nành",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột kem không sữa",
+      "raw": "bột kem không sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột kem sữa",
+      "raw": "bột kem sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước mắm",
+      "raw": "nước mắm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "muối i-ốt",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "tỏi",
+      "raw": "tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa",
+      "raw": "bột sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đạm whey",
+      "raw": "đạm whey",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    },
+    {
+      "name": "ớt chuông",
+      "raw": "ớt chuông",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất ớt",
+      "raw": "chiết xuất ớt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "húng quế",
+      "raw": "húng quế",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nguyệt quế",
+      "raw": "nguyệt quế",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "kinh giới",
+      "raw": "kinh giới",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm dày (1422)",
     "chất điều vị (621, 627, 631)",
     "chất bảo quản (211, 202)",
     "hương kem sữa tổng hợp"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "≥ 99 kcal"
@@ -53,6 +163,32 @@
     "Không dùng cho người bị dị ứng với các thành phần của sản phẩm (sữa, đậu nành).",
     "Không dùng sản phẩm khi đã hết hạn sử dụng hoặc gói phồng bất thường."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "muối i-ốt",
+      "đạm whey"
+    ],
+    "nutritional_categories": [
+      "isolated_protein",
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "muối i-ốt",
+        "raw": "muối i-ốt",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "đạm whey",
+        "raw": "đạm whey",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "sữa",
@@ -86,6 +222,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

@@ -16,6 +16,86 @@
     "bơ (chất béo sữa)",
     "rau sấy khô"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "chất béo thực vật (dầu cọ)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột phô mai",
+      "raw": "bột phô mai (2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa whey",
+      "raw": "bột sữa whey",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột",
+      "raw": "sữa bột",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột",
+      "raw": "tinh bột (sắn, bắp)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất bổ sung",
+      "raw": "chất bổ sung (calci carbonat)",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "đường lactose",
+      "raw": "đường lactose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ",
+      "raw": "bơ (chất béo sữa)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "rau sấy khô",
+      "raw": "rau sấy khô",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất tạo xốp (503(ii))",
     "(500(ii))",
@@ -25,7 +105,7 @@
     "hương liệu tổng hợp (phô mai)",
     "enzim protease"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "97 kcal (406 kJ)"
@@ -82,6 +162,24 @@
   "gold_warning_raw": [
     "Đối tượng sử dụng: 2 tuổi trở lên."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "chất bổ sung"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "chất bổ sung",
+        "raw": "chất bổ sung (calci carbonat)",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -105,6 +203,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

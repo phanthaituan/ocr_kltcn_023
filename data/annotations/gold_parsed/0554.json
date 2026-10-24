@@ -6,12 +6,32 @@
     "nước ép vải 2.8%",
     "nước ép kiwi 1%"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "kombucha 96%",
+      "raw": "Kombucha 96% (nước, đường, con giống Scoby, trà xanh, trà đen)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước ép vải 2.8%",
+      "raw": "nước ép vải 2.8%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước ép kiwi 1%",
+      "raw": "nước ép kiwi 1%",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (440)",
     "chất tạo ngọt được chiết xuất từ cây cỏ ngọt tự nhiên (960a)",
     "màu thực phẩm tổng hợp (129)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "19 kcal"
@@ -40,6 +60,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm quá hạn."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -63,6 +90,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

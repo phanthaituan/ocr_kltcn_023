@@ -6,6 +6,26 @@
     "Xylitol 39%",
     "Maltitol"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "cốt gôm",
+      "raw": "Cốt gôm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xylitol 39%",
+      "raw": "Xylitol 39%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltitol",
+      "raw": "Maltitol",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Hương liệu bạc hà giống tự nhiên",
     "Chất làm dày (INS 414)",
@@ -16,7 +36,7 @@
     "Chất tạo ngọt tổng hợp (INS 951)",
     "Màu thực phẩm tổng hợp (INS 133)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "360.2 kcal"
@@ -42,6 +62,13 @@
     "Nhai kẹo gum Xylitol không thay thế cho việc chải răng",
     "Sản phẩm có lecithin đậu nành."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "đậu_nành"
@@ -72,6 +99,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

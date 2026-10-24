@@ -6,16 +6,43 @@
     "Yến sào 7.5%",
     "đường tinh luyện"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "yến sào 7.5%",
+      "raw": "Yến sào 7.5%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường tinh luyện",
+      "raw": "đường tinh luyện",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (406, 401, 415)",
     "chất làm dày (327)",
     "hương liệu giống tự nhiên"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Sử dụng hết khi đã mở nắp.",
     "Tránh ánh nắng trực tiếp."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -40,6 +67,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

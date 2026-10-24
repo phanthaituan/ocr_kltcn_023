@@ -11,11 +11,61 @@
     "hạt nêm",
     "tiêu đen"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "tôm",
+      "raw": "Tôm (35%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bánh tráng phơi sương",
+      "raw": "bánh tráng phơi sương",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thịt heo",
+      "raw": "thịt heo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành tím",
+      "raw": "hành tím",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "muối i-ốt",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "hạt nêm",
+      "raw": "hạt nêm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tiêu đen",
+      "raw": "tiêu đen",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị [621]",
     "chất bảo quản (262(i), 260)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "274 Kcal"
@@ -49,6 +99,24 @@
     "Không dùng sản phẩm có vị chua.",
     "Không dùng sản phẩm hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "muối i-ốt"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "muối i-ốt",
+        "raw": "muối i-ốt",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -73,6 +141,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

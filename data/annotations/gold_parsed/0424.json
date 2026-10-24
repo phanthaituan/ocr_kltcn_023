@@ -5,6 +5,20 @@
     "Vắt mì: Bột mì, chất làm dày (1420, 412), tinh bột khoai tây, bột gluten lúa mì, muối, dầu hướng dương, chất nhũ hóa (322(i)), bột tỏi, chất điều vị (621), bột nghệ, chất ổn định (401), chất điều chỉnh độ acid (500(ii)), chất làm ẩm (452(i)), chất tạo màu (164) tự nhiên, chất chống oxy hóa (320, 321)",
     "Súp: Viên súp bò sấy thăng hoa 157,8 g/kg, dầu cọ, mỡ bò tinh chế 24,3 g/kg, hành tím, tỏi tây, tinh cốt thịt bò 15,5 g/kg, chất điều vị (621, 635), tương hột, tương hột ớt, nước tương, bột thịt bò hầm 11 g/kg, nước cốt xương thịt gà, bò, chiết xuất nấm men, nước cốt bò 7,2 g/kg, xirô fructose-glucose, gừng, đường, gia vị lên men rau nấm, muối, cốt bò gia vị 2,2 g/kg, bột ớt, bột tiêu, chất tạo màu ((150a) tự nhiên, (150d) tổng hợp), bột hồi, bột quế, hương liệu tổng hợp, chất chống oxy hóa (320, 321)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "vắt mì: bột mì, chất làm dày",
+      "raw": "Vắt mì: Bột mì, chất làm dày (1420, 412), tinh bột khoai tây, bột gluten lúa mì, muối, dầu hướng dương, chất nhũ hóa (322(i)), bột tỏi, chất điều vị (621), bột nghệ, chất ổn định (401), chất điều chỉnh độ acid (500(ii)), chất làm ẩm (452(i)), chất tạo màu (164) tự nhiên, chất chống oxy hóa (320, 321)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "súp: viên súp bò sấy thăng hoa",
+      "raw": "Súp: Viên súp bò sấy thăng hoa 157,8 g/kg, dầu cọ, mỡ bò tinh chế 24,3 g/kg, hành tím, tỏi tây, tinh cốt thịt bò 15,5 g/kg, chất điều vị (621, 635), tương hột, tương hột ớt, nước tương, bột thịt bò hầm 11 g/kg, nước cốt xương thịt gà, bò, chiết xuất nấm men, nước cốt bò 7,2 g/kg, xirô fructose-glucose, gừng, đường, gia vị lên men rau nấm, muối, cốt bò gia vị 2,2 g/kg, bột ớt, bột tiêu, chất tạo màu ((150a) tự nhiên, (150d) tổng hợp), bột hồi, bột quế, hương liệu tổng hợp, chất chống oxy hóa (320, 321)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất làm dày (1420, 412)",
     "Chất nhũ hóa (322(i))",
@@ -18,7 +32,7 @@
     "Chất tạo màu ((150a) tự nhiên, (150d) tổng hợp)",
     "Hương liệu tổng hợp"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "344,0 kcal"
@@ -51,6 +65,13 @@
   "gold_warning_raw": [
     "Sản phẩm chứa các nguyên liệu có nguồn gốc từ lúa mì, đậu nành."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -83,6 +104,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

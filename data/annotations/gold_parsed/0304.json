@@ -7,6 +7,32 @@
     "bột quả Đào (0,1%)",
     "bột trà (0,1%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường kính",
+      "raw": "Đường kính",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường dextrose",
+      "raw": "Đường Dextrose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột quả đào",
+      "raw": "bột quả Đào (0,1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột trà",
+      "raw": "bột trà (0,1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều chỉnh độ acid (INS 330, INS 331(iii))",
     "màu thực phẩm tổng hợp (INS 150d)",
@@ -14,7 +40,7 @@
     "chất chống đông vón (INS 551)",
     "chất tạo ngọt tổng hợp (INS 950, INS 955)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Calories/ Năng lượng",
       "value": "58,95 Kcal"
@@ -43,6 +69,13 @@
   "gold_warning_raw": [
     "Không dùng sản phẩm hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -66,6 +99,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

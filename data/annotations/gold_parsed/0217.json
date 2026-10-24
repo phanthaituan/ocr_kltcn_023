@@ -10,12 +10,56 @@
     "muối ăn",
     "vitamin (E, B3, A, D3, Biotin)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa chiết từ đậu nành nguyên hạt",
+      "raw": "Sữa chiết từ đậu nành nguyên hạt (52,3%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường (5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mè đen nghiền",
+      "raw": "mè đen nghiền (16 g/l)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối ăn",
+      "raw": "muối ăn",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin",
+      "raw": "vitamin (E, B3, A, D3, Biotin)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [
     "chất nhũ hóa (471, 460(i), 466) có nguồn gốc từ thực vật",
     "hương liệu giống tự nhiên dùng cho thực phẩm",
     "chất điều chỉnh độ acid (500(ii))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "NĂNG LƯỢNG",
       "value": "53.1 kcal"
@@ -65,6 +109,24 @@
     "Có chứa đậu nành, mè.",
     "Dùng cho người trên 4 tuổi không dị ứng với thành phần của sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "vitamin"
+    ],
+    "nutritional_categories": [
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "vitamin",
+        "raw": "vitamin (E, B3, A, D3, Biotin)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "hạt_vừng",
@@ -103,6 +165,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

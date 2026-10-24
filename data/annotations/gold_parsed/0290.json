@@ -24,6 +24,134 @@
     "Hỗn hợp bơ cacao và bột cacao (0,1%)",
     "Muối iot"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường (21,4%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "shortening thực vật",
+      "raw": "Shortening thực vật (chứa chất nhũ hóa (471))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nhân đậu đỏ",
+      "raw": "Nhân đậu đỏ (4,4%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "Dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "kem sữa đánh tiệt trùng",
+      "raw": "Kem sữa đánh tiệt trùng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sô cô la sữa nguyên chất",
+      "raw": "Sô cô la sữa nguyên chất (1,7%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "Chất béo thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa nguyên kem",
+      "raw": "Bột sữa nguyên kem",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "Maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cồn thực phẩm",
+      "raw": "Cồn thực phẩm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha isomalto oligo",
+      "raw": "Mạch nha Isomalto Oligo",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "bột sữa dừa",
+      "raw": "Bột sữa dừa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cacao",
+      "raw": "Bột cacao (0,5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa gầy",
+      "raw": "Bột sữa gầy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột lòng trắng trứng",
+      "raw": "Bột lòng trắng trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột gạo nếp",
+      "raw": "Tinh bột gạo nếp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột kem sữa",
+      "raw": "Bột kem sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp bơ cacao và bột cacao",
+      "raw": "Hỗn hợp bơ cacao và bột cacao (0,1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối iot",
+      "raw": "Muối iot",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất tạo ngọt tự nhiên (964)",
     "chất nhũ hóa (471)",
@@ -35,7 +163,7 @@
     "Hương liệu giống tự nhiên (hương bán)",
     "Chất tạo màu tổng hợp (124, 102, 133)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "113 Kcal"
@@ -60,6 +188,24 @@
   "gold_warning_raw": [
     "Không dùng cho người dị ứng với các thành phần sau: Trứng, Lúa mì, Sữa, Đậu nành và có thể chứa cá"
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "mạch nha isomalto oligo"
+    ],
+    "nutritional_categories": [
+      "fiber_prebiotic"
+    ],
+    "items": [
+      {
+        "name": "mạch nha isomalto oligo",
+        "raw": "Mạch nha Isomalto Oligo",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": [
@@ -101,6 +247,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

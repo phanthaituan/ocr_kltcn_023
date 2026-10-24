@@ -16,6 +16,86 @@
     "MUỐI",
     "MUỐI I-ỐT"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "trứng",
+      "raw": "TRỨNG (22,3%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "BỘT MÌ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "ĐƯỜNG",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "DẦU THỰC VẬT",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "CHẤT BÉO THỰC VẬT",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha maltose",
+      "raw": "MẠCH NHA MALTOSE",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha isomalto oligo",
+      "raw": "MẠCH NHA ISOMALTO OLIGO",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "bột sữa nguyên kem",
+      "raw": "BỘT SỮA NGUYÊN KEM",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cồn thực phẩm",
+      "raw": "CỒN THỰC PHẨM",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột lòng đỏ trứng",
+      "raw": "BỘT LÒNG ĐỎ TRỨNG (1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "MALTODEXTRIN",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "MUỐI",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "MUỐI I-ỐT",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    }
+  ],
   "gold_additives_raw": [
     "CHẤT LÀM ẨM (420(ii), 1520, 422)",
     "CHẤT NHŨ HÓA (477, 471, 322(i), 475, 491, 470(ii))",
@@ -24,7 +104,7 @@
     "HƯƠNG LIỆU TỔNG HỢP (VANI, SỮA TRỨNG)",
     "CHẤT TẠO MÀU TỔNG HỢP (160a(i))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "102 kcal"
@@ -53,6 +133,32 @@
   "gold_warning_raw": [
     "SẢN PHẨM KHÔNG DÙNG CHO NGƯỜI DỊ ỨNG VỚI CÁC THÀNH PHẦN SAU: TRỨNG, LÚA MÌ, SỮA, ĐẬU NÀNH VÀ CÓ THỂ CHỨA CÁ."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "muối i-ốt",
+      "mạch nha isomalto oligo"
+    ],
+    "nutritional_categories": [
+      "fiber_prebiotic",
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "mạch nha isomalto oligo",
+        "raw": "MẠCH NHA ISOMALTO OLIGO",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      },
+      {
+        "name": "muối i-ốt",
+        "raw": "MUỐI I-ỐT",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": [
@@ -94,6 +200,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

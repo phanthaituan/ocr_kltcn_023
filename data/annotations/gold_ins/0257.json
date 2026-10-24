@@ -1,0 +1,24 @@
+{
+  "image_id": "0257",
+  "gold_ins_additive": [
+    "320",
+    "321",
+    "364",
+    "451",
+    "466",
+    "500",
+    "501",
+    "551",
+    "621",
+    "627",
+    "631"
+  ],
+  "gold_ins_in_ingredient": [
+    "607"
+  ],
+  "additives_without_code": [
+    "phẩm màu curcumin tự nhiên",
+    "hương liệu (tổng hợp, giống tự nhiên)"
+  ],
+  "ins_parser_version": "1.1"
+}

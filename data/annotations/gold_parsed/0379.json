@@ -8,11 +8,43 @@
     "tiêu",
     "muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "rong biển 50%",
+      "raw": "Rong biển 50%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp dầu tinh 44%",
+      "raw": "hỗn hợp dầu tinh 44% [dầu cọ, chất chống oxy hóa (INS 321), dầu cám gạo]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "Maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tiêu",
+      "raw": "tiêu",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất chống oxy hóa (INS 321)",
     "Flavour Enhancer (INS627, INS631)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Energy",
       "value": "21 kcal"
@@ -97,6 +129,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm nếu bao bì bị hỏng hoặc hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -120,6 +159,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

@@ -7,6 +7,32 @@
     "gelatin 5.49%",
     "tinh bột bắp 2.98%"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "xi-rô glucose 63.46%",
+      "raw": "Xi-rô glucose 63.46%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường 26.11%",
+      "raw": "đường 26.11%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gelatin 5.49%",
+      "raw": "gelatin 5.49%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột bắp 2.98%",
+      "raw": "tinh bột bắp 2.98%",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều chỉnh độ acid (INS 330)",
     "chất làm ẩm (INS 420(i))",
@@ -14,7 +40,7 @@
     "phẩm màu nhân tạo (Tartrazin (INS 102), Allura red AC (INS 129), Brilliant blue FCF (INS 133))",
     "hương liệu nhân tạo"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "364 kcal"
@@ -39,6 +65,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm khi hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -62,6 +95,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

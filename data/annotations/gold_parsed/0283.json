@@ -12,6 +12,62 @@
     "muối",
     "dầu cọ"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chocochip 19%",
+      "raw": "chocochip 19% [đường trắng, dầu cọ, bột ca cao, ca cao hạt, sữa bột nguyên chất, chất nhũ hóa INS 322(i), hương liệu vani tổng hợp]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường trắng",
+      "raw": "đường trắng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật [dầu cọ, chất chống oxy hóa INS 320]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột ngô",
+      "raw": "tinh bột ngô",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột nguyên chất",
+      "raw": "sữa bột nguyên chất",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột nở",
+      "raw": "bột nở [chất điều chỉnh độ axit INS 503(ii), chất tạo xốp INS 500(ii)]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ",
+      "raw": "dầu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất nhũ hóa INS 322(i)",
     "hương liệu vani tổng hợp",
@@ -21,7 +77,7 @@
     "chất nhũ hóa INS 322(i)",
     "phẩm màu tổng hợp INS 150a"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "500 kcal"
@@ -56,6 +112,13 @@
     "Không dùng chất hút ẩm trong sản phẩm này.",
     "Sản phẩm có chứa sữa, đậu nành, lúa mì."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -97,6 +160,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

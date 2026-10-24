@@ -13,6 +13,68 @@
     "Muối",
     "Hạt phỉ"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "yến mạch",
+      "raw": "Yến mạch (19,8%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt sôcôla",
+      "raw": "Hạt sôcôla (14,6%) (đường, chất béo thực vật (dầu cọ), bột cacao, cacao khối, chất nhũ hóa (322(i), 476), bơ cacao, chất ổn định (492), hương liệu tổng hợp)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "Chất béo thực vật (dầu cọ)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha",
+      "raw": "Mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cacao",
+      "raw": "Bột cacao (2,7%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất bổ sung",
+      "raw": "Chất bổ sung (calci carbonat)",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt phỉ",
+      "raw": "Hạt phỉ",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất nhũ hóa (322(i), 476)",
     "Chất ổn định (492)",
@@ -21,7 +83,7 @@
     "Chất nhũ hóa (322(i))",
     "Hương liệu tổng hợp (sôcôla, vani)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "508 kJ (121 kcal)"
@@ -72,6 +134,24 @@
     "Có thể có chứa sữa và đậu phộng vì được sản xuất tại nhà máy có sử dụng nguyên liệu sữa và đậu phộng.",
     "Đối tượng sử dụng: 2 tuổi trở lên."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "chất bổ sung"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "chất bổ sung",
+        "raw": "Chất bổ sung (calci carbonat)",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -113,6 +193,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

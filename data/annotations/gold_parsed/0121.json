@@ -8,8 +8,40 @@
     "muối [0.1%]",
     "Từ 200g cây mía tươi, 16g quả sơ ri và 10g quả tắc trên 100ml."
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước mía",
+      "raw": "Nước mía [85.6%]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sơ ri",
+      "raw": "sơ ri [10%]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tắc",
+      "raw": "tắc [4.3%]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối [0.1%]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "từ",
+      "raw": "Từ 200g cây mía tươi, 16g quả sơ ri và 10g quả tắc trên 100ml.",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Mỗi khẩu phần",
       "value": "250mL"
@@ -80,6 +112,13 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -101,6 +140,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": false
   }
 }

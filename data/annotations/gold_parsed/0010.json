@@ -13,10 +13,72 @@
     "bột phô mai",
     "chất béo sữa khan"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì (lúa mì)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường trắng",
+      "raw": "Đường trắng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "choco chip 15%",
+      "raw": "choco chip 15% (đường trắng, dầu thực vật, nguyên liệu cacao: bột cacao)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "shortening",
+      "raw": "shortening (mỡ bò, dầu cọ)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng",
+      "raw": "trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha",
+      "raw": "mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa đặc",
+      "raw": "sữa đặc",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột phô mai",
+      "raw": "bột phô mai",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo sữa khan",
+      "raw": "chất béo sữa khan",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất tạo màu tổng hợp INS150a"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "214 kcal"
@@ -49,6 +111,13 @@
   "gold_warning_raw": [
     "Sản phẩm này được sản xuất theo dây chuyền với các sản phẩm có sử dụng từ cua, thịt heo, thịt gà, quả đào, tôm, mực ống, động vật có vỏ (con hào, con trai), cá chua, quả óc chó, đậu phộng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": [
@@ -90,6 +159,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

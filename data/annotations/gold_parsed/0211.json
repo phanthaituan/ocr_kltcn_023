@@ -17,12 +17,98 @@
     "muối",
     "lá dứa tươi (0.03%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đậu xanh",
+      "raw": "Đậu xanh (18%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa đặc",
+      "raw": "sữa đặc",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha",
+      "raw": "mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lòng đỏ trứng vịt muối",
+      "raw": "lòng đỏ trứng vịt muối (6%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ thực vật",
+      "raw": "bơ thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa tươi",
+      "raw": "sữa tươi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa",
+      "raw": "bột sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột bắp",
+      "raw": "bột bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gelatin",
+      "raw": "gelatin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lá dứa tươi",
+      "raw": "lá dứa tươi (0.03%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất bảo quản (202)",
     "hương tổng hợp (lá dứa, vani, trứng muối)",
     "màu tổng hợp (124, 110, 133)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Khẩu phần",
       "value": "100g"
@@ -90,6 +176,13 @@
     "Bánh có thể bị hư hỏng hoặc bị mốc trước thời hạn sử dụng do bao bì bị tổn thương trong quá trình vận chuyển hoặc do tác động của môi trường tự nhiên. Khi gặp trường hợp trên, Quý Khách vui lòng mang sản phẩm đến cửa hàng gần nhất của chúng tôi để được đổi lại.",
     "Không sử dụng sản phẩm khi đã quá hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -128,6 +221,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

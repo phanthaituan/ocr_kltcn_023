@@ -9,6 +9,44 @@
     "Xơ thực vật",
     "Muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước cốt dừa xim",
+      "raw": "Nước cốt dừa XIM (92,9%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu dừa tinh luyện",
+      "raw": "Dầu dừa tinh luyện",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xơ thực vật",
+      "raw": "Xơ thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất ổn định (1400, 1442, 415)",
     "Hương liệu dừa tổng hợp",
@@ -16,7 +54,7 @@
     "Chất nhũ hóa (435)",
     "Chất điều chỉnh độ acid (500(ii))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "137 kcal"
@@ -45,6 +83,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm hết hạn sử dụng, hoặc có dấu hiệu hư hỏng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -68,6 +113,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

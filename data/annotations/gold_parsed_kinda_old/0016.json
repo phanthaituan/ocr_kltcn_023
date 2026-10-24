@@ -1,0 +1,110 @@
+{
+  "image_id": "0016",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Bột Mì",
+    "Dầu Ăn (với Chất Chống Oxy Hóa (320, 321))",
+    "Tinh Bột Sắn",
+    "Tinh Bột Bắp",
+    "Gia Vị Cà Chua",
+    "Khoai Tây Miếng",
+    "Bột Cà Chua (3%)",
+    "Đường",
+    "Muối I-ốt",
+    "Bột Nước Tương"
+  ],
+  "gold_additives_raw": [
+    "Chất Chống Oxy Hóa (320, 321)",
+    "Chất Điều Vị (621)",
+    "Chất Nhũ Hóa (471)",
+    "Màu Thực Phẩm Tự Nhiên (164)",
+    "Màu Thực Phẩm Tổng Hợp (129)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "140 Kcal"
+    },
+    {
+      "name": "Chất béo",
+      "value": "5 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "2 g"
+    },
+    {
+      "name": "Natri",
+      "value": "215 mg"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "20 g"
+    },
+    {
+      "name": "Chất xơ",
+      "value": "ít hơn 1 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "2 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa Lúa Mì, Đậu Nành.",
+    "Được sản xuất trên cùng thiết bị và/hoặc trên dây chuyền chế biến các sản phẩm có thành phần gây dị ứng như: Hải Sản, Sữa, Trứng, Yến Mạch và Đậu Phộng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "đậu_nành"
+    ],
+    "may_contain": [
+      "hải_sản",
+      "sữa",
+      "trứng",
+      "đậu_phộng"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [
+      "gluten",
+      "hải_sản",
+      "sữa",
+      "trứng",
+      "đậu_phộng"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "hải_sản",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "image_id": "0144",
+  "gold_ins_additive": [
+    "322",
+    "414",
+    "476"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "hương liệu tổng hợp (phô mai, tiramisu, vani, cà phê)"
+  ],
+  "ins_parser_version": "1.1"
+}

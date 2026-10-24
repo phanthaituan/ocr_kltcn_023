@@ -13,6 +13,68 @@
     "Calci carbonat 0,7%",
     "Hương liệu rau củ (hương liệu (tự nhiên, giống tự nhiên, tổng hợp), chất điều vị (621, 631, 627, 620), chất ổn định (414), chất điều chỉnh độ acid (330, 341(iii)), chất tạo xốp (500(ii)), hương liệu (tự nhiên, giống tự nhiên) (tôm), chất chống oxy hóa (307b))"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột bắp",
+      "raw": "Bột bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "shortening thực vật",
+      "raw": "Shortening thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị tôm nướng 4,4%",
+      "raw": "Gia vị tôm nướng 4,4% (chất điều vị (621, 951, 631, 627, 364(ii)), hương liệu tự nhiên, chất chống đông vón (551), chất điều chỉnh độ acid (330), chất tạo màu tự nhiên (150c), chất chống oxy hóa (307b, 307c))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "Dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột bắp",
+      "raw": "Tinh bột bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "Muối i-ốt",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "calci carbonat 0,7%",
+      "raw": "Calci carbonat 0,7%",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "hương liệu rau củ",
+      "raw": "Hương liệu rau củ (hương liệu (tự nhiên, giống tự nhiên, tổng hợp), chất điều vị (621, 631, 627, 620), chất ổn định (414), chất điều chỉnh độ acid (330, 341(iii)), chất tạo xốp (500(ii)), hương liệu (tự nhiên, giống tự nhiên) (tôm), chất chống oxy hóa (307b))",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất ổn định (1420)",
     "Chất điều vị (621, 951, 631, 627, 364(ii))",
@@ -30,10 +92,35 @@
     "Hương liệu (tự nhiên, giống tự nhiên, tổng hợp)",
     "Hương liệu (tự nhiên, giống tự nhiên) (tôm)"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Sản phẩm có chứa các thành phần dị ứng: lúa mì, đậu nành, tôm, sữa và có thể chứa cá, sulfite, trứng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "calci carbonat 0,7%",
+      "muối i-ốt"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "muối i-ốt",
+        "raw": "Muối i-ốt",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "calci carbonat 0,7%",
+        "raw": "Calci carbonat 0,7%",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": [
@@ -81,6 +168,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

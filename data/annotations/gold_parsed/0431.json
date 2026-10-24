@@ -10,12 +10,56 @@
     "chiết xuất nấm men",
     "đầu cá hồi*"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước mắm cốt",
+      "raw": "Nước mắm cốt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước mắm cốt cá hồi",
+      "raw": "Nước mắm cốt cá hồi (20%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất nấm men",
+      "raw": "chiết xuất nấm men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đầu cá hồi*",
+      "raw": "đầu cá hồi*",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (635)",
     "chất điều chỉnh acid (330)",
     "hương liệu (tổng hợp, giống tự nhiên)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Hàm lượng nitơ tổng số",
       "value": "từ 20-24 g"
@@ -28,6 +72,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm nếu dị ứng với các thành phần có trong sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá"
@@ -55,6 +106,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

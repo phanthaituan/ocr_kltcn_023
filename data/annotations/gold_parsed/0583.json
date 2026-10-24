@@ -6,13 +6,33 @@
     "Xi rô ngô (20%)",
     "Lactose (dẫn xuất từ sữa) (18%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường (50%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xi rô ngô",
+      "raw": "Xi rô ngô (20%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lactose",
+      "raw": "Lactose (dẫn xuất từ sữa) (18%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất điều chỉnh độ acid: acid malic (DL-) (INS 296)",
     "Hương liệu dưa hấu nhân tạo",
     "Phẩm màu tổng hợp: Allura red AC (INS 129)",
     "Chất tạo khí Carbonic: Carbon dioxide (INS 290)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Calories",
       "value": "6"
@@ -77,6 +97,13 @@
   "gold_warning_raw": [
     "Sản phẩm có chứa chế phẩm từ sữa."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -106,6 +133,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

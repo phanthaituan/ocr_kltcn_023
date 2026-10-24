@@ -12,10 +12,66 @@
     "bột nước tương",
     "bột nguyên trứng"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước gạo",
+      "raw": "Nước gạo (7%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cá hồi",
+      "raw": "cá hồi (6,66%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gạo st25",
+      "raw": "gạo ST25 (1,5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột phô mai",
+      "raw": "bột phô mai (1,5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tỏi",
+      "raw": "tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột nước tương",
+      "raw": "bột nước tương",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột nguyên trứng",
+      "raw": "bột nguyên trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm dày (1442, 1422)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "61 kcal"
@@ -45,6 +101,13 @@
     "Không dùng cho người bị dị ứng với các thành phần của sản phẩm.",
     "Không dùng sản phẩm khi đã hết hạn sử dụng hoặc gói phồng to bất thường."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -75,6 +138,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

@@ -5,6 +5,20 @@
     "Tinh bột sắn",
     "nước"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "tinh bột sắn",
+      "raw": "Tinh bột sắn",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "màu caramel tổng hợp (INS 150d)",
     "chất bảo quản: Kali sorbat (INS 202)",
@@ -13,7 +27,7 @@
     "Aspartam (INS 951)",
     "hương đường đen tổng hợp"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "233 kcal"
@@ -44,6 +58,13 @@
     "Sản phẩm này có thể gây hóc, vui lòng nhai kỹ khi ăn",
     "Không sử dụng cho trẻ nhỏ và người già không có khả năng nhai"
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -68,6 +89,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

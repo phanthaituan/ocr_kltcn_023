@@ -12,6 +12,62 @@
     "Bột phô mai 0.5%",
     "Chiết xuất nấm men"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "thịt 71%",
+      "raw": "Thịt 71% (*) (thịt heo, thịt gà)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước đá",
+      "raw": "Nước đá",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "phô mai 10%",
+      "raw": "Phô mai 10% (*)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột bắp",
+      "raw": "Tinh bột bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đạm đậu nành",
+      "raw": "Đạm đậu nành",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    },
+    {
+      "name": "gia vị",
+      "raw": "Gia vị (muối, đường, tiêu)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vỏ bọc bằng ruột collagen",
+      "raw": "Vỏ bọc bằng ruột collagen (hoặc ruột tự nhiên)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột phô mai 0.5%",
+      "raw": "Bột phô mai 0.5%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất nấm men",
+      "raw": "Chiết xuất nấm men",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất ổn định (1414, 420(i))",
     "Chất nhũ hóa (451(i), 450(i))",
@@ -23,7 +79,7 @@
     "Màu thực phẩm tự nhiên chiết xuất từ ớt",
     "Chất giữ màu (250)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "240 kcal"
@@ -68,6 +124,24 @@
     "Nếu sản phẩm đã cấp đông nên rã đông hoàn toàn tại ngăn mát tủ lạnh trước khi chế biến.",
     "Không nên tái cấp đông sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "đạm đậu nành"
+    ],
+    "nutritional_categories": [
+      "isolated_protein"
+    ],
+    "items": [
+      {
+        "name": "đạm đậu nành",
+        "raw": "Đạm đậu nành",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "ngô",
@@ -103,6 +177,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

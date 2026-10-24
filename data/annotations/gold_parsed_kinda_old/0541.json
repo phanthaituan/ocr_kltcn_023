@@ -1,0 +1,121 @@
+{
+  "image_id": "0541",
+  "product_name": "KEM BÁNH CÁ DÂU - SAMANCO STRAWBERRY",
+  "gold_ingredients_raw": [
+    "Nước",
+    "siro dâu 23,4% (dâu 10,5%, đường, siro ngô, chất ổn định (INS 1442, INS 440), chất điều chỉnh độ acid (INS 330, INS 341(ii), INS 331(iii)), hương liệu nhân tạo, phẩm màu tự nhiên (INS 162i))",
+    "bánh quy 9,5% (bột lúa mì, tinh bột ngô, chất xơ lúa mì, dầu cọ, đường, bột nở [chất điều chỉnh độ acid (INS 450(i), INS 341(ii)), tinh bột ngô, chất tạo xốp (INS 500(ii))], muối, hỗn hợp công thức (nước, chất làm ẩm (INS 420(i)), chất nhũ hóa (INS 471, INS 322(i) (đậu nành), INS 473, INS 491, INS 477)), chất làm rắn chắc (INS 526), phẩm màu tự nhiên (INS 160a(iv)))",
+    "đường",
+    "dầu dừa",
+    "siro ngô",
+    "bột sữa chế biến (bột sữa tách béo, bột whey permeate khử khoáng (sữa), bột whey (sữa), chất nhũ hóa (INS 471, INS 433), chất ổn định (INS 466, INS 412, INS 407, INS 410), 2 loại hương liệu nhân tạo (vani))",
+    "muối"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (INS 1442, INS 440)",
+    "chất điều chỉnh độ acid (INS 330, INS 341(ii), INS 331(iii))",
+    "hương liệu nhân tạo",
+    "phẩm màu tự nhiên (INS 162i)",
+    "chất điều chỉnh độ acid (INS 450(i), INS 341(ii))",
+    "chất tạo xốp (INS 500(ii))",
+    "chất làm ẩm (INS 420(i))",
+    "chất nhũ hóa (INS 471, INS 322(i) (đậu nành), INS 473, INS 491, INS 477)",
+    "chất làm rắn chắc (INS 526)",
+    "phẩm màu tự nhiên (INS 160a(iv))",
+    "chất nhũ hóa (INS 471, INS 433)",
+    "chất ổn định (INS 466, INS 412, INS 407, INS 410)",
+    "2 loại hương liệu nhân tạo (vani)",
+    "2 loại hương liệu nhân tạo (sữa)",
+    "phẩm màu tổng hợp (INS 102, INS 110)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "200 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2.3 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "6.7 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "4.9 g"
+    },
+    {
+      "name": "Chất béo chuyển hóa",
+      "value": "0.0 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "32.7 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "21.8 g"
+    },
+    {
+      "name": "Natri",
+      "value": "64.7 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Thành phần có chứa lúa mì (gluten), đậu nành và sữa.",
+    "Có thể chứa trứng, đậu phộng, yến mạch (gluten), các loại hạt cây (hạnh nhân, dừa, hạt phỉ, óc chó, hạt điều)."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": [
+      "dừa",
+      "hạt_cây",
+      "trứng",
+      "đậu_phộng"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [
+      "dừa",
+      "gluten",
+      "hạt_cây",
+      "trứng",
+      "đậu_phộng"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "dừa",
+      "gluten",
+      "hạt_cây",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": "Hàn Quốc",
+  "net_weight": "150 ml",
+  "mfg_date": "24 tháng trước HSD",
+  "expiry_date": "Xem Best Before trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

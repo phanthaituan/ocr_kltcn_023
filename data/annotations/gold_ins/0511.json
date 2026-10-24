@@ -1,0 +1,13 @@
+{
+  "image_id": "0511",
+  "gold_ins_additive": [
+    "1414",
+    "415"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "hương phô mai tổng hợp",
+    "hương sữa giống tự nhiên"
+  ],
+  "ins_parser_version": "1.1"
+}

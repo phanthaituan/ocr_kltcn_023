@@ -1,0 +1,43 @@
+{
+  "image_id": "0261",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Hỗn hợp dầu thực vật (dầu ngô, dầu Ô Liu)",
+    "rong biển Hàn Quốc (22%)",
+    "chà bông cá hồi (20%)",
+    "maltodextrin",
+    "đường",
+    "chiết xuất tôm",
+    "bột tỏi",
+    "muối hồng"
+  ],
+  "gold_additives_raw": [
+    "chất điều vị (INS621)",
+    "hương liệu tự nhiên (hương hương thảo)"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": false
+  }
+}

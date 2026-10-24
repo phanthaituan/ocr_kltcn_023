@@ -6,12 +6,50 @@
     "Sucrose (3,8%)",
     "Sữa non (Colostrum) (100 mg/l)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa bò tươi nguyên chất",
+      "raw": "Sữa bò tươi nguyên chất (96%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sucrose",
+      "raw": "Sucrose (3,8%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa non",
+      "raw": "Sữa non (Colostrum) (100 mg/l)",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (460(i),466,407,471)",
     "Hương giống tự nhiên dùng cho thực phẩm"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "sữa non"
+    ],
+    "nutritional_categories": [
+      "amino_omega_bioactive"
+    ],
+    "items": [
+      {
+        "name": "sữa non",
+        "raw": "Sữa non (Colostrum) (100 mg/l)",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -33,6 +71,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": true,
     "has_warning": false
   }
 }

@@ -7,8 +7,34 @@
     "tắc [4.3%]",
     "muối [0.1%]"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước mía",
+      "raw": "Nước mía [85.6%]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sơ ri",
+      "raw": "sơ ri [10%]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tắc",
+      "raw": "tắc [4.3%]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối [0.1%]",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "4 Khẩu phần mỗi hộp",
       "value": "4 servings per container"
@@ -83,6 +109,13 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -104,6 +137,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": false
   }
 }

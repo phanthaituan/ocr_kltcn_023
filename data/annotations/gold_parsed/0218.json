@@ -10,11 +10,55 @@
     "sữa",
     "mè"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước cốt dừa",
+      "raw": "nước cốt dừa (40%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường cát",
+      "raw": "đường cát",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gạo",
+      "raw": "bột gạo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng gà",
+      "raw": "trứng gà",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa",
+      "raw": "sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mè",
+      "raw": "mè",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "hương vani tổng hợp",
     "hương sầu riêng tổng hợp"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "470 Kcal"
@@ -39,6 +83,13 @@
   "gold_warning_raw": [
     "Sản phẩm có chứa thành phần bột mì (gluten), có thể gây dị ứng cho người mẫn cảm tới thành phần trên."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten"
@@ -68,6 +119,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

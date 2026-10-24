@@ -6,10 +6,30 @@
     "malto dextrin",
     "đường mía (12%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột ca cao",
+      "raw": "Bột ca cao (70%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "malto dextrin",
+      "raw": "malto dextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường mía",
+      "raw": "đường mía (12%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "hương vani tổng hợp"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Cho khẩu phần",
       "value": "100 g"
@@ -42,6 +62,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm nếu dị ứng với thành phần có trong sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -65,6 +92,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

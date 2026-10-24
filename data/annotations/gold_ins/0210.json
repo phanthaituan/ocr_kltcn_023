@@ -1,0 +1,24 @@
+{
+  "image_id": "0210",
+  "gold_ins_additive": [
+    "1520",
+    "160a",
+    "170",
+    "322",
+    "415",
+    "420",
+    "422",
+    "470",
+    "471",
+    "475",
+    "477",
+    "491",
+    "500",
+    "575"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "HƯƠNG LIỆU TỔNG HỢP (VANI, SỮA TRỨNG)"
+  ],
+  "ins_parser_version": "1.1"
+}

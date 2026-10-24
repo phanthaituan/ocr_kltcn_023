@@ -10,12 +10,56 @@
     "maltodextrin",
     "muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "dầu cọ rong biển 27,9%",
+      "raw": "Dầu cọ rong biển 27,9%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mè",
+      "raw": "mè",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường làm bánh",
+      "raw": "đường làm bánh (đường tinh luyện, bột bắp)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu mè",
+      "raw": "dầu mè",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "hương liệu nước tương giống tự nhiên",
     "chất điều vị (621)",
     "hương liệu tự nhiên"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "57 kcal"
@@ -49,6 +93,13 @@
     "Có chứa đậu nành, lúa mì (gluten).",
     "Được sản xuất chung dây chuyền sản xuất các sản phẩm có chứa sữa, cá, giáp xác"
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -92,6 +143,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

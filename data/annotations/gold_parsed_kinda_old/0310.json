@@ -1,0 +1,70 @@
+{
+  "image_id": "0310",
+  "product_name": "Thạch L-Carnitine, Vitamin C và 15% nước ép vải",
+  "gold_ingredients_raw": [
+    "Nước (Water)",
+    "nước ép vải từ bột nước ép vải cô đặc (lychee juice from concentrate lychee juice powder) 15%",
+    "xi rô fructose (fructose syrup)",
+    "đường (sugar)",
+    "L-carnitine 0,410%",
+    "vitamin C [acid L- ascorbic (L- ascorbic acid)] 0,010%"
+  ],
+  "gold_additives_raw": [
+    "chất điều chỉnh độ acid (acidity regulator) (INS 332(ii), INS 296, INS 330)",
+    "chất tạo gel (gelling agent) (INS 407)",
+    "chất ổn định (stabilizer) (INS 425)",
+    "hương liệu giống tự nhiên (hương vải) [nature-identical flavour (lychee flavour)]",
+    "chất bảo quản (preservative) (INS 211)",
+    "chất tạo ngọt nhân tạo (artificial sweetener) (INS 950, INS 955)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng (Energy)",
+      "value": "60 kcal"
+    },
+    {
+      "name": "Chất đạm (Protein)",
+      "value": "0,291 g"
+    },
+    {
+      "name": "Carbohydrat (Carbohydrate)",
+      "value": "13,7 g"
+    },
+    {
+      "name": "Đường tổng số (Total sugars)",
+      "value": "13,1 g"
+    },
+    {
+      "name": "Chất béo (Total fat)",
+      "value": "0,408 g"
+    },
+    {
+      "name": "Natri (Sodium)",
+      "value": "33,3 mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

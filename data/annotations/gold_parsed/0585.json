@@ -5,6 +5,20 @@
     "Nước",
     "sữa (35%) (nước, sữa bột nguyên kem, sữa bột gầy, đường, chiết xuất ngũ cốc và lúa mạch (2,1%), bột ca cao (1,1%), khoáng chất (tricalci phosphat, dicalci phosphat, magnesi carbonat, mangan (II) sulfat), xirô glucose, bột whey, bột kem không sữa (xirô glucose, dầu cọ hydro hoá, chất ổn định (340(ii)), natri caseinat, chất nhũ hoá (451(i), 471), muối), chất ổn định (460(i), 407, 466), dầu thực vật, chất điều chỉnh độ axit, hương liệu tự nhiên (hương ngọt), hương liệu giống tự nhiên (hương lúa mạch sôcôla, hương sôcôla, hương vani), chất nhũ hoá (471), muối, vitamin (E, B3, A, axit pantothenic, B6, D, B1, B12, B2, B9), maltodextrin)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa",
+      "raw": "sữa (35%) (nước, sữa bột nguyên kem, sữa bột gầy, đường, chiết xuất ngũ cốc và lúa mạch (2,1%), bột ca cao (1,1%), khoáng chất (tricalci phosphat, dicalci phosphat, magnesi carbonat, mangan (II) sulfat), xirô glucose, bột whey, bột kem không sữa (xirô glucose, dầu cọ hydro hoá, chất ổn định (340(ii)), natri caseinat, chất nhũ hoá (451(i), 471), muối), chất ổn định (460(i), 407, 466), dầu thực vật, chất điều chỉnh độ axit, hương liệu tự nhiên (hương ngọt), hương liệu giống tự nhiên (hương lúa mạch sôcôla, hương sôcôla, hương vani), chất nhũ hoá (471), muối, vitamin (E, B3, A, axit pantothenic, B6, D, B1, B12, B2, B9), maltodextrin)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (340(ii))",
     "chất nhũ hoá (451(i), 471)",
@@ -14,7 +28,7 @@
     "hương liệu giống tự nhiên (hương lúa mạch sôcôla, hương sôcôla, hương vani)",
     "chất nhũ hoá (471)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "79 kcal"
@@ -95,6 +109,13 @@
   "gold_warning_raw": [
     "Sản phẩm có chứa sữa."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -124,6 +145,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

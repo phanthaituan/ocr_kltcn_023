@@ -1,0 +1,125 @@
+{
+  "image_id": "0295",
+  "product_name": "Richesee",
+  "gold_ingredients_raw": [
+    "Sugar",
+    "Corn (30%)",
+    "Vegetable Fat",
+    "Whey Powder",
+    "Vegetable Oil (contains Antioxidant TBHQ (E319))",
+    "Cheese Powder (contains Milk Solids, Cheese Solids, Flavour Enhancer (Monosodium Glutamate (E621) and Disodium 5'-Ribonucleotide (E635)), Synthetic Colour (Ponceau 4R (E124) and Sunset Yellow FCF (E110)))",
+    "Maltodextrin",
+    "Wheat Flour",
+    "Salt",
+    "Milk Powder",
+    "Natural Colour: Paprika Oleoresin",
+    "Vitamin (A, B1, B2)"
+  ],
+  "gold_additives_raw": [
+    "Antioxidant TBHQ (E319)",
+    "Flavour Enhancer (Monosodium Glutamate (E621) and Disodium 5'-Ribonucleotide (E635))",
+    "Monosodium Glutamate (E621)",
+    "Disodium 5'-Ribonucleotide (E635)",
+    "Synthetic Colour (Ponceau 4R (E124) and Sunset Yellow FCF (E110))",
+    "Emulsifier Soy Lecithin (E322)",
+    "Ponceau 4R (E124)",
+    "Sunset Yellow FCF (E110)",
+    "Raising Agent Sodium Bicarbonate (E500(ii))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Calories/ Năng lượng",
+      "value": "45"
+    },
+    {
+      "name": "Total Fat/ Tổng chất béo",
+      "value": "2 g"
+    },
+    {
+      "name": "Sat. Fat/ Chất béo bão hòa",
+      "value": "1.5 g"
+    },
+    {
+      "name": "Trans Fat/ Chất béo chuyển hóa",
+      "value": "0 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "0 mg"
+    },
+    {
+      "name": "Sodium/ Natri",
+      "value": "35 mg"
+    },
+    {
+      "name": "Total Carbohydrate/ Tổng Carbohydrat",
+      "value": "6 g"
+    },
+    {
+      "name": "Total Sugars/ Tổng đường",
+      "value": "4 g"
+    },
+    {
+      "name": "Includes 3 g Added Sugars",
+      "value": "Bao gồm 3 g đường thêm"
+    },
+    {
+      "name": "Protein/ Chất đạm",
+      "value": "0 g"
+    },
+    {
+      "name": "Vit. A/ Vitamin A",
+      "value": "110 mcg"
+    },
+    {
+      "name": "Vit. B1/ Vitamin B1",
+      "value": "0.23 mg"
+    },
+    {
+      "name": "Vit. B2/ Vitamin B2",
+      "value": "0.19 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Allergen Information : For allergens, see ingredients in bold.",
+    "May also contain Egg, Hazelnut and Peanut."
+  ],
+  "allergen_final": {
+    "contains": [
+      "hạt_cây",
+      "trứng",
+      "đậu_phộng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "hạt_cây",
+      "trứng",
+      "đậu_phộng"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "hạt_cây",
+      "trứng",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "unclassified": 1,
+      "named_allergy": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": "25/02/2026",
+  "expiry_date": "25/02/2027",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

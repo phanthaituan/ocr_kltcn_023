@@ -8,6 +8,38 @@
     "lá trà đen (7,4 g/l)",
     "muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột nguyên kem",
+      "raw": "sữa bột nguyên kem (17 g/l)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lá trà đen",
+      "raw": "lá trà đen (7,4 g/l)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "hương liệu (hương trà giống tự nhiên, hương sữa tổng hợp)",
     "chất nhũ hóa (471, 481(i))",
@@ -15,7 +47,7 @@
     "chất chống oxy hóa (300)",
     "chất tạo ngọt tổng hợp (950, 955)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "34 kcal"
@@ -44,6 +76,13 @@
   "gold_warning_raw": [
     "Sản phẩm có chứa sữa."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -73,6 +112,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

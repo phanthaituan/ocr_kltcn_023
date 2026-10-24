@@ -7,10 +7,36 @@
     "(dầu nành, nước tương bột) 8,12% ",
     "(muối, đường, chất điều vị (621), hạt nêm) 2,37%"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "83,34% cá mú",
+      "raw": "83,34% Cá mú",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sốt sa tế",
+      "raw": "sốt sa tế: (xả xay, ớt xay, tỏi xay) 6,17%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "(dầu nành, nước tương bột) 8,12%",
+      "raw": "(dầu nành, nước tương bột) 8,12%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "(muối, đường, chất điều vị (621), hạt nêm) 2,37%",
+      "raw": "(muối, đường, chất điều vị (621), hạt nêm) 2,37%",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (621)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "121 Kcal"
@@ -41,6 +67,13 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -62,6 +95,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": false
   }
 }

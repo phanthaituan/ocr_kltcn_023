@@ -8,10 +8,42 @@
     "collagen thủy phân",
     "vitamin C"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước ép cam đào",
+      "raw": "Nước ép cam đào (77%) (nước, nước ép đào cô đặc, nước ép cam cô đặc)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước ép táo từ nước táo cô đặc",
+      "raw": "nước ép táo từ nước táo cô đặc (12,7%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "collagen thủy phân",
+      "raw": "collagen thủy phân",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    },
+    {
+      "name": "vitamin c",
+      "raw": "vitamin C",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [
     "hương liệu giống tự nhiên và tự nhiên dùng cho thực phẩm"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "NĂNG LƯỢNG",
       "value": "31,6 kcal"
@@ -53,6 +85,32 @@
     "Dùng cho người từ 15 tuổi trở lên muốn bổ sung collagen.",
     "Sau khi mở, đậy kín và bảo quản lạnh (6°C - 8°C), dùng hết trong ngày."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "collagen thủy phân",
+      "vitamin c"
+    ],
+    "nutritional_categories": [
+      "amino_omega_bioactive",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "collagen thủy phân",
+        "raw": "collagen thủy phân",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      },
+      {
+        "name": "vitamin c",
+        "raw": "vitamin C",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -77,6 +135,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

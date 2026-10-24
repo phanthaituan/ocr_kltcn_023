@@ -11,13 +11,113 @@
     "DHA, HMO (2'-FL)",
     "Postbiotic (Lợi khuẩn Lactococcus lactis Plasma)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa pha sẵn",
+      "raw": "Sữa pha sẵn (Nước, Sữa, Chất béo sữa, Sữa non Colostrum (1500 mg/l)) (92,6%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sucrose",
+      "raw": "Sucrose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "Chất béo thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất xơ hòa tan",
+      "raw": "Chất xơ hòa tan (FOS multi)",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "các khoáng chất",
+      "raw": "Các khoáng chất (Dinatri phosphat, Magiê oxit, Kẽm sulfat, Kali iodid, Natri selenit)",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "các vitamin",
+      "raw": "Các vitamin (Vitamin K2 (MK7), Nicotinamid, DL-alpha-tocopheryl acetat, Phylloquinon, Cholecalciferol, Canxi-D-pantothenat, Riboflavin, Pyridoxin hydroclorid, Thiamin mononitrat, Retinyl acetat, Axit folic)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "dha, hmo",
+      "raw": "DHA, HMO (2'-FL)",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    },
+    {
+      "name": "postbiotic",
+      "raw": "Postbiotic (Lợi khuẩn Lactococcus lactis Plasma)",
+      "nutritional": true,
+      "nutritional_category": "probiotic"
+    }
+  ],
   "gold_additives_raw": [
     "Chất ổn định (471, 407, 412)",
     "Hương liệu tổng hợp dùng trong thực phẩm (Bơ, Sữa, Vani)",
     "Chất chống oxi hóa (Hỗn hợp tocopherol)"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 5,
+    "nutritional_names": [
+      "chất xơ hòa tan",
+      "các khoáng chất",
+      "các vitamin",
+      "dha, hmo",
+      "postbiotic"
+    ],
+    "nutritional_categories": [
+      "amino_omega_bioactive",
+      "fiber_prebiotic",
+      "mineral_trace",
+      "probiotic",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "chất xơ hòa tan",
+        "raw": "Chất xơ hòa tan (FOS multi)",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      },
+      {
+        "name": "các khoáng chất",
+        "raw": "Các khoáng chất (Dinatri phosphat, Magiê oxit, Kẽm sulfat, Kali iodid, Natri selenit)",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "các vitamin",
+        "raw": "Các vitamin (Vitamin K2 (MK7), Nicotinamid, DL-alpha-tocopheryl acetat, Phylloquinon, Cholecalciferol, Canxi-D-pantothenat, Riboflavin, Pyridoxin hydroclorid, Thiamin mononitrat, Retinyl acetat, Axit folic)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "dha, hmo",
+        "raw": "DHA, HMO (2'-FL)",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      },
+      {
+        "name": "postbiotic",
+        "raw": "Postbiotic (Lợi khuẩn Lactococcus lactis Plasma)",
+        "nutritional": true,
+        "nutritional_category": "probiotic"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -39,6 +139,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": true,
     "has_warning": false
   }
 }

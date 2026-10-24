@@ -8,8 +8,40 @@
     "dầu olein và dầu đậu nành tinh luyện",
     "bơ thực vật"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "da cá",
+      "raw": "Da cá (80%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị trứng muối",
+      "raw": "gia vị trứng muối (18%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ớt",
+      "raw": "bột ớt(0,4%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu olein và dầu đậu nành tinh luyện",
+      "raw": "dầu olein và dầu đậu nành tinh luyện",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ thực vật",
+      "raw": "bơ thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "155 kcal"
@@ -42,6 +74,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm hết hạn, hư hỏng hoặc khi dị ứng với bất kì thành phần nào của sản phẩm"
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -73,6 +112,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

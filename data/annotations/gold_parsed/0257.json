@@ -20,6 +20,116 @@
     "bột chiết xuất củ cải",
     "bột nấm 0,02 g/kg"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì 607",
+      "raw": "Bột mì 607",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "12 g/kg",
+      "raw": "12 g/kg",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ",
+      "raw": "dầu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột khoai mì",
+      "raw": "tinh bột khoai mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột nghệ",
+      "raw": "bột nghệ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cà ry",
+      "raw": "bột cà ry",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "các gia vị: dầu cọ",
+      "raw": "Các gia vị: Dầu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "protein đậu nành",
+      "raw": "protein đậu nành",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cải bẹ xanh sấy",
+      "raw": "cải bẹ xanh sấy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà rốt sấy",
+      "raw": "cà rốt sấy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bắp sấy",
+      "raw": "bắp sấy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "các gia vị",
+      "raw": "các gia vị (tỏi, tiêu, ớt, gừng, baro)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột chiết xuất củ cải",
+      "raw": "bột chiết xuất củ cải",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột nấm",
+      "raw": "bột nấm 0,02 g/kg",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất nhũ hóa (466)",
     "chất điều chỉnh độ acid (501(i), 500(i))",
@@ -30,7 +140,7 @@
     "hương liệu (tổng hợp, giống tự nhiên)",
     "chất chống đông vón (551)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "288 kcal"
@@ -63,6 +173,24 @@
   "gold_warning_raw": [
     "Thành phần có chứa: Bột mì, đậu nành."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "protein đậu nành"
+    ],
+    "nutritional_categories": [
+      "isolated_protein"
+    ],
+    "items": [
+      {
+        "name": "protein đậu nành",
+        "raw": "protein đậu nành",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -95,6 +223,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

@@ -6,14 +6,41 @@
     "lactose",
     "đường mạch nha"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lactose",
+      "raw": "lactose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường mạch nha",
+      "raw": "đường mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất điều vị(621)"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Không sử dụng sản phẩm hết hạn.",
     "Trẻ em dưới 3 tuổi phải có sự giám sát của 1 người lớn khi ăn và chơi"
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -38,6 +65,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

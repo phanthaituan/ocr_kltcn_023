@@ -12,11 +12,67 @@
     "dầu nành",
     "mỡ heo"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường cát",
+      "raw": "đường cát",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "khoai môn",
+      "raw": "khoai môn (30%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sầu riêng",
+      "raw": "sầu riêng (5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mứt bí",
+      "raw": "mứt bí",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lòng đỏ trứng muối",
+      "raw": "lòng đỏ trứng muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu nành",
+      "raw": "dầu nành",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mỡ heo",
+      "raw": "mỡ heo",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất bảo quản (221)",
     "phẩm màu tổng hợp (129)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Calories",
       "value": "383"
@@ -77,6 +133,13 @@
   "gold_warning_raw": [
     "Không dùng sản phẩm đã quá hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -100,6 +163,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

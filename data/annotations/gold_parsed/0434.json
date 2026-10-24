@@ -6,12 +6,32 @@
     "Gói nấm: Nước hầm củ (nước, củ cải trắng, cà rốt), nấm đông cô (4%), gluten từ bột mì, dầu cọ tinh luyện, nước tương, tinh bột khoai mì, đường tinh luyện, hạt mè, chất điều vị (mononatri L-glutamat, dinatri 5'-guanylat, dinatri 5'-inosinat), muối ăn, bột tiêu, chất chống oxy hóa (tocopherol concentrat (dạng hỗn hợp))",
     "Gói gia vị: Muối ăn, đường tinh luyện, chất điều vị (mononatri L-glutamat, dinatri 5'-guanylat, dinatri 5'-inosinat), rau sấy (cà rốt, barô, cần tây), bột tiêu, chất chống đông vón (INS 551)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "phôi cháo: gạo",
+      "raw": "Phôi cháo: Gạo (58.1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gói nấm: nước hầm củ",
+      "raw": "Gói nấm: Nước hầm củ (nước, củ cải trắng, cà rốt), nấm đông cô (4%), gluten từ bột mì, dầu cọ tinh luyện, nước tương, tinh bột khoai mì, đường tinh luyện, hạt mè, chất điều vị (mononatri L-glutamat, dinatri 5'-guanylat, dinatri 5'-inosinat), muối ăn, bột tiêu, chất chống oxy hóa (tocopherol concentrat (dạng hỗn hợp))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gói gia vị: muối ăn, đường tinh luyện, chất điều vị",
+      "raw": "Gói gia vị: Muối ăn, đường tinh luyện, chất điều vị (mononatri L-glutamat, dinatri 5'-guanylat, dinatri 5'-inosinat), rau sấy (cà rốt, barô, cần tây), bột tiêu, chất chống đông vón (INS 551)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất điều vị (mononatri L-glutamat, dinatri 5'-guanylat, dinatri 5'-inosinat)",
     "Chất chống oxy hóa (tocopherol concentrat (dạng hỗn hợp))",
     "Chất chống đông vón (INS 551)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "145.8 kcal – 225.3 kcal"
@@ -42,6 +62,13 @@
     "Không sử dụng sản phẩm hết hạn sử dụng hoặc bao bì hư rách, xẹp, căng phồng.",
     "Không dùng đối với người có khả năng mẫn cảm hoặc dị ứng với các thành phần trong sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cần_tây",
@@ -86,6 +113,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

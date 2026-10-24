@@ -1,0 +1,19 @@
+{
+  "image_id": "0296",
+  "gold_ins_additive": [
+    "1422",
+    "150d",
+    "160a",
+    "202",
+    "621",
+    "627",
+    "631",
+    "950"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "hương liệu tổng hợp (hương thịt gà)",
+    "hương liệu gà nhân tạo"
+  ],
+  "ins_parser_version": "1.1"
+}

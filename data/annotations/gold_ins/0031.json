@@ -1,0 +1,17 @@
+{
+  "image_id": "0031",
+  "gold_ins_additive": [
+    "1422",
+    "202",
+    "211",
+    "621",
+    "627",
+    "631"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "chất tạo ngọt (acesulfam kali, aspartam)",
+    "chất tạo màu (caramen nhóm I tự nhiên)"
+  ],
+  "ins_parser_version": "1.1"
+}

@@ -5,12 +5,26 @@
     "Nước dừa tươi (98%)",
     "đường"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước dừa tươi",
+      "raw": "Nước dừa tươi (98%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "hương liệu tự nhiên",
     "chất chống oxy hóa (300)",
     "chất điều chỉnh độ acid (330)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "NĂNG LƯỢNG",
       "value": "15,2 kcal"
@@ -41,6 +55,13 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -62,6 +83,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": false
   }
 }

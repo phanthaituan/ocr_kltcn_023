@@ -1,0 +1,29 @@
+{
+  "image_id": "0154",
+  "gold_ins_additive": [
+    "1442",
+    "1520",
+    "170",
+    "202",
+    "330",
+    "412",
+    "415",
+    "420",
+    "422",
+    "450",
+    "471",
+    "475",
+    "477",
+    "481",
+    "491",
+    "500",
+    "575"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Trehalose",
+    "Potassium Stearate",
+    "Food Flavorings"
+  ],
+  "ins_parser_version": "1.1"
+}

@@ -8,6 +8,38 @@
     "đường",
     "Gói gia vị: Dầu xào (3.2%) (dầu olein, củ hành, muối i-ốt, đường, gia vị (bột ớt, bột tỏi, bột tiêu), rau sấy khô (bắp cải, cà rốt, hành lá), bột gia vị hương thịt (0.18%), bột gia vị TE20: [đạm thực vật thủy phân])"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì (55%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ tinh luyện",
+      "raw": "dầu cọ tinh luyện",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "muối i-ốt",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gói gia vị: dầu xào",
+      "raw": "Gói gia vị: Dầu xào (3.2%) (dầu olein, củ hành, muối i-ốt, đường, gia vị (bột ớt, bột tỏi, bột tiêu), rau sấy khô (bắp cải, cà rốt, hành lá), bột gia vị hương thịt (0.18%), bột gia vị TE20: [đạm thực vật thủy phân])",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị: 621",
     "chất làm dày: (466, 412)",
@@ -17,7 +49,7 @@
     "phẩm màu: [Beta-caroten tổng hợp 160a(i); Beta-caroten tự nhiên chiết xuất từ thực vật 160a(ii)]",
     "chất điều vị: (621,640)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "305 Kcal"
@@ -53,6 +85,24 @@
     "Không sử dụng sản phẩm nếu dị ứng với các thành phần có trong sản phẩm.",
     "Sản phẩm có chứa bột mì, đậu nành."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "muối i-ốt"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "muối i-ốt",
+        "raw": "muối i-ốt",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -92,6 +142,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

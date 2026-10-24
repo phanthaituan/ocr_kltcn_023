@@ -9,10 +9,48 @@
     "Mật ong 1.1%",
     "Tinh bột biến tính"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "gạo japonica 55%",
+      "raw": "Gạo Japonica 55%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "Dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường kính trắng",
+      "raw": "Đường kính trắng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xì dầu",
+      "raw": "Xì dầu (Đậu nành, Lúa mì)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mật ong 1.1%",
+      "raw": "Mật ong 1.1%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột biến tính",
+      "raw": "Tinh bột biến tính",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất điều vị (621)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Khẩu phần",
       "value": "100g"
@@ -51,6 +89,13 @@
     "Trong xưởng sản xuất sản phẩm này có sản xuất các sản phẩm có liên quan đến: sữa, tôm, cá.",
     "Tiến bộ một của sản phẩm có thể xuất hiện chấm đen nhỏ, là hiện tượng tự nhiên trong quá trình chiên."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -93,6 +138,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

@@ -10,6 +10,50 @@
     "muối tinh luyện",
     "công thức hỗn hợp Vitamin D3 (Saccarose, chất nhũ hóa INS414, tinh bột bắp, Vitamin D3, Vitamin E, chất chống đông vón INS551)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đậu nành nguyên chất 82%",
+      "raw": "Đậu nành nguyên chất 82% (hàm lượng rắn của đậu nành 7%, đậu nành)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước tinh khiết",
+      "raw": "nước tinh khiết",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "fructose",
+      "raw": "fructose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đậu ngọc bích",
+      "raw": "đậu ngọc bích",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột hộp canxdicarbonat",
+      "raw": "bột hộp canxdicarbonat (chất chống đóng vón INS170(i), polysaccharide đậu nành)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối tinh luyện",
+      "raw": "muối tinh luyện",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "công thức hỗn hợp vitamin d3",
+      "raw": "công thức hỗn hợp Vitamin D3 (Saccarose, chất nhũ hóa INS414, tinh bột bắp, Vitamin D3, Vitamin E, chất chống đông vón INS551)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [
     "chất chống đóng vón INS170(i)",
     "chất nhũ hóa INS475",
@@ -18,7 +62,7 @@
     "chất nhũ hóa INS414",
     "chất chống đông vón INS551"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Giá trị nội dung",
       "value": "190 mL"
@@ -33,6 +77,24 @@
     "Vui lòng không uống nếu vật chứa bị biến dạng, bị hư hỏng hoặc bên trong đồ bị biến chất.",
     "Sản phẩm này được sản xuất tại thiết bị sản xuất giống như các sản phẩm sữa, trứng, đậu phộng, mì, đậu, cà chua, quả óc chó, kiều mạch, acid sunfua, hạt thông."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "công thức hỗn hợp vitamin d3"
+    ],
+    "nutritional_categories": [
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "công thức hỗn hợp vitamin d3",
+        "raw": "công thức hỗn hợp Vitamin D3 (Saccarose, chất nhũ hóa INS414, tinh bột bắp, Vitamin D3, Vitamin E, chất chống đông vón INS551)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "hạt_cây",
@@ -75,6 +137,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

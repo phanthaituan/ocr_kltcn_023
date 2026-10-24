@@ -8,8 +8,40 @@
     "trứng gà 5%",
     "sô cô la 3%"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đế bánh 60%",
+      "raw": "Đế bánh 60% (bột mì, bơ thực vật, nước, trứng gà 3%, sô cô la 2%, muối, đường)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "kem sữa tươi",
+      "raw": "kem sữa tươi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng gà 5%",
+      "raw": "trứng gà 5%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sô cô la 3%",
+      "raw": "sô cô la 3%",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "407 kcal"
@@ -38,6 +70,13 @@
   "gold_warning_raw": [
     "Không phù hợp cho người bị dị ứng với các thành phần trên."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -69,6 +108,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

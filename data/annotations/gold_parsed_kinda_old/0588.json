@@ -1,0 +1,78 @@
+{
+  "image_id": "0588",
+  "product_name": "Ông Thọ",
+  "gold_ingredients_raw": [
+    "Đường (48%)",
+    "sữa (44,1%) (nước, sữa bột, chất béo sữa, whey bột, sữa tươi)",
+    "dầu thực vật (7,7%)",
+    "lactose"
+  ],
+  "gold_additives_raw": [
+    "chất nhũ hóa (322(i))",
+    "lecithin đậu nành"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "338 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "5,0 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "10,3 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "56,4 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "56,4 g"
+    },
+    {
+      "name": "Natri",
+      "value": "47 mg"
+    },
+    {
+      "name": "Calci",
+      "value": "180 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không dùng cho người dị ứng với các thành phần của sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "sữa",
+      "đậu_nành"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": "12 tháng trước HSD",
+  "expiry_date": "Xem trên hộp",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

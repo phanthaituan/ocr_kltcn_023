@@ -15,6 +15,80 @@
     "bột phô mai",
     "men"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật (dầu cọ)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất xơ yến mạch",
+      "raw": "chất xơ yến mạch (3,7%) (có chứa gluten (yến mạch))",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "mạch nha",
+      "raw": "mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "whey bột",
+      "raw": "whey bột",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "siro glucose",
+      "raw": "siro glucose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị gà sả tắc",
+      "raw": "gia vị gà sả tắc",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "calci carbonat",
+      "raw": "calci carbonat",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "bột phô mai",
+      "raw": "bột phô mai",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "men",
+      "raw": "men",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất tạo xốp (503(ii), 500(ii), 450(i))",
     "chất điều vị (621, 631, 627)",
@@ -22,7 +96,7 @@
     "chất xử lý bột (223, 1101(i))",
     "chất tạo màu tổng hợp (160a(i))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "487 kcal"
@@ -63,6 +137,32 @@
   "gold_warning_raw": [
     "Sản phẩm có chứa: sữa, lúa mì, đậu nành."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "calci carbonat",
+      "chất xơ yến mạch"
+    ],
+    "nutritional_categories": [
+      "fiber_prebiotic",
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "chất xơ yến mạch",
+        "raw": "chất xơ yến mạch (3,7%) (có chứa gluten (yến mạch))",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      },
+      {
+        "name": "calci carbonat",
+        "raw": "calci carbonat",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -98,6 +198,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

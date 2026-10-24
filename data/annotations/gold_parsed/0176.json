@@ -4,8 +4,16 @@
   "gold_ingredients_raw": [
     "Sữa tươi hữu cơ (100%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa tươi hữu cơ",
+      "raw": "Sữa tươi hữu cơ (100%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "NĂNG LƯỢNG/ ENERGY",
       "value": "62,8 kcal"
@@ -46,6 +54,13 @@
   "gold_warning_raw": [
     "Không dùng cho trẻ dưới 1 tuổi."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -69,6 +84,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

@@ -1,0 +1,18 @@
+{
+  "image_id": "0294",
+  "gold_ins_additive": [
+    "262",
+    "320",
+    "321",
+    "621",
+    "627",
+    "631"
+  ],
+  "gold_ins_in_ingredient": [
+    "129"
+  ],
+  "additives_without_code": [
+    "hương tôm tự nhiên"
+  ],
+  "ins_parser_version": "1.1"
+}

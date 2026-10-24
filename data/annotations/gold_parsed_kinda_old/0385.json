@@ -1,0 +1,101 @@
+{
+  "image_id": "0385",
+  "product_name": "Xốt mì Ý Phô mai nấm",
+  "gold_ingredients_raw": [
+    "Nước",
+    "hành tây",
+    "shortening nấm 5%",
+    "đường",
+    "phô mai 3 %",
+    "tinh bột ngô",
+    "bơ lạt",
+    "muối ăn",
+    "bột sữa gầy",
+    "chiết xuất gà",
+    "bột gia vị",
+    "caseinat",
+    "tiêu đen",
+    "acid phytic",
+    "chiết xuất thịt heo"
+  ],
+  "gold_additives_raw": [
+    "chất làm dày (1414,415)",
+    "chất điều vị (621, 640, 627, 631)",
+    "chất nhũ hóa (473)",
+    "chất điều chỉnh acid (330)",
+    "chất tạo gel (407)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Giá trị năng lượng (Energy)",
+      "value": "87 (kcal)"
+    },
+    {
+      "name": "Chất đạm (Protein)",
+      "value": "2,5 g (5 %)"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "9,8 g (3 %)"
+    },
+    {
+      "name": "Đường tổng số (Total Sugars)",
+      "value": "4,6 g"
+    },
+    {
+      "name": "Chất béo (Fat)",
+      "value": "4,2 g (8 %)"
+    },
+    {
+      "name": "Chất béo bão hòa (Saturated Fat)",
+      "value": "2,7 g (13 %)"
+    },
+    {
+      "name": "Natri (Sodium)",
+      "value": "679 mg (34 %)"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm này có chứa thành phần sữa, lúa mì, đậu nành, cá gây dị ứng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "cá",
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "cá",
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "cá",
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": "29/1/2025",
+  "expiry_date": "25/03/2027",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

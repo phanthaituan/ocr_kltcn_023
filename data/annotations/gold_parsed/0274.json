@@ -17,17 +17,165 @@
     "2'-Fucosyllactose (2'-FL HMO)",
     "Vitamin K2 MK-7"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột gầy",
+      "raw": "Sữa bột gầy (7,5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "Maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "Dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo sữa",
+      "raw": "Chất béo sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất xơ hòa tan",
+      "raw": "Chất xơ hòa tan (FOS/Inulin)",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "l-lysine hcl",
+      "raw": "L-Lysine HCl",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    },
+    {
+      "name": "bột béo mct",
+      "raw": "Bột béo MCT (528 mg/L)",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    },
+    {
+      "name": "hỗn hợp vitamin và khoáng chất",
+      "raw": "Hỗn hợp Vitamin và Khoáng chất (Vitamin A, D3, E, B1, B2, B6, Niacin, Canxi – D – Pantothenat, Axit Folic, Biotin, Magie Oxid, Sắt (II) Pyrophotphat, Kẽm Oxid, Đồng Sulphat Monohydrat, Kali Iodid, Mangan Sulphat, Natri Selenit)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "bột béo dha",
+      "raw": "Bột béo DHA (116 mg/L)",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    },
+    {
+      "name": "sữa non colosigg 24h",
+      "raw": "Sữa non ColosIgG 24h (105 mg/L)",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    },
+    {
+      "name": "2'-fucosyllactose",
+      "raw": "2'-Fucosyllactose (2'-FL HMO)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin k2 mk-7",
+      "raw": "Vitamin K2 MK-7",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [
     "Chất ổn định (460(i), 466, 407, 339(ii))",
     "Chất nhũ hóa (471)",
     "Hương liệu tổng hợp dùng cho thực phẩm",
     "Chất chống oxy hóa (307b)"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Có chứa sữa, đậu nành, dầu cá.",
     "Không dùng cho trẻ dưới 1 tuổi."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 7,
+    "nutritional_names": [
+      "bột béo dha",
+      "bột béo mct",
+      "chất xơ hòa tan",
+      "hỗn hợp vitamin và khoáng chất",
+      "l-lysine hcl",
+      "sữa non colosigg 24h",
+      "vitamin k2 mk-7"
+    ],
+    "nutritional_categories": [
+      "amino_omega_bioactive",
+      "fiber_prebiotic",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "chất xơ hòa tan",
+        "raw": "Chất xơ hòa tan (FOS/Inulin)",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      },
+      {
+        "name": "l-lysine hcl",
+        "raw": "L-Lysine HCl",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      },
+      {
+        "name": "bột béo mct",
+        "raw": "Bột béo MCT (528 mg/L)",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      },
+      {
+        "name": "hỗn hợp vitamin và khoáng chất",
+        "raw": "Hỗn hợp Vitamin và Khoáng chất (Vitamin A, D3, E, B1, B2, B6, Niacin, Canxi – D – Pantothenat, Axit Folic, Biotin, Magie Oxid, Sắt (II) Pyrophotphat, Kẽm Oxid, Đồng Sulphat Monohydrat, Kali Iodid, Mangan Sulphat, Natri Selenit)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "bột béo dha",
+        "raw": "Bột béo DHA (116 mg/L)",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      },
+      {
+        "name": "sữa non colosigg 24h",
+        "raw": "Sữa non ColosIgG 24h (105 mg/L)",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      },
+      {
+        "name": "vitamin k2 mk-7",
+        "raw": "Vitamin K2 MK-7",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -64,6 +212,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

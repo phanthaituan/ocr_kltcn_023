@@ -18,6 +18,98 @@
     "chiết xuất mạch nha lúa mạch",
     "muối tinh chế"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đậu phộng 25.9%",
+      "raw": "Đậu phộng 25.9%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "socola hỗn hợp",
+      "raw": "socola hỗn hợp [đường, dầu cọ thực vật, bột cacao, sữa bột hỗn hợp, socola sữa]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sản phẩm đậu nành chế biến",
+      "raw": "sản phẩm đậu nành chế biến [đậu nành tách béo, bột năng, chất chống oxy hóa (INS 322(i)) từ đậu nành, chất điều chỉnh độ axit (INS 341(iii))]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha",
+      "raw": "mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bắp",
+      "raw": "bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột bắp",
+      "raw": "bột bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường oligosaccharide",
+      "raw": "đường oligosaccharide",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột nguyên kem",
+      "raw": "sữa bột nguyên kem",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạnh nhân 1.5%",
+      "raw": "hạnh nhân 1.5%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu hướng dương",
+      "raw": "dầu hướng dương",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa đặc có đường",
+      "raw": "sữa đặc có đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cacao",
+      "raw": "bột cacao",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất mạch nha lúa mạch",
+      "raw": "chiết xuất mạch nha lúa mạch",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối tinh chế",
+      "raw": "muối tinh chế",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất chống oxy hóa (INS 322(i))",
     "chất điều chỉnh độ axit (INS 341(iii))",
@@ -27,12 +119,19 @@
     "hương liệu tự nhiên (hương vani)",
     "chất chống oxy hóa (INS 307b, INS 322(i))"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Có chứa đậu nành, sữa, đậu phộng.",
     "Sản phẩm này được sản xuất trên cùng hệ thống sản xuất các sản phẩm sử dụng lúa mì, trứng, cua, thịt lợn, óc chó, axit sunfuro, trai (hàu), thịt gà, thịt bò.",
     "Không sử dụng sản phẩm đã hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "giáp_xác",
@@ -81,6 +180,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

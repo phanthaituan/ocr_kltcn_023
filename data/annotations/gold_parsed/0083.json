@@ -6,12 +6,32 @@
     "Yến sào 18% (yến khô 450 mg / 100 ml)",
     "Đường Isomalt"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "yến sào 18%",
+      "raw": "Yến sào 18% (yến khô 450 mg / 100 ml)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường isomalt",
+      "raw": "Đường Isomalt",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Calcium lactate (chất điều chỉnh độ acid 327)",
     "Sodium alginate (chất ổn định 401)",
     "Hương liệu tổng hợp dùng trong thực phẩm."
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Calories/ Năng lượng (kcal)",
       "value": "≥ 9"
@@ -38,6 +58,13 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -59,6 +86,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": false
   }
 }

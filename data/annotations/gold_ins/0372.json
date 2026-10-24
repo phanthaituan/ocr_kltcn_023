@@ -1,0 +1,11 @@
+{
+  "image_id": "0372",
+  "gold_ins_additive": [],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Sodium Phosphates",
+    "Sodium Erythorbate",
+    "Sodium Nitrite"
+  ],
+  "ins_parser_version": "1.1"
+}

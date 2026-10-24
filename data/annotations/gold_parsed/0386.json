@@ -6,13 +6,33 @@
     "nước",
     "đường"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "tinh cốt cá cơm 95%",
+      "raw": "Tinh cốt cá cơm 95% (cá cơm, muối)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Disodium 5’- guanylat (INS627)",
     "Disodium 5’- inosinat (INS631)",
     "chất tạo ngọt tổng hợp (INS950)",
     "chất điều chỉnh độ Acid (INS330)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng (Energy)",
       "value": "63 kcal"
@@ -41,6 +61,13 @@
   "gold_warning_raw": [
     "Không sử dụng nếu dị ứng với các thành phần của sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá"
@@ -68,6 +95,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

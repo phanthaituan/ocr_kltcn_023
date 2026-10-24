@@ -8,6 +8,38 @@
     "muối",
     "bột hành tây"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà chua dạng sệt",
+      "raw": "cà chua dạng sệt 158 g/kg",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột hành tây",
+      "raw": "bột hành tây",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (1422, 415)",
     "chất điều chỉnh độ acid (260, 330)",
@@ -18,7 +50,7 @@
     "chất tạo ngọt (960a) tự nhiên",
     "chất tạo màu (129) tổng hợp"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Chất đạm",
       "value": "1,1 g"
@@ -43,6 +75,13 @@
   "gold_warning_raw": [
     "Kiểm tra ngày sản xuất và hạn sử dụng trước khi dùng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -66,6 +105,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

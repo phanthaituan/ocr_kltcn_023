@@ -6,11 +6,31 @@
     "bơ cacao",
     "bột sữa"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ cacao",
+      "raw": "bơ cacao",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa",
+      "raw": "bột sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất nhũ hóa (322(i))",
     "hương liệu vani tự nhiên"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "540 kcal"
@@ -45,6 +65,13 @@
     "Tránh sử dụng cho người bị dị ứng với các thành phần của sản phẩm.",
     "Sự thay đổi trên 10 °C so với nhiệt độ bảo quản tiêu chuẩn, bề mặt sô cô la có thể hình thành 1 lớp phấn trắng, điều này không ảnh hưởng đến chất lượng sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -74,6 +101,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

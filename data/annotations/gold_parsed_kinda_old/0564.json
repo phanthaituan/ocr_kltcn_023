@@ -1,0 +1,98 @@
+{
+  "image_id": "0564",
+  "product_name": "BÁNH CROISSANT MINI HƯƠNG MATCHA",
+  "gold_ingredients_raw": [
+    "Bột mì (29,19 %)",
+    "sô cô la compound hương matcha (15,59 %)",
+    "sô cô la compound trắng",
+    "bơ thực vật",
+    "đường",
+    "chất béo dạng phết",
+    "men khô dùng liền",
+    "bột trà xanh (1,25 %)",
+    "kem làm mềm bánh",
+    "muối",
+    "phụ gia làm bánh (tinh bột, chất nhũ hóa (INS 472e), đường, chất chống oxy hóa (INS 300), chất xử lý bột (INS 1100(ii)))",
+    "trứng"
+  ],
+  "gold_additives_raw": [
+    "chất nhũ hóa (INS 472e)",
+    "chất chống oxy hóa (INS 300)",
+    "chất xử lý bột (INS 1100(ii))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "547 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "8,02 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "51,4 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "14,9 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "34,4 g"
+    },
+    {
+      "name": "Natri",
+      "value": "563 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Thông tin gây dị ứng: Bột mì (chứa gluten), trứng, các sản phẩm có chứa sữa và đậu nành.",
+    "Không sử dụng sản phẩm có dấu hiệu hư hỏng.",
+    "Để gói hút ẩm tránh xa tầm tay trẻ em.",
+    "Các đốm trắng trên bề mặt sô cô la có thể xuất hiện do ảnh hưởng bởi nhiệt độ trong quá trình lưu thông. Hiện tượng này không ảnh hưởng đến chất lượng và an toàn của sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "expiry_usage": 1,
+      "child_supervision": 1,
+      "unclassified": 2
+    }
+  },
+  "origin": "VIỆT NAM",
+  "net_weight": null,
+  "mfg_date": "08. 06. 2026",
+  "expiry_date": "08. 12. 2026",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

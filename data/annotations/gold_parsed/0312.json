@@ -12,6 +12,62 @@
     "bột chiết xuất gà (1,58 %)",
     "muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì (48,5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật (dầu cọ)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột khoai mì",
+      "raw": "bột khoai mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột khoai tây",
+      "raw": "bột khoai tây",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột hành tây",
+      "raw": "bột hành tây",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột tỏi",
+      "raw": "bột tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước tương",
+      "raw": "nước tương [nước, muối, đậu nành, bột mì, đường, chất điều vị (621, 631, 627), chất bảo quản (211)]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột chiết xuất gà",
+      "raw": "bột chiết xuất gà (1,58 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (621, 631, 627)",
     "chất bảo quản (211)",
@@ -21,7 +77,7 @@
     "chất ổn định (412)",
     "chất tạo ngọt tổng hợp (955)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng (Energy)",
       "value": "492 kcal"
@@ -54,6 +110,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm có dấu hiệu hư hỏng hoặc hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -77,6 +140,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

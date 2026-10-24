@@ -10,6 +10,50 @@
     "Nước cốt dừa",
     "Nước ép cà rốt đen cô đặc"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "mạch nha maltose",
+      "raw": "Mạch nha maltose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gelatin",
+      "raw": "Gelatin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước ép trái cây cô đặc",
+      "raw": "Nước ép trái cây cô đặc (táo, chanh) (4,2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường trehalose",
+      "raw": "Đường trehalose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước cốt dừa",
+      "raw": "Nước cốt dừa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước ép cà rốt đen cô đặc",
+      "raw": "Nước ép cà rốt đen cô đặc",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất làm dày (1200, 440, 1442, 407)",
     "Chất làm ẩm (420(ii))",
@@ -18,7 +62,7 @@
     "Chất tạo màu tự nhiên (150a, 171, 164, 141(ii), 100(i))",
     "Chất làm bóng (903, 901)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "320 kcal"
@@ -47,6 +91,13 @@
   "gold_warning_raw": [
     "Trẻ em cần có sự giám sát của người lớn khi ăn."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -70,6 +121,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

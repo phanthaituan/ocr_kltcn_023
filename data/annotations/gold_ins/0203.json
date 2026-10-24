@@ -1,0 +1,21 @@
+{
+  "image_id": "0203",
+  "gold_ins_additive": [
+    "1450",
+    "150c",
+    "160c",
+    "262",
+    "330",
+    "341",
+    "551",
+    "621",
+    "627",
+    "631",
+    "951"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "HƯƠNG LIỆU (TỰ NHIÊN, GIỐNG TỰ NHIÊN)"
+  ],
+  "ins_parser_version": "1.1"
+}

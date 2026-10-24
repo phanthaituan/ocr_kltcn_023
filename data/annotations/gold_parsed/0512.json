@@ -4,8 +4,16 @@
   "gold_ingredients_raw": [
     "Rong biển: 100 % nguyên chất"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "rong biển: 100 % nguyên chất",
+      "raw": "Rong biển: 100 % nguyên chất",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "205 kcal"
@@ -30,6 +38,13 @@
   "gold_warning_raw": [
     "Không dùng sản phẩm khi đã hết hạn sử dụng"
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -53,6 +68,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

@@ -19,8 +19,106 @@
     "bột nêm knorr",
     "tiêu"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì (41.4%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước (23.7%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật (11.7%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thịt heo",
+      "raw": "thịt heo (6%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa tươi",
+      "raw": "sữa tươi (4.5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gan heo",
+      "raw": "gan heo (3%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng gà",
+      "raw": "trứng gà",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bánh mì vụn",
+      "raw": "bánh mì vụn",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tỏi",
+      "raw": "tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành tím",
+      "raw": "hành tím",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ thực vật",
+      "raw": "bơ thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "men",
+      "raw": "men (Saccharomyces cerevisiae)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột nêm knorr",
+      "raw": "bột nêm knorr",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tiêu",
+      "raw": "tiêu",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "265.2 – 358.8 (Kcal/100g)"
@@ -49,6 +147,13 @@
   "gold_warning_raw": [
     "Lưu ý với người bị dị ứng với các thành phần có trong sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -80,6 +185,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

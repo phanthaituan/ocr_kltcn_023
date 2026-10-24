@@ -16,6 +16,86 @@
     "Bột cần tây (0,9 g/kg)",
     "Hạt nêm"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "thịt",
+      "raw": "Thịt (thịt heo (263 g/kg), thịt gà)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đạm đậu nành",
+      "raw": "Đạm đậu nành",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột tỏi",
+      "raw": "Bột tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đạm thịt heo",
+      "raw": "Đạm thịt heo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước cốt bò",
+      "raw": "Nước cốt bò",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột lòng đỏ trứng",
+      "raw": "Bột lòng đỏ trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất nấm men",
+      "raw": "Chiết xuất nấm men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tiêu",
+      "raw": "Tiêu",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cần tây",
+      "raw": "Bột cần tây (0,9 g/kg)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt nêm",
+      "raw": "Hạt nêm",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất ổn định (1414, 451(i))",
     "Chất điều vị (621, 635)",
@@ -23,7 +103,7 @@
     "Chất chống oxy hóa (316)",
     "Phẩm màu tổng hợp (127)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Chất đạm",
       "value": "10,8 g"
@@ -53,6 +133,24 @@
     "Sản phẩm chứa các nguyên liệu có nguồn gốc từ đậu nành, trứng, cần tây, thủy sản.",
     "Không sử dụng sản phẩm khi bao bì bị rách, hư hỏng hoặc hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "đạm đậu nành"
+    ],
+    "nutritional_categories": [
+      "isolated_protein"
+    ],
+    "items": [
+      {
+        "name": "đạm đậu nành",
+        "raw": "Đạm đậu nành",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "cần_tây",
@@ -89,6 +187,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

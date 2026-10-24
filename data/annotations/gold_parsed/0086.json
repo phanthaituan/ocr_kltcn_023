@@ -15,6 +15,80 @@
     "bột ca cao",
     "gelatin"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "tinh bột sắn",
+      "raw": "Tinh bột sắn",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột khoai lang tím",
+      "raw": "tinh bột khoai lang tím (14%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật tinh luyện",
+      "raw": "dầu thực vật tinh luyện",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltitol",
+      "raw": "maltitol",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ",
+      "raw": "bơ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cơm dừa sấy",
+      "raw": "cơm dừa sấy (9%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột khoai môn tím",
+      "raw": "bột khoai môn tím",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột lòng trắng trứng",
+      "raw": "bột lòng trắng trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột khoai lang tím",
+      "raw": "bột khoai lang tím (0.15%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ca cao",
+      "raw": "bột ca cao",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gelatin",
+      "raw": "gelatin",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất tạo ngọt tổng hợp (isomalt 953)",
     "hương liệu (khoai lang, dừa, vani) tổng hợp",
@@ -23,7 +97,7 @@
     "màu thực phẩm tự nhiên (120, 141(i))",
     "chất tạo ngọt tự nhiên (stevia 960a)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "527 kcal"
@@ -65,6 +139,13 @@
     "Không sử dụng sản phẩm khi đã hết hạn sử dụng.",
     "Sản phẩm có chứa: Trứng và gelatin."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "trứng"
@@ -95,6 +176,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

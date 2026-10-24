@@ -5,10 +5,24 @@
     "Sữa tươi (97,7%)",
     "đường (2,1%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa tươi",
+      "raw": "Sữa tươi (97,7%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường (2,1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (471, 407, 412)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "NĂNG LƯỢNG/ENERGY",
       "value": "71 kcal"
@@ -45,6 +59,13 @@
   "gold_warning_raw": [
     "Không dùng cho trẻ dưới 1 tuổi."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -68,6 +89,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

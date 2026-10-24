@@ -9,6 +9,44 @@
     "Instant coffee powder (100 % from green coffee beans) (8.2 %)",
     "Salt (1.5 %)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nondairy creamer",
+      "raw": "Nondairy creamer (Glucose syrup, Refined palm kernel oil and/or refined coconut oil, Caseinate, Stabilizers (E340ii, E452i), Emulsifier (E471), Anti-caking agent (E551), Colour (E160a))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sugar",
+      "raw": "Sugar",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrine",
+      "raw": "Maltodextrine",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "coconut cream powder used in food industry",
+      "raw": "Coconut cream powder used in food industry (contains skimmed milk powder)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "instant coffee powder",
+      "raw": "Instant coffee powder (100 % from green coffee beans) (8.2 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "salt",
+      "raw": "Salt (1.5 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Stabilizers (E340ii, E452i)",
     "Emulsifier (E471)",
@@ -16,7 +54,7 @@
     "Colour (E160a)",
     "Synthetic flavours used in food industry (coconut milk flavour)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "90 kcal"
@@ -50,6 +88,13 @@
     "Do not use for those who are allergic to the product ingredients.",
     "Keep children out of reach to avoid burns when preparing SaltCoffee."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "dừa",
@@ -80,6 +125,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

@@ -19,8 +19,10 @@ RAW_OFF_DIR = RAW / "kb" / "openfoodfacts"
 # --- data/annotations: gold ---
 ANNOTATIONS = DATA / "annotations"
 GOLD_PARSED_DIR = ANNOTATIONS / "gold_parsed"
+GOLD_INS_DIR = ANNOTATIONS / "gold_ins"
 GOLD_KB_LINKS_DIR = ANNOTATIONS / "gold_kb_links"
 GOLD_CATEGORIES_DIR = ANNOTATIONS / "gold_categories"
+ADI_LABELS_DIR = ANNOTATIONS / "adi_labels"
 ADDITIVE_DECISIONS_CSV = ANNOTATIONS / "additive_decisions.csv"  # quyết định thủ công cho additive không có mã INS
 
 # --- data/interim: file trung gian sinh tự động / chờ review ---

@@ -14,6 +14,74 @@
     "Bột gạo",
     "Gia vị tổng hợp (bột tỏi, muối, đường, gia vị, hương vị men autolyzate, chiết xuất men, tinh bột, chất ổn định dextrin (INS 1400), bột hành, hương liệu thực phẩm tổng hợp, bột đậu, hẹ, gia vị, gia vị hợp chất protein thực vật thủy phân axit (chất lỏng tạo hương vị protein thực vật thủy phân axit, muối, phẩm màu caramel tổng hợp, chất ổn định dextrin (INS 1400)), chất chống đông silicon dioxide (INS 551), chất điều chỉnh độ acid Acid citric (INS 330), chất điều vị 5'-flavoured disodium nucleotide (INS 635), chất tạo ngọt Aspartam tổng hợp (INS 951), L-alanine, phẩm màu Curcumin tổng hợp (INS 100(i)), chất ổn định dextrin (INS 1400), hương vị gà, muối, đường, hương liệu thực phẩm tổng hợp, chất tạo ngọt Calci cyclamate tổng hợp (INS 952(ii)), chất tạo ngọt Acesulfam kali tổng hợp (INS 950), chất ổn định Natri carbonat (INS 500(ii)), chất điều chỉnh độ acid Amoni bicarbonate (INS 503(ii)), chất điều vị 5'-flavoured disodium nucleotide (INS 635), chất chống oxy hóa Tertbutylhydroquinon (TBHQ) (INS 319))"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nhân đậu phộng",
+      "raw": "Nhân đậu phộng (48%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đậu xanh",
+      "raw": "Đậu xanh (11%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "Dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột",
+      "raw": "Tinh bột",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt hạnh nhân",
+      "raw": "Hạt hạnh nhân (4%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt điều",
+      "raw": "Hạt điều (4%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha",
+      "raw": "Mạch nha (0,8%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gạo",
+      "raw": "Bột gạo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị tổng hợp",
+      "raw": "Gia vị tổng hợp (bột tỏi, muối, đường, gia vị, hương vị men autolyzate, chiết xuất men, tinh bột, chất ổn định dextrin (INS 1400), bột hành, hương liệu thực phẩm tổng hợp, bột đậu, hẹ, gia vị, gia vị hợp chất protein thực vật thủy phân axit (chất lỏng tạo hương vị protein thực vật thủy phân axit, muối, phẩm màu caramel tổng hợp, chất ổn định dextrin (INS 1400)), chất chống đông silicon dioxide (INS 551), chất điều chỉnh độ acid Acid citric (INS 330), chất điều vị 5'-flavoured disodium nucleotide (INS 635), chất tạo ngọt Aspartam tổng hợp (INS 951), L-alanine, phẩm màu Curcumin tổng hợp (INS 100(i)), chất ổn định dextrin (INS 1400), hương vị gà, muối, đường, hương liệu thực phẩm tổng hợp, chất tạo ngọt Calci cyclamate tổng hợp (INS 952(ii)), chất tạo ngọt Acesulfam kali tổng hợp (INS 950), chất ổn định Natri carbonat (INS 500(ii)), chất điều chỉnh độ acid Amoni bicarbonate (INS 503(ii)), chất điều vị 5'-flavoured disodium nucleotide (INS 635), chất chống oxy hóa Tertbutylhydroquinon (TBHQ) (INS 319))",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất ổn định dextrin (INS 1400)",
     "Hương liệu thực phẩm tổng hợp",
@@ -29,11 +97,18 @@
     "Chất điều chỉnh độ acid Amoni bicarbonate (INS 503(ii))",
     "Chất chống oxy hóa Tertbutylhydroquinon (TBHQ) (INS 319)"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Sản phẩm này có chứa đậu phộng, lúa mì, hạt điều, hạnh nhân, thành phần dinh dưỡng, thành phần đậu nành",
     "Không sử dụng sản phẩm khi hết hạn sử dụng"
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -73,6 +148,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

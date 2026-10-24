@@ -1,0 +1,17 @@
+{
+  "image_id": "0060",
+  "gold_ins_additive": [
+    "1442",
+    "202",
+    "330",
+    "621",
+    "627",
+    "631"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "chất tạo màu tổng hợp caramen nhóm III",
+    "hương liệu tổng hợp (hương hào)"
+  ],
+  "ins_parser_version": "1.1"
+}

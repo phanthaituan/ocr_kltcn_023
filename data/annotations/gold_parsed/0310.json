@@ -9,6 +9,44 @@
     "L-carnitine 0,410%",
     "vitamin C [acid L- ascorbic (L- ascorbic acid)] 0,010%"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước (Water)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước ép vải từ bột nước ép vải cô đặc",
+      "raw": "nước ép vải từ bột nước ép vải cô đặc (lychee juice from concentrate lychee juice powder) 15%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xi rô fructose",
+      "raw": "xi rô fructose (fructose syrup)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường (sugar)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "l-carnitine 0,410%",
+      "raw": "L-carnitine 0,410%",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    },
+    {
+      "name": "vitamin c",
+      "raw": "vitamin C [acid L- ascorbic (L- ascorbic acid)] 0,010%",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [
     "chất điều chỉnh độ acid (acidity regulator) (INS 332(ii), INS 296, INS 330)",
     "chất tạo gel (gelling agent) (INS 407)",
@@ -17,7 +55,7 @@
     "chất bảo quản (preservative) (INS 211)",
     "chất tạo ngọt nhân tạo (artificial sweetener) (INS 950, INS 955)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng (Energy)",
       "value": "60 kcal"
@@ -44,6 +82,32 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "l-carnitine 0,410%",
+      "vitamin c"
+    ],
+    "nutritional_categories": [
+      "amino_omega_bioactive",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "l-carnitine 0,410%",
+        "raw": "L-carnitine 0,410%",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      },
+      {
+        "name": "vitamin c",
+        "raw": "vitamin C [acid L- ascorbic (L- ascorbic acid)] 0,010%",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -65,6 +129,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": false
   }
 }

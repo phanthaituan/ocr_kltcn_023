@@ -6,10 +6,30 @@
     "si rô glucose",
     "bột cacao 4%"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "si rô glucose",
+      "raw": "si rô glucose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cacao 4%",
+      "raw": "bột cacao 4%",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "hương liệu tự nhiên (hương bánh quy)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "năng lượng",
       "value": "292 kcal"
@@ -38,6 +58,13 @@
     "Nếu nhai phần đầu ống hút có thể làm hư hại răng, do đó cần phải lưu ý.",
     "Phần mép túi rất sắc cần lưu ý."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -63,6 +90,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

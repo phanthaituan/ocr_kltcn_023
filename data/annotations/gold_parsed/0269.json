@@ -10,10 +10,54 @@
     "muối",
     "men khô (Saccharomyces cerevisiae)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì 59.3%",
+      "raw": "Bột mì 59.3%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước 26.7%",
+      "raw": "nước 26.7%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng gà",
+      "raw": "trứng gà",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "men khô",
+      "raw": "men khô (Saccharomyces cerevisiae)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "bơ thực vật - BOS"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "306 Kcal"
@@ -46,6 +90,13 @@
   "gold_warning_raw": [
     "Dùng ngay khi chế biến, không đông lạnh sau khi rã đông"
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -69,6 +120,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

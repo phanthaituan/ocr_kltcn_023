@@ -13,12 +13,74 @@
     "vitamin và khoáng chất (K2-MK7, A, D3, B1, B3, B6, tricalci phosphat)",
     "choline"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa 41%",
+      "raw": "Sữa 41% (nước, sữa bò tươi, bột sữa, chất béo sữa)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường kính",
+      "raw": "đường kính",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thạch dừa",
+      "raw": "thạch dừa (5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "chất béo thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha",
+      "raw": "mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cacao",
+      "raw": "bột cacao",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất từ lá mạch môn",
+      "raw": "chiết xuất từ lá mạch môn (7 g/l)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin và khoáng chất",
+      "raw": "vitamin và khoáng chất (K2-MK7, A, D3, B1, B3, B6, tricalci phosphat)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "choline",
+      "raw": "choline",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (INS 418, INS 466)",
     "hương liệu tổng hợp (hương sôcôla) và tự nhiên (chiết xuất từ cỏ ngọt)",
     "chất điều chỉnh độ acid (INS 339 (iii))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "14 Kcal"
@@ -80,6 +142,32 @@
     "Sản phẩm có chứa sữa, gluten, thạch dừa.",
     "Miếng thạch dừa nhỏ, cẩn thận tránh gây hóc, đặc biệt ở trẻ em."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "choline",
+      "vitamin và khoáng chất"
+    ],
+    "nutritional_categories": [
+      "amino_omega_bioactive",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "vitamin và khoáng chất",
+        "raw": "vitamin và khoáng chất (K2-MK7, A, D3, B1, B3, B6, tricalci phosphat)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "choline",
+        "raw": "choline",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "dừa",
@@ -115,6 +203,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

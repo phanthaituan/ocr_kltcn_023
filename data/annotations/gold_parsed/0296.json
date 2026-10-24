@@ -17,6 +17,92 @@
     "bột ớt",
     "tastenrich master L5 (đường thực vật maltodextrin)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột thịt gà 5,9%",
+      "raw": "bột thịt gà 5,9% [muối, chất điều vị (621, 631, 627), tinh bột ngô, đường, dầu cọ tương đậu nành, hương liệu tổng hợp (hương thịt gà), thịt gà, phẩm màu tổng hợp (150d), bột nghệ]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước mắm",
+      "raw": "nước mắm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước tương",
+      "raw": "nước tương",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành tây",
+      "raw": "hành tây",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột chiết xuất từ nước luộc gà 1,9%",
+      "raw": "bột chiết xuất từ nước luộc gà 1,9%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tỏi",
+      "raw": "tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ngò",
+      "raw": "bột ngò",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột nấm hương 0,5%",
+      "raw": "bột nấm hương 0,5%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột tiêu đen",
+      "raw": "bột tiêu đen",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ớt",
+      "raw": "bột ớt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tastenrich master l5",
+      "raw": "tastenrich master L5 (đường thực vật maltodextrin)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (621, 631, 627)",
     "hương liệu tổng hợp (hương thịt gà)",
@@ -28,7 +114,7 @@
     "hương liệu gà nhân tạo",
     "phẩm màu tổng hợp (160a(i))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "106 kcal"
@@ -59,6 +145,13 @@
     "Được sản xuất chung dây chuyền sản xuất các sản phảm có thể chứa sữa, trứng, giáp xác, động vật thân mềm, đậu phộng, hạt cây.",
     "Không dùng sản phẩm khi có dấu hiệu hư hỏng hoặc sản phẩm hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -109,6 +202,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

@@ -1,0 +1,105 @@
+{
+  "image_id": "0591",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Nước",
+    "sữa bò tươi (144 g/l)",
+    "đường",
+    "xiro fructoza",
+    "nước ép cam cô đặc (6 g/l)",
+    "vitamin (B1, B3, B5, B6, A, D3)"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (466, 418)",
+    "chất điều chỉnh độ acid (270, 330)",
+    "hương liệu giống tự nhiên"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "66,5 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "0,50 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "0,50 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "15 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "14 g"
+    },
+    {
+      "name": "Vitamin B3",
+      "value": "2700 µg"
+    },
+    {
+      "name": "Vitamin D3",
+      "value": "70 IU"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "130 µg"
+    },
+    {
+      "name": "Vitamin B5",
+      "value": "630 µg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "165 µg"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "250 IU"
+    },
+    {
+      "name": "Natri",
+      "value": "33 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Có chứa sữa.",
+    "Không sử dụng cho người mẫn cảm với thành phần sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "sữa"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "sữa"
+    ],
+    "inferred_from_ingredient_additive": [
+      "sữa"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

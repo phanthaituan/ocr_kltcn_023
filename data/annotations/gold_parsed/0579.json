@@ -11,6 +11,56 @@
     "muối",
     "bột ca cao"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột kem thực vật",
+      "raw": "Bột kem thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà phê hòa tan 12 %",
+      "raw": "cà phê hòa tan 12 %",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột kem sữa 5 %",
+      "raw": "bột kem sữa 5 %",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cà phê rang xay",
+      "raw": "bột cà phê rang xay(*) 0,4 %",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ca cao",
+      "raw": "bột ca cao",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất tạo màu (150a) tự nhiên",
     "hương liệu (tổng hợp, tự nhiên, giống tự nhiên)",
@@ -18,7 +68,7 @@
     "chất điều chỉnh độ acid (500(ii))",
     "chất tạo ngọt (950) tổng hợp"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "106,3 kcal"
@@ -47,6 +97,13 @@
   "gold_warning_raw": [
     "Sản phẩm chứa nguyên liệu có nguồn gốc từ sữa, đậu nành và ngũ cốc chứa gluten."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -82,6 +139,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

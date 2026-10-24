@@ -1,0 +1,96 @@
+{
+  "image_id": "0207",
+  "product_name": "BÁNH BÔNG LAN SOLITE PHIÊN BẢN MINNIE VI DÂU",
+  "gold_ingredients_raw": [
+    "Trứng",
+    "bột mì",
+    "đường",
+    "dầu thực vật (dầu nành)",
+    "mạch nha",
+    "sữa bột nguyên chất",
+    "muối"
+  ],
+  "gold_additives_raw": [
+    "chất làm ẩm (422, 420(ii))",
+    "chất nhũ hóa (477, 471, 475, 1520, 322(i), 491, 470(i))",
+    "chất tạo xốp (500(ii), 450(i))",
+    "chất điều chỉnh độ acid (575, 330)",
+    "hương liệu tổng hợp",
+    "chất bảo quản (202)",
+    "chất ổn định (415)",
+    "chất tạo màu tổng hợp (124)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "399 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "6,9 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "53,7 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "21,7 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "17,4 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "4,3 g"
+    },
+    {
+      "name": "Natri",
+      "value": "265 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa lúa mì, trứng, sữa, đậu nành."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

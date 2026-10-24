@@ -1,0 +1,98 @@
+{
+  "image_id": "0150",
+  "product_name": "Xốt Spaghetti Rose Thịt Cua",
+  "gold_ingredients_raw": [
+    "Nước",
+    "cà chua cắt hạt lựu (21%)",
+    "cà chua cô đặc (9%)",
+    "kem sữa béo",
+    "hành tây",
+    "cà rốt",
+    "bột kem không sữa",
+    "đường",
+    "bột sữa",
+    "thịt cua (2%)",
+    "bột phô mai",
+    "dầu nành",
+    "chiết xuất gà",
+    "muối i-ốt",
+    "bột tỏi",
+    "bột nguyên trứng",
+    "gia vị bò",
+    "chiết xuất nấm men",
+    "bột chiết xuất hến",
+    "húng quế",
+    "chiết xuất ớt",
+    "nguyệt quế"
+  ],
+  "gold_additives_raw": [
+    "các chất làm dày (1422, 415)",
+    "các chất điều vị (621, 627, 631)",
+    "hương liệu cua tổng hợp",
+    "các chất bảo quản (211, 202)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "≥ 109 kcal"
+    },
+    {
+      "name": "carbohydrate",
+      "value": "≥ 10,4 g"
+    },
+    {
+      "name": "chất béo",
+      "value": "≥ 6,2 g"
+    },
+    {
+      "name": "chất đạm",
+      "value": "≥ 2,8 g"
+    },
+    {
+      "name": "natri",
+      "value": "≥ 665 mg"
+    },
+    {
+      "name": "đường tổng",
+      "value": "≥ 6,2 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không dùng cho người bị dị ứng với các thành phần của sản phẩm.",
+    "Không dùng sản phẩm khi đã hết hạn sử dụng hoặc gói phồng to bất thường."
+  ],
+  "allergen_final": {
+    "contains": [
+      "giáp_xác",
+      "sữa",
+      "trứng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [
+      "giáp_xác",
+      "sữa",
+      "trứng"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "19/01/26",
+  "expiry_date": "19/01/27",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

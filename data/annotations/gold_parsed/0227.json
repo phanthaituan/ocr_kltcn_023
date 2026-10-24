@@ -11,6 +11,56 @@
     "muối tinh chế i-ốt 1%",
     "tinh bột sắn biến tính [chất làm dày (INS 1404)] 1%"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột sắn 27%",
+      "raw": "Bột sắn 27%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "bột mì [chứa phẩm màu nhân tạo (INS 110)] 27%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường 17%",
+      "raw": "đường 17%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị tương ớt sriracha",
+      "raw": "gia vị tương ớt sriracha [chứa chất điều vị (INS 621; INS 635); hương liệu giống tự nhiên] 16%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật 10%",
+      "raw": "dầu thực vật 10%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mực khô 1%",
+      "raw": "bột mực khô 1%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối tinh chế i-ốt 1%",
+      "raw": "muối tinh chế i-ốt 1%",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "tinh bột sắn biến tính",
+      "raw": "tinh bột sắn biến tính [chất làm dày (INS 1404)] 1%",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "phẩm màu nhân tạo (INS 110)",
     "chất điều vị (INS 621; INS 635)",
@@ -18,7 +68,7 @@
     "tinh bột sắn biến tính",
     "chất làm dày (INS 1404)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "417.16 Kcal"
@@ -53,6 +103,24 @@
     "Đóng kín miệng gói sau khi mở hoặc không ăn hết.",
     "Thông tin dị ứng: Sản phẩm có chứa đậu nành, động vật thân giáp, lúa mì, có thể chứa sữa, cá và sulphite."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "muối tinh chế i-ốt 1%"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "muối tinh chế i-ốt 1%",
+        "raw": "muối tinh chế i-ốt 1%",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": [
@@ -96,6 +164,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

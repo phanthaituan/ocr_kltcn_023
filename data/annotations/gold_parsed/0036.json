@@ -6,6 +6,26 @@
     "muối",
     "trứng gà tươi (3,5%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì (95%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng gà tươi",
+      "raw": "trứng gà tươi (3,5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất điều chỉnh độ axit: (INS 451(i), INS 500(i), INS 501(i))",
     "Chất làm dày: (INS 405)",
@@ -13,7 +33,7 @@
     "Chất chống đông vón: (INS 551)",
     "Màu tự nhiên: (INS 164, INS 160b(ii))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Hàm lượng béo (g)",
       "value": "0.8 - 1.2"
@@ -35,6 +55,13 @@
     "Không sử dụng cho người dị ứng với các thành phần của sản phẩm",
     "Sản phẩm có chứa gluten, trứng"
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -71,6 +98,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

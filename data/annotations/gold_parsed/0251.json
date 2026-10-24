@@ -9,13 +9,51 @@
     "SỮA BỘT",
     "NƯỚC CỐT DÂU (1%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "NƯỚC",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "ĐƯỜNG",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "CHẤT BÉO THỰC VẬT",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha",
+      "raw": "MẠCH NHA",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột",
+      "raw": "SỮA BỘT",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước cốt dâu",
+      "raw": "NƯỚC CỐT DÂU (1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "CHẤT NHŨ HÓA (471, 412, 466, 407, 322(i))",
     "CHẤT ĐIỀU CHỈNH ĐỘ ACID (330)",
     "MÀU TỰ NHIÊN (120)",
     "HƯƠNG LIỆU TỔNG HỢP DÙNG CHO THỰC PHẨM"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "NĂNG LƯỢNG",
       "value": "165 kcal"
@@ -44,6 +82,13 @@
   "gold_warning_raw": [
     "CÓ CHỨA SỮA."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -73,6 +118,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

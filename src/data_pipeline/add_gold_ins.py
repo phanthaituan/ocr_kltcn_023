@@ -7,20 +7,25 @@ Mỗi file <id>.json gồm:
   additives_without_code : chuỗi additive không có mã (hương liệu, tên chất không kèm mã) -> không đánh giá theo mã
   ins_parser_version
 
-Cách chạy:
-    python add_gold_ins.py --gold_dir data/annotations/gold_parsed --out_dir data/annotations/gold_ins
+Cách chạy (từ thư mục gốc project):
+    python src/data_pipeline/add_gold_ins.py
+    # Hoặc tùy biến: 
+    python src/data_pipeline/add_gold_ins.py --gold_dir data/annotations/gold_parsed --out_dir data/annotations/gold_ins
 """
 import argparse, json, sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from src.common.paths import GOLD_PARSED_DIR, GOLD_INS_DIR
 from ins_parser import ins_bases, PARSER_VERSION
 
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--gold_dir", required=True)
-    ap.add_argument("--out_dir", required=True)
+    ap.add_argument("--gold_dir", default=str(GOLD_PARSED_DIR), help="Thư mục chứa gold_parsed JSON")
+    ap.add_argument("--out_dir", default=str(GOLD_INS_DIR), help="Thư mục xuất gold_ins JSON")
     args = ap.parse_args()
     out = Path(args.out_dir); out.mkdir(parents=True, exist_ok=True)
 

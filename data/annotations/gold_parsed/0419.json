@@ -14,11 +14,79 @@
     "Gừng",
     "Hành"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "rong biển",
+      "raw": "Rong biển (30.4%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "Muối i-ốt",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tôm",
+      "raw": "Tôm (9.3%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mè",
+      "raw": "Mè",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gia vị",
+      "raw": "Bột gia vị (hương liệu giống tự nhiên, đạm thực vật thủy phân, chất điều vị (INS 621, INS 631), chiết xuất cua, mực)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột tôm",
+      "raw": "Bột tôm (4.7%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin premix b",
+      "raw": "Vitamin premix B (B3 (nicotinamid), acid folic, B12 (cyanocobalamin), B1 (thiamin hydrochlorid), B6 (pyridoxin hydrochlorid))",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "tiêu",
+      "raw": "Tiêu",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gừng",
+      "raw": "Gừng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành",
+      "raw": "Hành",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Hương liệu giống tự nhiên",
     "Chất điều vị (INS 621, INS 631)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "10.40 Kcal"
@@ -74,6 +142,32 @@
     "Không sử dụng khi sản phẩm có dấu hiệu bất thường như bao bì hở, ẩm mốc.",
     "Phù hợp cho đối tượng từ 3 tuổi."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "muối i-ốt",
+      "vitamin premix b"
+    ],
+    "nutritional_categories": [
+      "mineral_trace",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "muối i-ốt",
+        "raw": "Muối i-ốt",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "vitamin premix b",
+        "raw": "Vitamin premix B (B3 (nicotinamid), acid folic, B12 (cyanocobalamin), B1 (thiamin hydrochlorid), B6 (pyridoxin hydrochlorid))",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "giáp_xác"
@@ -106,6 +200,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

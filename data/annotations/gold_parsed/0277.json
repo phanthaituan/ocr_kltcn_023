@@ -16,6 +16,86 @@
     "đạm đậu nành thủy phân",
     "chất xơ từ lúa mì"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ",
+      "raw": "dầu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa",
+      "raw": "bột sữa (sữa bột nguyên kem, chất chống sữa)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị phô mai",
+      "raw": "gia vị phô mai",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "các thành phần từ sữa",
+      "raw": "các thành phần từ sữa (váng sữa, sữa tách béo, kem, dầu bơ)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột phô mai 0.54%",
+      "raw": "bột phô mai 0.54%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối tinh",
+      "raw": "muối tinh",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột dừa",
+      "raw": "bột dừa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sắc tố nghệ",
+      "raw": "sắc tố nghệ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị",
+      "raw": "gia vị (bột bơ, chất xử lý bột INS1400, bột kem, tinh bột ngô)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đạm đậu nành thủy phân",
+      "raw": "đạm đậu nành thủy phân",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    },
+    {
+      "name": "chất xơ từ lúa mì",
+      "raw": "chất xơ từ lúa mì",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    }
+  ],
   "gold_additives_raw": [
     "chất chống oxy hoá (INS307a, INS307b, Lascorbil palmitate)",
     "chất nhũ hoá (INS322(i), INS475)",
@@ -27,10 +107,36 @@
     "hương liệu phô mai tổng hợp",
     "chất tạo màu tổng hợp INS160a(i)"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Sản phẩm có chứa sữa, đậu nành, lúa mì."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "chất xơ từ lúa mì",
+      "đạm đậu nành thủy phân"
+    ],
+    "nutritional_categories": [
+      "fiber_prebiotic",
+      "isolated_protein"
+    ],
+    "items": [
+      {
+        "name": "đạm đậu nành thủy phân",
+        "raw": "đạm đậu nành thủy phân",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      },
+      {
+        "name": "chất xơ từ lúa mì",
+        "raw": "chất xơ từ lúa mì",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -66,6 +172,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

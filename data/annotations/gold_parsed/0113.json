@@ -10,6 +10,50 @@
     "chiết xuất từ trái dành dành",
     "vitamin (B1, B3, B6)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa lên men tự nhiên",
+      "raw": "Sữa lên men tự nhiên (59%) (nước, sữa bò tươi, sữa bột, chất béo sữa, men Streptococcus và Lactobacillus)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thạch dừa",
+      "raw": "thạch dừa (5%) (thạch dừa, đường, chất điều chỉnh độ acid (INS 330))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xiro fructose",
+      "raw": "xiro fructose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất từ trái dành dành",
+      "raw": "chiết xuất từ trái dành dành",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin",
+      "raw": "vitamin (B1, B3, B6)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [
     "chất điều chỉnh độ acid (INS 330)",
     "chất xơ hòa tan",
@@ -18,7 +62,7 @@
     "chất điều chỉnh acid (INS 270)",
     "phẩm màu tự nhiên (INS 120)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "68,9 kcal"
@@ -64,6 +108,24 @@
     "Sản phẩm có chứa sữa, thạch dừa.",
     "Miếng thạch dừa nhỏ, cẩn thận tránh gây hóc, đặc biệt ở trẻ em."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "vitamin"
+    ],
+    "nutritional_categories": [
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "vitamin",
+        "raw": "vitamin (B1, B3, B6)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "dừa",
@@ -96,6 +158,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

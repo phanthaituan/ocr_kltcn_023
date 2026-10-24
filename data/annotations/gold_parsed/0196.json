@@ -13,6 +13,68 @@
     "nguyên liệu thực phẩm (bột bánh 04, BQ Liquid)",
     "muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "trứng gà",
+      "raw": "Trứng gà (24,5 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xốt sô cô la",
+      "raw": "xốt sô cô la (22,1 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha",
+      "raw": "mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cồn thực phẩm",
+      "raw": "cồn thực phẩm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa",
+      "raw": "sữa (0,4 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nguyên liệu thực phẩm",
+      "raw": "nguyên liệu thực phẩm (bột bánh 04, BQ Liquid)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm ẩm (422, 420(ii))",
     "chất ổn định (1442)",
@@ -20,7 +82,7 @@
     "hương liệu tổng hợp (vani)",
     "hương liệu giống tự nhiên (bơ)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "320 kcal"
@@ -51,6 +113,13 @@
     "Dùng ngay khi mở gói sản phẩm.",
     "Sản phẩm được đóng gói có chứa gói hút oxy bên trong, không được ăn."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -88,6 +157,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

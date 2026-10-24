@@ -6,6 +6,26 @@
     "Gói xốt: Nước, dầu cọ, muối, chất điều vị (621, 631, 627, 364(ii)), hành, đường, cốt nước tương, hỗn hợp bột (bột hành, bột tiêu, bột thảo quả), tỏi, hương liệu tổng hợp dùng cho thực phẩm (hương bò, hương mùi tàu), gừng, bột sữa dừa, chất tạo màu (màu tổng hợp (150d), màu tự nhiên (160c(iii))), chiết xuất nấm men, chất bảo quản (202, 211), chất tạo ngọt tổng hợp (950), chất làm dày (415), chất chống oxy hóa (319)",
     "Gói rau: Giả thịt (từ protein lúa mì), rau sấy (hành lá, cà rốt)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "vắt sợi: bột mì, dầu cọ, tinh bột khoai mì, tinh bột khoai tây",
+      "raw": "Vắt sợi: Bột mì, dầu cọ, tinh bột khoai mì, tinh bột khoai tây (10 g/kg), muối, chất điều vị (621, 631, 627), bột trứng (0,5 g/kg), chất ổn định (1210, 451(i), 405), chất điều chỉnh độ acid (330, 260), chất tạo xốp (500(ii), 452(i)), chất tạo màu (màu tổng hợp (101(iii)), màu tự nhiên (164)), chất chống oxy hóa (320, 307b)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gói xốt: nước, dầu cọ, muối, chất điều vị",
+      "raw": "Gói xốt: Nước, dầu cọ, muối, chất điều vị (621, 631, 627, 364(ii)), hành, đường, cốt nước tương, hỗn hợp bột (bột hành, bột tiêu, bột thảo quả), tỏi, hương liệu tổng hợp dùng cho thực phẩm (hương bò, hương mùi tàu), gừng, bột sữa dừa, chất tạo màu (màu tổng hợp (150d), màu tự nhiên (160c(iii))), chiết xuất nấm men, chất bảo quản (202, 211), chất tạo ngọt tổng hợp (950), chất làm dày (415), chất chống oxy hóa (319)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gói rau: giả thịt",
+      "raw": "Gói rau: Giả thịt (từ protein lúa mì), rau sấy (hành lá, cà rốt)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất điều vị (621, 631, 627)",
     "Chất ổn định (1210, 451(i), 405)",
@@ -21,7 +41,7 @@
     "Chất làm dày (415)",
     "Chất chống oxy hóa (319)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "289,92 kcal"
@@ -55,6 +75,13 @@
     "Sản phẩm có chứa: trứng, sữa, gluten lúa mì, đậu nành, cá.",
     "Không sử dụng sản phẩm quá hạn hoặc bao bì không còn nguyên vẹn."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -97,6 +124,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

@@ -9,13 +9,51 @@
     "dầu gạo lứt tinh luyện (1 %)",
     "hương liệu tổng hợp: hương thịt, đạm thực vật thủy phân, tiêu, phẩm màu tự nhiên: màu nghệ và (INS 160a(iii))"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "muối ăn",
+      "raw": "Muối ăn",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột khoai mì",
+      "raw": "tinh bột khoai mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp từ nguyên liệu tự nhiên 5,325 %",
+      "raw": "hỗn hợp từ nguyên liệu tự nhiên 5,325 % (thịt heo (1 %), cà rốt, hành, tỏi, xương ống và tủy (0,036 %))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu gạo lứt tinh luyện",
+      "raw": "dầu gạo lứt tinh luyện (1 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hương liệu tổng hợp: hương thịt, đạm thực vật thủy phân, tiêu, phẩm màu tự nhiên: màu nghệ và",
+      "raw": "hương liệu tổng hợp: hương thịt, đạm thực vật thủy phân, tiêu, phẩm màu tự nhiên: màu nghệ và (INS 160a(iii))",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (INS 621, INS 631, INS 627)",
     "chất ổn định (INS 1422)",
     "hương liệu tổng hợp: hương thịt",
     "phẩm màu tự nhiên: màu nghệ và (INS 160a(iii))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "157 kcal"
@@ -45,6 +83,13 @@
     "Không dùng sản phẩm hết hạn sử dụng, sản phẩm có mùi lạ hoặc có dấu hiệu hư hỏng hoặc nguời dị ứng với các thành phần của sản phẩm.",
     "Sản phẩm có chứa nguyên liệu nguồn gốc từ đậu nành"
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "đậu_nành"
@@ -75,6 +120,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

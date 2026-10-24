@@ -1,0 +1,22 @@
+{
+  "image_id": "0048",
+  "gold_ins_additive": [
+    "102",
+    "110",
+    "171",
+    "296",
+    "330",
+    "331",
+    "406",
+    "422",
+    "440",
+    "452",
+    "903"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Artificial flavour (Mango flavor)",
+    "Maltitol"
+  ],
+  "ins_parser_version": "1.1"
+}

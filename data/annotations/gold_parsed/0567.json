@@ -9,11 +9,49 @@
     "maltodextrin",
     "muối biển tự nhiên (1.5%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột kem thực vật",
+      "raw": "bột kem thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cà phê hòa tan",
+      "raw": "bột cà phê hòa tan (100% từ hạt cà phê) (14%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột kem sữa",
+      "raw": "bột kem sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối biển tự nhiên",
+      "raw": "muối biển tự nhiên (1.5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều chỉnh độ axit INS 500(ii)",
     "hương cà phê tổng hợp dùng trong thực phẩm"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Calories",
       "value": "80"
@@ -80,6 +118,13 @@
     "Không dùng cho người bị dị ứng với các thành phần của sản phẩm.",
     "Không sử dụng sản phẩm đã hết hạn."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -109,6 +154,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

@@ -6,13 +6,33 @@
     "bột kem không sữa - non dairy creamer (Glucose syrup, chất béo thực vật, chất ổn định (INS 414), đạm sữa, chất nhũ hóa (INS 322i), chất chống đông vón (INS 551))",
     "Hạt chia (10%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột sương sáo đen",
+      "raw": "Bột sương sáo đen (50%) (Cây sương sáo khô 80%, chất ổn định INS 1414)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột kem không sữa - non dairy creamer",
+      "raw": "bột kem không sữa - non dairy creamer (Glucose syrup, chất béo thực vật, chất ổn định (INS 414), đạm sữa, chất nhũ hóa (INS 322i), chất chống đông vón (INS 551))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt chia",
+      "raw": "Hạt chia (10%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định INS 1414",
     "chất ổn định (INS 414)",
     "chất nhũ hóa (INS 322i)",
     "chất chống đông vón (INS 551)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "232 - 430 kcal/100 g"
@@ -33,6 +53,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm đã hết hạn."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -56,6 +83,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

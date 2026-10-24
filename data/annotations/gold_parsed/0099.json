@@ -7,12 +7,38 @@
     "đường trắng",
     "xiro mạch nha"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bỏng ngô",
+      "raw": "bỏng ngô (30.5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ",
+      "raw": "dầu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường trắng",
+      "raw": "đường trắng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xiro mạch nha",
+      "raw": "xiro mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "phụ gia thực phẩm (phospholipids)",
     "chât tạo màu tổng hợp (beta-caroten 160a(i))",
     "hương liệu thực phẩm nhân tạo"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "505 kcal"
@@ -49,6 +75,13 @@
   "gold_warning_raw": [
     "sản phẩm có chứa thành phần gây dị ứng: ngô"
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "ngô"
@@ -78,6 +111,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

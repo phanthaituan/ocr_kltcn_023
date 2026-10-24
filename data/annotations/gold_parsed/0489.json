@@ -12,6 +12,62 @@
     "nước mắm",
     "oleoresin capsicum"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước hầm xương gà 60%",
+      "raw": "Nước hầm xương gà 60%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất rau củ quả tươi 18%",
+      "raw": "chiết xuất rau củ quả tươi 18% (sả, riềng, ớt, lá chanh, hành tây, gừng)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "muối i-ốt",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà chua dạng sệt",
+      "raw": "cà chua dạng sệt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gia vị chanh",
+      "raw": "bột gia vị chanh",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ",
+      "raw": "dầu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước mắm",
+      "raw": "nước mắm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "oleoresin capsicum",
+      "raw": "oleoresin capsicum",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (621, 631, 627, 951, 640)",
     "chất điều chỉnh độ acid (330, 296)",
@@ -19,7 +75,7 @@
     "chất chống oxy hóa (307b, 304)",
     "màu tự nhiên (paprika oleoresin)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "193(Kcal)"
@@ -53,6 +109,24 @@
     "Dùng 1 lần sau khi mở bao bì.",
     "Sản phẩm có chứa nguyên liệu có nguồn gốc từ cá."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "muối i-ốt"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "muối i-ốt",
+        "raw": "muối i-ốt",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "cá"
@@ -83,6 +157,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

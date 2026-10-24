@@ -1,0 +1,16 @@
+{
+  "image_id": "0244",
+  "gold_ins_additive": [
+    "300",
+    "471",
+    "481",
+    "500",
+    "950",
+    "955"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "hương liệu (hương trà giống tự nhiên, hương sữa tổng hợp)"
+  ],
+  "ins_parser_version": "1.1"
+}

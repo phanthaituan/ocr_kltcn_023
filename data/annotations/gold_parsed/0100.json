@@ -9,6 +9,44 @@
     "bột ca cao 6,2%",
     "chiết xuất mạch nha lúa mì"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu hạt cọ hydro hóa",
+      "raw": "dầu hạt cọ hydro hóa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột tách béo 13,3%",
+      "raw": "sữa bột tách béo 13,3%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột whey 7%",
+      "raw": "bột whey 7%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ca cao 6,2%",
+      "raw": "bột ca cao 6,2%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất mạch nha lúa mì",
+      "raw": "chiết xuất mạch nha lúa mì",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm dày (INS 414)",
     "chất tạo màu nhân tạo: Phẩm màu (INS 171, INS 129, INS 133, INS 110, INS 102)",
@@ -17,7 +55,7 @@
     "hương liệu tổng hợp (hương vani)",
     "chất nhũ hóa (INS 322(i)) từ đậu nành"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "305 kcal"
@@ -51,6 +89,13 @@
     "Không sử dụng sản phẩm đã hết hạn sử dụng.",
     "Sản phẩm này được sản xuất trên thiết bị sản xuất giống với các sản phẩm sử dụng trứng, tam giác mạch, đậu phộng, cá thu, cua, tôm, cà chua, thịt gà, mực, động vật có vỏ (bao gồm hàu, bào ngư, vẹm)"
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -93,6 +138,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

@@ -1,0 +1,75 @@
+{
+  "image_id": "0511",
+  "product_name": "Mì Ý sốt kem cá hồi",
+  "gold_ingredients_raw": [
+    "Gói mì Ý: 60% (mỳ Ý Spaghetti: 97,4%, dầu thực vật, muối, i-ốt)",
+    "gói xốt kem cá hồi: 40% (nước, xốt mayonnaise, cá hồi: 13,6%, kem sữa tươi: 4,9%, bơ lạt, dầu thực vật, đường tinh luyện, phô mai, phụ gia thực phẩm (chất ổn định (INS 1414, INS 415), hương phô mai tổng hợp, hương sữa giống tự nhiên), hạt nêm, tỏi, muối i-ốt, tiêu, lá kinh giới, lá xạ hương)"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (INS 1414, INS 415)",
+    "hương phô mai tổng hợp",
+    "hương sữa giống tự nhiên"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "245 - 455 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "7,0 - 13,0 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "21,7 - 40,3 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "13,2 - 24,6 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "3,0 - 5,5 g"
+    },
+    {
+      "name": "Natri",
+      "value": "475 - 881 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không dùng sản phẩm hết hạn sử dụng.",
+    "Nguyên liệu từ cá hồi có thể còn sót lại một ít xương, nên khi ăn cần chú ý."
+  ],
+  "allergen_final": {
+    "contains": [
+      "cá"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "cá"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "cá"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1,
+      "named_allergy": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": null,
+  "mfg_date": "28/04/2026",
+  "expiry_date": "28/10/2027",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

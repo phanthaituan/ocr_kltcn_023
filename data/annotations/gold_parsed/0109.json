@@ -24,11 +24,139 @@
     "Kẽm sulfat",
     "Kali iodid"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa",
+      "raw": "Sữa (94,42%) (nước, sữa bột, chất béo sữa)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường (2,8%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp vitamin và khoáng chất",
+      "raw": "hỗn hợp vitamin và khoáng chất",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin c",
+      "raw": "Vitamin C (Natri-L-ascorbat)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin b5",
+      "raw": "Vitamin B5 (D-pantothenat calci)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin b3",
+      "raw": "Vitamin B3 (Nicotinamid)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin a",
+      "raw": "Vitamin A (Retinyl acetat)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin b2",
+      "raw": "Vitamin B2 (Riboflavin)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin b6",
+      "raw": "Vitamin B6 (Pyridoxin hydrochlorid)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin b1",
+      "raw": "Vitamin B1 (Thiamin mononitrat)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin b9",
+      "raw": "Vitamin B9 (Acid pteroylmonoglutamic)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin k1",
+      "raw": "Vitamin K1 (Phytomenadion)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin d3",
+      "raw": "Vitamin D3 (Cholecalciferol)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "biotin",
+      "raw": "Biotin (D-Biotin)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin e",
+      "raw": "Vitamin E (DL-alpha-tocopheryl acetat)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin b12",
+      "raw": "Vitamin B12 (Cyanocobalamin)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "magnesi oxyd",
+      "raw": "Magnesi oxyd",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "sắt",
+      "raw": "Sắt (III) pyrophosphat",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "kẽm sulfat",
+      "raw": "Kẽm sulfat",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "kali iodid",
+      "raw": "Kali iodid",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (471, 407, 401, 412, 452(i))",
     "hương liệu (tổng hợp, giống tự nhiên, tự nhiên) dùng cho thực phẩm"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "160,2 kcal"
@@ -75,6 +203,144 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 18,
+    "nutritional_names": [
+      "biotin",
+      "hỗn hợp vitamin và khoáng chất",
+      "kali iodid",
+      "kẽm sulfat",
+      "magnesi oxyd",
+      "sắt",
+      "vitamin a",
+      "vitamin b1",
+      "vitamin b12",
+      "vitamin b2",
+      "vitamin b3",
+      "vitamin b5",
+      "vitamin b6",
+      "vitamin b9",
+      "vitamin c",
+      "vitamin d3",
+      "vitamin e",
+      "vitamin k1"
+    ],
+    "nutritional_categories": [
+      "mineral_trace",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "hỗn hợp vitamin và khoáng chất",
+        "raw": "hỗn hợp vitamin và khoáng chất",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin c",
+        "raw": "Vitamin C (Natri-L-ascorbat)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin b5",
+        "raw": "Vitamin B5 (D-pantothenat calci)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin b3",
+        "raw": "Vitamin B3 (Nicotinamid)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin a",
+        "raw": "Vitamin A (Retinyl acetat)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin b2",
+        "raw": "Vitamin B2 (Riboflavin)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin b6",
+        "raw": "Vitamin B6 (Pyridoxin hydrochlorid)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin b1",
+        "raw": "Vitamin B1 (Thiamin mononitrat)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin b9",
+        "raw": "Vitamin B9 (Acid pteroylmonoglutamic)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin k1",
+        "raw": "Vitamin K1 (Phytomenadion)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin d3",
+        "raw": "Vitamin D3 (Cholecalciferol)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "biotin",
+        "raw": "Biotin (D-Biotin)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin e",
+        "raw": "Vitamin E (DL-alpha-tocopheryl acetat)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin b12",
+        "raw": "Vitamin B12 (Cyanocobalamin)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "magnesi oxyd",
+        "raw": "Magnesi oxyd",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "sắt",
+        "raw": "Sắt (III) pyrophosphat",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "kẽm sulfat",
+        "raw": "Kẽm sulfat",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "kali iodid",
+        "raw": "Kali iodid",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -96,6 +362,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": false
   }
 }

@@ -7,12 +7,38 @@
     "yến tươi tự nhiên ngâm nở (30%)",
     "đường phèn"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước ro",
+      "raw": "NƯỚC RO",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt chia ngâm nở",
+      "raw": "hạt chia ngâm nở (500 mg/185 ml)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "yến tươi tự nhiên ngâm nở",
+      "raw": "yến tươi tự nhiên ngâm nở (30%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường phèn",
+      "raw": "đường phèn",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm dày INS(401, 418, 407, 466, 415)",
     "chất ổn định (INS 331 (iii))",
     "hương liệu tổng hợp dùng cho thực phẩm"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "33 kcal/100 ml"
@@ -35,6 +61,13 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -56,6 +89,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": false
   }
 }

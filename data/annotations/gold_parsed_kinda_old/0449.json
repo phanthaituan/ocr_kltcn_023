@@ -1,0 +1,101 @@
+{
+  "image_id": "0449",
+  "product_name": "CÁ XỐT CÀ ĐÓNG HỘP",
+  "gold_ingredients_raw": [
+    "Cá 60%",
+    "Xốt cà chua 35%",
+    "Dầu nành, đường 5%",
+    "Muối i-ốt"
+  ],
+  "gold_additives_raw": [
+    "Chất làm dày (1442, 1414, 412)",
+    "Chất điều vị (621)",
+    "Màu thực phẩm Lycopen tổng hợp (160d(ii))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "69 kcal"
+    },
+    {
+      "name": "Năng lượng từ chất béo",
+      "value": "23 kcal"
+    },
+    {
+      "name": "Tổng chất béo",
+      "value": "2,3 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "1 g"
+    },
+    {
+      "name": "Cholesterol",
+      "value": "46 mg"
+    },
+    {
+      "name": "Natri",
+      "value": "339 mg"
+    },
+    {
+      "name": "Tổng Carbohydrat",
+      "value": "2 g"
+    },
+    {
+      "name": "Chất xơ",
+      "value": "1 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "1 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "11 g"
+    },
+    {
+      "name": "Vitamin A",
+      "value": "0%"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "0%"
+    },
+    {
+      "name": "Vitamin B2",
+      "value": "0%"
+    },
+    {
+      "name": "Calci",
+      "value": "19%"
+    },
+    {
+      "name": "Sắt",
+      "value": "3%"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

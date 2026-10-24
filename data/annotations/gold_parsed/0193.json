@@ -21,10 +21,120 @@
     "muối",
     "lá kinh giới - oregano"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đế pizza 45.2%",
+      "raw": "Đế pizza 45.2% (Bột mì 59.3%, nước, trứng gà, đường, bơ thực vật - BOS, dầu thực vật, muối, men khô (Saccharomyces cerevisiae))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng gà 11.6%",
+      "raw": "trứng gà 11.6%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "phô mai - pizza topping 10.6%",
+      "raw": "phô mai - Pizza topping 10.6%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "pate gan heo 5%",
+      "raw": "pate gan heo 5%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "xúc xích 5%",
+      "raw": "xúc xích 5%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bắp cải tím",
+      "raw": "bắp cải tím",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bông cải xanh",
+      "raw": "bông cải xanh",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà rốt",
+      "raw": "cà rốt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành tây",
+      "raw": "hành tây",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột bắp",
+      "raw": "bột bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "phô mai kem",
+      "raw": "phô mai kem",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "giấm gạo lên men",
+      "raw": "giấm gạo lên men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lá kinh giới - oregano",
+      "raw": "lá kinh giới - oregano",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "men khô (Saccharomyces cerevisiae)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "227 Kcal"
@@ -57,6 +167,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm khi có dấu hiệu hư hỏng hoặc hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -80,6 +197,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

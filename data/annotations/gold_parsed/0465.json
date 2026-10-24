@@ -13,6 +13,68 @@
     "Hương liệu vị nước mắm",
     "Muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "Dầu thực vật (dầu cọ)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột khoai mì",
+      "raw": "Bột khoai mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột khoai tây",
+      "raw": "Bột khoai tây",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột hành tây",
+      "raw": "Bột hành tây",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột tỏi",
+      "raw": "Bột tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước tương",
+      "raw": "Nước tương [nước, muối, đậu nành, bột mì, đường, chất điều vị (621, 631, 627), chất bảo quản (211)]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột chiết xuất gà",
+      "raw": "Bột chiết xuất gà (1,58%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hương liệu vị nước mắm",
+      "raw": "Hương liệu vị nước mắm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất điều vị (621, 631, 627)",
     "Chất bảo quản (211)",
@@ -20,7 +82,7 @@
     "Chất ổn định (412)",
     "Chất tạo ngọt tổng hợp (955)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "492 kcal"
@@ -54,6 +116,13 @@
     "Sản phẩm có chứa bột mì.",
     "Không sử dụng sản phẩm có dấu hiệu hư hỏng hoặc hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten"
@@ -84,6 +153,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

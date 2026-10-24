@@ -10,12 +10,56 @@
     "muối",
     "dầu cọ"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột kem không sữa",
+      "raw": "bột kem không sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột gầy 10 %",
+      "raw": "sữa bột gầy 10 %",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột trà 6 %",
+      "raw": "bột trà 6 % (trà xanh Thái Nguyên 3 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ",
+      "raw": "dầu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "hương tổng hợp (hương trà, hương sữa)",
     "chất chống đông vón (Dioxyd silic vô định hình)",
     "chất tạo ngọt tổng hợp (Acesulfam kali)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "57 ~ 99 kcal"
@@ -44,6 +88,13 @@
   "gold_warning_raw": [
     "Sản phẩm không dành cho người nhạy cảm với sữa và gluten."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -76,6 +127,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

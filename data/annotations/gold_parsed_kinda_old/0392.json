@@ -1,0 +1,72 @@
+{
+  "image_id": "0392",
+  "product_name": "CÁ TRÍCH NGÂM DẦU",
+  "gold_ingredients_raw": [
+    "Cá trích (72%)",
+    "dầu đậu nành (16%)",
+    "nước muối (12%) (nước, muối)"
+  ],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "145 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "19,9 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "0,9 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "0 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "9,2 g"
+    },
+    {
+      "name": "Natri",
+      "value": "224 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không dùng sản phẩm hết hạn sử dụng.",
+    "Sản phẩm có chứa cá."
+  ],
+  "allergen_final": {
+    "contains": [
+      "cá"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "cá"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "cá"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1,
+      "named_allergy": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "KHỐI LƯỢNG TỊNH HỖN HỢP: 125 g – KHỐI LƯỢNG CHẤT RẮN: 90 g",
+  "mfg_date": null,
+  "expiry_date": "HSD trên bao bì",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

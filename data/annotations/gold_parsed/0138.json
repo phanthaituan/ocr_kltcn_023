@@ -13,12 +13,74 @@
     "ngũ vị hương 1 g(*)",
     "chiết xuất ớt Paprika oleoresin (INS160c)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "thịt heo",
+      "raw": "Thịt heo 225 g (*)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tỏi tươi",
+      "raw": "tỏi tươi 9 g (*)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tỏi khô",
+      "raw": "tỏi khô 7 g (*)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ớt",
+      "raw": "ớt 2 g (*)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gừng, sả",
+      "raw": "gừng, sả",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu điều",
+      "raw": "dầu điều",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ngũ vị hương",
+      "raw": "ngũ vị hương 1 g(*)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất ớt paprika oleoresin",
+      "raw": "chiết xuất ớt Paprika oleoresin (INS160c)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (INS 621)",
     "chất tạo màu caramen tự nhiên nhóm I (INS 150a)",
     "Paprika oleoresin (INS160c)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "418 kcal"
@@ -51,6 +113,13 @@
   "gold_warning_raw": [
     "Không sử dụng cho người dị ứng với bất kỳ thành phần nào của sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -74,6 +143,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

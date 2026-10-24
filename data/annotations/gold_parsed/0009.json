@@ -17,13 +17,99 @@
     "maltodextrin",
     "chiết xuất Yucca"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường ngô",
+      "raw": "đường ngô (HFCS)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tương ớt gochujang",
+      "raw": "tương ớt Gochujang",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tỏi",
+      "raw": "tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà chua cô đặc",
+      "raw": "cà chua cô đặc",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cồn thực phẩm",
+      "raw": "cồn thực phẩm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ớt",
+      "raw": "ớt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vừng",
+      "raw": "vừng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất hải sản",
+      "raw": "chiết xuất hải sản (mực, tôm, cá)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất hành",
+      "raw": "chiết xuất hành",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột vi khuẩn lactic lên men",
+      "raw": "bột vi khuẩn lactic lên men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất yucca",
+      "raw": "chiết xuất Yucca",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (INS621, INS631, INS627)",
     "chất làm dày (INS1422, INS415)",
     "chất tạo màu tự nhiên (INS160c(i))",
     "chất điều chỉnh độ acid (INS330)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "213,6 ~ 320,4 kcal"
@@ -52,6 +138,13 @@
   "gold_warning_raw": [
     "Sản phẩm có chứa hải sản, tinh bột, đường."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "hải_sản"
@@ -81,6 +174,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

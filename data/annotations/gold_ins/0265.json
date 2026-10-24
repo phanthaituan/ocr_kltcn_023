@@ -1,0 +1,15 @@
+{
+  "image_id": "0265",
+  "gold_ins_additive": [
+    "322",
+    "414",
+    "476",
+    "904"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Hương Sữa Chua Tổng Hợp",
+    "Hương Vanilla Tự Nhiên"
+  ],
+  "ins_parser_version": "1.1"
+}

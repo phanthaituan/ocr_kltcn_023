@@ -1,0 +1,109 @@
+{
+  "image_id": "0498",
+  "product_name": "THỨC UỐNG SỮA LÚA MẠCH HƯƠNG SÔCÔLA",
+  "gold_ingredients_raw": [
+    "Sữa 32 % (nước, sữa bột gầy)",
+    "nước",
+    "bột kem thực vật",
+    "đường",
+    "bột cacao",
+    "chiết xuất từ lúa mạch (10 g/L)",
+    "muối",
+    "tricalci phosphat",
+    "chất tạọ ngọt tự nhiên",
+    "steviol glycosid từ stevia",
+    "vitamin (B1, B3, B6, D3, K2-MK7)"
+  ],
+  "gold_additives_raw": [
+    "chất ổn định (INS 460(i), INS 418, INS 466)",
+    "hương liệu tổng hợp (hương sôcôla) và tự nhiên (chiết xuất từ lá cỏ ngọt)",
+    "chất tạo ngọt tự nhiên steviol glycosid từ stevia"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "67,2 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,0 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "2,0 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "11,3 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "7,0 g"
+    },
+    {
+      "name": "Canxi",
+      "value": "58,5 mg"
+    },
+    {
+      "name": "Vitamin D3",
+      "value": "25,6 IU"
+    },
+    {
+      "name": "Vitamin K2",
+      "value": "4,8 µg"
+    },
+    {
+      "name": "Vitamin B1",
+      "value": "132 µg"
+    },
+    {
+      "name": "Vitamin B3",
+      "value": "1,3 mg"
+    },
+    {
+      "name": "Vitamin B6",
+      "value": "154 µg"
+    },
+    {
+      "name": "Natri",
+      "value": "38 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa sữa và gluten."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "sữa"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "sữa"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

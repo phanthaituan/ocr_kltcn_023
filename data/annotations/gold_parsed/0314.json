@@ -15,6 +15,80 @@
     "muối",
     "chất béo sữa khan"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "hỗn hợp cacao dạng rắn 19,86%",
+      "raw": "Hỗn hợp cacao dạng rắn 19,86% (chiết xuất lúa mạch 8,31%, đường, bột cacao 1,94%, bột sữa, si rô glucose, dầu cọ, si rô fructose, bột whey, muối)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu hướng dương, đường",
+      "raw": "dầu hướng dương, đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ hạt phỉ",
+      "raw": "bơ hạt phỉ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cacao 2,34%",
+      "raw": "bột cacao 2,34%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ngô",
+      "raw": "bột ngô",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất xơ đậu hà lan",
+      "raw": "chất xơ đậu Hà Lan",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "inulin",
+      "raw": "inulin",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "bột yến mạch",
+      "raw": "bột yến mạch",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa",
+      "raw": "bột sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo sữa khan",
+      "raw": "chất béo sữa khan",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất nhũ hóa mono và diglycerid của các acid béo INS 471",
     "Lecithin INS 322(i)",
@@ -24,7 +98,7 @@
     "chất tạo xốp INS 500(ii)",
     "chất chống oxy hóa INS 223"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "167kcal"
@@ -77,6 +151,31 @@
   "gold_warning_raw": [
     "Sản phẩm có chứa lúa mì, lúa mạch, sữa và các sản phẩm từ sữa, các loại hạt họ đậu, sản phẩm từ đậu nành. Có thể chứa trứng và đậu phộng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "chất xơ đậu hà lan",
+      "inulin"
+    ],
+    "nutritional_categories": [
+      "fiber_prebiotic"
+    ],
+    "items": [
+      {
+        "name": "chất xơ đậu hà lan",
+        "raw": "chất xơ đậu Hà Lan",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      },
+      {
+        "name": "inulin",
+        "raw": "inulin",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -120,6 +219,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

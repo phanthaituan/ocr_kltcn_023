@@ -32,6 +32,182 @@
     "phẩm màu nhân tạo",
     "gia vị được chế biến bằng công nghệ chiếu xạ"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đậu hà lan",
+      "raw": "Đậu Hà Lan (21%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nho khô",
+      "raw": "nho khô (20%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đậu phộng",
+      "raw": "đậu phộng (14%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đậu cọ",
+      "raw": "đậu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đậu tằm",
+      "raw": "đậu tằm (11%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt điều",
+      "raw": "hạt điều (8%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gạo nếp",
+      "raw": "bột gạo nếp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường cát trắng",
+      "raw": "đường cát trắng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị nấm men",
+      "raw": "gia vị nấm men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột",
+      "raw": "tinh bột",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị trứng cua",
+      "raw": "gia vị trứng cua",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối ăn",
+      "raw": "muối ăn",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột nêm",
+      "raw": "bột nêm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường cát trắng",
+      "raw": "đường cát trắng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước dùng gà cô đặc",
+      "raw": "nước dùng gà cô đặc",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị bột gà",
+      "raw": "gia vị bột gà",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất nấm men",
+      "raw": "chiết xuất nấm men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gà",
+      "raw": "bột gà",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "protein thực vật thủy phân",
+      "raw": "protein thực vật thủy phân",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gạo",
+      "raw": "bột gạo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị vị than nướng",
+      "raw": "gia vị vị than nướng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối ăn",
+      "raw": "muối ăn",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị protein thực vật thủy phân axit",
+      "raw": "gia vị protein thực vật thủy phân axit",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị",
+      "raw": "gia vị",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "phẩm màu",
+      "raw": "phẩm màu",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "phẩm màu nhân tạo",
+      "raw": "phẩm màu nhân tạo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị được chế biến bằng công nghệ chiếu xạ",
+      "raw": "gia vị được chế biến bằng công nghệ chiếu xạ",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất tạo xốp (INS 500(ii), INS 503(ii))",
     "hương liệu thực phẩm",
@@ -42,7 +218,7 @@
     "phẩm màu nhân tạo (INS 160c(ii))",
     "chất tạo ngọt nhân tạo (INS 951)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "536 kcal"
@@ -72,6 +248,13 @@
     "Sản phẩm này có chứa các loại hạt, đậu tằm, đậu phộng, lúa mì, đậu nành, động vật giáp xác và các sản phẩm từ chúng, động vật thân mềm, cá và trứng.",
     "Không sử dụng sản phẩm khi hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -117,6 +300,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

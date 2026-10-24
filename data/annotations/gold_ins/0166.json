@@ -1,0 +1,24 @@
+{
+  "image_id": "0166",
+  "gold_ins_additive": [
+    "110",
+    "1414",
+    "170",
+    "407",
+    "415",
+    "420",
+    "425",
+    "450",
+    "451",
+    "500",
+    "621"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "bột gia vị Fish Sauce Plus",
+    "Transglutaminase",
+    "D-xylose",
+    "hương liệu tổng hợp"
+  ],
+  "ins_parser_version": "1.1"
+}

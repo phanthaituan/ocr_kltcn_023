@@ -18,6 +18,98 @@
     "bột cần tây (0,2 g/kg)",
     "phẩm màu tổng hợp"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "thịt",
+      "raw": "Thịt (thịt gà, thịt heo)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "phô mai vị bắp",
+      "raw": "phô mai vị bắp (130,4 g/kg)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đạm đậu nành",
+      "raw": "đạm đậu nành",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột chiên xù",
+      "raw": "bột chiên xù",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gia vị maiswurst",
+      "raw": "bột gia vị Maiswurst",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa gầy",
+      "raw": "bột sữa gầy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột tỏi",
+      "raw": "bột tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột lòng đỏ trứng",
+      "raw": "bột lòng đỏ trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất nấm men",
+      "raw": "chiết xuất nấm men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt nêm",
+      "raw": "hạt nêm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cần tây",
+      "raw": "bột cần tây (0,2 g/kg)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "phẩm màu tổng hợp",
+      "raw": "phẩm màu tổng hợp",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (1414, 451(i), 407a)",
     "hương liệu tổng hợp",
@@ -25,7 +117,7 @@
     "chất chống oxy hóa (316)",
     "phẩm màu tổng hợp (127)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Chất đạm/ Protein (g)",
       "value": "9,5"
@@ -54,6 +146,24 @@
   "gold_warning_raw": [
     "Sản phẩm chứa các nguyên liệu có nguồn gốc từ sữa, đậu nành, cần tây, thủy sản, gluten của ngũ cốc và lúa mì, trứng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "đạm đậu nành"
+    ],
+    "nutritional_categories": [
+      "isolated_protein"
+    ],
+    "items": [
+      {
+        "name": "đạm đậu nành",
+        "raw": "đạm đậu nành",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "cần_tây",
@@ -95,6 +205,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

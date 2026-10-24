@@ -31,6 +31,176 @@
     "me",
     "D-xylose"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ",
+      "raw": "dầu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột khoai mì",
+      "raw": "tinh bột khoai mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột khoai tây",
+      "raw": "tinh bột khoai tây 17,3 g/kg",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước mắm",
+      "raw": "nước mắm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất nấm men",
+      "raw": "chiết xuất nấm men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột lòng đỏ trứng",
+      "raw": "bột lòng đỏ trứng 860 mg/kg",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cà ri",
+      "raw": "bột cà ri",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tỏi",
+      "raw": "tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ớt",
+      "raw": "ớt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thơm",
+      "raw": "thơm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột tôm",
+      "raw": "bột tôm 7,2 g/kg",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ngò gai",
+      "raw": "ngò gai",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành lá sấy",
+      "raw": "hành lá sấy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ngò om",
+      "raw": "ngò om",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bắp hạt sấy",
+      "raw": "bắp hạt sấy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành tím",
+      "raw": "hành tím",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ớt sấy",
+      "raw": "ớt sấy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gạo",
+      "raw": "gạo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mắm ruốc",
+      "raw": "mắm ruốc",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mực khô",
+      "raw": "mực khô 580 mg/kg",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột tiêu",
+      "raw": "bột tiêu",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ruốc khô",
+      "raw": "ruốc khô 190 mg/kg",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột chiết xuất sườn heo",
+      "raw": "bột chiết xuất sườn heo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "me",
+      "raw": "me",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "d-xylose",
+      "raw": "D-xylose",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (621)",
     "chất làm ẩm (451(i), 452(i))",
@@ -45,10 +215,17 @@
     "chất chống oxy hóa (320, 321)",
     "chất ổn định (415)"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Sản phẩm chứa các nguyên liệu có nguồn gốc từ lúa mì, thủy sản, trứng, đậu nành."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -84,6 +261,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

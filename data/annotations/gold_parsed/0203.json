@@ -6,6 +6,26 @@
     "DẦU THỰC VẬT",
     "BỘT GIA VỊ TẢO BIỂN 5,5% (ĐƯỜNG, MUỐI, CHẤT ĐIỀU VỊ (621, 951, 627, 631), BỘT BÒ SỮA, MALTODEXTRIN, BỘT WHEY, HƯƠNG LIỆU (TỰ NHIÊN, GIỐNG TỰ NHIÊN), TẢO BIỂN 2,5%, CHẤT ĐIỀU CHỈNH ĐỘ ACID (262(i), 330), MẠCH NHA GLUCOSE, CHẤT CHỐNG ĐÔNG VÓN (551, 341(iii)), CHẤT ỔN ĐỊNH (1450), CHẤT TẠO MÀU TỰ NHIÊN (160c(i)), CHẤT TẠO MÀU TỔNG HỢP (150c))."
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "khoai tây 60%",
+      "raw": "KHOAI TÂY 60%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "DẦU THỰC VẬT",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gia vị tảo biển 5,5%",
+      "raw": "BỘT GIA VỊ TẢO BIỂN 5,5% (ĐƯỜNG, MUỐI, CHẤT ĐIỀU VỊ (621, 951, 627, 631), BỘT BÒ SỮA, MALTODEXTRIN, BỘT WHEY, HƯƠNG LIỆU (TỰ NHIÊN, GIỐNG TỰ NHIÊN), TẢO BIỂN 2,5%, CHẤT ĐIỀU CHỈNH ĐỘ ACID (262(i), 330), MẠCH NHA GLUCOSE, CHẤT CHỐNG ĐÔNG VÓN (551, 341(iii)), CHẤT ỔN ĐỊNH (1450), CHẤT TẠO MÀU TỰ NHIÊN (160c(i)), CHẤT TẠO MÀU TỔNG HỢP (150c)).",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "CHẤT ĐIỀU VỊ (621, 951, 627, 631)",
     "HƯƠNG LIỆU (TỰ NHIÊN, GIỐNG TỰ NHIÊN)",
@@ -15,7 +35,7 @@
     "CHẤT TẠO MÀU TỰ NHIÊN (160c(i))",
     "CHẤT TẠO MÀU TỔNG HỢP (150c)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "NĂNG LƯỢNG",
       "value": "540 kcal"
@@ -48,6 +68,13 @@
   "gold_warning_raw": [
     "SẢN PHẨM CÓ CHỨA CÁC THÀNH PHẦN DỊ ỨNG SAU: SỮA, LÚA MÌ, ĐẬU NÀNH, CÁ VÀ CÓ THỂ CHỨA TRỨNG, TÔM, QUẢ HẠCH."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": [
@@ -92,6 +119,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

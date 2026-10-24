@@ -8,11 +8,50 @@
     "dầu thực vật đã hydro hóa hoàn toàn",
     "muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đậu phộng",
+      "raw": "Đậu Phộng (90%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường mía",
+      "raw": "đường mía",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu nành",
+      "raw": "dầu nành",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật đã hydro hóa hoàn toàn",
+      "raw": "dầu thực vật đã hydro hóa hoàn toàn",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Không sử dụng sản phẩm khi hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -36,6 +75,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": false,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

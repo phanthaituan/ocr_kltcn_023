@@ -12,14 +12,96 @@
     "các khoáng chất (dicalci phosphat, magnesi carbonat, sắt pyrophosphat)",
     "các vitamin (B3, D, B6, B2)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa - milk 36%",
+      "raw": "sữa - milk 36% (nước, sữa bột, bột whey từ sữa, chất béo sữa)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "protomalt® 3,3%",
+      "raw": "PROTOMALT® 3,3% (chiết xuất từ mầm lúa mạch - extract from malted barley)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường 3,3%",
+      "raw": "đường 3,3%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cacao",
+      "raw": "bột cacao",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "siro glucose",
+      "raw": "siro glucose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "các khoáng chất",
+      "raw": "các khoáng chất (dicalci phosphat, magnesi carbonat, sắt pyrophosphat)",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "các vitamin",
+      "raw": "các vitamin (B3, D, B6, B2)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [
     "chất nhũ hóa lecithin - chiết xuất từ đậu nành (soya lecithin)",
     "chất ổn định 407a",
     "chất tạo ngọt tổng hợp (acesulfam kali, sucralose)",
     "hương liệu tổng hợp"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "các khoáng chất",
+      "các vitamin"
+    ],
+    "nutritional_categories": [
+      "mineral_trace",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "các khoáng chất",
+        "raw": "các khoáng chất (dicalci phosphat, magnesi carbonat, sắt pyrophosphat)",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "các vitamin",
+        "raw": "các vitamin (B3, D, B6, B2)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -41,6 +123,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": true,
     "has_warning": false
   }
 }

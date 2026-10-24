@@ -28,6 +28,164 @@
     "hành tây",
     "hỗn hợp gia vị (nước, D-xylose, hạt nêm, muối)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "xốt tokbokki",
+      "raw": "Xốt tokbokki 120 g: Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tương ớt gochujang",
+      "raw": "tương ớt Gochujang [xi rô bắp, bột mì, nước, gia vị ớt cay 15,5%, bột đậu nành tách béo, muối, lúa mì, bột gạo, cồn thực phẩm, hạt malt, đường mạch nha, đường, bột ớt, tỏi, hành tây, tastenrich master 15 (đường thực vật lên men, maltodextrin), muối, nước tương, tiêu]",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bánh mì tokbokki",
+      "raw": "Bánh mì tokbokki 100 g: Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu lúa mạch s",
+      "raw": "dầu lúa mạch S",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cồn thực phẩm",
+      "raw": "cồn thực phẩm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cá tra 42",
+      "raw": "Cá tra 42",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "3%",
+      "raw": "3%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chả cá biển hỗn hợp 21,1%",
+      "raw": "chả cá biển hỗn hợp 21,1% [thịt cá (cá mối, cá đồng, cá hố, cá đù, cá trích)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột năng",
+      "raw": "bột năng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu hạt bông",
+      "raw": "dầu hạt bông",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mỡ heo",
+      "raw": "mỡ heo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tỏi",
+      "raw": "tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đạm đậu nành",
+      "raw": "đạm đậu nành",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "surimi hỗn hợp",
+      "raw": "surimi hỗn hợp (cá đồng, cá mối)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nguyên liệu thực phẩm",
+      "raw": "nguyên liệu thực phẩm (đạm đậu nành, tinh bột khoai tây, gluten lúa mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gia vị thịt heo",
+      "raw": "bột gia vị thịt heo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "d-xylose",
+      "raw": "D-xylose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ",
+      "raw": "dầu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chả cá o’muk",
+      "raw": "Chả cá O’muk 50 g: Thịt cá xay 50% (cá đồi, cá mối, cá dìa, cá ngát, cá rún, cá đồng)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì",
+      "raw": "bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà rốt",
+      "raw": "cà rốt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành tây",
+      "raw": "hành tây",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp gia vị",
+      "raw": "hỗn hợp gia vị (nước, D-xylose, hạt nêm, muối)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (621)",
     "phẩm màu nhân tạo (160c(ii)",
@@ -41,7 +199,7 @@
     "chất làm dầy (451i)",
     "chất bảo quản (202)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "216 kcal"
@@ -75,6 +233,24 @@
     "Không sử dụng khi sản phẩm quá hạn sử dụng.",
     "Có chứa lúa mì (gluten), đậu nành, củ trứng, sữa. Có thể chứa giáp xác, động vật thân mềm, đậu phộng, hạt cây."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "đạm đậu nành"
+    ],
+    "nutritional_categories": [
+      "isolated_protein"
+    ],
+    "items": [
+      {
+        "name": "đạm đậu nành",
+        "raw": "đạm đậu nành",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -122,6 +298,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

@@ -1,0 +1,33 @@
+{
+  "image_id": "0542",
+  "gold_ins_additive": [
+    "102",
+    "1100",
+    "124",
+    "133",
+    "1440",
+    "1442",
+    "322",
+    "341",
+    "415",
+    "420",
+    "422",
+    "450",
+    "470",
+    "471",
+    "473",
+    "475",
+    "477",
+    "491",
+    "492",
+    "500",
+    "575",
+    "964"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "HƯƠNG LIỆU TỔNG HỢP (VANI, SỮA, ĐẬU ĐỎ)",
+    "HƯƠNG LIỆU GIỐNG TỰ NHIÊN (HƯƠNG BÁNH)"
+  ],
+  "ins_parser_version": "1.1"
+}

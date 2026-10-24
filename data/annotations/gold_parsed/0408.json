@@ -5,6 +5,20 @@
     "Bánh quy 72% (bột mì, đường, dầu cọ, si rô đường nghịch đảo, bột ca cao, chất tạo màu tự nhiên phẩm màu (INS 150a), tinh bột ngô (có thể chứa ngô biến đổi gen), chất tạo xốp (INS 503(i)), chất ổn định (INS 500(ii)), muối tinh, bột whey, chất nhũ hóa (INS 481(i), INS 472a), chất điều chỉnh độ acid (INS 450(iii)), chất chống oxy hóa (INS 322(i) từ đậu nành))",
     "Nhân kem 28% (đường, dầu cọ, tinh bột ngô (có thể chứa ngô biến đổi gen), sữa bột tách béo, chất chống oxy hóa (INS 322(i)), hương liệu tổng hợp (hương vani), muối tinh, bột vani)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bánh quy 72%",
+      "raw": "Bánh quy 72% (bột mì, đường, dầu cọ, si rô đường nghịch đảo, bột ca cao, chất tạo màu tự nhiên phẩm màu (INS 150a), tinh bột ngô (có thể chứa ngô biến đổi gen), chất tạo xốp (INS 503(i)), chất ổn định (INS 500(ii)), muối tinh, bột whey, chất nhũ hóa (INS 481(i), INS 472a), chất điều chỉnh độ acid (INS 450(iii)), chất chống oxy hóa (INS 322(i) từ đậu nành))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nhân kem 28%",
+      "raw": "Nhân kem 28% (đường, dầu cọ, tinh bột ngô (có thể chứa ngô biến đổi gen), sữa bột tách béo, chất chống oxy hóa (INS 322(i)), hương liệu tổng hợp (hương vani), muối tinh, bột vani)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất tạo màu tự nhiên phẩm màu (INS 150a)",
     "Chất tạo xốp (INS 503(i))",
@@ -15,7 +29,7 @@
     "Chất chống oxy hóa (INS 322(i))",
     "Hương liệu tổng hợp (hương vani)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "155 kcal"
@@ -50,6 +64,13 @@
     "Không sử dụng sản phẩm đã hết hạn sử dụng.",
     "Sản phẩm này được sản xuất theo dây chuyền với các sản phẩm có sử dụng nguyên liệu từ axit lưu huỳnh."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -87,6 +108,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

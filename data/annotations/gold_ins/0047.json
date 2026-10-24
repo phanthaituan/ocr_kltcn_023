@@ -1,0 +1,18 @@
+{
+  "image_id": "0047",
+  "gold_ins_additive": [
+    "102",
+    "110",
+    "129",
+    "133",
+    "1404",
+    "330",
+    "901",
+    "903"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "HƯƠNG LIỆU TỔNG HỢP - GIỐNG TỰ NHIÊN (CAM, DÂU, CHANH VÀNG, CHERRY, NHO, CHANH)"
+  ],
+  "ins_parser_version": "1.1"
+}

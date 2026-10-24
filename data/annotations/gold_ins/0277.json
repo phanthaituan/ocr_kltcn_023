@@ -1,0 +1,21 @@
+{
+  "image_id": "0277",
+  "gold_ins_additive": [
+    "1400",
+    "160a",
+    "160c",
+    "307a",
+    "307b",
+    "322",
+    "473",
+    "475",
+    "491",
+    "551",
+    "621"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "hương liệu phô mai tổng hợp"
+  ],
+  "ins_parser_version": "1.1"
+}

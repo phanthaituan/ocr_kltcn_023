@@ -1,0 +1,33 @@
+{
+  "image_id": "0341",
+  "gold_ins_additive": [
+    "1100",
+    "120",
+    "1412",
+    "1440",
+    "170",
+    "300",
+    "316",
+    "322",
+    "341",
+    "412",
+    "415",
+    "450",
+    "452",
+    "471",
+    "477",
+    "500",
+    "516",
+    "575"
+  ],
+  "gold_ins_in_ingredient": [
+    "101"
+  ],
+  "additives_without_code": [
+    "hương liệu thực phẩm tổng hợp (vani)",
+    "hương liệu thịt gà tự nhiên",
+    "hương liệu khói tự nhiên",
+    "chất ổn định (calci clorid)"
+  ],
+  "ins_parser_version": "1.1"
+}

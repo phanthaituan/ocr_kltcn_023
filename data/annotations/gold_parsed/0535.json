@@ -7,10 +7,36 @@
     "vitamin (A, D3)",
     "khoáng chất (natri selenit/ sodium selenite)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa từ 100% sữa tươi",
+      "raw": "Sữa từ 100% sữa tươi (97,3%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường (2,4%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin",
+      "raw": "vitamin (A, D3)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "khoáng chất",
+      "raw": "khoáng chất (natri selenit/ sodium selenite)",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (471, 460(i), 407, 460(ii), 466)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "NĂNG LƯỢNG",
       "value": "67,7 kcal"
@@ -60,6 +86,32 @@
     "Có chứa sữa.",
     "Không dùng cho trẻ dưới 1 tuổi."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "khoáng chất",
+      "vitamin"
+    ],
+    "nutritional_categories": [
+      "mineral_trace",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "vitamin",
+        "raw": "vitamin (A, D3)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "khoáng chất",
+        "raw": "khoáng chất (natri selenit/ sodium selenite)",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -90,6 +142,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

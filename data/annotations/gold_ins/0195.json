@@ -1,0 +1,17 @@
+{
+  "image_id": "0195",
+  "gold_ins_additive": [
+    "150c",
+    "322",
+    "407",
+    "476",
+    "508"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "tinh bột biến tính alpha",
+    "hương liệu tổng hợp (sữa, vanillin)",
+    "hương liệu tự nhiên và giống tự nhiên (trà đen)"
+  ],
+  "ins_parser_version": "1.1"
+}

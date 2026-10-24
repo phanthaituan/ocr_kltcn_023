@@ -12,13 +12,69 @@
     "hương liệu sô cô la và sữa đặc giống tự nhiên và muối",
     "ngũ cốc có chứa gluten và các sản phẩm từ sữa"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất ngũ cốc và lúa mạch 26%",
+      "raw": "chiết xuất ngũ cốc và lúa mạch 26%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột whey",
+      "raw": "bột whey",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa nguyên kem 6,5%",
+      "raw": "bột sữa nguyên kem 6,5%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ca cao 5%",
+      "raw": "bột ca cao 5%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ",
+      "raw": "dầu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin và khoáng chất",
+      "raw": "vitamin và khoáng chất (Calcium Carbonat, Dicalci Phosphat, Magnesi Carbonat, Vitamin C (Acid L-ascorbic), Sắt (III) Pyrophosphat, Kẽm Sulfat, Vitamin E (DL-alpha-tocopheryl Acetat), Vitamin B3 (Niacin), Mangan Sulfat, Vitamin A (Retinyl Acetat), Vitamin B5 (Acid Pantothenic), Vitamin B6 (Pyridoxin Hydroclorid), Vitamin B1 (Thiamin Mononitrat), Vitamin B2 (Riboflavin), Vitamin D (Cholecalciferol), Acid Folic, Vitamin B12 (Cyanocobalamin))",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "hương liệu sô cô la và sữa đặc giống tự nhiên và muối",
+      "raw": "hương liệu sô cô la và sữa đặc giống tự nhiên và muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ngũ cốc có chứa gluten và các sản phẩm từ sữa",
+      "raw": "ngũ cốc có chứa gluten và các sản phẩm từ sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "maltodextrin",
     "chất chống đông vón (INS 551)",
     "chất điều chỉnh acid (INS 500(ii))",
     "hương liệu sô cô la và sữa đặc giống tự nhiên"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "96 kcal"
@@ -151,6 +207,24 @@
   "gold_warning_raw": [
     "Chứa ngũ cốc có chứa gluten và các sản phẩm từ sữa."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "vitamin và khoáng chất"
+    ],
+    "nutritional_categories": [
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "vitamin và khoáng chất",
+        "raw": "vitamin và khoáng chất (Calcium Carbonat, Dicalci Phosphat, Magnesi Carbonat, Vitamin C (Acid L-ascorbic), Sắt (III) Pyrophosphat, Kẽm Sulfat, Vitamin E (DL-alpha-tocopheryl Acetat), Vitamin B3 (Niacin), Mangan Sulfat, Vitamin A (Retinyl Acetat), Vitamin B5 (Acid Pantothenic), Vitamin B6 (Pyridoxin Hydroclorid), Vitamin B1 (Thiamin Mononitrat), Vitamin B2 (Riboflavin), Vitamin D (Cholecalciferol), Acid Folic, Vitamin B12 (Cyanocobalamin))",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -183,6 +257,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

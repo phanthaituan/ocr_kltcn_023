@@ -12,6 +12,62 @@
     "bột kem không sữa",
     "bột mù tạt"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "dầu thực vật 52 %",
+      "raw": "Dầu thực vật 52 % (dầu đậu nành, dầu hạt cải)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng gà tươi 4 %",
+      "raw": "trứng gà tươi 4 %",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột trứng",
+      "raw": "bột trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "giấm",
+      "raw": "giấm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột kem không sữa",
+      "raw": "bột kem không sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mù tạt",
+      "raw": "bột mù tạt",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (Hydroxypropyl distarch phosphat, Gôm xanthan)",
     "chất điều vị Mononatri L-glutamat",
@@ -22,7 +78,7 @@
     "hương sữa tổng hợp",
     "phẩm màu Beta-caroten tổng hợp"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "568*"
@@ -51,6 +107,13 @@
   "gold_warning_raw": [
     "Sản phẩm không dành cho người nhạy cảm với trứng, sữa và sulfit."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "sulfite",
@@ -86,6 +149,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

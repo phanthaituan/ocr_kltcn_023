@@ -1,0 +1,83 @@
+{
+  "image_id": "0179",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Đường",
+    "chất xơ 3,4 % (chất xơ hòa tan Inulin 3,3 %)",
+    "bột trà đen 1,2 %",
+    "bột đào 1 %",
+    "Vitamin C (Acid L-ascorbic) 0,2 %"
+  ],
+  "gold_additives_raw": [
+    "chất điều chỉnh độ acid (Acid citric, Acid malic (DL-))",
+    "maltodextrin",
+    "hương tổng hợp (đào, sả)",
+    "hương tự nhiên (trái cây, cam)",
+    "chất tạo ngọt tự nhiên Steviol glycosid từ Stevia rebaudiana Bertoni 0,025 %"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "31 ~ 44 kcal"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "<11 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "<11 g"
+    },
+    {
+      "name": "Natri",
+      "value": "≤ 1 mg"
+    },
+    {
+      "name": "Vitamin C",
+      "value": "≥ 11 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm không dành cho người nhạy cảm với Sữa, Gluten, Sulfit, Đậu nành."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sulfite",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "sulfite",
+      "sữa",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "sulfite",
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": "NSX 07.12.25 B",
+  "expiry_date": "HSD 07.12.26 T",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

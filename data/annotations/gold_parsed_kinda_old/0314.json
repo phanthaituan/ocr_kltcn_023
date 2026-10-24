@@ -1,0 +1,125 @@
+{
+  "image_id": "0314",
+  "product_name": "BÁNH QUY CHẤM VỊ CACAO LÚA MẠCH OVALTINE",
+  "gold_ingredients_raw": [
+    "Hỗn hợp cacao dạng rắn 19,86% (chiết xuất lúa mạch 8,31%, đường, bột cacao 1,94%, bột sữa, si rô glucose, dầu cọ, si rô fructose, bột whey, muối)",
+    "dầu hướng dương, đường",
+    "bơ hạt phỉ",
+    "bột cacao 2,34%",
+    "bột mì",
+    "bột ngô",
+    "chất xơ đậu Hà Lan",
+    "inulin",
+    "bột yến mạch",
+    "bột sữa",
+    "muối",
+    "chất béo sữa khan"
+  ],
+  "gold_additives_raw": [
+    "chất nhũ hóa mono và diglycerid của các acid béo INS 471",
+    "Lecithin INS 322(i)",
+    "maltodextrin",
+    "chất tạo xốp INS 503(ii)",
+    "chất xử lý bột INS 170(i)",
+    "chất tạo xốp INS 500(ii)",
+    "chất chống oxy hóa INS 223"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "167kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,3g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "10,4g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "17,1g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "13,7g"
+    },
+    {
+      "name": "Natri",
+      "value": "27mg"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "80kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "2,6g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "1,9g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "13,2g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "2g"
+    },
+    {
+      "name": "Natri",
+      "value": "138mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa lúa mì, lúa mạch, sữa và các sản phẩm từ sữa, các loại hạt họ đậu, sản phẩm từ đậu nành. Có thể chứa trứng và đậu phộng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": [
+      "trứng",
+      "đậu_phộng"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "sữa",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [
+      "trứng",
+      "đậu_phộng"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2
+    }
+  },
+  "origin": "Trung Quốc",
+  "net_weight": "50 g",
+  "mfg_date": "Năm/tháng/ngày được in trên bao bì.",
+  "expiry_date": "9 tháng kể từ ngày sản xuất.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

@@ -11,6 +11,56 @@
     "MUỐI I-ỐT",
     "BỘT GIA VỊ MUỐI (MUỐI, CHẤT ĐIỀU VỊ (621))"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "gạo japonica 47,2%",
+      "raw": "GẠO JAPONICA 47,2%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "DẦU THỰC VẬT",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "ĐƯỜNG",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gia vị sườn nướng tảng 5,6%",
+      "raw": "BỘT GIA VỊ SƯỜN NƯỚNG TẢNG 5,6% (ĐƯỜNG, MUỐI, CHẤT ĐIỀU VỊ (621, 627, 631), ĐẠM ĐẬU NÀNH THỦY PHÂN, HƯƠNG LIỆU (GIỐNG TỰ NHIÊN), MALTODEXTRIN, BỘT NƯỚC TƯƠNG, CHẤT CHỐNG ĐÔNG VÓN (551), BỘT SỮA, CHẤT ĐIỀU CHỈNH ĐỘ ACID (330), CHẤT TẠO MÀU TỰ NHIÊN (160c(i)), CHẤT TẠO NGỌT TỔNG HỢP (951), CHẤT CHỐNG OXY HÓA (307c))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "shortening từ động vật và thực vật",
+      "raw": "SHORTENING TỪ ĐỘNG VẬT VÀ THỰC VẬT",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột khoai tây",
+      "raw": "TINH BỘT KHOAI TÂY",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "MUỐI I-ỐT",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "bột gia vị muối",
+      "raw": "BỘT GIA VỊ MUỐI (MUỐI, CHẤT ĐIỀU VỊ (621))",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "CHẤT LÀM DÀY (1420)",
     "CHẤT ĐIỀU VỊ (621, 627, 631)",
@@ -23,7 +73,7 @@
     "CHẤT ĐIỀU VỊ (621)",
     "HƯƠNG LIỆU GIỐNG TỰ NHIÊN (GẠO RANG)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "508 kcal"
@@ -56,6 +106,24 @@
   "gold_warning_raw": [
     "SẢN PHẨM CÓ CHỨA CÁC THÀNH PHẦN DỊ ỨNG SAU: SỮA, ĐẬU NÀNH, LÚA MÌ VÀ CÓ THỂ CHỨA CÁ, TÔM."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "muối i-ốt"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "muối i-ốt",
+        "raw": "MUỐI I-ỐT",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": [
@@ -97,6 +165,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

@@ -7,13 +7,39 @@
     "Đường",
     "Bột ca cao (1.5%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa dừa",
+      "raw": "Sữa dừa (58.5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước dừa",
+      "raw": "Nước dừa (35%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ca cao",
+      "raw": "Bột ca cao (1.5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất ổn định (460(i), 466, 415)",
     "Hương sô cô la tự nhiên",
     "Chất nhũ hóa (435)",
     "Chất điều chỉnh độ acid (500(i))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Khẩu phần",
       "value": "330 ml"
@@ -96,6 +122,13 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -117,6 +150,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": false
   }
 }

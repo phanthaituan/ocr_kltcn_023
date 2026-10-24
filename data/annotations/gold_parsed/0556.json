@@ -21,12 +21,122 @@
     "Tiêu",
     "Muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng cút",
+      "raw": "Trứng Cút (12,8%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thịt heo",
+      "raw": "Thịt heo (6,2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mỡ heo",
+      "raw": "Mỡ heo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sắn",
+      "raw": "Sắn",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "shortening",
+      "raw": "Shortening",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nấm men: saccharomyces cerevisiae",
+      "raw": "Nấm men: Saccharomyces cerevisiae",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành tây",
+      "raw": "Hành tây",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột đậu nành",
+      "raw": "Bột đậu nành",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước tương",
+      "raw": "Nước tương",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tỏi",
+      "raw": "Tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành lá",
+      "raw": "Hành lá",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành tím",
+      "raw": "Hành tím",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột canh",
+      "raw": "Bột canh",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tiêu",
+      "raw": "Tiêu",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất bảo quản (282, 202, 200)",
     "Chất điều vị (621, 631, 627)",
     "Chất điều chỉnh độ axit (326, 450(i), 500(ii), 262(i), 341(ii), 341(i), 330)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "121 Kcal"
@@ -61,6 +171,13 @@
     "Sản phẩm sau khi xé bao bì nên sử dụng ngay.",
     "Không sử dụng sản phẩm đã hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -94,6 +211,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

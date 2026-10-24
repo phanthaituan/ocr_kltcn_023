@@ -6,6 +6,26 @@
     "Dầu thực vật",
     "Bột gia vị cay 6,0% (đường, bột rau, muối, chất điều vị (INS 621, INS 627, INS 508, INS 631), maltodextrin, gia vị và thảo mộc (tiêu trắng, ớt đỏ), bột nước tương, chất điều chỉnh độ acid (INS 330, INS 331(iii)), chất chống đông vón (INS 551), phẩm màu tự nhiên (INS 160c(ii)), phẩm màu tổng hợp (INS 150c), chất tạo ngọt tổng hợp (INS 951), chất làm dày (INS 339(iii)))"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "khoai tây 59,0%",
+      "raw": "Khoai tây 59,0%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "Dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gia vị cay 6,0%",
+      "raw": "Bột gia vị cay 6,0% (đường, bột rau, muối, chất điều vị (INS 621, INS 627, INS 508, INS 631), maltodextrin, gia vị và thảo mộc (tiêu trắng, ớt đỏ), bột nước tương, chất điều chỉnh độ acid (INS 330, INS 331(iii)), chất chống đông vón (INS 551), phẩm màu tự nhiên (INS 160c(ii)), phẩm màu tổng hợp (INS 150c), chất tạo ngọt tổng hợp (INS 951), chất làm dày (INS 339(iii)))",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất điều vị (INS 621, INS 627, INS 508, INS 631)",
     "Chất điều chỉnh độ acid (INS 330, INS 331(iii))",
@@ -15,7 +35,7 @@
     "Chất tạo ngọt tổng hợp (INS 951)",
     "Chất làm dày (INS 339(iii))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "537 kcal"
@@ -48,6 +68,13 @@
   "gold_warning_raw": [
     "Sản phẩm không phù hợp cho người dị ứng với gluten, đậu nành."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -80,6 +107,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

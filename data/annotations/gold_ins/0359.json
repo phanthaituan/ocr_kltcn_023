@@ -1,0 +1,36 @@
+{
+  "image_id": "0359",
+  "gold_ins_additive": [
+    "101",
+    "1420",
+    "160b",
+    "260",
+    "296",
+    "320",
+    "321",
+    "322",
+    "330",
+    "364",
+    "405",
+    "451",
+    "452",
+    "466",
+    "471",
+    "475",
+    "500",
+    "501",
+    "551",
+    "621",
+    "627",
+    "631",
+    "951"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "hương liệu tổng hợp (hương tiêu)",
+    "hương liệu tổng hợp (hương chanh)",
+    "hương liệu tổng hợp (hương rau)",
+    "hương liệu tổng hợp (hương hành)"
+  ],
+  "ins_parser_version": "1.1"
+}

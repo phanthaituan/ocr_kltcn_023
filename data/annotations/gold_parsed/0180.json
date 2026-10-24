@@ -4,10 +4,18 @@
   "gold_ingredients_raw": [
     "Nước ép nho (99,9%) (nước, nước ép nho cô đặc (24,8%))"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước ép nho",
+      "raw": "Nước ép nho (99,9%) (nước, nước ép nho cô đặc (24,8%))",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "hương liệu giống tự nhiên dùng cho thực phẩm"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "NĂNG LƯỢNG/ ENERGY",
       "value": "66 kcal"
@@ -38,6 +46,13 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -59,6 +74,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": false
   }
 }

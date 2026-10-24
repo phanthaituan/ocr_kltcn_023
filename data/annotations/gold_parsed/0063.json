@@ -13,12 +13,74 @@
     "muối",
     "phụ gia làm bánh 2 % (tinh bột, chất nhũ hóa (INS 472e), đường, chất chống oxy hóa (INS 300), chất xử lý bột (INS 1100))"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì 30 %",
+      "raw": "Bột mì 30 %",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bắp ngọt nguyên hạt 10 %",
+      "raw": "bắp ngọt nguyên hạt 10 %",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sốt mayonnaise",
+      "raw": "sốt mayonnaise",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "phô mai sợi mozzarella 10 %",
+      "raw": "phô mai sợi mozzarella 10 %",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột phô mai 5 %",
+      "raw": "bột phô mai 5 %",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "men khô",
+      "raw": "men khô",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "creamer đặc có đường",
+      "raw": "creamer đặc có đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "phụ gia làm bánh 2 %",
+      "raw": "phụ gia làm bánh 2 % (tinh bột, chất nhũ hóa (INS 472e), đường, chất chống oxy hóa (INS 300), chất xử lý bột (INS 1100))",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất nhũ hóa (INS 472e)",
     "chất chống oxy hóa (INS 300)",
     "chất xử lý bột (INS 1100)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "254 kcal"
@@ -48,6 +110,13 @@
     "Thông tin gây dị ứng: Bột mì (chứa gluten), các sản phẩm từ sữa.",
     "Không sử dụng sản phẩm khi hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -81,6 +150,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

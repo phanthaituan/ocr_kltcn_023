@@ -7,10 +7,36 @@
     "trái cây sấy (nho khô, dâu, táo, đu đủ) (10%)",
     "hạt bí xanh"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "yến mạch",
+      "raw": "Yến mạch (33%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ngũ cốc sấy giòn",
+      "raw": "ngũ cốc sấy giòn (yến mạch, gạo, đường, bắp, mạch nha, dầu thực vật, tinh bột bắp, bột dừa, muối, chất chống đông vón (INS 170(i)))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trái cây sấy",
+      "raw": "trái cây sấy (nho khô, dâu, táo, đu đủ) (10%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt bí xanh",
+      "raw": "hạt bí xanh",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất chống đông vón (INS 170(i))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "397 kcal"
@@ -40,6 +66,13 @@
     "Không sử dụng đối với người có khả năng mẫn cảm hoặc dị ứng với các thành phần trong sản phẩm.",
     "Không dùng sản phẩm có màu sắc, mùi vị bất thường, sản phẩm hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "dừa",
@@ -72,6 +105,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

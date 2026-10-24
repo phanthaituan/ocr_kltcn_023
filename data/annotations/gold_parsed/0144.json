@@ -5,11 +5,25 @@
     "Sô cô la trắng (72 %) (gồm: chất béo thực vật (dầu nhân cọ đã hydro hóa), đường, bột sữa (16 %), bột ca cao (2 %), phô mai mascarpone (0.8 %), cà phê)",
     "hạt hạnh nhân (28 %)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sô cô la trắng",
+      "raw": "Sô cô la trắng (72 %) (gồm: chất béo thực vật (dầu nhân cọ đã hydro hóa), đường, bột sữa (16 %), bột ca cao (2 %), phô mai mascarpone (0.8 %), cà phê)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt hạnh nhân",
+      "raw": "hạt hạnh nhân (28 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất nhũ hóa (INS 322(i), INS 476, INS 414)",
     "hương liệu tổng hợp (phô mai, tiramisu, vani, cà phê)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "603 kcal"
@@ -46,6 +60,13 @@
     "Không dùng sản phẩm đã bị rách bao bì, sản phẩm có màu, mùi lạ bất thường.",
     "Trẻ em khi sử dụng phải có sự hướng dẫn và giám sát của người lớn."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "hạt_cây",
@@ -88,6 +109,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

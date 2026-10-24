@@ -1,0 +1,16 @@
+{
+  "image_id": "0314",
+  "gold_ins_additive": [
+    "170",
+    "223",
+    "322",
+    "471",
+    "500",
+    "503"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "maltodextrin"
+  ],
+  "ins_parser_version": "1.1"
+}

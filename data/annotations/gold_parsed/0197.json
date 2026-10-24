@@ -12,6 +12,62 @@
     "muối",
     "hạt phỉ"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "yến mạch",
+      "raw": "yến mạch (19,8%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt sôcôla",
+      "raw": "hạt sôcôla (14,6%) (đường, bột cacao, cacao khối, bơ cacao)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "chất béo thực vật (dầu cọ)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha",
+      "raw": "mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cacao",
+      "raw": "bột cacao (2,7%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt phỉ",
+      "raw": "hạt phỉ",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất nhũ hóa (322(i), 476)",
     "chất ổn định (492)",
@@ -20,7 +76,7 @@
     "chất nhũ hóa (322(i))",
     "chất bổ sung (calci carbonat)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Energy/Năng lượng",
       "value": "508 kJ (121 kcal)"
@@ -71,6 +127,13 @@
     "Có thể có chứa sữa và đậu phộng vì được sản xuất tại nhà máy có sử dụng nguyên liệu sữa và đậu phộng.",
     "Đối tượng sử dụng: 2 tuổi trở lên."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -112,6 +175,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

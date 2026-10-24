@@ -10,13 +10,57 @@
     "Muối",
     "Men khô"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "Chất béo thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cơm dừa sấy",
+      "raw": "Cơm dừa sấy (1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha",
+      "raw": "Mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "men khô",
+      "raw": "Men khô",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất tạo xốp (INS 503(ii), INS 500(ii), INS 450(i))",
     "Hương thực phẩm tổng hợp (dừa, vani)",
     "Chất nhũ hóa (INS 322(i))",
     "Chất xử lý bột (INS 223)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "519 kcal"
@@ -62,6 +106,13 @@
     "Không dùng sản phẩm khi hết hạn sử dụng, bị mốc, có mùi vị lạ.",
     "Sản phẩm chứa các thành phần có thể gây dị ứng như bột mì, đậu nành từ chất nhũ hóa và sulfite."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -98,6 +149,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

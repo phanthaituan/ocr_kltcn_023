@@ -12,8 +12,64 @@
     "dầu hạt cải",
     "protein thịt heo (0,1%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước hầm xương",
+      "raw": "Nước hầm xương (nước, xương gà)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gạo",
+      "raw": "gạo (12,3%) (Japonica, nếp cái hoa vàng)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bí đỏ",
+      "raw": "bí đỏ (2,6%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "khoai lang",
+      "raw": "khoai lang",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột hạt sen",
+      "raw": "bột hạt sen",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thịt heo",
+      "raw": "thịt heo (1,6%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu hạt cải",
+      "raw": "dầu hạt cải",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "protein thịt heo",
+      "raw": "protein thịt heo (0,1%)",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "78 kcal"
@@ -44,6 +100,24 @@
     "Không cho trực tiếp gói sản phẩm vào lò vi sóng.",
     "Sản phẩm này phù hợp cho trẻ từ 6 tháng tuổi trở lên và người lớn."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "protein thịt heo"
+    ],
+    "nutritional_categories": [
+      "isolated_protein"
+    ],
+    "items": [
+      {
+        "name": "protein thịt heo",
+        "raw": "protein thịt heo (0,1%)",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -69,6 +143,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

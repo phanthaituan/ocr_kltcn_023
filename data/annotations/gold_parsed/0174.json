@@ -9,11 +9,49 @@
     "trà đen (0,9 g/l)",
     "muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trà xanh",
+      "raw": "trà xanh (1,87 g/l)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ổi puree",
+      "raw": "ổi puree (1 g/l)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trà đen",
+      "raw": "trà đen (0,9 g/l)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều chỉnh độ acid (330, 331(iii))",
     "hương liệu tự nhiên"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "34,4 kcal"
@@ -40,6 +78,13 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -61,6 +106,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": false
   }
 }

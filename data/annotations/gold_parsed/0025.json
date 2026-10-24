@@ -9,13 +9,51 @@
     "Nước ép nho cô đặc (5,0%)",
     "Nước ép cà rốt đen cô đặc"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha",
+      "raw": "Mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltose",
+      "raw": "Maltose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gelatin",
+      "raw": "Gelatin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước ép nho cô đặc",
+      "raw": "Nước ép nho cô đặc (5,0%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước ép cà rốt đen cô đặc",
+      "raw": "Nước ép cà rốt đen cô đặc",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất làm dày (1200, 1442, 440)",
     "Chất điều chỉnh độ acid (330, 334, 296)",
     "Hương liệu tổng hợp (nho)",
     "Chất làm bóng (903, 901)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "90 kcal"
@@ -48,6 +86,13 @@
   "gold_warning_raw": [
     "Trẻ em cần có sự giám sát của người lớn khi ăn."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -71,6 +116,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

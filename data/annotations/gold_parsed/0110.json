@@ -17,6 +17,92 @@
     "vitamin A",
     "axit folic"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng",
+      "raw": "trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "isomalt",
+      "raw": "Isomalt (13,88%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "chất béo thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha",
+      "raw": "mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột bắp",
+      "raw": "tinh bột bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất xơ hòa tan",
+      "raw": "chất xơ hòa tan (Inulin)",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "sữa bột",
+      "raw": "sữa bột",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gấc tươi",
+      "raw": "gấc tươi (0,2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin c",
+      "raw": "vitamin C",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin a",
+      "raw": "vitamin A",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "axit folic",
+      "raw": "axit folic",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [
     "chất giữ ẩm (422)",
     "chất nhũ hóa (471)",
@@ -26,7 +112,7 @@
     "chất bảo quản (202)",
     "chất làm dày (415)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "146 kcal"
@@ -65,6 +151,46 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 4,
+    "nutritional_names": [
+      "axit folic",
+      "chất xơ hòa tan",
+      "vitamin a",
+      "vitamin c"
+    ],
+    "nutritional_categories": [
+      "fiber_prebiotic",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "chất xơ hòa tan",
+        "raw": "chất xơ hòa tan (Inulin)",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      },
+      {
+        "name": "vitamin c",
+        "raw": "vitamin C",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin a",
+        "raw": "vitamin A",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "axit folic",
+        "raw": "axit folic",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -86,6 +212,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": false
   }
 }

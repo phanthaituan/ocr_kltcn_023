@@ -12,13 +12,69 @@
     "Salt",
     "Cocoa Powder"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "wheat flour",
+      "raw": "Wheat Flour",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sugar",
+      "raw": "Sugar",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vegetable fat",
+      "raw": "Vegetable Fat",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "Maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "whey powder",
+      "raw": "Whey Powder",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "corn starch",
+      "raw": "Corn Starch",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "coffee powder",
+      "raw": "Coffee Powder (0.25%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "salt",
+      "raw": "Salt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cocoa powder",
+      "raw": "Cocoa Powder",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Antioxidant: Tocopherol (E307c)",
     "Emulsifier Soya Lecithin (E322)",
     "Colouring (Caramel IV (INS 150d), Caramel I (INS 150a))",
     "Synthetic Flavour (White Coffee, Vanilla)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Total Energy",
       "value": "70 kcal"
@@ -52,6 +108,13 @@
     "contains wheat, soy, and milk.",
     "Manufactured on equipments that also process products that contain egg and peanuts."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -93,6 +156,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

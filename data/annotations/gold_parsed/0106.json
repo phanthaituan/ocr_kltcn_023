@@ -10,6 +10,50 @@
     "bột lòng đỏ trứng* (2%)",
     "muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "dầu nành",
+      "raw": "Dầu nành (61%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu gạo lứt",
+      "raw": "dầu gạo lứt (5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha",
+      "raw": "mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột lòng đỏ trứng*",
+      "raw": "bột lòng đỏ trứng* (2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều chỉnh độ acid (260, 270)",
     "chất ổn định (1424, 415)",
@@ -19,7 +63,7 @@
     "chất chống oxy hóa (307b, 385, 321)",
     "phẩm màu tự nhiên (160a(iii))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "648 kcal"
@@ -53,6 +97,13 @@
     "Sản phẩm có chứa trứng, đậu nành.",
     "Không dùng cho người dị ứng với các thành phần của sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "trứng",
@@ -88,6 +139,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

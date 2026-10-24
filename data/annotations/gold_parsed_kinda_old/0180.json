@@ -1,0 +1,64 @@
+{
+  "image_id": "0180",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Nước ép nho (99,9%) (nước, nước ép nho cô đặc (24,8%))"
+  ],
+  "gold_additives_raw": [
+    "hương liệu giống tự nhiên dùng cho thực phẩm"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "NĂNG LƯỢNG/ ENERGY",
+      "value": "66 kcal"
+    },
+    {
+      "name": "CARBOHYDRAT/ CARBOHYDRATE",
+      "value": "16,5 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ/ TOTAL SUGARS",
+      "value": "12 g"
+    },
+    {
+      "name": "ĐƯỜNG BỔ SUNG THÊM/ SUGARS ADDED",
+      "value": "0 g"
+    },
+    {
+      "name": "CHẤT ĐẠM/ PROTEIN",
+      "value": "<0,5 g"
+    },
+    {
+      "name": "CHẤT BÉO/ TOTAL FAT",
+      "value": "<0,5 g"
+    },
+    {
+      "name": "NATRI/ SODIUM",
+      "value": "1,7 mg"
+    }
+  ],
+  "gold_warning_raw": [],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {}
+  },
+  "origin": "Made in Vietnam",
+  "net_weight": null,
+  "mfg_date": "06 tháng trước HSD",
+  "expiry_date": "Xem trên hộp",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": false
+  }
+}

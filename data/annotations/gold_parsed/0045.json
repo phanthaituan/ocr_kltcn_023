@@ -15,8 +15,82 @@
     "hành tím",
     "nước mắm"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "tinh bột sắn",
+      "raw": "Tinh bột sắn (70%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước cốt dừa",
+      "raw": "nước cốt dừa (15%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mè trắng",
+      "raw": "mè trắng (7%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tôm khô",
+      "raw": "tôm khô (5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ớt",
+      "raw": "ớt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tỏi",
+      "raw": "tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối phơi sấy tự nhiên",
+      "raw": "muối phơi sấy tự nhiên",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tiêu đen",
+      "raw": "tiêu đen",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu điều",
+      "raw": "dầu điều",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành tím",
+      "raw": "hành tím",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước mắm",
+      "raw": "nước mắm",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "NĂNG LƯỢNG",
       "value": "412 kcal"
@@ -46,6 +120,13 @@
     "Sản phẩm có chứa dừa, mè và tôm.",
     "Không sử dụng sản phẩm khi thấy hiện tượng ẩm, mốc, hết hạn sử dụng hoặc bao bì không nguyên vẹn."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "dừa",
@@ -82,6 +163,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

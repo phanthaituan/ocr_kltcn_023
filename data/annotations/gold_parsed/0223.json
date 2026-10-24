@@ -5,11 +5,25 @@
     "Tép 95 %",
     "(đường, muối, ớt) 4.48 %"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "tép 95 %",
+      "raw": "Tép 95 %",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "(đường, muối, ớt) 4.48 %",
+      "raw": "(đường, muối, ớt) 4.48 %",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (INS 621) 0.5 %",
     "màu tổng hợp (INS 124) 0.02 %"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "317 kcal"
@@ -38,6 +52,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm nếu dị ứng với các thành phần có trong sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -61,6 +82,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

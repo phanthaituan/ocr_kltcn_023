@@ -1,0 +1,22 @@
+{
+  "image_id": "0425",
+  "gold_ins_additive": [
+    "1200",
+    "127",
+    "1420",
+    "250",
+    "262",
+    "316",
+    "407",
+    "420",
+    "450",
+    "451",
+    "621"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Hương dầu (hành, tỏi) tự nhiên",
+    "Hương thịt tổng hợp"
+  ],
+  "ins_parser_version": "1.1"
+}

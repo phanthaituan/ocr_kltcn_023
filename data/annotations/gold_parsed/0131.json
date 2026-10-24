@@ -7,13 +7,39 @@
     "BỘT GIA VỊ THỊT NƯỚNG (5%) (ĐƯỜNG, GIA VỊ (HÀNH TÂY, TỎI, ỚT, TIÊU ĐEN), MUỐI, HƯƠNG VỊ THỊT NƯỚNG (HƯƠNG VỊ TỔNG HỢP), BỘT NGỌT (INS 621), MALTODEXTRIN, BỘT NƯỚC TƯƠNG, ACID CITRIC (INS 330), HƯƠNG VỊ THỊT HUN KHÓI (HƯƠNG VỊ GIỐNG TỰ NHIÊN))",
     "MUỐI"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "rong biển",
+      "raw": "RONG BIỂN (32%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "ĐƯỜNG",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gia vị thịt nướng",
+      "raw": "BỘT GIA VỊ THỊT NƯỚNG (5%) (ĐƯỜNG, GIA VỊ (HÀNH TÂY, TỎI, ỚT, TIÊU ĐEN), MUỐI, HƯƠNG VỊ THỊT NƯỚNG (HƯƠNG VỊ TỔNG HỢP), BỘT NGỌT (INS 621), MALTODEXTRIN, BỘT NƯỚC TƯƠNG, ACID CITRIC (INS 330), HƯƠNG VỊ THỊT HUN KHÓI (HƯƠNG VỊ GIỐNG TỰ NHIÊN))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "MUỐI",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "HƯƠNG VỊ THỊT NƯỚNG (HƯƠNG VỊ TỔNG HỢP)",
     "BỘT NGỌT (INS 621)",
     "ACID CITRIC (INS 330)",
     "HƯƠNG VỊ THỊT HUN KHÓI (HƯƠNG VỊ GIỐNG TỰ NHIÊN)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "NĂNG LƯỢNG",
       "value": "309 kcal"
@@ -43,6 +69,13 @@
     "KHÔNG SỬ DỤNG SẢN PHẨM HẾT HẠN SỬ DỤNG HOẶC BỊ XÌ HƠI.",
     "KHÔNG SỬ DỤNG NẾU DỊ ỨNG HOẶC MẪN CẢM VỚI BẤT KÌ THÀNH PHẦN NÀO CỦA SẢN PHẨM."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "rong_biển"
@@ -71,6 +104,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

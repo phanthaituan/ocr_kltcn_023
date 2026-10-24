@@ -8,11 +8,43 @@
     "thịt (0,5%)",
     "muối ăn"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường kính trắng",
+      "raw": "đường kính trắng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu oliu",
+      "raw": "dầu oliu",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thịt",
+      "raw": "thịt (0,5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối ăn",
+      "raw": "muối ăn",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất tạo xốp (INS 500(i), INS 500(ii))",
     "hương liệu tổng hợp (Hương sữa)."
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "425 kcal"
@@ -41,6 +73,13 @@
   "gold_warning_raw": [
     "Sản phẩm có chứa sữa, lúa mì. Được sản xuất trên dây chuyền các loại bánh/nguyên liệu có chứa đậu phộng, hạt mè."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -81,6 +120,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

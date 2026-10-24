@@ -1,0 +1,94 @@
+{
+  "image_id": "0284",
+  "product_name": "Thực phẩm bổ sung NUCARE HI-HIGH MILK",
+  "gold_ingredients_raw": [
+    "Nước tinh khiết",
+    "Đường tinh luyện",
+    "Protein sữa cô đặc (2,0%)",
+    "Bột sữa gầy (1,95%)",
+    "Dầu bơ cải",
+    "Lactose",
+    "2 loại chất điều chỉnh độ axit (Trisodium citrate (INS 332(i)), Natri bicarbonate (INS 500(ii)))",
+    "Muối tinh khiết",
+    "Canxi phosphat dibasic",
+    "Kẽm oxit",
+    "Natri L-ascorbate",
+    "Maltodextrin",
+    "Dầu hướng dương",
+    "Kali clorua",
+    "Dầu EPA/DHA",
+    "2'-fucosyflactose (HMO, 11mg)",
+    "Chiết xuất tảo Chlorella (CGF, 11mg)",
+    "Nicotinamide",
+    "Canxi pantothenate",
+    "triglyceride chuỗi trung bình dạng dầu (MCT)",
+    "Vitamin B5 hydrochloride",
+    "Thiamine hydrochloride",
+    "Tinh bột ngô",
+    "di-alpha-tocopherol",
+    "Vitamin A este",
+    "Axit folic",
+    "Vitamin D3",
+    "Vitamin B12",
+    "Biotin"
+  ],
+  "gold_additives_raw": [
+    "Trisodium citrate (INS 332(i))",
+    "Natri bicarbonate (INS 500(ii))",
+    "Hương liệu nhân tạo [Sữa, Sữa vani]",
+    "Cellulose gum (INS 466)",
+    "Chất nhũ hóa (Glycerin ester của axit béo (INS 471))",
+    "Sorbitan este axit béo (INS 494)",
+    "Cellulose Microcrystalline (INS 460(i))",
+    "chất tạo ngọt tự nhiên (Bột siro glucose khan)",
+    "Gum arabic (INS 414)",
+    "Trinatri citrate (INS 331(iii))",
+    "Axit citric (INS 330)"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa thành phần có nguồn gốc từ sữa và đậu nành",
+    "Nên kiểm tra kỹ thành phần trước khi sử dụng nếu trẻ có tiền sử dị ứng với bất kỳ thành phần nào của sản phẩm",
+    "Không sử dụng cho trẻ em dưới 1 tuổi."
+  ],
+  "allergen_final": {
+    "contains": [
+      "ngô",
+      "sữa",
+      "đậu_nành"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "sữa",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "sữa",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [
+      "ngô",
+      "sữa"
+    ],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "generic_allergy_reference": 1,
+      "child_supervision": 1
+    }
+  },
+  "origin": "Republic of Korea",
+  "net_weight": "110 ml/hộp / 6 hộp/lốc",
+  "mfg_date": "17.07.2025",
+  "expiry_date": "12 tháng kể từ ngày sản xuất",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

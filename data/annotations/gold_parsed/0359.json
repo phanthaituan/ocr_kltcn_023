@@ -15,6 +15,80 @@
     "bột bèo thực vật",
     "bột nghệ"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật tinh luyện",
+      "raw": "dầu thực vật tinh luyện",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột tôm",
+      "raw": "bột tôm (19 g / 1000 g)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ớt",
+      "raw": "ớt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dịch đạm tôm",
+      "raw": "dịch đạm tôm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bắp sấy",
+      "raw": "bắp sấy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành lá sấy",
+      "raw": "hành lá sấy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước sấy",
+      "raw": "nước sấy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột bèo thực vật",
+      "raw": "bột bèo thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột nghệ",
+      "raw": "bột nghệ",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm dày (INS 1420, INS 451(i))",
     "chất điều vị (INS 621, INS 627, INS 631)",
@@ -34,7 +108,7 @@
     "chất tạo ngọt tổng hợp (INS 951)",
     "chất chống oxy hóa (INS 321)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "411,0 Kcal"
@@ -69,6 +143,13 @@
     "Không dùng sản phẩm hết hạn sử dụng.",
     "Không sử dụng đối với người có khả năng mẫn cảm hoặc dị ứng với các thành phần trong sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "giáp_xác",
@@ -112,6 +193,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

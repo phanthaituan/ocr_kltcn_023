@@ -1,0 +1,14 @@
+{
+  "image_id": "0499",
+  "gold_ins_additive": [
+    "322",
+    "418"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "hương liệu tổng hợp",
+    "chất tạo ngọt tự nhiên steviol glycosid từ Stevia",
+    "chất tạo ngọt tổng hợp sucralose"
+  ],
+  "ins_parser_version": "1.1"
+}

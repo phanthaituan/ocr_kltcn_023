@@ -1,0 +1,104 @@
+{
+  "image_id": "0228",
+  "product_name": "BÁNH QUY YẾN MẠCH QUAKER HƯƠNG SÔ CÔ LA",
+  "gold_ingredients_raw": [
+    "Yến mạch 23%",
+    "bột mì 21%",
+    "đường",
+    "dầu cọ",
+    "hạt sô cô la 12%",
+    "bột cocoa",
+    "bột whey",
+    "inulin",
+    "trứng",
+    "muối i-ốt"
+  ],
+  "gold_additives_raw": [
+    "chất tạo xốp (500(ii), 503(ii), 450(i))",
+    "hương liệu tự nhiên",
+    "chất nhũ hóa 322(i)"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "121 Kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "1,7 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "15,5 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "7,6 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "5,6 g"
+    },
+    {
+      "name": "Chất béo bão hòa",
+      "value": "2,8 g"
+    },
+    {
+      "name": "Natri",
+      "value": "126 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Thông tin chất dị ứng: Sản phẩm có chứa yến mạch, lúa mì, sữa, trứng và đậu nành. Có thể có chứa đậu phộng và hạnh nhân.",
+    "Thông tin cảnh báo: Sử dụng sản phẩm trước ngày hết hạn."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "may_contain": [
+      "hạt_cây",
+      "đậu_phộng"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "declared_may_contain": [
+      "hạt_cây",
+      "đậu_phộng"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "hạt_cây",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Malaysia",
+  "net_weight": "250 g (10 gói x 25 g)",
+  "mfg_date": "10 tháng trước hạn sử dụng",
+  "expiry_date": "Xem ngày \"Sử dụng tốt nhất trước (ngày/ tháng/ năm)\" tại \"Best before DD/MM/YY\" được in trên bao bì.",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

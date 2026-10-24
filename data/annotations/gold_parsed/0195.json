@@ -13,6 +13,68 @@
     "bột ca cao",
     "chiết xuất trà đen (0,2 %)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "mạch nha",
+      "raw": "Mạch nha (IMO)",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "chất béo thực vật (cọ)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa gầy",
+      "raw": "sữa gầy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dextrose",
+      "raw": "dextrose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa whey",
+      "raw": "bột sữa whey",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường lactose",
+      "raw": "đường lactose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa béo",
+      "raw": "sữa béo (1,6 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ca cao",
+      "raw": "bột ca cao",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất trà đen",
+      "raw": "chiết xuất trà đen (0,2 %)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "tinh bột biến tính alpha",
     "chất tạo gel (407)",
@@ -22,7 +84,7 @@
     "hương liệu tổng hợp (sữa, vanillin)",
     "hương liệu tự nhiên và giống tự nhiên (trà đen)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng(Energy)",
       "value": "338 kcal"
@@ -49,6 +111,24 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "mạch nha"
+    ],
+    "nutritional_categories": [
+      "fiber_prebiotic"
+    ],
+    "items": [
+      {
+        "name": "mạch nha",
+        "raw": "Mạch nha (IMO)",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -70,6 +150,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": false
   }
 }

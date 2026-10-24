@@ -13,6 +13,68 @@
     "Salt",
     "Vitamin (A, B1, B2, B6, B12)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "wheat flour",
+      "raw": "Wheat Flour",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sugar",
+      "raw": "Sugar",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vegetable oil",
+      "raw": "Vegetable Oil (contains Antioxidant TBHQ (E319))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "whey powder",
+      "raw": "Whey Powder",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cheese powder",
+      "raw": "Cheese Powder (contains Flavour Enhancer (Monosodium L-Glutamate (E621) and Disodium 5'-ribonucleotides (E635))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "Maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "corn starch",
+      "raw": "Corn Starch",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "synthetic milk flavour",
+      "raw": "Synthetic Milk Flavour (contains Milk Solids)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "salt",
+      "raw": "Salt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin",
+      "raw": "Vitamin (A, B1, B2, B6, B12)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [
     "Antioxidant TBHQ (E319)",
     "Flavour Enhancer (Monosodium L-Glutamate (E621) and Disodium 5'-ribonucleotides (E635))",
@@ -26,7 +88,7 @@
     "Synthetic Colour Sunset Yellow FCF (E110)",
     "Acidity Regulator (E330)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "8 servings per container",
       "value": "8 khẩu phần mỗi hộp"
@@ -92,6 +154,24 @@
     "May also contain : Egg, Hazelnut, and Peanut.",
     "DO NOT ACCEPT IF PACKAGING IS DAMAGED."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "vitamin"
+    ],
+    "nutritional_categories": [
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "vitamin",
+        "raw": "Vitamin (A, B1, B2, B6, B12)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "hạt_cây",
@@ -128,6 +208,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

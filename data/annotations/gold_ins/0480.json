@@ -1,0 +1,22 @@
+{
+  "image_id": "0480",
+  "gold_ins_additive": [
+    "1420",
+    "330",
+    "364",
+    "551",
+    "620",
+    "621",
+    "627",
+    "631",
+    "951",
+    "955"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "HƯƠNG LIỆU (TỰ NHIÊN, GIỐNG TỰ NHIÊN)",
+    "HƯƠNG LIỆU (GIỐNG TỰ NHIÊN, NHÂN TẠO, TỰ NHIÊN) (NẤM TRUFFLE)",
+    "HƯƠNG LIỆU NHÂN TẠO (TERIYAKI)"
+  ],
+  "ins_parser_version": "1.1"
+}

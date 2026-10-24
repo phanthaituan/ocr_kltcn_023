@@ -25,13 +25,147 @@
     "chiết xuất ớt",
     "nguyệt quế"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà chua cắt hạt lựu",
+      "raw": "cà chua cắt hạt lựu (21%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà chua cô đặc",
+      "raw": "cà chua cô đặc (9%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "kem sữa béo",
+      "raw": "kem sữa béo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành tây",
+      "raw": "hành tây",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà rốt",
+      "raw": "cà rốt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột kem không sữa",
+      "raw": "bột kem không sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa",
+      "raw": "bột sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thịt cua",
+      "raw": "thịt cua (2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột phô mai",
+      "raw": "bột phô mai",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu nành",
+      "raw": "dầu nành",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất gà",
+      "raw": "chiết xuất gà",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "muối i-ốt",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "bột tỏi",
+      "raw": "bột tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột nguyên trứng",
+      "raw": "bột nguyên trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị bò",
+      "raw": "gia vị bò",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất nấm men",
+      "raw": "chiết xuất nấm men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột chiết xuất hến",
+      "raw": "bột chiết xuất hến",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "húng quế",
+      "raw": "húng quế",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất ớt",
+      "raw": "chiết xuất ớt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nguyệt quế",
+      "raw": "nguyệt quế",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "các chất làm dày (1422, 415)",
     "các chất điều vị (621, 627, 631)",
     "hương liệu cua tổng hợp",
     "các chất bảo quản (211, 202)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "≥ 109 kcal"
@@ -61,6 +195,24 @@
     "Không dùng cho người bị dị ứng với các thành phần của sản phẩm.",
     "Không dùng sản phẩm khi đã hết hạn sử dụng hoặc gói phồng to bất thường."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "muối i-ốt"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "muối i-ốt",
+        "raw": "muối i-ốt",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "giáp_xác",
@@ -93,6 +245,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

@@ -1,0 +1,24 @@
+{
+  "image_id": "0367",
+  "gold_ins_additive": [
+    "101",
+    "110",
+    "124",
+    "133",
+    "160a",
+    "171",
+    "202",
+    "211",
+    "330",
+    "331",
+    "407",
+    "950",
+    "951"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Hương tổng hợp (sữa, sữa chua, vani, dâu, dứa, chuối, xoài, dưa tây, dừa, táo, mít, nho, ổi, chanh dây, măng cầu)",
+    "hương cam tự nhiên"
+  ],
+  "ins_parser_version": "1.1"
+}

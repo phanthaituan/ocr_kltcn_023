@@ -12,6 +12,62 @@
     "đường",
     "fructose"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "trà sữa phô mai: đường",
+      "raw": "Trà Sữa Phô mai: Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột kem béo thực vật",
+      "raw": "bột kem béo thực vật (Đường glucose, dầu thực vật/dầu cọ hydro hóa, đạm sữa, bột sữa, chất ổn định (340(ii), 452(i)), chất nhũ hóa (471, 472e), chất chống đông vón (551), hương liệu vani giống tự nhiên)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa nguyên kem",
+      "raw": "bột sữa nguyên kem (5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất trà đen",
+      "raw": "chiết xuất trà đen (3%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột phô mai",
+      "raw": "bột phô mai (1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trân châu pha lê hương phô mai: nước",
+      "raw": "Trân châu pha lê hương Phô mai: Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "fructose",
+      "raw": "fructose",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (340(ii), 452(i))",
     "chất nhũ hóa (471, 472e)",
@@ -26,7 +82,7 @@
     "chất tạo ngọt tổng hợp (950)",
     "chất chống oxy hóa (301)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "117 kcal (1 gói trà sữa 25 g); 25 kcal (1 gói trân châu 30 g)"
@@ -57,6 +113,13 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -78,6 +141,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": false
   }
 }

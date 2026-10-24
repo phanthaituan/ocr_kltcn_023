@@ -1,0 +1,29 @@
+{
+  "image_id": "0201",
+  "gold_ins_additive": [
+    "1420",
+    "150c",
+    "307b",
+    "307c",
+    "322",
+    "330",
+    "341",
+    "364",
+    "414",
+    "500",
+    "551",
+    "620",
+    "621",
+    "627",
+    "631",
+    "951"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Hương liệu tự nhiên",
+    "Hương liệu rau củ",
+    "Hương liệu (tự nhiên, giống tự nhiên, tổng hợp)",
+    "Hương liệu (tự nhiên, giống tự nhiên) (tôm)"
+  ],
+  "ins_parser_version": "1.1"
+}

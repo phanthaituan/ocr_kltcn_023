@@ -7,6 +7,32 @@
     "Cam sấy khô (1,99%)",
     "Bột cam (0,1%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "mạch nha",
+      "raw": "Mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cam sấy khô",
+      "raw": "Cam sấy khô (1,99%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cam",
+      "raw": "Bột cam (0,1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất tạo gel (INS 407)",
     "Chất điều chỉnh độ acid (INS 325, INS 330, INS 300, INS 331(ii), INS 332(iii))",
@@ -14,7 +40,7 @@
     "Hương liệu giống tự nhiên: hương cam",
     "Phẩm màu tổng hợp (INS 110)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "315 kcal"
@@ -35,6 +61,13 @@
   "gold_warning_raw": [
     "Không dùng sản phẩm có màu sắc, mùi vị bất thường, sản phẩm hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -58,6 +91,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

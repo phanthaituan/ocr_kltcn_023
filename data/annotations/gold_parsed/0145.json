@@ -15,12 +15,86 @@
     "axit sunfuro",
     "Kẹo: Đường"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bánh: bột mì",
+      "raw": "Bánh: Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mỡ trừu",
+      "raw": "mỡ trừu (dầu cọ)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gạo",
+      "raw": "gạo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột kem thực vật",
+      "raw": "bột kem thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột ngô",
+      "raw": "tinh bột ngô",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường glucose",
+      "raw": "đường glucose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối tinh chế",
+      "raw": "muối tinh chế",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa",
+      "raw": "sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đậu nành",
+      "raw": "đậu nành",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "axit sunfuro",
+      "raw": "axit sunfuro",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "kẹo: đường",
+      "raw": "Kẹo: Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều chỉnh độ acid (INS 330)",
     "chất điều chỉnh độ acid (INS 331(iii))",
     "chất chống oxy hóa (INS 222)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "430 kcal"
@@ -78,6 +152,13 @@
     "Sản phẩm này được sản xuất trên cùng thiết bị sản xuất giống với các sản phẩm sử dụng trứng, tam giác mạch, đậu phộng, thịt lợn, óc chó, thịt gà, thịt bò, hạt thông, đậu, cà chua, mực.",
     "Không sử dụng sản phẩm đã hết hạn sử dụng"
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "hạt_cây",
@@ -117,6 +198,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

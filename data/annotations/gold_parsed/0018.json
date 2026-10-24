@@ -15,6 +15,80 @@
     "muối",
     "sữa bột nguyên kem 0,3%"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "chất béo thực vật 23%",
+      "raw": "Chất béo thực vật 23% (dầu hạt cọ hydro hóa hoàn toàn, dầu cọ, dầu hạt cọ, dầu hạt cải hydro hóa hoàn toàn)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường 21%",
+      "raw": "đường 21%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột mì 18%",
+      "raw": "bột mì 18%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lactose 14%",
+      "raw": "lactose 14%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột bắp 6%",
+      "raw": "tinh bột bắp 6%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ thực vật",
+      "raw": "bơ thực vật (shortening) 5% (dầu cọ tinh luyện, dầu cọ đặc tinh luyện, dầu hạt cọ tinh luyện)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột whey khử khoáng 3%",
+      "raw": "bột whey khử khoáng 3%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột tách béo 1,8%",
+      "raw": "sữa bột tách béo 1,8%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng 1%",
+      "raw": "trứng 1%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường nghịch đảo 1%",
+      "raw": "đường nghịch đảo 1% (sucrose, glucose, fructose)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột nguyên kem 0,3%",
+      "raw": "sữa bột nguyên kem 0,3%",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất nhũ hóa DMG (INS 471)",
     "Chất chống oxy hóa (INS 307b, INS 307c)",
@@ -24,7 +98,7 @@
     "hương liệu nhân tạo",
     "chất tạo màu tự nhiên (INS 150a)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "202 kcal"
@@ -54,6 +128,13 @@
     "Sản phẩm có chứa lúa mì, sữa, trứng và đậu nành, có thể chứa gluten từ ngũ cốc, các loại hạt và đậu lupin, lecithin từ hạt hướng dương và cam.",
     "Không sử dụng khi có dấu hiệu hư hỏng hoặc đã hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": [
@@ -96,6 +177,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

@@ -7,6 +7,32 @@
     "Gelatin",
     "Nước ép đào cô đặc (3,3%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "mạch nha",
+      "raw": "Mạch nha",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gelatin",
+      "raw": "Gelatin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước ép đào cô đặc",
+      "raw": "Nước ép đào cô đặc (3,3%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất làm ẩm (420(ii), 422)",
     "Chất điều chỉnh độ acid (330, 331(iii))",
@@ -16,7 +42,7 @@
     "Hương liệu giống tự nhiên (Đào)",
     "Chất tạo màu tổng hợp (133)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "308 kcal"
@@ -46,6 +72,13 @@
     "Sản phẩm có thể chứa lúa mì, sữa, đậu nành, trứng, hạnh nhân, mè, cá, động vật giáp xác.",
     "Hình ảnh chỉ mang tính chất minh họa."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": [
@@ -97,6 +130,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

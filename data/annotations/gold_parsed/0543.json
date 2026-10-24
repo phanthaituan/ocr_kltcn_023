@@ -6,11 +6,31 @@
     "hạt hạnh nhân (15%)",
     "bơ ca cao"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sô-cô-la compound đen",
+      "raw": "Sô-cô-la compound đen (70%) bao gồm (đường, chất béo thực vật (dầu cọ hoặc nhân cọ đã hydro hóa), bột ca cao, chất nhũ hóa (INS 492, INS 322(i)), hương liệu tổng hợp (vani, sô cô la), có thể chứa một lượng rất nhỏ thành phần sữa)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt hạnh nhân",
+      "raw": "hạt hạnh nhân (15%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ ca cao",
+      "raw": "bơ ca cao",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất nhũ hóa (INS 492, INS 322(i))",
     "hương liệu tổng hợp (vani, sô cô la)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "551 kcal"
@@ -39,6 +59,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm nếu dị ứng với thành phần có trong sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "hạt_cây",
@@ -68,6 +95,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

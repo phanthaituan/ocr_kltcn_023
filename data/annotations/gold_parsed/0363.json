@@ -18,11 +18,103 @@
     "Muối I-ốt",
     "Bột Kem Không Sữa"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "khoai tây",
+      "raw": "Khoai Tây (65.7%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu ăn",
+      "raw": "Dầu Ăn (với Chất Chống Oxy Hóa (320, 321))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột nước tương",
+      "raw": "Bột Nước Tương",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị gạch cua",
+      "raw": "Gia Vị Gạch Cua (1.3%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đạm thực vật thủy phân",
+      "raw": "Đạm Thực Vật Thủy Phân",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị sốt cay",
+      "raw": "Gia Vị Sốt Cay (0.3%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột whey",
+      "raw": "Bột Whey",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất nấm men",
+      "raw": "Chiết Xuất Nấm Men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột lòng đỏ trứng",
+      "raw": "Bột Lòng Đỏ Trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột tỏi",
+      "raw": "Bột Tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ớt",
+      "raw": "Bột Ớt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột hành",
+      "raw": "Bột Hành",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "Muối I-ốt",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "bột kem không sữa",
+      "raw": "Bột Kem Không Sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất Chống Oxy Hóa (320, 321)",
     "Thực Phẩm Tự Nhiên (160c(i))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "150 Kcal"
@@ -59,6 +151,24 @@
   "gold_warning_raw": [
     "Sản phẩm có chứa Đậu Nành và Yến Mạch, Được sản xuất trên cùng thiết bị và/hoặc trên dây chuyền chế biến các sản phẩm có thành phần gây dị ứng như: Đậu Phộng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "muối i-ốt"
+    ],
+    "nutritional_categories": [
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "muối i-ốt",
+        "raw": "Muối I-ốt",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": [
@@ -94,6 +204,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

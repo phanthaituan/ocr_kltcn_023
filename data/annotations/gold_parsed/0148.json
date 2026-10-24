@@ -9,11 +9,49 @@
     "Bơ Thực Vật",
     "Muối"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước đường",
+      "raw": "Nước Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lòng đỏ trứng muối 14%",
+      "raw": "Lòng Đỏ Trứng Muối 14%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "Dầu Thực Vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước mắm dầu màu điều",
+      "raw": "Nước Mắm Dầu Màu Điều",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ thực vật",
+      "raw": "Bơ Thực Vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất Ổn Định (1422)",
     "Chất Điều Vị (621)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Giá trị năng lượng (Energy)",
       "value": "343 kcal"
@@ -43,6 +81,13 @@
     "Sản phẩm có thành phần chứa Trứng, Nước Mắm, Đậu Nành.",
     "Không sử dụng sản phẩm hết hạn sử dụng, có dấu hiệu hư hỏng hoặc dị ứng với bất kỳ thành phần của sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -82,6 +127,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

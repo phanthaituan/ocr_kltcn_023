@@ -1,0 +1,19 @@
+{
+  "image_id": "0186",
+  "gold_ins_additive": [
+    "1100",
+    "1442",
+    "1520",
+    "415",
+    "420",
+    "422",
+    "500",
+    "575",
+    "621"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "HƯƠNG LIỆU GIỐNG TỰ NHIÊN (THỊT, BƠ, BÁNH MÌ)"
+  ],
+  "ins_parser_version": "1.1"
+}

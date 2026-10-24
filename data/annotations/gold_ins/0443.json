@@ -1,0 +1,21 @@
+{
+  "image_id": "0443",
+  "gold_ins_additive": [
+    "150c",
+    "200",
+    "282",
+    "322",
+    "341",
+    "405",
+    "407",
+    "433",
+    "450",
+    "471",
+    "500"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Hương liệu tổng hợp (hương chocolate)"
+  ],
+  "ins_parser_version": "1.1"
+}

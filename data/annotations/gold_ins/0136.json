@@ -1,0 +1,16 @@
+{
+  "image_id": "0136",
+  "gold_ins_additive": [
+    "407",
+    "460",
+    "466",
+    "471"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Chất xơ hòa tan (FOS/Inulin)",
+    "Hương liệu tổng hợp dùng trong thực phẩm",
+    "Chất chống oxi hóa (Hỗn hợp Tocopherol)"
+  ],
+  "ins_parser_version": "1.1"
+}

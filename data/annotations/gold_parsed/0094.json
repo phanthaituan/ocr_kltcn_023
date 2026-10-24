@@ -16,6 +16,86 @@
     "chiết xuất nấm men",
     "bột cần tây (0,7 g/kg)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "thịt",
+      "raw": "Thịt (thịt heo (319,6 g/kg), thịt gà)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "phô mai",
+      "raw": "phô mai (109,5 g/kg)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thịt heo xông khói",
+      "raw": "thịt heo xông khói (4,3 g/kg)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột whey hương phô mai",
+      "raw": "bột whey hương phô mai",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đạm whey",
+      "raw": "đạm whey",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    },
+    {
+      "name": "xốt gà cay",
+      "raw": "xốt gà cay",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tiêu",
+      "raw": "tiêu",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột tỏi",
+      "raw": "bột tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất nấm men",
+      "raw": "chiết xuất nấm men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cần tây",
+      "raw": "bột cần tây (0,7 g/kg)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (1414, 451(i), 450(iii), 450(i), 452(ii))",
     "chất điều vị (621)",
@@ -23,7 +103,7 @@
     "hương liệu phô mai tổng hợp",
     "phẩm màu tổng hợp (127)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Chất đạm",
       "value": "13 g"
@@ -53,6 +133,24 @@
     "Sản phẩm chứa nguyên liệu có nguồn gốc từ đậu nành, cần tây, sữa, lúa mì.",
     "Không sử dụng sản phẩm khi bao bì bị rách, hở, phồng, mốc hoặc hết hạn sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "đạm whey"
+    ],
+    "nutritional_categories": [
+      "isolated_protein"
+    ],
+    "items": [
+      {
+        "name": "đạm whey",
+        "raw": "đạm whey",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "cần_tây",
@@ -92,6 +190,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

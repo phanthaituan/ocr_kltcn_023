@@ -12,11 +12,100 @@
     "các vitamin (C, B3, B6, B2, D, B12)",
     "muối i-ốt"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "protomalt® 32%",
+      "raw": "PROTOMALT® 32% (chiết xuất từ lúa mạch)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột tách kem 15 %",
+      "raw": "sữa bột tách kem 15 %",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cacao",
+      "raw": "cacao",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột whey",
+      "raw": "bột whey (từ sữa)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "các khoáng chất",
+      "raw": "các khoáng chất (dicalci phosphat, dinatri phosphat, sắt pyrophosphat)",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "các vitamin",
+      "raw": "các vitamin (C, B3, B6, B2, D, B12)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "muối i-ốt",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Không sử dụng cho người dị ứng với các thành phần của sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 3,
+    "nutritional_names": [
+      "các khoáng chất",
+      "các vitamin",
+      "muối i-ốt"
+    ],
+    "nutritional_categories": [
+      "mineral_trace",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "các khoáng chất",
+        "raw": "các khoáng chất (dicalci phosphat, dinatri phosphat, sắt pyrophosphat)",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "các vitamin",
+        "raw": "các vitamin (C, B3, B6, B2, D, B12)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "muối i-ốt",
+        "raw": "muối i-ốt",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -46,6 +135,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": false,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

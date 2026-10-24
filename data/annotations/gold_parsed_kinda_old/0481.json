@@ -1,0 +1,70 @@
+{
+  "image_id": "0481",
+  "product_name": null,
+  "gold_ingredients_raw": [
+    "Bột ca cao (70%)",
+    "malto dextrin",
+    "đường mía (12%)"
+  ],
+  "gold_additives_raw": [
+    "hương vani tổng hợp"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Cho khẩu phần",
+      "value": "100 g"
+    },
+    {
+      "name": "Năng lượng",
+      "value": "395,00 kcal"
+    },
+    {
+      "name": "Đạm",
+      "value": "15 g"
+    },
+    {
+      "name": "Béo",
+      "value": "6,04 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "70,30 g"
+    },
+    {
+      "name": "Đường Tổng",
+      "value": "36,90 g"
+    },
+    {
+      "name": "Natri",
+      "value": "15,20 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm nếu dị ứng với thành phần có trong sản phẩm."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": true,
+    "warning_subtype_counts": {
+      "generic_allergy_reference": 1
+    }
+  },
+  "origin": "Sản xuất tại Việt Nam",
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

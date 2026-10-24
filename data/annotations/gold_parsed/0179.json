@@ -8,6 +8,38 @@
     "bột đào 1 %",
     "Vitamin C (Acid L-ascorbic) 0,2 %"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất xơ 3,4 %",
+      "raw": "chất xơ 3,4 % (chất xơ hòa tan Inulin 3,3 %)",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "bột trà đen 1,2 %",
+      "raw": "bột trà đen 1,2 %",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột đào 1 %",
+      "raw": "bột đào 1 %",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin c",
+      "raw": "Vitamin C (Acid L-ascorbic) 0,2 %",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [
     "chất điều chỉnh độ acid (Acid citric, Acid malic (DL-))",
     "maltodextrin",
@@ -15,7 +47,7 @@
     "hương tự nhiên (trái cây, cam)",
     "chất tạo ngọt tự nhiên Steviol glycosid từ Stevia rebaudiana Bertoni 0,025 %"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "31 ~ 44 kcal"
@@ -40,6 +72,32 @@
   "gold_warning_raw": [
     "Sản phẩm không dành cho người nhạy cảm với Sữa, Gluten, Sulfit, Đậu nành."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "chất xơ 3,4 %",
+      "vitamin c"
+    ],
+    "nutritional_categories": [
+      "fiber_prebiotic",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "chất xơ 3,4 %",
+        "raw": "chất xơ 3,4 % (chất xơ hòa tan Inulin 3,3 %)",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      },
+      {
+        "name": "vitamin c",
+        "raw": "Vitamin C (Acid L-ascorbic) 0,2 %",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -78,6 +136,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

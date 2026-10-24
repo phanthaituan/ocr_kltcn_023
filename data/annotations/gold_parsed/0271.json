@@ -11,10 +11,60 @@
     "chiết xuất đậu nành lên men",
     "muối biển"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "hạt điều",
+      "raw": "Hạt điều (35%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt bí xanh",
+      "raw": "hạt bí xanh (25%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cơm gạo lứt",
+      "raw": "cơm gạo lứt (19%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạnh nhân cắt lát",
+      "raw": "hạnh nhân cắt lát (8%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mật ong",
+      "raw": "mật ong (5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đậu mè, rong biển",
+      "raw": "đậu mè, rong biển (5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất đậu nành lên men",
+      "raw": "chiết xuất đậu nành lên men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối biển",
+      "raw": "muối biển",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm dày (tự nhiên) (gum Arabic)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng/Total calories",
       "value": "516 kcal"
@@ -59,6 +109,13 @@
   "gold_warning_raw": [
     "Sản phẩm chứa hạt và rong biển."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "rong_biển"
@@ -88,6 +145,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

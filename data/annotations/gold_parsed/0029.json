@@ -14,6 +14,74 @@
     "Muối",
     "Bột sầu riêng (0,04%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "Chất béo thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa",
+      "raw": "Bột sữa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột whey",
+      "raw": "Bột whey",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột ngô",
+      "raw": "Tinh bột ngô",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "Maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột kem dừa",
+      "raw": "Bột kem dừa (có chứa Đạm sữa)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị phô mai",
+      "raw": "Gia vị phô mai (có chứa Đường, Sản phẩm từ Sữa, Bột phô mai (0,02%), Muối, Bột dừa, Chất điều vị: Mononatri L-glutamat, Đạm đậu nành thủy phân, Chất chống đông vón: Dioxyd silic vô định hình, Chất tạo màu tự nhiên: Paprika oleoresin, Curcumin, Hương liệu bơ tổng hợp)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sầu riêng",
+      "raw": "Bột sầu riêng (0,04%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất nhũ hóa: Lecithin đậu nành",
     "Chất điều vị: Mononatri L-glutamat",
@@ -23,7 +91,7 @@
     "Hương liệu tổng hợp (Sầu riêng, Đường thốt nốt, Vani)",
     "Chất tạo màu tổng hợp: Tartrazin"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "70 kcal"
@@ -53,6 +121,13 @@
     "Có chứa lúa mì, đậu nành và sữa.",
     "Có thể chứa trứng và đậu phộng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -96,6 +171,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

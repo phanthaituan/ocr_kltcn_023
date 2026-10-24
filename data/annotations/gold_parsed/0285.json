@@ -7,12 +7,38 @@
     "hạt chia (2%)",
     "bột trà (1%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột bí đao",
+      "raw": "bột bí đao (3%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt chia",
+      "raw": "hạt chia (2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột trà",
+      "raw": "bột trà (1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "hương liệu tổng hợp (hương bí đao)",
     "phẩm màu tổng hợp (INS 150d)",
     "chất tạo ngọt tổng hợp (INS 951)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "396 Kcal"
@@ -41,6 +67,13 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm hết hạn."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -64,6 +97,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

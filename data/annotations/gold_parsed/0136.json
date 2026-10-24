@@ -13,14 +13,124 @@
     "Nucleotit",
     "Postbiotic (Lợi khuẩn Lactococcus lactis)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa",
+      "raw": "Sữa (93%) (Nước, Sữa bột, Chất béo sữa, Sữa Non Colos 24h (46 mg/l), Hỗn hợp canxi và khoáng từ sữa)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sucrose",
+      "raw": "Sucrose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "béo thực vật",
+      "raw": "Béo thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "Maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp khoáng và vitamin",
+      "raw": "Hỗn hợp Khoáng và Vitamin (Kali iodid, Magie oxit, Kẽm sulfat, Đồng sulfat, Mangan sulfat, Natri selenit, Crôm clorid, Natri molybdat, Retinyl acetat, Cholecalciferol, DL-alpha-tocopheryl acetat, Vitamin K1, Vitamin K2, Natri-L-ascorbat, Thiamin mononitrat, Riboflavin, Nicotinamid, Canxi-D-pantothenat, Pyridoxin hydroclorid, Axit folic, Cyanocobalamin, D-Biotin)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "taurin",
+      "raw": "Taurin",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    },
+    {
+      "name": "dha",
+      "raw": "DHA",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    },
+    {
+      "name": "hmo",
+      "raw": "HMO (2'-FL)",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    },
+    {
+      "name": "nucleotit",
+      "raw": "Nucleotit",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "postbiotic",
+      "raw": "Postbiotic (Lợi khuẩn Lactococcus lactis)",
+      "nutritional": true,
+      "nutritional_category": "probiotic"
+    }
+  ],
   "gold_additives_raw": [
     "Chất ổn định (466, 460(i), 407, 471)",
     "Chất xơ hòa tan (FOS/Inulin)",
     "Hương liệu tổng hợp dùng trong thực phẩm",
     "Chất chống oxi hóa (Hỗn hợp Tocopherol)"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 5,
+    "nutritional_names": [
+      "dha",
+      "hmo",
+      "hỗn hợp khoáng và vitamin",
+      "postbiotic",
+      "taurin"
+    ],
+    "nutritional_categories": [
+      "amino_omega_bioactive",
+      "probiotic",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "hỗn hợp khoáng và vitamin",
+        "raw": "Hỗn hợp Khoáng và Vitamin (Kali iodid, Magie oxit, Kẽm sulfat, Đồng sulfat, Mangan sulfat, Natri selenit, Crôm clorid, Natri molybdat, Retinyl acetat, Cholecalciferol, DL-alpha-tocopheryl acetat, Vitamin K1, Vitamin K2, Natri-L-ascorbat, Thiamin mononitrat, Riboflavin, Nicotinamid, Canxi-D-pantothenat, Pyridoxin hydroclorid, Axit folic, Cyanocobalamin, D-Biotin)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "taurin",
+        "raw": "Taurin",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      },
+      {
+        "name": "dha",
+        "raw": "DHA",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      },
+      {
+        "name": "hmo",
+        "raw": "HMO (2'-FL)",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      },
+      {
+        "name": "postbiotic",
+        "raw": "Postbiotic (Lợi khuẩn Lactococcus lactis)",
+        "nutritional": true,
+        "nutritional_category": "probiotic"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -42,6 +152,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": true,
     "has_warning": false
   }
 }

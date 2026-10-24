@@ -10,6 +10,50 @@
     "dầu cọ",
     "sirô glucose"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sản phẩm chứa sô cô la sữa",
+      "raw": "Sản phẩm chứa sô cô la sữa (30% ca cao rắn, 21% sữa đặc (3,8% chất béo sữa), 24% đậu phộng)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sô cô la sữa 47%",
+      "raw": "Sô cô la sữa 47% (đường, ca cao khối, sữa bột tách kem, lactose, bơ ca cao, chất béo thực vật (cọ, hạt mỡ, hương dương), chất béo sữa, chất nhũ hóa (INS 322(i)), muối, hương liệu tự nhiên (hương bơ))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đậu phộng",
+      "raw": "đậu phộng (24%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột bắp",
+      "raw": "tinh bột bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ",
+      "raw": "dầu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sirô glucose",
+      "raw": "sirô glucose",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất nhũ hóa (INS 322(i))",
     "hương liệu tự nhiên (hương bơ)",
@@ -19,7 +63,7 @@
     "màu thực phẩm nhân tạo (INS 110, INS 129, INS 102, INS 133, INS 170(ii))",
     "chất điều chỉnh độ acid (INS 500(ii))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "160 kcal"
@@ -64,6 +108,13 @@
   "gold_warning_raw": [
     "Có chứa sữa, đậu nành và đậu phộng. Có thể chứa các hạt cây."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "sữa",
@@ -100,6 +151,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

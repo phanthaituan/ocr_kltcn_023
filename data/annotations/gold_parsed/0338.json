@@ -16,6 +16,86 @@
     "vitamin B6",
     "vitamin B12"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật (chứa TBHQ chất chống oxy hóa (INS 319))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột whey",
+      "raw": "bột whey",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột phô mai 4,650%",
+      "raw": "bột phô mai 4,650% (chứa chất điều vị (Mononatri L-glutamat (INS 621) và Dinatri 5'-ribonucleotid (INS 635)), phẩm màu tổng hợp (Ponceau 4R (Cochineal red A) (INS 124) và Sunset yellow FCF (INS 110)), chất chống oxy hóa d-alpha-Tocopherol (INS 307a))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột ngô",
+      "raw": "tinh bột ngô",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin a",
+      "raw": "vitamin A (682,41 µg/100g)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin b1",
+      "raw": "vitamin B1 (1,49 mg/100g)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin b2",
+      "raw": "vitamin B2 (1,71 mg/100g)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin b6",
+      "raw": "vitamin B6",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "vitamin b12",
+      "raw": "vitamin B12",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    }
+  ],
   "gold_additives_raw": [
     "TBHQ chất chống oxy hóa (INS 319)",
     "chất điều vị (Mononatri L-glutamat (INS 621) và Dinatri 5'-ribonucleotid (INS 635))",
@@ -33,11 +113,57 @@
     "phẩm màu tổng hợp Sunset yellow FCF (INS 110)",
     "chất điều chỉnh độ acid (INS 330)"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Sản phẩm có chứa bột mì, sữa và đậu nành.",
     "Sản phẩm có thể chứa: Hạt phỉ và đậu phộng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 5,
+    "nutritional_names": [
+      "vitamin a",
+      "vitamin b1",
+      "vitamin b12",
+      "vitamin b2",
+      "vitamin b6"
+    ],
+    "nutritional_categories": [
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "vitamin a",
+        "raw": "vitamin A (682,41 µg/100g)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin b1",
+        "raw": "vitamin B1 (1,49 mg/100g)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin b2",
+        "raw": "vitamin B2 (1,71 mg/100g)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin b6",
+        "raw": "vitamin B6",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "vitamin b12",
+        "raw": "vitamin B12",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -81,6 +207,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

@@ -32,6 +32,182 @@
     "Gói rau: Giả thịt (từ đậu nành)",
     "rau sấy (hành lá, cà rốt, đậu bắp)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "vắt sợi: gạo",
+      "raw": "Vắt sợi: Gạo (634,82 g/kg)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột khoai tây",
+      "raw": "tinh bột khoai tây (158,7 g/kg)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gói xốt: nước",
+      "raw": "Gói xốt: Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "giấm",
+      "raw": "giấm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ",
+      "raw": "dầu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước mắm",
+      "raw": "nước mắm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành",
+      "raw": "hành",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tỏi",
+      "raw": "tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa dừa",
+      "raw": "bột sữa dừa",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột gầy",
+      "raw": "sữa bột gầy",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột tôm",
+      "raw": "bột tôm (12 g/kg)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ớt",
+      "raw": "ớt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "riềng",
+      "raw": "riềng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lá mùi tàu",
+      "raw": "lá mùi tàu",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gừng",
+      "raw": "gừng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp bột",
+      "raw": "hỗn hợp bột (bột ớt, bột tỏi, bột tiêu)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất nấm men",
+      "raw": "chiết xuất nấm men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột gia vị",
+      "raw": "bột gia vị",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất ớt",
+      "raw": "chiết xuất ớt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gói tương ớt: nước",
+      "raw": "Gói tương ớt: Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ",
+      "raw": "dầu cọ",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ớt",
+      "raw": "bột ớt (30 g/kg)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gói rau: giả thịt",
+      "raw": "Gói rau: Giả thịt (từ đậu nành)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "rau sấy",
+      "raw": "rau sấy (hành lá, cà rốt, đậu bắp)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm dày (1404, 466, 412, 451(i))",
     "chất nhũ hóa (475, 322(i))",
@@ -54,7 +230,7 @@
     "chất bảo quản (202, 211)",
     "chất tạo ngọt tổng hợp (950)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Giá trị năng lượng",
       "value": "246,96 kcal"
@@ -88,6 +264,13 @@
     "Sản phẩm có chứa: gluten lúa mì, đậu nành, cá, tôm, cua, sữa.",
     "Không sử dụng sản phẩm quá hạn hoặc bao bì không còn nguyên vẹn."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -130,6 +313,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

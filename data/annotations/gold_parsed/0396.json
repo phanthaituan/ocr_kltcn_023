@@ -7,10 +7,36 @@
     "đường",
     "bột ca cao (1%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa dừa",
+      "raw": "Sữa dừa (85%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước dừa",
+      "raw": "nước dừa (10%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ca cao",
+      "raw": "bột ca cao (1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "maltodextrin"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "60 kcal"
@@ -51,6 +77,13 @@
   "gold_warning_raw": [
     "Không dùng cho trẻ dưới 1 tuổi."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -74,6 +107,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

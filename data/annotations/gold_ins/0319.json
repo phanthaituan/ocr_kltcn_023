@@ -1,0 +1,19 @@
+{
+  "image_id": "0319",
+  "gold_ins_additive": [
+    "296",
+    "327",
+    "330",
+    "331",
+    "340",
+    "407",
+    "415",
+    "425",
+    "900a"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Hương liệu tổng hợp: hương vải"
+  ],
+  "ins_parser_version": "1.1"
+}

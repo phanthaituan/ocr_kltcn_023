@@ -8,13 +8,45 @@
     "muối tinh",
     "gelatin"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "gạo 58.8%",
+      "raw": "Gạo 58.8%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối tinh",
+      "raw": "muối tinh",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gelatin",
+      "raw": "gelatin",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm giòn (1420)",
     "chất điều vị (621)",
     "chất chống oxy hóa (319)",
     "chất điều chỉnh độ acid (330)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "238 Kcal"
@@ -47,6 +79,13 @@
   "gold_warning_raw": [
     "Gói hút ẩm đóng kèm trong túi: không ăn được, để xa tầm tay trẻ em. Không được mở, bỏ ngay vào thùng rác sau khi mở bao bì."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -71,6 +110,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

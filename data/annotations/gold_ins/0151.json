@@ -1,0 +1,27 @@
+{
+  "image_id": "0151",
+  "gold_ins_additive": [
+    "1520",
+    "160a",
+    "322",
+    "415",
+    "420",
+    "422",
+    "470",
+    "471",
+    "475",
+    "477",
+    "491",
+    "500",
+    "575"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "CỒN THỰC PHẨM",
+    "HƯƠNG LIỆU TỔNG HỢP (VANI)",
+    "MALTODEXTRIN",
+    "MUỐI-I-ỐT",
+    "CHẤT TẠO MÙNG"
+  ],
+  "ins_parser_version": "1.1"
+}

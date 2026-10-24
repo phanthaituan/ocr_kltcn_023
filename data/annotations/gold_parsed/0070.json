@@ -19,16 +19,199 @@
     "Taurine",
     "Hỗn hợp nucleotid"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "sữa",
+      "raw": "Sữa (92,2%) (sữa tươi, nước, sữa bột, chất béo sữa)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lactoza",
+      "raw": "Lactoza",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất xơ hòa tan oligofructose",
+      "raw": "Chất xơ hòa tan oligofructose (FOS)",
+      "nutritional": true,
+      "nutritional_category": "fiber_prebiotic"
+    },
+    {
+      "name": "maltodextrin",
+      "raw": "Maltodextrin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "Dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột béo mct",
+      "raw": "Bột béo MCT",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    },
+    {
+      "name": "đạm whey giàu alpha-lactalbumin",
+      "raw": "Đạm whey giàu alpha-lactalbumin",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    },
+    {
+      "name": "bột sữa non",
+      "raw": "Bột sữa non (colostrum) (1 g/l)",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    },
+    {
+      "name": "các khoáng chất",
+      "raw": "Các khoáng chất (tricalci phosphat, natri citrat, magnesi citrat, sắt pyrophosphat, kẽm gluconat, mangan sulfat, đồng gluconat, kali iodid, natri selenit)",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "các vitamin",
+      "raw": "Các vitamin (natri ascorbat, vitamin E, niacin, calci D-pantothenat, vitamin B6, vitamin B1, vitamin A, vitamin B2, acid folic, vitamin K1, vitamin K2, biotin, vitamin D3, vitamin B12)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "dầu cá giàu dha",
+      "raw": "Dầu cá giàu DHA",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    },
+    {
+      "name": "oligosaccharid",
+      "raw": "Oligosaccharid (2'-Fucosyllactose (2'-FL))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cholin clorid",
+      "raw": "Cholin clorid",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    },
+    {
+      "name": "taurine",
+      "raw": "Taurine",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    },
+    {
+      "name": "hỗn hợp nucleotid",
+      "raw": "Hỗn hợp nucleotid",
+      "nutritional": true,
+      "nutritional_category": "amino_omega_bioactive"
+    }
+  ],
   "gold_additives_raw": [
     "Chất nhũ hóa (INS 471, INS 460(i), INS 407)",
     "Chất chống oxy hóa (hỗn hợp tocopherol concentrate, ascorbyl palmitat)",
     "Hương liệu tổng hợp dùng cho thực phẩm"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Có chứa sữa, đậu nành và dầu cá.",
     "Không dùng cho trẻ dưới 1 tuổi."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 10,
+    "nutritional_names": [
+      "bột béo mct",
+      "bột sữa non",
+      "cholin clorid",
+      "chất xơ hòa tan oligofructose",
+      "các khoáng chất",
+      "các vitamin",
+      "dầu cá giàu dha",
+      "hỗn hợp nucleotid",
+      "taurine",
+      "đạm whey giàu alpha-lactalbumin"
+    ],
+    "nutritional_categories": [
+      "amino_omega_bioactive",
+      "fiber_prebiotic",
+      "isolated_protein",
+      "mineral_trace",
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "chất xơ hòa tan oligofructose",
+        "raw": "Chất xơ hòa tan oligofructose (FOS)",
+        "nutritional": true,
+        "nutritional_category": "fiber_prebiotic"
+      },
+      {
+        "name": "bột béo mct",
+        "raw": "Bột béo MCT",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      },
+      {
+        "name": "đạm whey giàu alpha-lactalbumin",
+        "raw": "Đạm whey giàu alpha-lactalbumin",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      },
+      {
+        "name": "bột sữa non",
+        "raw": "Bột sữa non (colostrum) (1 g/l)",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      },
+      {
+        "name": "các khoáng chất",
+        "raw": "Các khoáng chất (tricalci phosphat, natri citrat, magnesi citrat, sắt pyrophosphat, kẽm gluconat, mangan sulfat, đồng gluconat, kali iodid, natri selenit)",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "các vitamin",
+        "raw": "Các vitamin (natri ascorbat, vitamin E, niacin, calci D-pantothenat, vitamin B6, vitamin B1, vitamin A, vitamin B2, acid folic, vitamin K1, vitamin K2, biotin, vitamin D3, vitamin B12)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      },
+      {
+        "name": "dầu cá giàu dha",
+        "raw": "Dầu cá giàu DHA",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      },
+      {
+        "name": "cholin clorid",
+        "raw": "Cholin clorid",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      },
+      {
+        "name": "taurine",
+        "raw": "Taurine",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      },
+      {
+        "name": "hỗn hợp nucleotid",
+        "raw": "Hỗn hợp nucleotid",
+        "nutritional": true,
+        "nutritional_category": "amino_omega_bioactive"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -65,6 +248,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

@@ -11,6 +11,56 @@
     "dịch chiết thịt bò 0,12%",
     "bột hương tỏi tự nhiên"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "thịt gà",
+      "raw": "Thịt gà",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước đá",
+      "raw": "nước đá",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đạm đậu nành",
+      "raw": "đạm đậu nành",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    },
+    {
+      "name": "dầu thực vật",
+      "raw": "dầu thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gia vị",
+      "raw": "gia vị (muối, đường, nhục đậu khấu)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột lòng trắng trứng",
+      "raw": "bột lòng trắng trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dịch chiết thịt bò 0,12%",
+      "raw": "dịch chiết thịt bò 0,12%",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột hương tỏi tự nhiên",
+      "raw": "bột hương tỏi tự nhiên",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (1420)",
     "chất nhũ hóa (451(i), 450(i), 407)",
@@ -20,7 +70,7 @@
     "chất giữ màu (250)",
     "chất tạo màu erythrosin tổng hợp (127)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng (Energy)",
       "value": "150 - 250 (kcal)"
@@ -55,6 +105,24 @@
     "Sản phẩm có chứa: Chất ổn định (1420), đạm đậu nành, bột lòng trắng trứng, nhục đậu khấu.",
     "Khi vỏ ngoài cây xúc xích bị rách hoặc thủng thì tuyệt đối không được sử dụng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "đạm đậu nành"
+    ],
+    "nutritional_categories": [
+      "isolated_protein"
+    ],
+    "items": [
+      {
+        "name": "đạm đậu nành",
+        "raw": "đạm đậu nành",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "trứng",
@@ -92,6 +160,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

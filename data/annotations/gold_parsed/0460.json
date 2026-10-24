@@ -16,6 +16,86 @@
     "Dầu cọ olein tinh luyện",
     "Chiết xuất tự nhiên từ đại hồi"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "thịt heo",
+      "raw": "Thịt heo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thịt gà",
+      "raw": "Thịt gà",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vỏ bọc collagen",
+      "raw": "Vỏ bọc collagen",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đạm đậu nành",
+      "raw": "Đạm đậu nành",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    },
+    {
+      "name": "rượu mai quế lộ",
+      "raw": "Rượu Mai Quế Lộ (2,5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đạm chiết xuất từ heo",
+      "raw": "Đạm chiết xuất từ heo",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "rượu nếp",
+      "raw": "Rượu nếp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tiêu",
+      "raw": "Tiêu",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu cọ olein tinh luyện",
+      "raw": "Dầu cọ olein tinh luyện",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất tự nhiên từ đại hồi",
+      "raw": "Chiết xuất tự nhiên từ đại hồi",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất điều chỉnh độ acid (262(i), 325, 260)",
     "Chất điều vị (621)",
@@ -26,7 +106,7 @@
     "Phẩm màu tổng hợp (129)",
     "Chất bảo quản (250)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "499 kcal"
@@ -55,6 +135,24 @@
   "gold_warning_raw": [
     "Không sử dụng sản phẩm hết hạn, hư hỏng hoặc khi dị ứng với bất kỳ thành phần nào của sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "đạm đậu nành"
+    ],
+    "nutritional_categories": [
+      "isolated_protein"
+    ],
+    "items": [
+      {
+        "name": "đạm đậu nành",
+        "raw": "Đạm đậu nành",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "đậu_nành"
@@ -82,6 +180,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

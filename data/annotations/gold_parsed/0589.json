@@ -9,13 +9,51 @@
     "nước ép đào (0,16%)",
     "bột trà từ trà đen (0,1%)"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường mía",
+      "raw": "đường mía",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước ép táo",
+      "raw": "nước ép táo (1,86%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt chia",
+      "raw": "hạt chia (0,22%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước ép đào",
+      "raw": "nước ép đào (0,16%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột trà từ trà đen",
+      "raw": "bột trà từ trà đen (0,1%)",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều chỉnh độ acid (330, 331(i))",
     "hương liệu tự nhiên",
     "chất chống oxy hóa (300)",
     "chất tạo ngọt tổng hợp (955, 950)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "20,1 Kcal"
@@ -46,6 +84,13 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -67,6 +112,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": false
   }
 }

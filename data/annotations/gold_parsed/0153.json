@@ -12,8 +12,64 @@
     "muối",
     "bột ớt"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "gạo lứt",
+      "raw": "Gạo lứt (40%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt điều",
+      "raw": "hạt điều (11%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt bí xanh",
+      "raw": "hạt bí xanh (10%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt hạnh nhân",
+      "raw": "hạt hạnh nhân (8%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "rong biển",
+      "raw": "rong biển (6%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "óc chó",
+      "raw": "óc chó (4%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "glucose syrup từ bắp",
+      "raw": "glucose syrup từ bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột ớt",
+      "raw": "bột ớt",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Calories",
       "value": "554"
@@ -54,6 +110,13 @@
   "gold_warning_raw": [
     "Không sử dụng đối với người có khả năng mẫn cảm hoặc dị ứng với các thành phần trong sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "hạt_cây",
@@ -85,6 +148,7 @@
     "has_ingredient": true,
     "has_additive": false,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

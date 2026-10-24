@@ -1,0 +1,14 @@
+{
+  "image_id": "0049",
+  "gold_ins_additive": [
+    "120",
+    "414",
+    "621"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "dầu thực vật (vitamin E)",
+    "hương gà luộc"
+  ],
+  "ins_parser_version": "1.1"
+}

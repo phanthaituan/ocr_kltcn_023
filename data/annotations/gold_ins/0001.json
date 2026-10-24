@@ -1,0 +1,14 @@
+{
+  "image_id": "0001",
+  "gold_ins_additive": [],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "dl-alpha Tocopherol",
+    "Maltodextrin",
+    "Chất nhũ hóa: Lecithin đậu nành",
+    "Chất tạo màu tự nhiên: Caramen nhóm IV (caramen amoni sulfit)",
+    "Chất tạo màu tổng hợp: Caramen nhóm I (caramen nguyên chất)",
+    "Hương liệu tổng hợp (cà phê trắng (0,1%) và Vanilla (0,008%))"
+  ],
+  "ins_parser_version": "1.1"
+}

@@ -16,12 +16,92 @@
     "chiết xuất thịt bò",
     "ớt chuông xanh"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hành tây",
+      "raw": "hành tây",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "thịt 15 %",
+      "raw": "thịt 15 % (thịt bò, thịt heo)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà chua xay nhuyễn",
+      "raw": "cà chua xay nhuyễn",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "cà rốt",
+      "raw": "cà rốt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối ăn",
+      "raw": "muối ăn",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu đậu nành",
+      "raw": "dầu đậu nành",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dịch cao nấm men",
+      "raw": "dịch cao nấm men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp gia vị",
+      "raw": "hỗn hợp gia vị",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tỏi xay nhuyễn",
+      "raw": "tỏi xay nhuyễn",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất thịt bò",
+      "raw": "chiết xuất thịt bò",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ớt chuông xanh",
+      "raw": "ớt chuông xanh",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất làm dày (1414)",
     "chất điều vị (621, 627, 631)",
     "phẩm màu tự nhiên (150a)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Giá trị năng lượng",
       "value": "83 (kcal)"
@@ -54,6 +134,13 @@
   "gold_warning_raw": [
     "Sản phẩm này có chứa thành phần đậu nành gây dị ứng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "đậu_nành"
@@ -83,6 +170,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

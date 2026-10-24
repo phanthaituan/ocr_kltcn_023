@@ -12,6 +12,62 @@
     "Gluten từ lúa mì",
     "Bột sữa béo"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bơ thực vật",
+      "raw": "Bơ thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "men",
+      "raw": "Men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "tinh bột khoai tây",
+      "raw": "Tinh bột khoai tây (0.8%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng",
+      "raw": "Trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gluten từ lúa mì",
+      "raw": "Gluten từ lúa mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa béo",
+      "raw": "Bột sữa béo",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất nhũ hóa (471, 1400)",
     "Hương liệu tổng hợp (Sữa)",
@@ -19,7 +75,7 @@
     "Chất xử lý bột (1100(i), 1100(iii))",
     "Chất chống oxy hóa (300)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "306 kcal"
@@ -54,6 +110,13 @@
     "Sản phẩm có thể chứa hạnh nhân, mè, cá, dừa, động vật giáp xác.",
     "Không sử dụng sản phẩm đã hết hạn."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -110,6 +173,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

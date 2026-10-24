@@ -1,0 +1,86 @@
+{
+  "image_id": "0164",
+  "product_name": null,
+  "gold_ingredients_raw": [],
+  "gold_additives_raw": [],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "79,9 kcal"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "3,13 g"
+    },
+    {
+      "name": "Chất béo",
+      "value": "4,10 g"
+    },
+    {
+      "name": "Carbohydrat",
+      "value": "7,61 g"
+    },
+    {
+      "name": "Đường tổng số",
+      "value": "7,61 g"
+    },
+    {
+      "name": "Vitamin B2",
+      "value": "130 µg"
+    },
+    {
+      "name": "Axit pantothenic",
+      "value": "230 µg"
+    },
+    {
+      "name": "Natri",
+      "value": "34,4 mg"
+    },
+    {
+      "name": "Canxi",
+      "value": "110 mg"
+    },
+    {
+      "name": "Phốt pho",
+      "value": "75,0 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không dành cho người nhạy cảm với Sữa.",
+    "Không dùng cho trẻ dưới 1 tuổi.",
+    "Không sử dụng sản phẩm khi hết hạn hoặc bao bì bị hở, phồng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "sữa"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "sữa"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "sữa"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1,
+      "child_supervision": 1,
+      "expiry_usage": 1
+    }
+  },
+  "origin": null,
+  "net_weight": null,
+  "mfg_date": null,
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": false,
+    "has_additive": false,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

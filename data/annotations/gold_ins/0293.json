@@ -1,0 +1,18 @@
+{
+  "image_id": "0293",
+  "gold_ins_additive": [
+    "223",
+    "322",
+    "420",
+    "450",
+    "500",
+    "503",
+    "627",
+    "631"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "artificial flavorings (onion, vanilla)"
+  ],
+  "ins_parser_version": "1.1"
+}

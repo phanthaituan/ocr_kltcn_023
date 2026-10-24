@@ -1,0 +1,17 @@
+{
+  "image_id": "0408",
+  "gold_ins_additive": [
+    "150a",
+    "322",
+    "450",
+    "472a",
+    "481",
+    "500",
+    "503"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Hương liệu tổng hợp (hương vani)"
+  ],
+  "ins_parser_version": "1.1"
+}

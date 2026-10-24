@@ -1,0 +1,35 @@
+{
+  "image_id": "0541",
+  "gold_ins_additive": [
+    "102",
+    "110",
+    "1442",
+    "160a",
+    "162",
+    "322",
+    "330",
+    "331",
+    "341",
+    "407",
+    "410",
+    "412",
+    "420",
+    "433",
+    "440",
+    "450",
+    "466",
+    "471",
+    "473",
+    "477",
+    "491",
+    "500",
+    "526"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "hương liệu nhân tạo",
+    "2 loại hương liệu nhân tạo (vani)",
+    "2 loại hương liệu nhân tạo (sữa)"
+  ],
+  "ins_parser_version": "1.1"
+}

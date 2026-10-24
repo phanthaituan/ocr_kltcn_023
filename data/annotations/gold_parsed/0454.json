@@ -17,6 +17,92 @@
     "Hạt nêm thịt gà",
     "Chiết xuất hạt mù tạt"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu đậu nành",
+      "raw": "Dầu đậu nành",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "giấm",
+      "raw": "Giấm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lòng đỏ trứng gà",
+      "raw": "Lòng đỏ trứng gà",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột tiêu đen",
+      "raw": "Bột tiêu đen (1.7%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột tỏi",
+      "raw": "Bột tỏi",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột hành tây",
+      "raw": "Bột hành tây",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột tiêu trắng",
+      "raw": "Bột tiêu trắng (0.5%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước mắm",
+      "raw": "Nước mắm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất men",
+      "raw": "Chiết xuất men",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hạt nêm thịt gà",
+      "raw": "Hạt nêm thịt gà",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất hạt mù tạt",
+      "raw": "Chiết xuất hạt mù tạt",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất làm dày (1442, 415)",
     "Chất điều vị (621, 631, 627)",
@@ -26,7 +112,7 @@
     "Chất tạo ngọt nhân tạo (955)",
     "Hương tỏi tự nhiên"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "32 kcal"
@@ -48,6 +134,13 @@
     "Sản phẩm này sử dụng nguyên liệu chứa các thành phần có thể gây dị ứng: trứng, đậu nành, cá.",
     "Cảnh báo: Xốt có thể văng ra khi mở bao bì."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "cá",
@@ -84,6 +177,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

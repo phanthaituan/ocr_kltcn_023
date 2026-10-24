@@ -19,6 +19,104 @@
     "dried spring onion (0.16%)",
     "vegetable fat powder"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "wheat flour",
+      "raw": "Wheat flour",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vegetable oil",
+      "raw": "vegetable oil",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sugar",
+      "raw": "sugar",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "glucose syrup",
+      "raw": "glucose syrup",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "whole milk powder",
+      "raw": "whole milk powder (5.4%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "glucose",
+      "raw": "glucose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "non – dairy creamer",
+      "raw": "non – dairy creamer",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vegetable butter",
+      "raw": "vegetable butter",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "salt",
+      "raw": "salt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gelatin",
+      "raw": "gelatin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "corn starch",
+      "raw": "corn starch",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "yeast extract",
+      "raw": "yeast extract",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "potato starch",
+      "raw": "potato starch (0.2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "yeast",
+      "raw": "yeast",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dried spring onion",
+      "raw": "dried spring onion (0.16%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vegetable fat powder",
+      "raw": "vegetable fat powder",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "humectant (INS 420(ii))",
     "leavening agents (INS 503(ii), INS 500(ii), INS 450(i))",
@@ -27,7 +125,7 @@
     "antioxidant (INS 223)",
     "flavour enhancers (INS 627, INS 631)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Serving size",
       "value": "100g"
@@ -94,6 +192,13 @@
     }
   ],
   "gold_warning_raw": [],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -115,6 +220,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": false
   }
 }

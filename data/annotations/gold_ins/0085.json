@@ -1,0 +1,14 @@
+{
+  "image_id": "0085",
+  "gold_ins_additive": [
+    "407",
+    "412",
+    "471"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "chất xơ hòa tan (inulin)",
+    "hương liệu tổng hợp dùng cho thực phẩm"
+  ],
+  "ins_parser_version": "1.1"
+}

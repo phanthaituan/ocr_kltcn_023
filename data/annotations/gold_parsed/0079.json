@@ -5,11 +5,25 @@
     "Đế bánh (65 %) (bột mì, nước, dầu hạt cải, muối, men (Saccharomyces cerevisiae))",
     "phô mai (35 %) (sữa bò, muối, enzyme đông sữa, khuẩn sữa, phẩm màu tổng hợp (INS 160a(i)))"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đế bánh",
+      "raw": "Đế bánh (65 %) (bột mì, nước, dầu hạt cải, muối, men (Saccharomyces cerevisiae))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "phô mai",
+      "raw": "phô mai (35 %) (sữa bò, muối, enzyme đông sữa, khuẩn sữa, phẩm màu tổng hợp (INS 160a(i)))",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "enzyme đông sữa",
     "phẩm màu tổng hợp (INS 160a(i))"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "273 kcal"
@@ -40,6 +54,13 @@
     "Không dùng sản phẩm hết hạn sử dụng.",
     "Không sử dụng sản phẩm có màu và mùi lạ bất thường."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -71,6 +92,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

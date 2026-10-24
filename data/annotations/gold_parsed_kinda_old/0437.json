@@ -1,0 +1,68 @@
+{
+  "image_id": "0437",
+  "product_name": "SÔ CÔ LA ỚT",
+  "gold_ingredients_raw": [
+    "Đường",
+    "Dầu thực vật (từ trái ca cao)",
+    "Bột ca cao (23%)",
+    "Ớt (7%)"
+  ],
+  "gold_additives_raw": [
+    "Chất nhũ hóa (E322)",
+    "Hương liệu vani tự nhiên"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "Năng lượng",
+      "value": "529 kcal"
+    },
+    {
+      "name": "Carbohydrate",
+      "value": "47,4 g"
+    },
+    {
+      "name": "Béo tổng",
+      "value": "35,9 g"
+    },
+    {
+      "name": "Chất đạm",
+      "value": "4,09 g"
+    },
+    {
+      "name": "Đường tổng",
+      "value": "33,9 g"
+    },
+    {
+      "name": "Natri",
+      "value": "6,82 g"
+    }
+  ],
+  "gold_warning_raw": [
+    "Không sử dụng sản phẩm khi hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Việt Nam",
+  "net_weight": "80 g",
+  "mfg_date": "18/05/2026",
+  "expiry_date": "01 năm kể từ ngày sản xuất",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

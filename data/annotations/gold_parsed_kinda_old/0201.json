@@ -1,0 +1,86 @@
+{
+  "image_id": "0201",
+  "product_name": "THỰC PHẨM BỔ SUNG - BÁNH MARINE BOY VỊ TÔM NƯỚNG MÔI ĐỎ",
+  "gold_ingredients_raw": [
+    "Bột mì",
+    "Bột bắp",
+    "Đường",
+    "Shortening thực vật",
+    "Gia vị tôm nướng 4,4% (chất điều vị (621, 951, 631, 627, 364(ii)), hương liệu tự nhiên, chất chống đông vón (551), chất điều chỉnh độ acid (330), chất tạo màu tự nhiên (150c), chất chống oxy hóa (307b, 307c))",
+    "Dầu thực vật",
+    "Tinh bột bắp",
+    "Muối i-ốt",
+    "Calci carbonat 0,7%",
+    "Hương liệu rau củ (hương liệu (tự nhiên, giống tự nhiên, tổng hợp), chất điều vị (621, 631, 627, 620), chất ổn định (414), chất điều chỉnh độ acid (330, 341(iii)), chất tạo xốp (500(ii)), hương liệu (tự nhiên, giống tự nhiên) (tôm), chất chống oxy hóa (307b))"
+  ],
+  "gold_additives_raw": [
+    "Chất ổn định (1420)",
+    "Chất điều vị (621, 951, 631, 627, 364(ii))",
+    "Chất chống đông vón (551)",
+    "Chất điều chỉnh độ acid (330)",
+    "Chất tạo màu tự nhiên (150c)",
+    "Chất chống oxy hóa (307b, 307c)",
+    "Chất nhũ hóa (322(i))",
+    "Chất điều vị (621, 631, 627, 620)",
+    "Chất ổn định (414)",
+    "Chất điều chỉnh độ acid (330, 341(iii))",
+    "Chất tạo xốp (500(ii))",
+    "Hương liệu tự nhiên",
+    "Hương liệu rau củ",
+    "Hương liệu (tự nhiên, giống tự nhiên, tổng hợp)",
+    "Hương liệu (tự nhiên, giống tự nhiên) (tôm)"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Sản phẩm có chứa các thành phần dị ứng: lúa mì, đậu nành, tôm, sữa và có thể chứa cá, sulfite, trứng."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sulfite",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sulfite",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sulfite",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "VIỆT NAM",
+  "net_weight": null,
+  "mfg_date": "Được in trên bao bì (ngày/tháng/năm).",
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

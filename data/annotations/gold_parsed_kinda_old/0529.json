@@ -1,0 +1,81 @@
+{
+  "image_id": "0529",
+  "product_name": "THANH PROTEIN VỊ CA PHÊ NO BRAND",
+  "gold_ingredients_raw": [
+    "Sô cô la tổng hợp 20% [đường, dầu cọ stearin chế biến, dầu đậu nành, bột ca cao, bột whey]",
+    "bột whey protein 19% (whey protein phân lập, chất nhũ hóa (INS 322(i)) (từ đậu nành))",
+    "fructo oligosaccharide",
+    "kem sữa",
+    "sản phẩm đậu nành chế biến 8%",
+    "hạnh nhân 8%",
+    "sản phẩm oligosaccharide chế biến (mạch nha, isomalto oligosaccharide, đường fructose)",
+    "ngũ cốc 4%",
+    "oligosaccharide",
+    "sản phẩm đường chế biến",
+    "dầu cọ thực vật",
+    "bột ca cao",
+    "cà phê 0,2%",
+    "muối tự nhiên"
+  ],
+  "gold_additives_raw": [
+    "chất nhũ hoá (INS322(i))",
+    "chất làm dày (INS 414)",
+    "hương liệu cà phê tổng hợp"
+  ],
+  "gold_nutrition": [],
+  "gold_warning_raw": [
+    "Có chứa đậu nành, sữa, lúa mì.",
+    "Sản phẩm này được sản xuất trên hệ thống sản xuất các sản phẩm có sử dụng đậu phộng, óc chó, trứng, thịt heo, thịt gà, thịt bò, mực, axit sunfuro.",
+    "Không sử dụng sản phẩm đã hết hạn sử dụng."
+  ],
+  "allergen_final": {
+    "contains": [
+      "gluten",
+      "hạt_cây",
+      "nhuyễn_thể",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "may_contain": []
+  },
+  "allergen_debug": {
+    "declared_contains": [
+      "gluten",
+      "hạt_cây",
+      "nhuyễn_thể",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "declared_may_contain": [],
+    "negated_groups": [],
+    "named_in_warning": [
+      "gluten",
+      "hạt_cây",
+      "nhuyễn_thể",
+      "sữa",
+      "trứng",
+      "đậu_nành",
+      "đậu_phộng"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 2,
+      "expiry_usage": 1
+    }
+  },
+  "origin": "Hàn Quốc",
+  "net_weight": "160g (40g×4 cái)/hộp",
+  "mfg_date": "12 tháng trước hạn sử dụng",
+  "expiry_date": "Xem trên bao bì nhãn sản phẩm (năm.tháng.ngày)",
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": false,
+    "has_warning": true
+  }
+}

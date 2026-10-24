@@ -1,0 +1,95 @@
+{
+  "image_id": "0225",
+  "product_name": "BÁNH SNACK SWING CHEE-Z VỊ PHÔ MAI",
+  "gold_ingredients_raw": [
+    "KHOAI TÂY 59,5%",
+    "DẦU THỰC VẬT",
+    "BỘT GIA VỊ PHÔ MAI 6,3% (ĐƯỜNG, MUỐI, MALTODEXTRIN, CHẤT ĐIỀU VỊ (621, 951, 631, 627), BỘT WHEY, BỘT SỮA, HƯƠNG LIỆU (TỰ NHIÊN, GIỐNG TỰ NHIÊN), BỘT TÔM, BỘT PHÔ MAI 2,4% (CHEDDAR, MOZZARELLA), CHẤT CHỐNG ĐÔNG VÓN (551), CHẤT ĐIỀU CHỈNH ĐỘ ACID (330, 270), CHẤT TẠO MÀU TỰ NHIÊN (160c(i)))"
+  ],
+  "gold_additives_raw": [
+    "CHẤT ĐIỀU VỊ (621, 951, 631, 627)",
+    "HƯƠNG LIỆU (TỰ NHIÊN, GIỐNG TỰ NHIÊN)",
+    "CHẤT CHỐNG ĐÔNG VÓN (551)",
+    "CHẤT ĐIỀU CHỈNH ĐỘ ACID (330, 270)",
+    "CHẤT TẠO MÀU TỰ NHIÊN (160c(i))"
+  ],
+  "gold_nutrition": [
+    {
+      "name": "NĂNG LƯỢNG",
+      "value": "550 kcal"
+    },
+    {
+      "name": "CHẤT ĐẠM",
+      "value": "6,3 g"
+    },
+    {
+      "name": "CARBOHYDRAT",
+      "value": "48,7 g"
+    },
+    {
+      "name": "ĐƯỜNG TỔNG SỐ",
+      "value": "2,6 g"
+    },
+    {
+      "name": "CHẤT BÉO",
+      "value": "35,7 g"
+    },
+    {
+      "name": "CHẤT BÉO BÃO HÒA",
+      "value": "15,9 g"
+    },
+    {
+      "name": "NATRI",
+      "value": "446 mg"
+    }
+  ],
+  "gold_warning_raw": [
+    "SẢN PHẨM CÓ CHỨA CÁC THÀNH PHẦN DỊ ỨNG SAU: SỮA, TÔM, ĐẬU NÀNH VÀ CÓ THỂ CHỨA TRỨNG, CÁ, LÚA MÌ."
+  ],
+  "allergen_final": {
+    "contains": [],
+    "may_contain": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ]
+  },
+  "allergen_debug": {
+    "declared_contains": [],
+    "declared_may_contain": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "negated_groups": [],
+    "named_in_warning": [
+      "cá",
+      "giáp_xác",
+      "gluten",
+      "sữa",
+      "trứng",
+      "đậu_nành"
+    ],
+    "inferred_from_ingredient_additive": [],
+    "has_generic_allergy_reference": false,
+    "warning_subtype_counts": {
+      "named_allergy": 1
+    }
+  },
+  "origin": "VIỆT NAM",
+  "net_weight": null,
+  "mfg_date": "ĐƯỢC IN TRÊN BAO BÌ (NGÀY/THÁNG/NĂM)",
+  "expiry_date": null,
+  "completeness": {
+    "has_ingredient": true,
+    "has_additive": true,
+    "has_nutrition": true,
+    "has_warning": true
+  }
+}

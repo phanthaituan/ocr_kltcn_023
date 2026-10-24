@@ -14,6 +14,74 @@
     "Lòng đỏ trứng gà",
     "Chiết xuất hạt mù tạt"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu đậu nành",
+      "raw": "Dầu đậu nành",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước tương",
+      "raw": "Nước tương",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "giấm",
+      "raw": "Giấm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mè",
+      "raw": "Mè (3.65%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối thực phẩm",
+      "raw": "Muối thực phẩm",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "siro fructose bắp",
+      "raw": "Siro fructose bắp",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "dầu mè",
+      "raw": "Dầu mè (0.6%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "lòng đỏ trứng gà",
+      "raw": "Lòng đỏ trứng gà",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chiết xuất hạt mù tạt",
+      "raw": "Chiết xuất hạt mù tạt",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "Chất điều vị (621, 635)",
     "Chất làm dày (415)",
@@ -21,7 +89,7 @@
     "Chất tạo ngọt nhân tạo (955)",
     "Chất chống oxy hóa (385)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "164 kcal"
@@ -51,6 +119,13 @@
     "Sản phẩm này sử dụng nguyên liệu chứa các thành phần có thể gây dị ứng: Đậu nành, Lúa mì, Mè, Trứng.",
     "Trứng sử dụng trong thành phần của sản phẩm là trứng đã được thanh trùng (đã qua xử lý nhiệt)."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -89,6 +164,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }

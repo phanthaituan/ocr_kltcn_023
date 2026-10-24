@@ -1,0 +1,16 @@
+{
+  "image_id": "0581",
+  "gold_ins_additive": [
+    "1100",
+    "1400",
+    "211",
+    "282",
+    "300",
+    "471"
+  ],
+  "gold_ins_in_ingredient": [],
+  "additives_without_code": [
+    "Hương liệu tổng hợp (Sữa)"
+  ],
+  "ins_parser_version": "1.1"
+}

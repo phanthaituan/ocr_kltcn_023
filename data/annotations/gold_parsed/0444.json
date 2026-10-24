@@ -17,6 +17,92 @@
     "Muối i-ốt",
     "Protein sữa"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "bột mì",
+      "raw": "Bột mì",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mạch nha glucose",
+      "raw": "Mạch nha glucose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "shortening thực vật",
+      "raw": "Shortening thực vật (có chứa chất nhũ hóa (471))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "Chất béo thực vật (có chứa chất nhũ hóa (492, 322(i)))",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột cacao",
+      "raw": "Bột cacao (2,8%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "sữa bột nguyên kem",
+      "raw": "Sữa bột nguyên kem",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "trứng",
+      "raw": "Trứng",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường dextrose",
+      "raw": "Đường dextrose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "gelatin",
+      "raw": "Gelatin",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "Muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "hỗn hợp bột cacao và bơ cacao",
+      "raw": "Hỗn hợp bột cacao và bơ cacao (0,2%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối i-ốt",
+      "raw": "Muối i-ốt",
+      "nutritional": true,
+      "nutritional_category": "mineral_trace"
+    },
+    {
+      "name": "protein sữa",
+      "raw": "Protein sữa",
+      "nutritional": true,
+      "nutritional_category": "isolated_protein"
+    }
+  ],
   "gold_additives_raw": [
     "Chất nhũ hóa (471)",
     "Chất nhũ hóa (492, 322(i))",
@@ -26,7 +112,7 @@
     "Hương liệu tổng hợp (vani)",
     "Chất nhũ hóa (322(i), 476)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "160 kcal"
@@ -56,6 +142,32 @@
     "Sản phẩm không dùng cho người dị ứng với các thành phần sau: sữa, lúa mì, trứng và đậu nành.",
     "Không sử dụng sản phẩm khi đã hết hạn hoặc có dấu hiệu mốc hay hư hỏng."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 2,
+    "nutritional_names": [
+      "muối i-ốt",
+      "protein sữa"
+    ],
+    "nutritional_categories": [
+      "isolated_protein",
+      "mineral_trace"
+    ],
+    "items": [
+      {
+        "name": "muối i-ốt",
+        "raw": "Muối i-ốt",
+        "nutritional": true,
+        "nutritional_category": "mineral_trace"
+      },
+      {
+        "name": "protein sữa",
+        "raw": "Protein sữa",
+        "nutritional": true,
+        "nutritional_category": "isolated_protein"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "gluten",
@@ -95,6 +207,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

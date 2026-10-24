@@ -11,16 +11,84 @@
     "vitamin và khoáng chất (A, B6, C, Kẽm lactat)",
     "Beta glucan"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "nước",
+      "raw": "Nước",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước ép trái cây nguyên chất",
+      "raw": "nước ép trái cây nguyên chất (30 g/L)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường tinh luyện",
+      "raw": "đường tinh luyện",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "đường fructose",
+      "raw": "đường fructose",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "bột sữa",
+      "raw": "bột sữa (20 g/L)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "chất béo thực vật",
+      "raw": "chất béo thực vật",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "vitamin và khoáng chất",
+      "raw": "vitamin và khoáng chất (A, B6, C, Kẽm lactat)",
+      "nutritional": true,
+      "nutritional_category": "vitamin"
+    },
+    {
+      "name": "beta glucan",
+      "raw": "Beta glucan",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất ổn định (INS 466, INS 418)",
     "chất điều chỉnh độ acid (INS 330, INS 270)",
     "hương liệu tổng hợp (hương trái cây)",
     "phẩm màu tự nhiên (INS 120, INS 160b(ii))"
   ],
-  "gold_nutrition": [],
+  "gold_nutrition_table_raw": [],
   "gold_warning_raw": [
     "Sản phẩm có chứa sữa."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": true,
+    "n_nutritional_ingredients": 1,
+    "nutritional_names": [
+      "vitamin và khoáng chất"
+    ],
+    "nutritional_categories": [
+      "vitamin"
+    ],
+    "items": [
+      {
+        "name": "vitamin và khoáng chất",
+        "raw": "vitamin và khoáng chất (A, B6, C, Kẽm lactat)",
+        "nutritional": true,
+        "nutritional_category": "vitamin"
+      }
+    ]
+  },
   "allergen_final": {
     "contains": [
       "sữa"
@@ -50,6 +118,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": false,
+    "has_nutritional_b": true,
     "has_warning": true
   }
 }

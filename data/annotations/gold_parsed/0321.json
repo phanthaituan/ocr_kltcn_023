@@ -9,6 +9,44 @@
     "mơ rừng (6%)",
     "nước"
   ],
+  "gold_ingredients_parsed": [
+    {
+      "name": "đường",
+      "raw": "Đường",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "kim quất",
+      "raw": "kim quất (12%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "muối",
+      "raw": "muối",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "ớt",
+      "raw": "ớt",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "mơ rừng",
+      "raw": "mơ rừng (6%)",
+      "nutritional": false,
+      "nutritional_category": null
+    },
+    {
+      "name": "nước",
+      "raw": "nước",
+      "nutritional": false,
+      "nutritional_category": null
+    }
+  ],
   "gold_additives_raw": [
     "chất điều vị (INS 621)",
     "chất điều chỉnh độ acid (INS 330)",
@@ -16,7 +54,7 @@
     "hương liệu giống tự nhiên (hương kim quất)",
     "chất chống oxy hóa tự nhiên (INS 307b)"
   ],
-  "gold_nutrition": [
+  "gold_nutrition_table_raw": [
     {
       "name": "Năng lượng",
       "value": "228 Kcal"
@@ -45,6 +83,13 @@
   "gold_warning_raw": [
     "Sản phẩm có sử dụng nguyên liệu tự nhiên, trong quá trình bảo quản có thể xuống màu nhưng không ảnh hưởng đến chất lượng sản phẩm."
   ],
+  "nutritional_final": {
+    "has_nutritional_ingredient": false,
+    "n_nutritional_ingredients": 0,
+    "nutritional_names": [],
+    "nutritional_categories": [],
+    "items": []
+  },
   "allergen_final": {
     "contains": [],
     "may_contain": []
@@ -68,6 +113,7 @@
     "has_ingredient": true,
     "has_additive": true,
     "has_nutrition": true,
+    "has_nutritional_b": false,
     "has_warning": true
   }
 }
