@@ -264,7 +264,7 @@ def main():
     for s in overview["summary"]:
         if s["count"] > 0:
             print(f"  - {s['split']:8s}: {s['count']:3d} ảnh | Dị ứng: {s['has_allergen']:14s} | ADI (all): {s['has_adi_all_numeric']:14s} | ADI (strict): {s['has_adi_strict']}")
-        else:
+        else:   
             print(f"  - {s['split']:8s}:   0 ảnh")
 
 
