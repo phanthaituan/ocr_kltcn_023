@@ -1,0 +1,88 @@
+{
+  "image_id": "0055",
+  "has_adi_warning_all_numeric": false,
+  "has_adi_warning_strict_adi": false,
+  "has_mtdi_only": false,
+  "gold_ins_additive_adi": {
+    "has_adi_warning_all_numeric": false,
+    "has_adi_warning_strict_adi": false,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [],
+    "numeric_strict_adi_codes": [],
+    "mtdi_codes": [],
+    "not_specified_codes": [
+      "327",
+      "401",
+      "406",
+      "415"
+    ],
+    "unknown_codes": [],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 4,
+      "n_verified_codes": 4,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": [
+      {
+        "ins_code": "327",
+        "substance_name": "CALCIUM LACTATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "401",
+        "substance_name": "SODIUM ALGINATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "406",
+        "substance_name": "AGAR",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "415",
+        "substance_name": "XANTHAN GUM",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      }
+    ]
+  },
+  "gold_ins_in_ingredient_adi": {
+    "has_adi_warning_all_numeric": false,
+    "has_adi_warning_strict_adi": false,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [],
+    "numeric_strict_adi_codes": [],
+    "mtdi_codes": [],
+    "not_specified_codes": [],
+    "unknown_codes": [],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 0,
+      "n_verified_codes": 0,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": []
+  },
+  "additives_without_code": [
+    "hương liệu giống tự nhiên"
+  ],
+  "ins_parser_version": "1.1"
+}

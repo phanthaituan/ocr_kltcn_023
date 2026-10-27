@@ -1,0 +1,134 @@
+{
+  "image_id": "0184",
+  "has_adi_warning_all_numeric": true,
+  "has_adi_warning_strict_adi": true,
+  "has_mtdi_only": false,
+  "gold_ins_additive_adi": {
+    "has_adi_warning_all_numeric": true,
+    "has_adi_warning_strict_adi": true,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [
+      "211",
+      "445",
+      "960a"
+    ],
+    "numeric_strict_adi_codes": [
+      "211",
+      "445",
+      "960a"
+    ],
+    "mtdi_codes": [],
+    "not_specified_codes": [
+      "160d",
+      "330",
+      "414",
+      "440"
+    ],
+    "unknown_codes": [
+      "160a"
+    ],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 8,
+      "n_verified_codes": 8,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": [
+      {
+        "ins_code": "160a",
+        "substance_name": "beta-CAROTENE from BLAKESLEA TRISPORA",
+        "adi_status": "unknown",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "withdrawn",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "160d",
+        "substance_name": "LYCOPENE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "211",
+        "substance_name": "SODIUM BENZOATE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 20.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "330",
+        "substance_name": "CITRIC ACID",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "414",
+        "substance_name": "GUM ARABIC",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "440",
+        "substance_name": "PECTINS",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "445",
+        "substance_name": "GLYCEROL ESTER OF WOOD ROSIN",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 25.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "960a",
+        "substance_name": "STEVIOL GLYCOSIDES",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 4.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      }
+    ]
+  },
+  "gold_ins_in_ingredient_adi": {
+    "has_adi_warning_all_numeric": false,
+    "has_adi_warning_strict_adi": false,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [],
+    "numeric_strict_adi_codes": [],
+    "mtdi_codes": [],
+    "not_specified_codes": [],
+    "unknown_codes": [],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 0,
+      "n_verified_codes": 0,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": []
+  },
+  "additives_without_code": [
+    "hương liệu giống tự nhiên"
+  ],
+  "ins_parser_version": "1.1"
+}

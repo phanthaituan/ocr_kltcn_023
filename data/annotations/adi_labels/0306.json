@@ -1,0 +1,293 @@
+{
+  "image_id": "0306",
+  "has_adi_warning_all_numeric": true,
+  "has_adi_warning_strict_adi": true,
+  "has_mtdi_only": false,
+  "gold_ins_additive_adi": {
+    "has_adi_warning_all_numeric": true,
+    "has_adi_warning_strict_adi": true,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [
+      "102",
+      "110",
+      "1520",
+      "341",
+      "433",
+      "450",
+      "473",
+      "477",
+      "491"
+    ],
+    "numeric_strict_adi_codes": [
+      "102",
+      "110",
+      "1520",
+      "433",
+      "473",
+      "477",
+      "491"
+    ],
+    "mtdi_codes": [
+      "341",
+      "450"
+    ],
+    "not_specified_codes": [
+      "1442",
+      "162",
+      "330",
+      "331",
+      "407",
+      "410",
+      "412",
+      "420",
+      "440",
+      "466",
+      "471",
+      "500",
+      "526"
+    ],
+    "unknown_codes": [
+      "160a"
+    ],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 23,
+      "n_verified_codes": 23,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": [
+      {
+        "ins_code": "102",
+        "substance_name": "TARTRAZINE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 10.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "110",
+        "substance_name": "SUNSET YELLOW FCF",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 4.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "1442",
+        "substance_name": "HYDROXYPROPYL DISTARCH PHOSPHATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "1520",
+        "substance_name": "PROPYLENE GLYCOL",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 25.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "160a",
+        "substance_name": "beta-CAROTENE from BLAKESLEA TRISPORA",
+        "adi_status": "unknown",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "withdrawn",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "162",
+        "substance_name": "BEET RED",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "330",
+        "substance_name": "CITRIC ACID",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "331",
+        "substance_name": "SODIUM DIHYDROGEN CITRATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "341",
+        "substance_name": "CALCIUM DIHYDROGEN PHOSPHATE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 70.0,
+        "limit_type": "mtdi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "407",
+        "substance_name": "CARRAGEENAN",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "410",
+        "substance_name": "CAROB BEAN GUM",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "412",
+        "substance_name": "GUAR GUM",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "420",
+        "substance_name": "D-SORBITOL",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "433",
+        "substance_name": "POLYOXYETHYLENE (20) SORBITAN MONOOLEATE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 25.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "440",
+        "substance_name": "PECTINS",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "450",
+        "substance_name": "CALCIUM DIHYDROGEN DIPHOSPHATE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 70.0,
+        "limit_type": "mtdi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "466",
+        "substance_name": "SODIUM CARBOXYMETHYL CELLULOSE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "471",
+        "substance_name": "MONO- AND DIGLYCERIDES",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "473",
+        "substance_name": "SUCROSE ESTERS OF FATTY ACIDS",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 30.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "477",
+        "substance_name": "PROPYLENE GLYCOL ESTERS of FATTY ACIDS",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 25.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "491",
+        "substance_name": "SORBITAN MONOSTEARATE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 25.0,
+        "limit_type": "temporary_adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "500",
+        "substance_name": "SODIUM CARBONATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "526",
+        "substance_name": "CALCIUM HYDROXIDE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      }
+    ]
+  },
+  "gold_ins_in_ingredient_adi": {
+    "has_adi_warning_all_numeric": false,
+    "has_adi_warning_strict_adi": false,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [],
+    "numeric_strict_adi_codes": [],
+    "mtdi_codes": [],
+    "not_specified_codes": [],
+    "unknown_codes": [],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 0,
+      "n_verified_codes": 0,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": []
+  },
+  "additives_without_code": [
+    "hương liệu nhân tạo",
+    "2 loại hương liệu nhân tạo (vani, sữa)",
+    "2 loại hương liệu nhân tạo (sữa)"
+  ],
+  "ins_parser_version": "1.1"
+}

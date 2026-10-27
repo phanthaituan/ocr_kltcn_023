@@ -1,0 +1,51 @@
+{
+  "image_id": "0001",
+  "has_adi_warning_all_numeric": false,
+  "has_adi_warning_strict_adi": false,
+  "has_mtdi_only": false,
+  "gold_ins_additive_adi": {
+    "has_adi_warning_all_numeric": false,
+    "has_adi_warning_strict_adi": false,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [],
+    "numeric_strict_adi_codes": [],
+    "mtdi_codes": [],
+    "not_specified_codes": [],
+    "unknown_codes": [],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 0,
+      "n_verified_codes": 0,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": []
+  },
+  "gold_ins_in_ingredient_adi": {
+    "has_adi_warning_all_numeric": false,
+    "has_adi_warning_strict_adi": false,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [],
+    "numeric_strict_adi_codes": [],
+    "mtdi_codes": [],
+    "not_specified_codes": [],
+    "unknown_codes": [],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 0,
+      "n_verified_codes": 0,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": []
+  },
+  "additives_without_code": [
+    "dl-alpha Tocopherol",
+    "Maltodextrin",
+    "Chất nhũ hóa: Lecithin đậu nành",
+    "Chất tạo màu tự nhiên: Caramen nhóm IV (caramen amoni sulfit)",
+    "Chất tạo màu tổng hợp: Caramen nhóm I (caramen nguyên chất)",
+    "Hương liệu tổng hợp (cà phê trắng (0,1%) và Vanilla (0,008%))"
+  ],
+  "ins_parser_version": "1.1"
+}

@@ -1,0 +1,240 @@
+{
+  "image_id": "0127",
+  "has_adi_warning_all_numeric": true,
+  "has_adi_warning_strict_adi": true,
+  "has_mtdi_only": false,
+  "gold_ins_additive_adi": {
+    "has_adi_warning_all_numeric": true,
+    "has_adi_warning_strict_adi": true,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [
+      "1520",
+      "473",
+      "475",
+      "476",
+      "477",
+      "491"
+    ],
+    "numeric_strict_adi_codes": [
+      "1520",
+      "473",
+      "475",
+      "476",
+      "477",
+      "491"
+    ],
+    "mtdi_codes": [],
+    "not_specified_codes": [
+      "1422",
+      "150a",
+      "170",
+      "322",
+      "415",
+      "420",
+      "422",
+      "470",
+      "471",
+      "500",
+      "575"
+    ],
+    "unknown_codes": [
+      "160a"
+    ],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 18,
+      "n_verified_codes": 18,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": [
+      {
+        "ins_code": "1422",
+        "substance_name": "ACETYLATED DISTARCH ADIPATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "150a",
+        "substance_name": "CARAMEL COLOUR, Class I",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "1520",
+        "substance_name": "PROPYLENE GLYCOL",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 25.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "160a",
+        "substance_name": "beta-CAROTENE from BLAKESLEA TRISPORA",
+        "adi_status": "unknown",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "withdrawn",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "170",
+        "substance_name": "CALCIUM CARBONATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "322",
+        "substance_name": "LECITHIN",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "415",
+        "substance_name": "XANTHAN GUM",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "420",
+        "substance_name": "D-SORBITOL",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "422",
+        "substance_name": "GLYCEROL",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "470",
+        "substance_name": "MAGNESIUM STEARATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "471",
+        "substance_name": "MONO- AND DIGLYCERIDES",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "473",
+        "substance_name": "SUCROSE ESTERS OF FATTY ACIDS",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 30.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "475",
+        "substance_name": "POLYGLYCEROL ESTERS of FATTY ACIDS",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 25.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "476",
+        "substance_name": "POLYGLYCEROL ESTERS of INTERESTERIFIED RICINOLEIC ACID",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 7.5,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "477",
+        "substance_name": "PROPYLENE GLYCOL ESTERS of FATTY ACIDS",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 25.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "491",
+        "substance_name": "SORBITAN MONOSTEARATE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 25.0,
+        "limit_type": "temporary_adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "500",
+        "substance_name": "SODIUM CARBONATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "575",
+        "substance_name": "GLUCONO delta-LACTONE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      }
+    ]
+  },
+  "gold_ins_in_ingredient_adi": {
+    "has_adi_warning_all_numeric": false,
+    "has_adi_warning_strict_adi": false,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [],
+    "numeric_strict_adi_codes": [],
+    "mtdi_codes": [],
+    "not_specified_codes": [],
+    "unknown_codes": [],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 0,
+      "n_verified_codes": 0,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": []
+  },
+  "additives_without_code": [
+    "CHẤT BÉO THỰC VẬT",
+    "HƯƠNG LIỆU TỔNG HỢP (KEM PHÔ MAI, CÀ PHÊ, SỬA CHUA, VANI)",
+    "HƯƠNG LIỆU GIỐNG TỰ NHIÊN (CÀ PHÊ, PHÔ MAI)",
+    "HƯƠNG LIỆU TỰ NHIÊN (KEM)"
+  ],
+  "ins_parser_version": "1.1"
+}

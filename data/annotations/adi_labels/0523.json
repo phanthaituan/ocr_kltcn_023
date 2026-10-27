@@ -1,0 +1,101 @@
+{
+  "image_id": "0523",
+  "has_adi_warning_all_numeric": true,
+  "has_adi_warning_strict_adi": true,
+  "has_mtdi_only": false,
+  "gold_ins_additive_adi": {
+    "has_adi_warning_all_numeric": true,
+    "has_adi_warning_strict_adi": true,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [
+      "435"
+    ],
+    "numeric_strict_adi_codes": [
+      "435"
+    ],
+    "mtdi_codes": [],
+    "not_specified_codes": [
+      "415",
+      "460",
+      "466",
+      "500"
+    ],
+    "unknown_codes": [],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 5,
+      "n_verified_codes": 5,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": [
+      {
+        "ins_code": "415",
+        "substance_name": "XANTHAN GUM",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "435",
+        "substance_name": "POLYOXYETHYLENE (20) SORBITAN MONOSTEARATE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 25.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "460",
+        "substance_name": "MICROCRYSTALLINE CELLULOSE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "466",
+        "substance_name": "SODIUM CARBOXYMETHYL CELLULOSE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "500",
+        "substance_name": "SODIUM CARBONATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      }
+    ]
+  },
+  "gold_ins_in_ingredient_adi": {
+    "has_adi_warning_all_numeric": false,
+    "has_adi_warning_strict_adi": false,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [],
+    "numeric_strict_adi_codes": [],
+    "mtdi_codes": [],
+    "not_specified_codes": [],
+    "unknown_codes": [],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 0,
+      "n_verified_codes": 0,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": []
+  },
+  "additives_without_code": [
+    "Hương sô cô la tự nhiên"
+  ],
+  "ins_parser_version": "1.1"
+}

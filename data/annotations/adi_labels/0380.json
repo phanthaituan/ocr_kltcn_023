@@ -1,0 +1,145 @@
+{
+  "image_id": "0380",
+  "has_adi_warning_all_numeric": true,
+  "has_adi_warning_strict_adi": true,
+  "has_mtdi_only": false,
+  "gold_ins_additive_adi": {
+    "has_adi_warning_all_numeric": true,
+    "has_adi_warning_strict_adi": true,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [
+      "202",
+      "385",
+      "951"
+    ],
+    "numeric_strict_adi_codes": [
+      "202",
+      "385",
+      "951"
+    ],
+    "mtdi_codes": [],
+    "not_specified_codes": [
+      "1422",
+      "330",
+      "415",
+      "471",
+      "621"
+    ],
+    "unknown_codes": [
+      "160a"
+    ],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 9,
+      "n_verified_codes": 9,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": [
+      {
+        "ins_code": "1422",
+        "substance_name": "ACETYLATED DISTARCH ADIPATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "160a",
+        "substance_name": "beta-CAROTENE from BLAKESLEA TRISPORA",
+        "adi_status": "unknown",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "withdrawn",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "202",
+        "substance_name": "POTASSIUM SORBATE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 25.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "330",
+        "substance_name": "CITRIC ACID",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "385",
+        "substance_name": "CALCIUM DISODIUM EDTA",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 2.5,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "415",
+        "substance_name": "XANTHAN GUM",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "471",
+        "substance_name": "MONO- AND DIGLYCERIDES",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "621",
+        "substance_name": "MONOSODIUM L-GLUTAMATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "951",
+        "substance_name": "ASPARTAME",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 40.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      }
+    ]
+  },
+  "gold_ins_in_ingredient_adi": {
+    "has_adi_warning_all_numeric": false,
+    "has_adi_warning_strict_adi": false,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [],
+    "numeric_strict_adi_codes": [],
+    "mtdi_codes": [],
+    "not_specified_codes": [],
+    "unknown_codes": [],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 0,
+      "n_verified_codes": 0,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": []
+  },
+  "additives_without_code": [
+    "hương liệu tổng hợp (chanh dây, sữa chua, sữa kem)",
+    "hương liệu tự nhiên (bơ)"
+  ],
+  "ins_parser_version": "1.1"
+}

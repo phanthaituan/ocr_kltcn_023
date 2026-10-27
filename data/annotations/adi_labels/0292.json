@@ -1,0 +1,319 @@
+{
+  "image_id": "0292",
+  "has_adi_warning_all_numeric": true,
+  "has_adi_warning_strict_adi": true,
+  "has_mtdi_only": false,
+  "gold_ins_additive_adi": {
+    "has_adi_warning_all_numeric": true,
+    "has_adi_warning_strict_adi": true,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [
+      "120",
+      "160b",
+      "339",
+      "340",
+      "450",
+      "451",
+      "452"
+    ],
+    "numeric_strict_adi_codes": [
+      "120",
+      "160b"
+    ],
+    "mtdi_codes": [
+      "339",
+      "340",
+      "450",
+      "451",
+      "452"
+    ],
+    "not_specified_codes": [
+      "1400",
+      "1450",
+      "260",
+      "300",
+      "304",
+      "330",
+      "412",
+      "420",
+      "471",
+      "500",
+      "501",
+      "503",
+      "551",
+      "621",
+      "627",
+      "631"
+    ],
+    "unknown_codes": [
+      "160a",
+      "307b",
+      "364"
+    ],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 26,
+      "n_verified_codes": 26,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": [
+      {
+        "ins_code": "120",
+        "substance_name": "CARMINES",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 5.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "1400",
+        "substance_name": "DEXTRINS, WHITE and YELLOW, ROASTED STARCH",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "1450",
+        "substance_name": "STARCH SODIUM OCTENYLSUCCINATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "160a",
+        "substance_name": "beta-CAROTENE from BLAKESLEA TRISPORA",
+        "adi_status": "unknown",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "withdrawn",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "160b",
+        "substance_name": "ANNATTO EXTRACTS",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 12.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "260",
+        "substance_name": "ACETIC ACID",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "300",
+        "substance_name": "ASCORBIC ACID",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "304",
+        "substance_name": "ASCORBYL PALMITATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "307b",
+        "substance_name": "TOCOPHEROL CONCENTRATE, mixed",
+        "adi_status": "unknown",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "unknown",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "330",
+        "substance_name": "CITRIC ACID",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "339",
+        "substance_name": "DISODIUM HYDROGEN PHOSPHATE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 70.0,
+        "limit_type": "mtdi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "340",
+        "substance_name": "DIPOTASSIUM HYDROGEN PHOSPHATE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 70.0,
+        "limit_type": "mtdi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "364",
+        "substance_name": "MAGNESIUM SUCCINATES",
+        "adi_status": "unknown",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "unknown",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "412",
+        "substance_name": "GUAR GUM",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "420",
+        "substance_name": "D-SORBITOL",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "450",
+        "substance_name": "CALCIUM DIHYDROGEN DIPHOSPHATE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 70.0,
+        "limit_type": "mtdi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "451",
+        "substance_name": "PENTAPOTASSIUM TRIPHOSPHATE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 70.0,
+        "limit_type": "mtdi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "452",
+        "substance_name": "AMMONIUM POLYPHOSPHATE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 70.0,
+        "limit_type": "mtdi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "471",
+        "substance_name": "MONO- AND DIGLYCERIDES",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "500",
+        "substance_name": "SODIUM CARBONATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "501",
+        "substance_name": "POTASSIUM CARBONATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "503",
+        "substance_name": "AMMONIUM CARBONATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "551",
+        "substance_name": "SILICA",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "621",
+        "substance_name": "MONOSODIUM L-GLUTAMATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "627",
+        "substance_name": "DISODIUM 5'-GUANYLATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "631",
+        "substance_name": "DISODIUM 5'-INOSINATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      }
+    ]
+  },
+  "gold_ins_in_ingredient_adi": {
+    "has_adi_warning_all_numeric": false,
+    "has_adi_warning_strict_adi": false,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [],
+    "numeric_strict_adi_codes": [],
+    "mtdi_codes": [],
+    "not_specified_codes": [],
+    "unknown_codes": [],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 0,
+      "n_verified_codes": 0,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": []
+  },
+  "additives_without_code": [
+    "hương liệu giống tự nhiên (hương tỏi)"
+  ],
+  "ins_parser_version": "1.1"
+}

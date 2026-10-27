@@ -1,0 +1,260 @@
+{
+  "image_id": "0205",
+  "has_adi_warning_all_numeric": true,
+  "has_adi_warning_strict_adi": true,
+  "has_mtdi_only": false,
+  "gold_ins_additive_adi": {
+    "has_adi_warning_all_numeric": true,
+    "has_adi_warning_strict_adi": true,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [
+      "1520",
+      "341",
+      "450",
+      "472e",
+      "475",
+      "476",
+      "477",
+      "491",
+      "492"
+    ],
+    "numeric_strict_adi_codes": [
+      "1520",
+      "472e",
+      "475",
+      "476",
+      "477",
+      "491",
+      "492"
+    ],
+    "mtdi_codes": [
+      "341",
+      "450"
+    ],
+    "not_specified_codes": [
+      "282",
+      "322",
+      "330",
+      "415",
+      "420",
+      "422",
+      "470",
+      "471",
+      "500",
+      "509",
+      "524"
+    ],
+    "unknown_codes": [],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 20,
+      "n_verified_codes": 20,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": [
+      {
+        "ins_code": "1520",
+        "substance_name": "PROPYLENE GLYCOL",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 25.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "282",
+        "substance_name": "CALCIUM PROPIONATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "322",
+        "substance_name": "LECITHIN",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "330",
+        "substance_name": "CITRIC ACID",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "341",
+        "substance_name": "CALCIUM DIHYDROGEN PHOSPHATE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 70.0,
+        "limit_type": "mtdi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "415",
+        "substance_name": "XANTHAN GUM",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "420",
+        "substance_name": "D-SORBITOL",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "422",
+        "substance_name": "GLYCEROL",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "450",
+        "substance_name": "CALCIUM DIHYDROGEN DIPHOSPHATE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 70.0,
+        "limit_type": "mtdi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "470",
+        "substance_name": "MAGNESIUM STEARATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "471",
+        "substance_name": "MONO- AND DIGLYCERIDES",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "472e",
+        "substance_name": "DIACETYLTARTARIC and FATTY ACID ESTERS of GLYCEROL",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 50.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "475",
+        "substance_name": "POLYGLYCEROL ESTERS of FATTY ACIDS",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 25.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "476",
+        "substance_name": "POLYGLYCEROL ESTERS of INTERESTERIFIED RICINOLEIC ACID",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 7.5,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "477",
+        "substance_name": "PROPYLENE GLYCOL ESTERS of FATTY ACIDS",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 25.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "491",
+        "substance_name": "SORBITAN MONOSTEARATE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 25.0,
+        "limit_type": "temporary_adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "492",
+        "substance_name": "SORBITAN TRISTEARATE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 25.0,
+        "limit_type": "temporary_adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "500",
+        "substance_name": "SODIUM CARBONATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "509",
+        "substance_name": "CALCIUM CHLORIDE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "524",
+        "substance_name": "SODIUM HYDROXIDE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      }
+    ]
+  },
+  "gold_ins_in_ingredient_adi": {
+    "has_adi_warning_all_numeric": false,
+    "has_adi_warning_strict_adi": false,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [],
+    "numeric_strict_adi_codes": [],
+    "mtdi_codes": [],
+    "not_specified_codes": [],
+    "unknown_codes": [],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 0,
+      "n_verified_codes": 0,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": []
+  },
+  "additives_without_code": [
+    "hương liệu tổng hợp (vani, sữa, bơ)"
+  ],
+  "ins_parser_version": "1.1"
+}

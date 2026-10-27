@@ -27,7 +27,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from src.common.paths import ADI_LABELS_DIR, COMPLETENESS_REPORT, SPLITS_DIR
+from src.common.paths import ADI_LABELS_DIR, BENCHMARK_IDS_TXT, COMPLETENESS_REPORT, SPLITS_DIR
 
 
 def parse_bool(val) -> bool:
@@ -42,7 +42,7 @@ def load_completeness_report(report_path: Path) -> list:
 
 
 def load_adi_map(adi_labels_dir: Path) -> dict:
-    """Đọc nhãn ADI từ thư mục ADI_LABELS_DIR (nếu đã chạy join_adi_labels.py)."""
+    """Đọc nhãn ADI từ thư mục ADI_LABELS_DIR (sinh bởi join_adi_labels.py)."""
     adi_map = {}
     if not adi_labels_dir.exists():
         return adi_map
@@ -150,7 +150,7 @@ def main():
     ap.add_argument("--report_csv", default=str(COMPLETENESS_REPORT), help="Đường dẫn completeness_report CSV")
     ap.add_argument("--adi_labels_dir", default=str(ADI_LABELS_DIR), help="Thư mục chứa adi_labels JSON")
     ap.add_argument("--splits_dir", default=str(SPLITS_DIR), help="Thư mục xuất các file split")
-    ap.add_argument("--benchmark_ids", default="", help="Đường dẫn file benchmark_ids.txt (mặc định nằm trong splits_dir)")
+    ap.add_argument("--benchmark_ids", default=str(BENCHMARK_IDS_TXT), help="Đường dẫn file benchmark_ids.txt (mặc định: data/results/Benchmark/benchmark_ids.txt, bộ ảnh đã chạy OCR benchmark)")
     ap.add_argument("--dev_size", type=int, default=70, help="Tổng số ảnh tập dev (bao gồm 60 ảnh benchmark)")
     ap.add_argument("--test_size", type=int, default=200, help="Tổng số ảnh tập test")
     ap.add_argument("--seed", type=int, default=42, help="Random seed cố định")
@@ -168,7 +168,7 @@ def main():
 
     splits_dir = Path(args.splits_dir)
     splits_dir.mkdir(parents=True, exist_ok=True)
-    benchmark_path = Path(args.benchmark_ids) if args.benchmark_ids else (splits_dir / "benchmark_ids.txt")
+    benchmark_path = Path(args.benchmark_ids)
 
     raw_rows = load_completeness_report(report_path)
     adi_map = load_adi_map(Path(args.adi_labels_dir))

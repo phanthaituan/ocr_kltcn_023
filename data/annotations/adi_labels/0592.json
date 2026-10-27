@@ -1,0 +1,93 @@
+{
+  "image_id": "0592",
+  "has_adi_warning_all_numeric": true,
+  "has_adi_warning_strict_adi": true,
+  "has_mtdi_only": false,
+  "gold_ins_additive_adi": {
+    "has_adi_warning_all_numeric": true,
+    "has_adi_warning_strict_adi": true,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [
+      "950"
+    ],
+    "numeric_strict_adi_codes": [
+      "950"
+    ],
+    "mtdi_codes": [],
+    "not_specified_codes": [
+      "415",
+      "621"
+    ],
+    "unknown_codes": [],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 3,
+      "n_verified_codes": 3,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": [
+      {
+        "ins_code": "415",
+        "substance_name": "XANTHAN GUM",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "621",
+        "substance_name": "MONOSODIUM L-GLUTAMATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "950",
+        "substance_name": "ACESULFAME POTASSIUM",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 15.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      }
+    ]
+  },
+  "gold_ins_in_ingredient_adi": {
+    "has_adi_warning_all_numeric": true,
+    "has_adi_warning_strict_adi": true,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [
+      "100"
+    ],
+    "numeric_strict_adi_codes": [
+      "100"
+    ],
+    "mtdi_codes": [],
+    "not_specified_codes": [],
+    "unknown_codes": [],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 1,
+      "n_verified_codes": 1,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": [
+      {
+        "ins_code": "100",
+        "substance_name": "CURCUMIN",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 3.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      }
+    ]
+  },
+  "additives_without_code": [],
+  "ins_parser_version": "1.1"
+}

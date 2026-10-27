@@ -1,0 +1,91 @@
+{
+  "image_id": "0524",
+  "has_adi_warning_all_numeric": false,
+  "has_adi_warning_strict_adi": false,
+  "has_mtdi_only": false,
+  "gold_ins_additive_adi": {
+    "has_adi_warning_all_numeric": false,
+    "has_adi_warning_strict_adi": false,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [],
+    "numeric_strict_adi_codes": [],
+    "mtdi_codes": [],
+    "not_specified_codes": [
+      "440",
+      "466"
+    ],
+    "unknown_codes": [
+      "160a"
+    ],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 3,
+      "n_verified_codes": 3,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": [
+      {
+        "ins_code": "160a",
+        "substance_name": "beta-CAROTENE from BLAKESLEA TRISPORA",
+        "adi_status": "unknown",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "withdrawn",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "440",
+        "substance_name": "PECTINS",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "466",
+        "substance_name": "SODIUM CARBOXYMETHYL CELLULOSE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      }
+    ]
+  },
+  "gold_ins_in_ingredient_adi": {
+    "has_adi_warning_all_numeric": false,
+    "has_adi_warning_strict_adi": false,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [],
+    "numeric_strict_adi_codes": [],
+    "mtdi_codes": [],
+    "not_specified_codes": [],
+    "unknown_codes": [],
+    "unverified_codes": [
+      "137"
+    ],
+    "coverage": {
+      "n_total_codes": 1,
+      "n_verified_codes": 0,
+      "n_unverified_codes": 1,
+      "verified_ratio": 0.0
+    },
+    "code_details": [
+      {
+        "ins_code": "137",
+        "substance_name": "",
+        "adi_status": "unverified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "unverified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      }
+    ]
+  },
+  "additives_without_code": [
+    "hương liệu tổng hợp (hương cam)"
+  ],
+  "ins_parser_version": "1.1"
+}

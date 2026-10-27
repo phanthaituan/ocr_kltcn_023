@@ -1,0 +1,166 @@
+{
+  "image_id": "0048",
+  "has_adi_warning_all_numeric": true,
+  "has_adi_warning_strict_adi": true,
+  "has_mtdi_only": false,
+  "gold_ins_additive_adi": {
+    "has_adi_warning_all_numeric": true,
+    "has_adi_warning_strict_adi": true,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [
+      "102",
+      "110",
+      "452",
+      "903"
+    ],
+    "numeric_strict_adi_codes": [
+      "102",
+      "110",
+      "903"
+    ],
+    "mtdi_codes": [
+      "452"
+    ],
+    "not_specified_codes": [
+      "171",
+      "296",
+      "330",
+      "331",
+      "406",
+      "422",
+      "440"
+    ],
+    "unknown_codes": [],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 11,
+      "n_verified_codes": 11,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": [
+      {
+        "ins_code": "102",
+        "substance_name": "TARTRAZINE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 10.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "110",
+        "substance_name": "SUNSET YELLOW FCF",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 4.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "171",
+        "substance_name": "TITANIUM DIOXIDE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "296",
+        "substance_name": "DL-MALIC ACID",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "330",
+        "substance_name": "CITRIC ACID",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "331",
+        "substance_name": "SODIUM DIHYDROGEN CITRATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "406",
+        "substance_name": "AGAR",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "422",
+        "substance_name": "GLYCEROL",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "440",
+        "substance_name": "PECTINS",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "452",
+        "substance_name": "AMMONIUM POLYPHOSPHATE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 70.0,
+        "limit_type": "mtdi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "903",
+        "substance_name": "CARNAUBA WAX",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 7.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      }
+    ]
+  },
+  "gold_ins_in_ingredient_adi": {
+    "has_adi_warning_all_numeric": false,
+    "has_adi_warning_strict_adi": false,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [],
+    "numeric_strict_adi_codes": [],
+    "mtdi_codes": [],
+    "not_specified_codes": [],
+    "unknown_codes": [],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 0,
+      "n_verified_codes": 0,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": []
+  },
+  "additives_without_code": [
+    "Artificial flavour (Mango flavor)",
+    "Maltitol"
+  ],
+  "ins_parser_version": "1.1"
+}

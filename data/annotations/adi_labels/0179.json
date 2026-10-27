@@ -1,0 +1,50 @@
+{
+  "image_id": "0179",
+  "has_adi_warning_all_numeric": false,
+  "has_adi_warning_strict_adi": false,
+  "has_mtdi_only": false,
+  "gold_ins_additive_adi": {
+    "has_adi_warning_all_numeric": false,
+    "has_adi_warning_strict_adi": false,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [],
+    "numeric_strict_adi_codes": [],
+    "mtdi_codes": [],
+    "not_specified_codes": [],
+    "unknown_codes": [],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 0,
+      "n_verified_codes": 0,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": []
+  },
+  "gold_ins_in_ingredient_adi": {
+    "has_adi_warning_all_numeric": false,
+    "has_adi_warning_strict_adi": false,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [],
+    "numeric_strict_adi_codes": [],
+    "mtdi_codes": [],
+    "not_specified_codes": [],
+    "unknown_codes": [],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 0,
+      "n_verified_codes": 0,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": []
+  },
+  "additives_without_code": [
+    "chất điều chỉnh độ acid (Acid citric, Acid malic (DL-))",
+    "maltodextrin",
+    "hương tổng hợp (đào, sả)",
+    "hương tự nhiên (trái cây, cam)",
+    "chất tạo ngọt tự nhiên Steviol glycosid từ Stevia rebaudiana Bertoni 0,025 %"
+  ],
+  "ins_parser_version": "1.1"
+}

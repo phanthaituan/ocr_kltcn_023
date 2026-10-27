@@ -1,0 +1,37 @@
+{
+  "seed": 42,
+  "total_images": 600,
+  "core_images": 521,
+  "non_core_images": 79,
+  "benchmark_in_dev": 60,
+  "summary": [
+    {
+      "split": "dev",
+      "count": 70,
+      "has_allergen": "41 (58.6%)",
+      "has_adi_all_numeric": "41 (58.6%)",
+      "has_adi_strict": "40 (57.1%)"
+    },
+    {
+      "split": "test",
+      "count": 200,
+      "has_allergen": "144 (72.0%)",
+      "has_adi_all_numeric": "124 (62.0%)",
+      "has_adi_strict": "116 (58.0%)"
+    },
+    {
+      "split": "pool",
+      "count": 251,
+      "has_allergen": "181 (72.1%)",
+      "has_adi_all_numeric": "157 (62.5%)",
+      "has_adi_strict": "142 (56.6%)"
+    },
+    {
+      "split": "non_core",
+      "count": 79,
+      "has_allergen": "32 (40.5%)",
+      "has_adi_all_numeric": "0 (0.0%)",
+      "has_adi_strict": "0 (0.0%)"
+    }
+  ]
+}

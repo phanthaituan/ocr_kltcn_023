@@ -1,0 +1,362 @@
+{
+  "image_id": "0255",
+  "has_adi_warning_all_numeric": true,
+  "has_adi_warning_strict_adi": true,
+  "has_mtdi_only": false,
+  "gold_ins_additive_adi": {
+    "has_adi_warning_all_numeric": true,
+    "has_adi_warning_strict_adi": true,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [
+      "100",
+      "160c",
+      "202",
+      "211",
+      "319",
+      "451",
+      "475",
+      "950"
+    ],
+    "numeric_strict_adi_codes": [
+      "100",
+      "160c",
+      "202",
+      "211",
+      "319",
+      "475",
+      "950"
+    ],
+    "mtdi_codes": [
+      "451"
+    ],
+    "not_specified_codes": [
+      "1404",
+      "1422",
+      "171",
+      "270",
+      "296",
+      "316",
+      "322",
+      "327",
+      "330",
+      "412",
+      "415",
+      "422",
+      "466",
+      "551",
+      "621",
+      "627",
+      "631"
+    ],
+    "unknown_codes": [
+      "164",
+      "307b",
+      "364"
+    ],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 28,
+      "n_verified_codes": 28,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": [
+      {
+        "ins_code": "100",
+        "substance_name": "CURCUMIN",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 3.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "1404",
+        "substance_name": "MODIFIED STARCHES",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "1422",
+        "substance_name": "ACETYLATED DISTARCH ADIPATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "160c",
+        "substance_name": "PAPRIKA extract",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 1.5,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "164",
+        "substance_name": "GARDENIA YELLOW",
+        "adi_status": "unknown",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "unknown",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "171",
+        "substance_name": "TITANIUM DIOXIDE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "202",
+        "substance_name": "POTASSIUM SORBATE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 25.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "211",
+        "substance_name": "SODIUM BENZOATE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 20.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "270",
+        "substance_name": "LACTIC ACID",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "296",
+        "substance_name": "DL-MALIC ACID",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "307b",
+        "substance_name": "TOCOPHEROL CONCENTRATE, mixed",
+        "adi_status": "unknown",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "unknown",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "316",
+        "substance_name": "SODIUM ERYTHORBATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "319",
+        "substance_name": "TERTIARY BUTYLHYDROQUINONE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 0.7,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "322",
+        "substance_name": "LECITHIN",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "327",
+        "substance_name": "CALCIUM LACTATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "330",
+        "substance_name": "CITRIC ACID",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "364",
+        "substance_name": "MAGNESIUM SUCCINATES",
+        "adi_status": "unknown",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "unknown",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "412",
+        "substance_name": "GUAR GUM",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "415",
+        "substance_name": "XANTHAN GUM",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "422",
+        "substance_name": "GLYCEROL",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "451",
+        "substance_name": "PENTAPOTASSIUM TRIPHOSPHATE",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 70.0,
+        "limit_type": "mtdi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "466",
+        "substance_name": "SODIUM CARBOXYMETHYL CELLULOSE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "475",
+        "substance_name": "POLYGLYCEROL ESTERS of FATTY ACIDS",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 25.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      },
+      {
+        "ins_code": "551",
+        "substance_name": "SILICA",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "621",
+        "substance_name": "MONOSODIUM L-GLUTAMATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "627",
+        "substance_name": "DISODIUM 5'-GUANYLATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "631",
+        "substance_name": "DISODIUM 5'-INOSINATE",
+        "adi_status": "not_specified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "not_specified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "950",
+        "substance_name": "ACESULFAME POTASSIUM",
+        "adi_status": "numeric",
+        "adi_value_mg_per_kg_bw": 15.0,
+        "limit_type": "adi",
+        "is_positive_all_numeric": true,
+        "is_positive_strict_adi": true
+      }
+    ]
+  },
+  "gold_ins_in_ingredient_adi": {
+    "has_adi_warning_all_numeric": false,
+    "has_adi_warning_strict_adi": false,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [],
+    "numeric_strict_adi_codes": [],
+    "mtdi_codes": [],
+    "not_specified_codes": [],
+    "unknown_codes": [],
+    "unverified_codes": [
+      "158",
+      "634"
+    ],
+    "coverage": {
+      "n_total_codes": 2,
+      "n_verified_codes": 0,
+      "n_unverified_codes": 2,
+      "verified_ratio": 0.0
+    },
+    "code_details": [
+      {
+        "ins_code": "158",
+        "substance_name": "",
+        "adi_status": "unverified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "unverified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      },
+      {
+        "ins_code": "634",
+        "substance_name": "",
+        "adi_status": "unverified",
+        "adi_value_mg_per_kg_bw": null,
+        "limit_type": "unverified",
+        "is_positive_all_numeric": false,
+        "is_positive_strict_adi": false
+      }
+    ]
+  },
+  "additives_without_code": [
+    "hương liệu tổng hợp dùng cho thực phẩm"
+  ],
+  "ins_parser_version": "1.1"
+}

@@ -1,0 +1,53 @@
+{
+  "image_id": "0347",
+  "has_adi_warning_all_numeric": false,
+  "has_adi_warning_strict_adi": false,
+  "has_mtdi_only": false,
+  "gold_ins_additive_adi": {
+    "has_adi_warning_all_numeric": false,
+    "has_adi_warning_strict_adi": false,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [],
+    "numeric_strict_adi_codes": [],
+    "mtdi_codes": [],
+    "not_specified_codes": [],
+    "unknown_codes": [],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 0,
+      "n_verified_codes": 0,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": []
+  },
+  "gold_ins_in_ingredient_adi": {
+    "has_adi_warning_all_numeric": false,
+    "has_adi_warning_strict_adi": false,
+    "has_mtdi_only": false,
+    "numeric_all_codes": [],
+    "numeric_strict_adi_codes": [],
+    "mtdi_codes": [],
+    "not_specified_codes": [],
+    "unknown_codes": [],
+    "unverified_codes": [],
+    "coverage": {
+      "n_total_codes": 0,
+      "n_verified_codes": 0,
+      "n_unverified_codes": 0,
+      "verified_ratio": 1.0
+    },
+    "code_details": []
+  },
+  "additives_without_code": [
+    "DL - alpha - tocopheryl acetat",
+    "Thiamin mononitrat",
+    "Pyridoxin hydrochlorid",
+    "Cholecalciferol",
+    "Cyanocobalamin",
+    "Chất chống đông vón (Dioxyd silic, Magnesi stearat)",
+    "Chất nhũ hóa (Hydroxypropyl methyl cellulose, Calci carboxymethyl cellulose, Ester của polyglycerol với các acid béo)",
+    "Chất tạo màu tổng hợp (Titan dioxyd)"
+  ],
+  "ins_parser_version": "1.1"
+}

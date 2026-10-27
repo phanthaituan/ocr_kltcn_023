@@ -36,6 +36,7 @@ KB_DIR = DATA / "kb"
 ADI_TABLE_CSV = KB_DIR / "adi_template.csv"  # đổi thành adi_table.csv khi điền xong (Bước 0.8)
 SPLITS_DIR = DATA / "splits"
 RESULTS_DIR = DATA / "results"
+BENCHMARK_IDS_TXT = RESULTS_DIR / "Benchmark" / "benchmark_ids.txt"  # 60 ảnh đã dùng cho OCR benchmark, phải nằm trong dev
 REPORTS_DIR = DATA / "reports"
 COMPLETENESS_REPORT = REPORTS_DIR / "completeness_report_v2.csv"
 
