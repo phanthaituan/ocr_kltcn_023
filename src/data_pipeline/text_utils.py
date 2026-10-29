@@ -15,6 +15,7 @@ Giải quyết triệt để các vấn đề trong BaoCao_VanDe_2_Script.md:
 
 import re
 import unicodedata
+from ins_parser import parse_ins
 
 TEXT_UTILS_VERSION = "2.0"
 
@@ -167,7 +168,7 @@ COMPILED_NUTR = {
 _FLAVOR_HEAD_RE = re.compile(r"^(?:hương\s+liệu|chất\s+tạo\s+hương|hương|vani)\b")
 _FLAVOR_RULES = [
     (re.compile(r"\bgiống\s+tự\s+nhiên\b"), "ADD_FLAVOR_NATURE_IDENTICAL"),
-    (re.compile(r"\b(?:tổng\s+hợp|nhân\s+ tạo)\b"), "ADD_FLAVOR_SYNTHETIC"),
+    (re.compile(r"\b(?:tổng\s+hợp|nhân\s+tạo)\b"), "ADD_FLAVOR_SYNTHETIC"),
     (re.compile(r"\btự\s+nhiên\b"), "ADD_FLAVOR_NATURAL"),
 ]
 
